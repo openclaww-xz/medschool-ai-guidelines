@@ -1,6 +1,6 @@
 # Master Index
 
-Auto-generated from raw/ front-matter. 202 sources. Updated 2026-09-17.
+Auto-generated from raw/ front-matter. 277 sources. Updated 2026-09-17.
 
 ## National frameworks (AAMC, AMA, LCME, NBME, ACGME, societies) (26)
 
@@ -31,11 +31,14 @@ Auto-generated from raw/ front-matter. 202 sources. Updated 2026-09-17.
 - [USMLE Program Discusses ChatGPT](https://www.usmle.org/usmle-program-discusses-chatgpt) — `raw/national-frameworks/nbme-usmle--program-discusses-chatgpt.md`
 - [Artificial intelligence is reshaping health systems: state of readiness across the WHO European Region](https://iris.who.int/server/api/core/bitstreams/d2913ae3-c8e0-4a46-b6ff-b4b121e936f4/content) — `raw/national-frameworks/who-europe--ai-reshaping-health-systems-readiness.md`
 
-## US medical schools / universities (98)
+## US medical schools / universities (133)
 
+- [Artificial Intelligence Tools & Resources](https://web.archive.org/web/2026/https://einsteinmed.edu/administration/ai-tools-resources) — `raw/us-med-schools/albert-einstein--ai-tools-resources.md`
 - [Navigating the Ethical Frontiers of AI in Healthcare (summary of BCM institutional generative AI guidelines)](https://clinicianresources.bcm.edu/executive-summaries/navigating-the-ethical-frontiers-of-ai-in-healthcare/) — `raw/us-med-schools/baylor-cm--ethical-frontiers-genai-institutional-guidelines.md`
 - [Baylor College of Medicine M.D. Program Student Handbook](https://www.bcm.edu/education/school-of-medicine/m-d-program/student-handbook) — `raw/us-med-schools/baylor-cm--md-student-handbook.md`
 - [BCM Surgery Core Clerkship Course Overview Document - AI Guidance for Educators and Learners](https://cdn.bcm.edu/sites/default/files/2025-05/surgery-clerkship-course-overview-document.pdf) — `raw/us-med-schools/baylor-cm--surgery-clerkship-ai-guidance.pdf.md`
+- [Announcing AI Resources & Course Policy Tools](https://provost.brown.edu/communications/announcing-ai-resources-course-policy-tools) — `raw/us-med-schools/brown--provost-ai-resources-course-policy-tools.md`
+- [AI Use Policy for the MD Program (PDF)](https://www.bumc.bu.edu/camed/files/2025/07/AI-Use-Policy-for-the-MD-Program.docx-7.10.25.pdf) — `raw/us-med-schools/bu-chobanian--md-program-ai-use-policy.pdf.md`
 - [Generative Artificial Intelligence Use Policy for Medical Students in the Medical Curriculum](https://medicine.buffalo.edu/offices/ome/current/policies/ai-policy.html) — `raw/us-med-schools/buffalo-jacobs--genai-use-policy-medical-students.md`
 - [AI at VP&S Initiative](https://www.vagelos.columbia.edu/departments-centers/ai-vp-s-initiative) — `raw/us-med-schools/columbia-vagelos--ai-vps-initiative.md`
 - [AI at VP&S Initiative Resources](https://www.vagelos.columbia.edu/departments-centers/ai-vp-s-initiative/resources) — `raw/us-med-schools/columbia-vagelos--ai-vps-resources.md`
@@ -46,6 +49,9 @@ Auto-generated from raw/ front-matter. 202 sources. Updated 2026-09-17.
 - [AI Policies (AI in Education, Office of the Provost)](https://case.edu/provost/initiatives/innovation/ai-education/ai-policies) — `raw/us-med-schools/cwru--provost-ai-policies.md`
 - [Policy on Use of Generative Artificial Intelligence Tools for Medical School Assignments](https://case.edu/medicine/curriculum/sites/default/files/2024-09/Policy%20on%20Generative%20AI%20%282%29%2024-25.pdf) — `raw/us-med-schools/cwru-som--genai-tools-medical-school-assignments-policy.md`
 - [Artificial Intelligence in Education: About Gen AI](https://lib.dmu.edu/ai) — `raw/us-med-schools/dmu--library-genai-guide.md`
+- [IT Generative Artificial Intelligence (AI) Guidance](https://drexel.edu/it/security/policies-regulations/ai-guidance/) — `raw/us-med-schools/drexel--it-genai-guidance.md`
+- [AI Guidance for Students](https://drexel.edu/provost/ai/pedagogy-guidance/students) — `raw/us-med-schools/drexel--provost-ai-guidance-students.md`
+- [AI Policies](https://drexel.edu/provost/ai/pedagogy-guidance/policies) — `raw/us-med-schools/drexel--provost-ai-policies.md`
 - [Guidelines and Tools (AI at Duke)](https://ai.duke.edu/ai-resources/guidelines-policies-and-ai-tools/) — `raw/us-med-schools/duke--ai-guidelines-and-tools.md`
 - [Responsible Use of Artificial Intelligence (Educational Policy / SOP)](https://medicine.ecu.edu/academicaffairs/educational-policies-and-standard-operating-procedures/responsible-use-of-artificial-intelligence-2/) — `raw/us-med-schools/ecu-brody--responsible-use-of-ai.md`
 - [AI Content Generation & Proofing Guidelines](https://responsibleai.emory.edu/guidelines/content-generation-and-proofing.html) — `raw/us-med-schools/emory--ai-content-generation-proofing.md`
@@ -53,6 +59,8 @@ Auto-generated from raw/ front-matter. 202 sources. Updated 2026-09-17.
 - [Guidelines on using Generative Artificial Intelligence (GenAI) for Coursework](https://policies.dartmouth.edu/policy/guidelines-using-generative-artificial-intelligence-genai-coursework) — `raw/us-med-schools/geisel-dartmouth--college-genai-coursework-guidelines.md`
 - [Geisel AI Network - GenAI policies and guidance hub](https://geiselmed.dartmouth.edu/gain/) — `raw/us-med-schools/geisel-dartmouth--geisel-ai-network.md`
 - [Policy for the Use of Generative Artificial Intelligence (GenAI) in Educational Environments (UME-CNTRL-0019)](https://geiselmed.dartmouth.edu/students/pdf/policies/UME-CNTRL-0019.pdf) — `raw/us-med-schools/geisel-dartmouth--genai-educational-environments-policy.pdf.md`
+- [AI Guidelines | Georgetown University](https://aiguidelines.georgetown.edu/) — `raw/us-med-schools/georgetown-university--ai-guidelines.md`
+- [Guidelines for the Use of Artificial Intelligence (AI) for Medical Students](https://smhs.gwu.edu/academics/md-program/current-students/policies/ai-use-guidelines) — `raw/us-med-schools/gw-smhs--md-student-ai-use-guidelines.md`
 - [Generative AI (HMS IT Policies and Guidelines)](https://it.hms.harvard.edu/about/policies-and-guidelines/generative-ai) — `raw/us-med-schools/harvard-hms-it--generative-ai-guidelines.md`
 - [Generative AI Guidelines](https://www.huit.harvard.edu/ai/guidelines) — `raw/us-med-schools/harvard-huit--generative-ai-guidelines.md`
 - [AI in Research (Academic and Research Integrity, HMS)](https://ari.hms.harvard.edu/ai-research) — `raw/us-med-schools/harvard-medical-school--ari-ai-in-research.md`
@@ -60,11 +68,15 @@ Auto-generated from raw/ front-matter. 202 sources. Updated 2026-09-17.
 - [Generative AI guidelines (HMS IT)](https://it.hms.harvard.edu/about/policies-and-guidelines/generative-ai-guidelines) — `raw/us-med-schools/harvard-medical-school--it-genai-guidelines.md`
 - [Work with Generative AI (Harvard)](https://www.harvard.edu/ai/work-resources/) — `raw/us-med-schools/harvard-medical-school--work-with-genai.md`
 - [Guidelines for Using ChatGPT and other Generative AI tools at Harvard](https://provost.harvard.edu/guidelines-using-chatgpt-and-other-generative-ai-tools-harvard) — `raw/us-med-schools/harvard-provost--chatgpt-genai-guidelines.md`
+- [AI at Hofstra University](https://www.hofstra.edu/about/ai/) — `raw/us-med-schools/hofstra--ai-at-hofstra-overview.md`
+- [AI Policy for Faculty and Students](https://www.hofstra.edu/provost/ai-policy-faculty-students.html) — `raw/us-med-schools/hofstra--ai-policy-faculty-students.md`
 - [Icahn School of Medicine at Mount Sinai Policy: Artificial Intelligence](https://icahn.mssm.edu/files/ISMMS/Assets/Education/Student%20Life%20and%20Resources/AI-Policy.pdf) — `raw/us-med-schools/icahn-mssm--student-ai-policy.md`
 - [Generative Artificial Intelligence at Johns Hopkins](https://genai.jhu.edu/) — `raw/us-med-schools/johns-hopkins-som--genai-hub.md`
 - [Student Guidance On Responsible Generative AI Use](https://ep.jhu.edu/student-services/academic-services/academic-policies/student-guidance-on-responsible-generative-ai-use/) — `raw/us-med-schools/johns-hopkins-som--student-guidance-genai.md`
 - [Generative AI Guidelines (Teaching @ JHU)](https://teaching.jhu.edu/university-teaching-policies/generative-ai/guidelines/) — `raw/us-med-schools/johns-hopkins-som--teaching-genai-guidelines.md`
 - [Respiratory Care Program Handbook 2026 (incl. Use of Generative Artificial Intelligence Platforms policy)](https://college.mayo.edu/media/mccms/content-assets/academics/health-sciences-training/respiratory-care-program-minnesota/Respiratory-Care-Program-handbook-2026.pdf) — `raw/us-med-schools/mayo-mccms--respiratory-care-handbook-genai-policy.md`
+- [AI in Medical Education - Resources](https://med.miami.edu/offices/ai-in-medical-education/resources) — `raw/us-med-schools/miami-miller--ai-in-medical-education-resources.md`
+- [AI in Medical Education - Office of AI in Medical Education](https://med.miami.edu/offices/ai-in-medical-education) — `raw/us-med-schools/miami-miller--ai-in-medical-education.md`
 - [Generative AI - MSU Ethics](https://ethics.msu.edu/gen-ai) — `raw/us-med-schools/msu--ethics-genai-overview.md`
 - [Generative AI - Student Guidance](https://ethics.msu.edu/gen-ai/student) — `raw/us-med-schools/msu--ethics-genai-student.md`
 - [Building trust in the AI era: MUSC creates Acceptable Use Framework](https://www.musc.edu/content-hub/News/2026/09/11/building-trust-in-the-ai-era-musc-creates-acceptable-use-framework) — `raw/us-med-schools/musc--acceptable-use-framework-announcement.md`
@@ -88,8 +100,22 @@ Auto-generated from raw/ front-matter. 202 sources. Updated 2026-09-17.
 - [UME Policy for Use of Generative AI](https://www.med.upenn.edu/student/assets/user-content/documents/policies/ume-policy-for-use-of-genai.ume.ac.119.pdf) — `raw/us-med-schools/perelman-som--ume-genai-policy.md`
 - [UPSOM Policy on Academic Integrity (incl. generative AI provisions)](https://www.omed.pitt.edu/sites/default/files/policy_on_academic_integrity_2023_1.pdf) — `raw/us-med-schools/pitt-som--academic-integrity-policy-genai.pdf.md`
 - [Report of the Ad Hoc Committee on Generative AI: Considerations for Responsible Use and Recommendations](https://teaching.pitt.edu/wp-content/uploads/2024/04/Report-Ad-Hoc-Committee-on-GenAI-3-1-24.pdf) — `raw/us-med-schools/pitt-som--adhoc-committee-genai-report.md`
+- [Guidance on the use of AI at Rutgers](https://it.rutgers.edu/ai/guidance-on-the-use-of-ai-at-rutgers/) — `raw/us-med-schools/rutgers--guidance-on-the-use-of-ai.md`
 - [AI in MedEd Papers (curated reference list)](https://laneguides.stanford.edu/medical-education/AI-in-MedEd-Papers) — `raw/us-med-schools/stanford-lane-library--ai-in-meded-papers-list.md`
 - [MD Handbook 3.32: Generative Artificial Intelligence (AI) Policy](https://med.stanford.edu/md/mdhandbook/section-3-md-requirements-procedures/3-32--generative-artificial-intelligence--ai--policy.html) — `raw/us-med-schools/stanford-md--genai-policy-3-32.md`
+- [Generative AI - Academic Integrity](https://www.stonybrook.edu/commcms/academic_integrity/generative-ai/index.php) — `raw/us-med-schools/stony-brook--academic-integrity-generative-ai.md`
+- [Use Guidelines and Ethics - Artificial Intelligence](https://ai.tamu.edu/teach-with-ai/use-guidelines-and-ethics.html) — `raw/us-med-schools/tamu--ai-use-guidelines-and-ethics.md`
+- [Guidelines for Generative Artificial Intelligence (GenAI)](https://tuportal6.temple.edu/documents/380033/1166174952/Guidelines+for+GenAI.pdf/30bcd155-1311-6434-355c-efc963798189?t=1725490134990) — `raw/us-med-schools/temple--guidelines-for-generative-artificial-intelligence.md`
+- [Katz Launches AI Task Force to Guide Responsible and Strategic Use of Artificial Intelligence](https://tuportal6.temple.edu/web/medicine/blog/-/blogs/katz-launches-ai-task-force-to-guide-responsible-and-strategic-use-of-artificial-intelligence-1) — `raw/us-med-schools/temple-katz--ai-task-force.md`
+- [Artificial Intelligence (AI) Use at TTUHSC](https://www.ttuhsc.edu/compliance/ai) — `raw/us-med-schools/ttuhsc--artificial-intelligence-use.md`
+- [Generative AI Guidelines & Risks of Alternative Tools](https://access.tufts.edu/generative-ai-guidelines-risks-alternative-tools) — `raw/us-med-schools/tufts-university--genai-guidelines-risks-tools.md`
+- [Guidance for Using AI at Tufts](https://it.tufts.edu/ai/guidance-using-ai-tufts) — `raw/us-med-schools/tufts-university--it-guidance-using-ai.md`
+- [Guidelines for Use of Generative AI Tools](https://it.tufts.edu/guidelines-use-generative-ai-tools) — `raw/us-med-schools/tufts-university--it-guidelines-use-genai-tools.md`
+- [IT Guide for Generative AI Platforms](https://it.tulane.edu/it-guide-generative-ai-platforms) — `raw/us-med-schools/tulane--it-guide-generative-ai-platforms.md`
+- [Faculty Guide to Using Generative AI at Tulane](https://provost.tulane.edu/faculty-guide-using-generative-ai-tulane) — `raw/us-med-schools/tulane--provost-faculty-guide-using-generative-ai.md`
+- [AI: Ethics and Policy (URMC LibGuide)](https://libguides.urmc.rochester.edu/c.php?g=1315586&p=9675179) — `raw/us-med-schools/u-rochester--libguide-ai-ethics-policy.md`
+- [Generative AI Use in Education](http://rochester.edu/provost/gen-ai-education) — `raw/us-med-schools/u-rochester--provost-genai-use-in-education.md`
+- [Responsible Use of AI Tools and Institutional Data Security](https://www.rochester.edu/provost/responsible-use-of-ai-tools-and-institutional-data-security/) — `raw/us-med-schools/u-rochester--responsible-use-ai-tools-data-security.md`
 - [AI Policies and Expectations](https://www.uab.edu/ai/responsible-ai/ai-policies) — `raw/us-med-schools/uab--ai-policies-and-expectations.md`
 - [AI Usage](https://www.uab.edu/ai/responsible-ai/ai-usage) — `raw/us-med-schools/uab--ai-usage.md`
 - [Responsible AI](https://www.uab.edu/ai/responsible-ai) — `raw/us-med-schools/uab--responsible-ai.md`
@@ -112,6 +138,10 @@ Auto-generated from raw/ front-matter. 202 sources. Updated 2026-09-17.
 - [GMB Student Generative AI Usage Guidance](https://www.med.unc.edu/gmb/wp-content/uploads/sites/1391/2025/01/GMB-Student-Generative-AI-Usage-Guidance-July-2023.pdf) — `raw/us-med-schools/unc-som--gmb-student-genai-usage-guidance.md`
 - [OMSE-SOM Artificial Intelligence Policy](https://www.med.unc.edu/md/policies/wp-content/uploads/sites/883/2026/07/OMSE-Artificial-Intelligence-Policy.pdf) — `raw/us-med-schools/unc-som--omse-artificial-intelligence-policy.md`
 - [Medical Student Use of Generative Artificial Intelligence (AI) Tools Policy](https://keck.usc.edu/md-student-portal/medical-student-use-of-generative-artificial-intelligence-ai-tools-policy/) — `raw/us-med-schools/usc-keck--medical-student-genai-tools-policy.md`
+- [Acceptable Use of Generative AI Tools](https://security.utexas.edu/ai-tools) — `raw/us-med-schools/ut-austin--acceptable-use-of-generative-ai-tools.md`
+- [Guidance for Using Artificial Intelligence](https://tech.utexas.edu/governance/guidance-for-ai) — `raw/us-med-schools/ut-austin--guidance-for-using-artificial-intelligence.md`
+- [Generative AI Offerings](https://med.uth.edu/msit/generative-ai-offerings/) — `raw/us-med-schools/uth-mcgovern--msit-generative-ai-offerings.md`
+- [Policy on AI Generative Tools](https://med.uth.edu/mcgovern/resources/policy-on-ai-generative-tools/) — `raw/us-med-schools/uth-mcgovern--policy-on-ai-generative-tools.md`
 - [Artificial Intelligence with Meaning](https://www.utsouthwestern.edu/ai/) — `raw/us-med-schools/utsouthwestern--ai-with-meaning.md`
 - [AI and Medical/Healthcare Education (Artificial Intelligence Guide)](https://utsouthwestern.libguides.com/artificial-intelligence/ai-medical) — `raw/us-med-schools/utsouthwestern-libguides--ai-medical-healthcare-education.md`
 - [Guidelines & Policies - Artificial Intelligence](https://ai.utah.edu/guidelines/) — `raw/us-med-schools/uutah--ai-guidelines-and-policies.md`
@@ -124,7 +154,12 @@ Auto-generated from raw/ front-matter. 202 sources. Updated 2026-09-17.
 - [Generative AI @ UW-Madison: use & policies](https://it.wisc.edu/ai/generative-ai-uw-madison-use-policies/) — `raw/us-med-schools/uw-smph--uw-madison-genai-use-policies.md`
 - [Academic Affairs Guidance for Artificial Intelligence](https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/439/2023/11/29200845/Academic-Affairs-Guidance-for-Artificial-Intelligence-Nov-29-2023.pdf) — `raw/us-med-schools/vanderbilt-som--academic-affairs-ai-guidance.pdf.md`
 - [Generative AI - Students guidance (applies to Vanderbilt medical students)](https://www.vanderbilt.edu/generative-ai/students/) — `raw/us-med-schools/vanderbilt-som--genai-students-guidance.md`
+- [Generative Artificial Intelligence - Before using a Generative AI: Policies](https://guides.library.vcu.edu/ai) — `raw/us-med-schools/vcu--library-guide-generative-ai-policies.md`
+- [Understanding VCU's Generative AI Policy: Responsible, Ethical and Safe Use of AI on Campus](https://blogs.vcu.edu/ico/2026/03/13/understanding-vcus-generative-ai-policy-responsible-ethical-and-safe-use-of-ai-on-campus/) — `raw/us-med-schools/vcu--understanding-genai-policy-ico-blog.md`
+- [Acceptable Use of Generative Artificial/Augmented Intelligence (AI) Applications Policy](https://assets.som.vcu.edu/pdfs/policies/aipolicy.pdf) — `raw/us-med-schools/vcu-som--acceptable-use-generative-ai-applications-policy.md`
 - [WashU Addresses AI Technology](https://education.med.wustl.edu/washu-addresses-ai-technology/) — `raw/us-med-schools/washu--office-of-education-ai-guidance.md`
+- [Guidelines for using generative AI](https://tech.wayne.edu/policies/aiguidelines) — `raw/us-med-schools/wayne-state--guidelines-for-using-generative-ai.md`
+- [M.D. Handbook and Policies updates: Artificial Intelligence Guidelines and Usage Policy](https://www.med.wayne.edu/policies/news/md-handbook-and-policies-updates-65406) — `raw/us-med-schools/wayne-state-som--md-handbook-ai-guidelines-usage-policy-announcement.md`
 - [Ethics, Policy & Responsible Use of AI (Artificial Intelligence LibGuide)](https://med.cornell.libguides.com/ai/ethics) — `raw/us-med-schools/weill-cornell--ai-ethics-responsible-use.md`
 - [MedEdAI @ WCM: AI competencies in medical education](https://teach.weill.cornell.edu/medical-education/mededai-wcm) — `raw/us-med-schools/weill-cornell--mededai-wcm.md`
 - [Yale Standards for Using AI Tools and Chatbots in Health Sciences](https://ai.yale.edu/yales-ai-tools-and-resources/yale-standards-for-using-ai-tools-and-chatbots-in-health-sciences) — `raw/us-med-schools/yale--ai-standards-health-sciences.md`
@@ -132,26 +167,34 @@ Auto-generated from raw/ front-matter. 202 sources. Updated 2026-09-17.
 - [Guidelines for the Use of Generative AI Tools](https://provost.yale.edu/news/guidelines-use-generative-ai-tools) — `raw/us-med-schools/yale--provost-genai-guidelines.md`
 - [Using AI Safely and Responsibly in Health Care and Research](https://ai.yale.edu/yales-ai-tools-and-resources/health-sciences/using-ai-safely-and-responsibly-in-health-care) — `raw/us-med-schools/yale--using-ai-safely-health-care.md`
 
-## Health systems / teaching hospitals (37)
+## Health systems / teaching hospitals (45)
 
+- [Responsible AI Statement](https://www.bmc.com/content/dam/bmc/corporate/responsible-ai-statement.pdf) — `raw/health-systems/bmc--responsible-ai-statement.md`
 - [Responsible Use of Artificial Intelligence (AI) Procedure (CME West Michigan)](https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/bltd4b14b2b83db726f/health-professionals-cme-west-michigan-procedures-responsible-use-of-artificial-intelligence.pdf) — `raw/health-systems/corewell-spectrum--cme-responsible-use-of-ai.md`
 - [AI and Generative Technology Use at CUIMC](https://www.it.cuimc.columbia.edu/ai-and-generative-technology-use-cuimc) — `raw/health-systems/cuimc--ai-and-generative-technology-use.md`
 - [Will an AI Scribe Improve Your Doctor Visit? (Dartmouth Health ambient AI consent and documentation practices)](https://www.dartmouth-health.org/articles/will-ai-scribe-improve-your-doctor-visit) — `raw/health-systems/dartmouth-hitchcock--ambient-ai-scribe-consent-practices.md`
 - [ABCDS Oversight Process](https://healthaigovernance.duke.edu/abcds-oversight/abcds-oversight-process) — `raw/health-systems/duke-health--abcds-oversight-process.md`
+- [Future Bet: Predictive and Proactive Care with AI](https://www.houstonmethodist.org/center-for-innovation/our-work/care-with-ai) — `raw/health-systems/houston-methodist--care-with-ai.md`
+- [Jackson Health System - AI Information](https://jacksonhealth.org/ai-information/) — `raw/health-systems/jackson-health--ai-information.md`
+- [Jefferson Health's Bold AI Strategy to Reclaim Time, Empower Clinicians, and Transform Healthcare](https://www.jeffersonhealth.org/about-us/news/2025/09/jh-bold-ai-strategy-to-reclaim-time-empower-clinicians-and-transform-healthcare) — `raw/health-systems/jefferson-health--bold-ai-strategy.md`
 - [New Guidelines for Responsible Use of Generative AI (GenAI)](https://it.johnshopkins.edu/featured-articles/new-guidelines-for-responsible-use-of-generative-ai/) — `raw/health-systems/johns-hopkins-medicine--genai-responsible-use-guidelines.md`
 - [Generative AI: What Faculty Need to Know](https://medicine-matters.blogs.hopkinsmedicine.org/2026/05/generative-ai-at-johns-hopkins-what-faculty-need-to-know/) — `raw/health-systems/johns-hopkins-medicine--generative-ai-what-faculty-need-to-know.md`
 - [Hopkins launches HopGPT, a generative AI platform](https://hub.jhu.edu/at-work/2025/12/15/hopgpt-generative-ai-platform-launches/) — `raw/health-systems/johns-hopkins-medicine--hopgpt-launch.md`
 - [Clinical Resources - Artificial Intelligence (Guide)](https://libraryguides.mayo.edu/AI) — `raw/health-systems/mayo-clinic--clinical-ai-resources-guide.md`
 - [Artificial Intelligence (Generative) Resources: Overview (Mayo Clinic-approved GenAI tools)](https://libraryguides.mayo.edu/generative-artificial_intelligence) — `raw/health-systems/mayo-clinic--genai-tools-overview.md`
+- [MedStar-Georgetown Collaborative Center for Artificial Intelligence in Healthcare](https://www.medstarhealth.org/innovation-and-research/ai-colab) — `raw/health-systems/medstar-georgetown--ai-colab.md`
+- [MedStar Health Artificial Intelligence Center of Excellence](https://www.medstarhealth.org/innovation-and-research/ai-center-of-excellence) — `raw/health-systems/medstar-health--ai-center-of-excellence.md`
 - [Using Artificial Intelligence (AI) Tools at MM (KB0023639)](https://michmed.service-now.com/kb?id=kb_article_view&sysparm_article=KB0023639) — `raw/health-systems/michigan-medicine--using-ai-tools-at-mm.md`
 - [AI Governance and Safety](https://icahn.mssm.edu/about/artificial-intelligence/safety) — `raw/health-systems/mount-sinai--ai-governance-and-safety.md`
 - [DTP AI Idea Submission Process](https://icahn.mssm.edu/files/MSHealth/Assets/HS/AI%20at%20Mount%20Sinai/AI-Idea-Intake-Form-Process.pdf) — `raw/health-systems/mount-sinai--dtp-ai-idea-intake-process.md`
 - [Mount Sinai Health System Policy & Procedure: AI Implementation and Use Policy](https://labs.icahn.mssm.edu/minervalab/wp-content/uploads/sites/342/2025/03/MSHS-AI-Implementation-and-Use-Policy.pdf) — `raw/health-systems/mount-sinai-health-system--ai-implementation-and-use-policy.md`
 - [AI at NYP/WCM (Copilot LibGuide)](https://med.cornell.libguides.com/ai/copilot) — `raw/health-systems/nyp-weill-cornell--ai-at-nyp-wcm-copilot.md`
+- [AI at Ochsner](https://www.ochsner.org/ai) — `raw/health-systems/ochsner--ai-at-ochsner.md`
 - [AI Governance (Chief Research Information Officer)](https://www.ohsu.edu/chief-research-information-officer/governance) — `raw/health-systems/ohsu-health--ai-governance.md`
 - [Generative AI guidance (incl. Wexner Medical Center policy compliance)](https://ctsi.osu.edu/data-and-ai/ai-informatics-tools/generative-ai) — `raw/health-systems/osu-wexner--ctsi-generative-ai-guidance.md`
 - [Statement on Guidance for the UPenn Community on Use of Generative AI (ISC)](https://isc.upenn.edu/security/AI-guidance) — `raw/health-systems/penn-medicine--isc-ai-guidance.md`
 - [Guidance for the UPenn Community on Use of Generative AI](https://almanac.upenn.edu/articles/of-record-guidance-for-the-university-of-pennsylvania-community-on-use-of-generative-artificial-intelligence) — `raw/health-systems/penn-medicine--upenn-genai-guidance.md`
+- [Temple Health Debuts AI Clinical Notetaking Software](https://www.templehealth.org/about/news/ai-clinical-notetaking-software) — `raw/health-systems/temple-health--ai-clinical-notetaking-software.md`
 - [Clinical AI Use Policy - UChicago Internal Medicine Residency Program (AI/Abridge)](https://medchiefs.bsd.uchicago.edu/resources/clinical-ai-use-policy/) — `raw/health-systems/uchicago-medicine--im-residency-clinical-ai-use-policy.md`
 - [UCLA Health AI Council (HAIC)](https://www.uclahealth.org/health-ai/ucla-health-ai-council-haic) — `raw/health-systems/ucla-health--ai-council.md`
 - [AI in Healthcare (UCLA Health)](https://www.uclahealth.org/health-ai) — `raw/health-systems/ucla-health--ai-in-healthcare.md`
@@ -172,22 +215,54 @@ Auto-generated from raw/ front-matter. 202 sources. Updated 2026-09-17.
 - [Generative AI at VUMC - tools, governance and permitted data use](https://www.vumc.org/dbmi/GenerativeAI) — `raw/health-systems/vumc--dbmi-generative-ai-tools.md`
 - [VUMC statement on the use of generative AI](https://news.vumc.org/2023/06/27/vumc-statement-on-the-use-of-generative-ai/) — `raw/health-systems/vumc--statement-on-generative-ai.md`
 
-## Peer-reviewed (15)
+## Peer-reviewed (47)
 
+- [Adoption, perceived value, and barriers to generative artificial intelligence in emergency medicine: A cross-sectional survey of Latin American clinicians.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13544656/) — `raw/peer-reviewed/adoption-perceived-value-barriers-genai-emergency-medicine.md`
+- [Evidence on artificial intelligence-assisted clinical documentation and healthcare workers' emotional wellbeing at work: a scoping review.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13341515/) — `raw/peer-reviewed/ai-assisted-clinical-documentation-emotional-wellbeing-evidence-synthesis.md`
+- [Use of artificial intelligence in education and training of radiology](https://pmc.ncbi.nlm.nih.gov/articles/PMC13574975/) — `raw/peer-reviewed/ai-education-training-radiology-review.md`
+- [Artificial Intelligence in Family Nursing: An Evidence-Informed Policy Framework for Safe and Equitable Integration.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13547767/) — `raw/peer-reviewed/ai-family-nursing-evidence-informed-policy-framework.md`
+- [AI Integration in Undergraduate Medical Education: Qualitative Study of Faculty Perspectives in the United Arab Emirates.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13472525/) — `raw/peer-reviewed/ai-integration-ume-faculty-perspectives-us-qualitative.md`
 - [AI literacy in undergraduate medical education: a competency-based interpretive framework for curriculum and assessment.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13407777/) — `raw/peer-reviewed/ai-literacy-undergraduate-medical-education-competency-based-interpretive.md`
+- [Artificial Intelligence in Nursing Governance and Regulation: An Umbrella Review of Ethical and Policy Dimensions.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13530450/) — `raw/peer-reviewed/ai-nursing-governance-regulation-umbrella-review-ethical-policy.md`
+- [Artificial intelligence policies in bioethics and health humanities: a comparative analysis of publishers and journals.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12226874/) — `raw/peer-reviewed/ai-policies-bioethics-health-humanities-comparative-analysis.md`
+- [AI Scribe Use in Residency Training: A Call for Specialty Society Guidance in Graduate Medical Education.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12912149/) — `raw/peer-reviewed/ai-scribe-residency-training-specialty-society-guidance-gme.md`
 - [AI Tool Use Among Osteopathic Medical Students: Pilot Digital Diary Study.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13533313/) — `raw/peer-reviewed/ai-tool-use-osteopathic-medical-students-pilot-digital.md`
 - [AI in UK Medical Education: A Framework for Curriculum Reform.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13263032/) — `raw/peer-reviewed/ai-uk-medical-education-framework-curriculum-reform.md`
+- [How Should We Think About Ambient Listening and Transcription Technologies' Influences on EHR Documentation and Patient-Clinician Conversations?](https://journalofethics.ama-assn.org/article/how-should-we-think-about-ambient-listening-and-transcription-technologies-influences-ehr/2025-11) — `raw/peer-reviewed/ama-jethics-ambient-listening-transcription-ehr-documentation.md`
+- [Using ambient AI in clinical consultations: reframing policy around clinical audit and patient safety.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13526932/) — `raw/peer-reviewed/ambient-ai-clinical-consultations-policy-clinical-audit-patient-safety.md`
+- [Ambient AI in primary care: an exploratory mixed methods survey of UK general practitioners.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13331185/) — `raw/peer-reviewed/ambient-ai-primary-care-mixed-methods-survey-uk-gps.md`
+- [Ambient AI Scribes as Emerging Infrastructure in the Learning Health System.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13456971/) — `raw/peer-reviewed/ambient-ai-scribes-learning-health-system-infrastructure.md`
 - [Analysis of Generative Artificial Intelligence Governance in Publicly Available Documentation of Global and Saudi Universities Offering Health Informatics Programs.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13525772/) — `raw/peer-reviewed/analysis-generative-artificial-intelligence-governance-publicly-available-documentation.md`
 - [Artificial Intelligence Use in Medical Education: Best Practices and Future Directions.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12122599/) — `raw/peer-reviewed/artificial-intelligence-use-medical-education-best-practices-future.md`
+- [Performance of ChatGPT and Large Language Models on Medical Licensing Exams Worldwide: A Systematic Review and Network Meta-Analysis With Meta-Regression.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12603599/) — `raw/peer-reviewed/chatgpt-llm-medical-licensing-exams-worldwide-systematic-review.md`
 - [Bridging the AI Policy Gap in Medical Education: Assessing the Lack of Standardised Guidelines in US Medical Schools.](https://doi.org/10.1111/tct.70347) — `raw/peer-reviewed/clinical-teacher-bridging-ai-policy-gap-us-medical-schools.md`
 - [A Competency Framework for Medical AI Education: Mixed Methods Study.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13189368/) — `raw/peer-reviewed/competency-framework-medical-ai-education-mixed-methods-study.md`
 - [Current Landscape of Curriculum Development and Implementation in Medical Artificial Intelligence: A Scoping Review.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13546630/) — `raw/peer-reviewed/current-landscape-curriculum-development-implementation-medical-artificial-intelligence.md`
+- [The 'DeepSeek effect' and the adoption-integration gap of generative artificial intelligence in clinical practice: a national online convenience cross-sectional survey of academic critical care physicians in China.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13337403/) — `raw/peer-reviewed/deepseek-effect-adoption-integration-gap-genai-clinical-practice.md`
+- [Disclosure is not documentation: an open science framework for documenting generative AI use in scholarly research and publication workflows.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13483690/) — `raw/peer-reviewed/disclosure-not-documentation-open-science-framework-genai-scholarly.md`
+- [Ethical considerations for teaching with artificial intelligence: a scoping review in medical education settings.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12620316/) — `raw/peer-reviewed/ethical-considerations-teaching-ai-scoping-review-medical-education.md`
+- [Examining ChatGPT Performance on USMLE Sample Items and Implications for Assessment.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11444356/) — `raw/peer-reviewed/examining-chatgpt-performance-usmle-sample-items-assessment-implications.md`
+- [Exploring Applications of Artificial Intelligence Tools in Clinical Care and Health Professions Education: An Online Module for Students.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12043951/) — `raw/peer-reviewed/exploring-ai-tools-clinical-care-hpe-mededportal.md`
+- [Faculty development and institutional readiness for incorporating AI in health professions education- A narrative review.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13438308/) — `raw/peer-reviewed/faculty-development-institutional-readiness-ai-hpe.md`
+- [Generative Artificial Intelligence in Medical Training: Utilization Patterns Across Knowledge, Patient Care, Systems Reasoning, and Innovation.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13043961/) — `raw/peer-reviewed/genai-medical-training-utilization-patterns-knowledge-patient-care.md`
+- [Investigating the use of generative AI policies among ASPPH member schools and programs of public health.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13099806/) — `raw/peer-reviewed/genai-policies-aspph-member-schools-programs-public-health.md`
+- [Health Professional Students' Use of Generative Artificial Intelligence During Clinical Placements: Cross-Sectional Online Survey Study.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13120531/) — `raw/peer-reviewed/health-professional-students-genai-clinical-placements-cross-sectional.md`
+- [Impact of an Ambient AI Scribe Among Clinicians and Patients: Real-World Prospective Observational Time-Motion Study.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13037756/) — `raw/peer-reviewed/impact-ambient-ai-scribe-clinicians-patients-time-motion.md`
+- [Implementation of Ambient AI Scribes in Hospitals: Lessons for Healthcare Leadership, Governance, and Change Management.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13570626/) — `raw/peer-reviewed/implementation-ambient-ai-scribes-hospitals-governance-change.md`
+- [Integrating generative AI into physiotherapy education: students' use, perceptions, and generative AI literacy following curricular adaptations: a repeated cross-sectional programme evaluation.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13523361/) — `raw/peer-reviewed/integrating-genai-physiotherapy-education-students-use-perceptions.md`
+- [Large language model use in oral and maxillofacial surgery training: a national resident survey.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12923429/) — `raw/peer-reviewed/llm-use-oral-maxillofacial-surgery-national-resident-survey.md`
 - [Medical Student Experiences With ChatGPT: National Cross-Sectional Study.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13010067/) — `raw/peer-reviewed/medical-student-experiences-chatgpt-national-cross-sectional-study.md`
 - [Medical Students' Attitudes, Perceptions, and Self-Reported Familiarity With AI in Health Care: Systematic Review and Meta-Analysis.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13484950/) — `raw/peer-reviewed/medical-students-attitudes-perceptions-self-reported-familiarity-ai.md`
+- [The Presence and Nature of AI-Use Disclosure Statements in Medical Education Journals: A Bibliometric Study](https://www.medrxiv.org/content/10.1101/2025.11.11.25340015v1.full) — `raw/peer-reviewed/medrxiv-ai-use-disclosure-statements-medical-education-journals.md`
+- [NAIL-G: a conceptual best-fit framework for nursing ai literacy and governance anchored in socio-technical safety science.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13085389/) — `raw/peer-reviewed/nail-g-nursing-ai-literacy-governance-sociotechnical-framework.md`
+- [Performance of 5 AI Models on United States Medical Licensing Examination Step 1 Questions: Comparative Observational Study.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13010076/) — `raw/peer-reviewed/performance-5-ai-models-usmle-step1-comparative.md`
+- [Enhancing Physician Resilience to Generative AI: Multilevel Framework for Shared Authority, Verification, and Skill Preservation.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13293561/) — `raw/peer-reviewed/physician-resilience-genai-shared-authority-verification-framework.md`
 - [Prevalence and Content of Generative Artificial Intelligence Use Policies in Iranian Medical Science Journals.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13404226/) — `raw/peer-reviewed/prevalence-content-generative-artificial-intelligence-use-policies-iranian.md`
 - [Principles for Responsible AI in Health Professions Education, Research, and Care: Health CARE-AI (Contextual, Accountable, Responsible, and Equitable Artificial Intelligence) Framework Delphi Consensus Study.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13395757/) — `raw/peer-reviewed/principles-responsible-ai-health-professions-education-research-care.md`
 - [Recommendations for Clinicians, Technologists, and Healthcare Organizations on the Use of Generative Artificial Intelligence in Medicine: A Position Statement from the Society of General Internal Medicine.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11861482/) — `raw/peer-reviewed/recommendations-clinicians-technologists-healthcare-organizations-use-generative-artificial.md`
 - [Role-Differentiated AI Competencies and Curriculum Implications for Health Professions Education: Qualitative Study.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13552830/) — `raw/peer-reviewed/role-differentiated-ai-competencies-curriculum-implications-health-professions.md`
+- [A scoping review of the use of generative artificial intelligence tools in health profession education.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12911342/) — `raw/peer-reviewed/scoping-review-genai-tools-health-profession-education.md`
+- [System-Level AI Governance in Nursing: A Practical Framework for Safe and Scalable Adoption.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13521250/) — `raw/peer-reviewed/system-level-ai-governance-nursing-practical-framework.md`
 - [Use and Perceptions of Generative Artificial Intelligence Tools Among First-Year Medical Students: A Cross-Sectional Survey.](https://pmc.ncbi.nlm.nih.gov/articles/PMC13436551/) — `raw/peer-reviewed/use-perceptions-generative-artificial-intelligence-tools-first-year.md`
 
 ## International (UK, Canada, Australia, Europe, Asia) (26)
@@ -219,6 +294,8 @@ Auto-generated from raw/ front-matter. 202 sources. Updated 2026-09-17.
 - [MD Program Policies & Guidelines (index)](https://md.utoronto.ca/md-policies-guidelines) — `raw/international/uoft-temerty--md-program-policies-guidelines.md`
 - [Policy framework and guidelines on generative AI in education (English)](https://www.uva.nl/binaries/content/assets/uva/nl/over-de-uva/over-de-uva/beleid-en-financien/onderwijs/beleidskader_genai_eng_040625.pdf) — `raw/international/uva--policy-framework-genai-in-education.md`
 
-## No-policy findings (absence is data)
+## Analysis
+- [Clause extraction matrix (161 US school/health-system rows)](analysis/clauses.csv) — see [findings.md](analysis/findings.md)
 
-See agents/run-04..09-report.md: no school-specific policy found for HMS, JHU SOM, UCLA DGSOM, Duke SOM, WashU SOM, Northwestern NM, Mayo Alix SOM, Emory SOM, UTSW Med School, UW SOM, Baylor St. Luke's, UPMC (public), OSU Wexner (internal), UW Health (intranet), M Health Fairview, VUMC SOM, UCHealth, UAB Medicine, MUSC Health, Iowa CCOM, MSU CHM, PCOM, DMU, Charité, AMC Australia, UofT Temerty, India NMC, Karolinska med-programme, ACC, ACGME (formal), AAP, Carnegie.
+## Audit
+- Independent verification audit: [agents/run-11-audit.md](agents/run-11-audit.md) — 198/202 OK, corpus trustworthy, no fabrication found

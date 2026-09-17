@@ -32,9 +32,10 @@ Borrowed: Sentient Syllabus (credited); the university committee's framework. Or
 ## Weaknesses / what's missing
 
 - **No tooling** — era-appropriate but real: nothing provisioned, no secure platform guidance beyond "don't enter confidential data."
-- **PhD scope**: GMB is a doctoral program; the MD program needed its own (later) instrument — the guidance does not address clinical environments, PHI in clinical learning, or documentation.
+- **PhD scope**: GMB is a doctoral program; the MD program needed its own (later) instrument — the guidance does not address clinical environments, PHI in clinical learning, or documentation. The MD-side gap was eventually filled by UNC OMSE's 2026 policy (PromptLab gateway, competency-milestone-tagged restrictions; classed progressive-structured, near-pioneer — `analysis/deep-reading/unc-som--omse-artificial-intelligence-policy.md`), so UNC's overall arc runs GMB-2023 pioneer → OMSE-2026 near-pioneer.
 - No faculty-side obligations and no equity provisions.
 - The permissive default relies entirely on documentation goodwill; without secure assessment, unverifiable take-home work remains unverifiable (the gap Sydney's two-lane model exists to close).
+- No maintenance regime: unlike ECU (36-month review, expiration) or UAMS (semi-annual), the 2023 guidance carries no stated review cycle — a vintage instrument still circulating.
 
 ## What to steal concretely
 

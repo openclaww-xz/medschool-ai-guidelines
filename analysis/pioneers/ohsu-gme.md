@@ -39,6 +39,8 @@ Borrowed and credited: the **UT Health San Antonio GME policy** as the structura
 - The applicant-screening rule allows institutionally approved AI screening rather than banning it — defensible, but weaker protection than UKY's.
 - No equity provisions; no faculty-development obligations beyond modeling.
 - Depends on the AI Governance Committee's tool registry staying current — governance bottleneck risk shared with UAMS.
+- No worked examples for trainees (the policy defines terms well but teaches workflows nowhere — contrast UVA's scenarios and JABSOM's cases); and the "Encouraged" tier names no specific endorsed use cases a resident could act on today.
+- No published metrics on committee throughput, tool-approval timelines, or violation handling — the governance exists but its performance is invisible.
 
 ## What to steal concretely
 

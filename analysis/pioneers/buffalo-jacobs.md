@@ -36,6 +36,7 @@ Borrowed: the NEJM supervision framework (cited with DOI — though the deep-rea
 - The supervision duty is assigned to faculty without any described faculty development or time support — a four-verb duty with no resourcing plan.
 - Citation demand covering even grammar-level help is likely unenforceable and breeds disclosure noise (run 28's default-permit weakness).
 - Citation-hygiene flaw (malformed DOI) in its single scholarly anchor.
+- No governance metadata beyond the revision date: no approving committee is named for the policy itself, and the review cadence is "frequently... as needed" rather than dated — weaker document control than ECU or UAMS.
 
 ## What to steal concretely
 

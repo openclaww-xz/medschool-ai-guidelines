@@ -34,9 +34,10 @@ The national synthesis (`analysis/deep-reading/26-national-synthesis.md`) shows 
 ## Weaknesses / what's missing
 
 - No assessment taxonomy — the biggest structural gap vs UCSF PharmD or ECU (`analysis/deep-reading/27-schoolsA-synthesis.md`, §1).
-- University-guidance precedence creates a two-master problem the policy doesn't resolve.
-- No equity-of-access provisions (contrast ECU's free-tool floor) and no faculty-side rules (contrast ECU/GW faculty parity).
-- No named secure-LLM playground of its own beyond enterprise CoPilot/Gemini.
+- University-guidance precedence creates a two-master problem the policy doesn't resolve: students reading both documents must reconcile overlaps themselves, and the SOM policy can be silently overridden by university updates.
+- No equity-of-access provisions (contrast ECU's free-tool floor) and no faculty-side rules (contrast ECU/GW faculty parity) — faculty appear only as expectation-setters.
+- No named secure-LLM playground of its own beyond enterprise CoPilot/Gemini — the provisioned tier is licensed rather than purpose-built (contrast Stanford's Secure GPT).
+- Enforcement language is generic (Honor Code referral); no procedural-fairness rules for AI allegations (contrast JABSOM's logging jurisprudence).
 
 ## What to steal concretely
 

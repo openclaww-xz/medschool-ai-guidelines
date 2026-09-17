@@ -30,10 +30,11 @@ The citation spec, the non-enforceability concession, and the competency-burden 
 
 ## Weaknesses / what's missing
 
-- **No external citations at all** — "relies on internal policies" (deep-read note); the policy asserts but never grounds its positions in the literature.
+- **No external citations at all** — "relies on internal policies" (deep-read note); the policy asserts but never grounds its positions in the literature. For an institution with Stanford HAI down the road, the absence of any scholarly anchor is a choice, not an oversight.
 - No assessment-redesign program: the competency framing gestures at it, but there is no secure-assessment architecture (contrast Sydney's two lanes or UCSF's taxonomy).
-- No equity-of-access provisions; no faculty-side obligations.
-- No formal governance/maintenance body named beyond handbook review.
+- No equity-of-access provisions; no faculty-side obligations — faculty appear only as rule-setters, never as governed AI users (contrast ECU/GW/UAMS).
+- No formal governance/maintenance body named beyond handbook review; the "reviewed and revised as necessary" clause names no owner or cadence.
+- MSPA inclusion is good, but GME, PhD, and research contexts are unaddressed in this instrument.
 
 ## What to steal concretely
 

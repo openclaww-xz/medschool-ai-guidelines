@@ -1,12 +1,11 @@
-# Generative-AI Policy in Medical Education: A Synthesis of 365 Sources
+# Generative-AI Policy in Medical Education: A Synthesis of 378 Sources
 
-**Basis.** This report synthesizes the full corpus of this repository: 365 collected sources
-(`index.md`; `metadata/sources.json`), of which 361 are raw documents under `raw/` —
-26 national frameworks, 200 US medical-school/university documents, 66 health-system/teaching-hospital
-documents, 47 peer-reviewed full texts, and 26 international documents (`index.md` section counts) —
-plus 63 PDF snapshots under `pdf/`. Structured clause extraction covers the 161 US school and
-health-system documents recorded in `analysis/clauses.csv` (121 `raw/us-med-schools/`, 40
-`raw/health-systems/`, spanning 136 distinct organizations; `analysis/summary-stats.md`). Descriptive
+**Basis.** This report synthesizes the full corpus of this repository: 378 collected raw sources
+(`index.md`; `metadata/sources.json`) — 26 national frameworks, 212 US medical-school/university documents,
+67 health-system/teaching-hospital documents, 47 peer-reviewed full texts, and 26 international documents
+(`index.md` section counts) — plus PDF snapshots under `pdf/`. Structured clause extraction covers 274 US
+school and health-system documents recorded in `analysis/clauses.csv` (extended by run-23 after the
+report was drafted; counts in Sections 1 and 7 cite both vintages where they differ). Descriptive
 statistics were computed in R (`analysis/figures.Rmd`, figures in `analysis/figs/`). Every claim below
 cites the file it rests on. Where the clause matrix and the raw text disagree, both are reported.
 

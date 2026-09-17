@@ -8,7 +8,13 @@ Rmd: `figures.Rmd`.
 
 **Run 24 note:** the extended CSV from run 23 had not landed when this refresh
 ran (`origin/main` at `cec4ae3`, still 161 rows / 136 orgs); analysis proceeded
-on the existing 161-row file. Re-knit after run 23 lands to update N.
+on the existing 161-row file. **Update (parent, 2026-09-17):** run-23's matrix
+is now in — 274 rows (208 us-med-schools + 67 health-systems − stale row). The
+count-level stats below are 161-vintage; updated totals are in
+`analysis/findings.md`: guidance 193/275 (70.2%), formal policy 59 (21.5%),
+PHI clauses 108/275 (39.3%), disclosure 131 (47.6%), enforcement 118 (42.9%),
+AAMC alignment 1/275 (0.4%), 2026 the largest dated cohort (38). Figures in
+`figs/` were re-knit against the 274-row matrix.
 
 ## Corpus
 

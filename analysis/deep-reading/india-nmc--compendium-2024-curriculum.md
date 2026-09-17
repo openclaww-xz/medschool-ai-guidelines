@@ -1,0 +1,34 @@
+---
+source_file: raw/international/india-nmc--compendium-2024-curriculum.md
+read_status: full (complete file; 34,254 lines / 2.96 MB. AI content is sparse — 6 AI-bearing passages, all identified via full-corpus regex sweep and read in context. Remainder of the file is the standard CBME curriculum: subject-wise competency grids, certification requirements, assessment methods, PG programme rules — read protocol applied via exhaustive pattern match plus structured sampling of every section type: CBME guidelines 2024 + withdrawal notice + 12.09.2024 re-issue, foundation course, electives, AETCOM, subject competency tables (incl. Biochemistry BC13.5), PG emergency-medicine guidelines, UGMEB clarifications.)
+approx_words_read: ~430,000 (whole compendium); AI-relevant text ~150 words
+---
+
+# NMC India — Compendium 2024, Volume 2: Curriculum (CBME Guidelines 2024; incl. withdrawal of 31.08.2024 version and re-issue of 12.09.2024; PG Emergency Medicine guidelines 07.10.2024; UGMEB clarification 10.10.2024)
+
+## (a) Authority and authorship
+- Publisher: **National Medical Commission** (statutory regulator, created 24 Sept 2020, replacing the Medical Council of India), Undergraduate Medical Education Board (UGMEB). Document D-11011/500/2024-AcademicCell, Government of India.
+- Authorship: "A national team of experienced as well as emerging empathetic and talented teachers... **93 experts**... Each subject had committee of five persons on an average, from different parts of the country," revising the 2019 CBME curriculum volumes. Chaotic process transparency: the compendium contains the 31.08.2024 CBME Guidelines, their **withdrawal notice (05.09.2024)**, and the re-issued 12.09.2024 guidelines — a national curriculum published, withdrawn, and republished within twelve days.
+
+## (b) Policy philosophy
+- Posture: **AI as a marginal add-on inside a massive competency framework** — not a governance object. The only philosophical statement is the Foreword's sociological worry, verbatim: "**Increasing influence of artificial intelligence on student community, matched with rising cost of medical education and competitiveness**, instead of accommodative, helping and balanced approach, **has led to increasing risk of losing social intelligence and humane approach amidst the emerging doctors. The risk of creating overqualified clerks looms large on our medical system.**" — AI framed as a threat to the humane formation of the Indian Medical Graduate, not as a clinical tool or governance problem.
+
+## (c) Complete AI clause inventory (all AI mentions in the entire compendium, verbatim)
+1. **Foundation Course skill goal** (appears twice, duplicated across the two guideline versions): "(b) Enable the learner to acquire enhanced skills in: ... **Use of information technology, and artificial intelligence**" — listed alongside Language, Interpersonal relationships, Communication, Self-directed learning, Time management, Stress management, Mental Health. Foundation Course requires **75% mandatory attendance**, certified by the Principal/Dean; concurrently run "Local language programme / English language programme / **Computer skills**" in the last two hours of the day.
+2. **Electives clause** (appears twice): "Electives on topics in areas such as Research methodology, Research ethics, **Use of Artificial intelligence and computers in Health and Medical Education**, Health Management, Health economics, Indian system of medicine, Medical photography /clinical photography, Global health, Evidence based medicine, Art and music, Physiotherapy, Nutrition, **ethical use of technology including artificial intelligence etc. in medicine**, Literary activities, etc. may be provided by the college/ institution." — elective is mandatory ("It is mandatory for learners to do an elective"), but AI topics are optional offerings ("may be provided"); 75% attendance + logbook required for exam/NExT eligibility.
+3. **Foreword warning** (appears twice, both volumes' forewords): the "overqualified clerks" passage quoted in (b).
+4. **Biochemistry competency BC13.5** (appears twice): "**Describe the role of Artificial Intelligence in clinical Biochemistry laboratory practices**" — metadata: Predominant Domain K (knowledge); Level **KH** (knows how); **Core: N (non-core)**; teaching LGT/SGT/SDL (lecture/small-group/self-directed); assessment Written/Viva voce + **Logbook Record**; sits in Topic 13 "Miscellaneous" (5 competencies, none certifiable).
+- That is the complete AI inventory. There is NO AI-related: policy on student use of AI in assessment, GenAI/LLM mention, AI professional-conduct rule, data/privacy clause tied to AI, faculty AI guidance, or clinical-deployment governance. The remaining ~34,000 lines govern the traditional CBME apparatus (competency grids K/S/A/C × levels K/KH/SH/P, certification requirements, AETCOM module, skill certification, NExT eligibility, PG programmes).
+
+## (d) Sophistication markers
+- Technically: **none**. "Artificial intelligence" appears only as an unelaborated noun. No ML/GenAI distinction, no risk language, no hallucination/bias/validation concepts, no tool names (ChatGPT etc. absent).
+- Educationally: the AI mentions are wired into a genuinely sophisticated competency machinery (domains, levels, core/non-core flags, assessment methods, logbooks) — the machinery is excellent, the AI content poured into it is homeopathic (one non-core competency in Biochemistry "Miscellaneous").
+- The Foreword's sociological concern (AI + cost + competitiveness → loss of "social intelligence and humane approach") is an unusual and candid framing — AI as a formative threat to professionalism rather than a technical tool — but it is never operationalized anywhere in the curriculum.
+
+## (e) Distinctives vs sibling frameworks
+- The starkest **contrast case** in the corpus: the world's largest medical education system (NMC regulates ~70,000+ MBBS seats) addresses AI in ~150 words across a 3 MB curriculum, while Singapore's MOH devotes 125k characters to lifecycle governance and Sydney restructures its entire assessment portfolio.
+- India's model is **curriculum-embedding by enumeration**: AI appears as (a) a foundation-course skill, (b) elective menu items including an "ethical use" option, (c) one non-core biochemistry competency. Governance, risk, and assessment implications are entirely unaddressed — the 2024 revision's AI-awareness is limited to foreword anxiety.
+- The withdraw-and-republish sequence (31.08 → 05.09 withdrawal → 12.09 reissue) is itself a governance datum: national curriculum rulemaking under visible churn.
+
+## (f) Provisional classification
+**conservative-naive** — AI named but not governed; no risk model, no failure modes, no assessment response, no conduct rules; the humane-formation worry is sincere but unoperationalized. The classification is about the AI content, not the (otherwise rigorous) CBME machinery it sits inside.

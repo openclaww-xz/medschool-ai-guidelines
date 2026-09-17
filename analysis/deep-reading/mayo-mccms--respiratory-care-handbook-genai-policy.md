@@ -22,4 +22,4 @@ read_status: full read of AI policy cluster (lines 1157-1171) + front matter of 
 - Clause 4 is unusual: AI may be *used* (when allowed) but cannot be *cited as a source* — internally tense with disclosure norms elsewhere.
 
 ## Classification
-- **conservative-naive** — honest but generic 2023-style containment; "ARTIFICIAL INTELIGENAL [sic]" header typo signals low editorial investment; no PHI/tools/disclosure mechanics.
+- **conservative-naive** — honest but generic 2023-style containment; source header actually reads "USE OF GENERATIVE ARTIFICAL INTELLIGENCE PLATFORMS" (a real typo, different from one earlier misquoted here — corrected per run-36 verification); no PHI/tools/disclosure mechanics.

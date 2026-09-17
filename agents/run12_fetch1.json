@@ -1,0 +1,75 @@
+[
+ {
+  "ok": false,
+  "path": "raw/us-med-schools/bu-chobanian--md-program-ai-use-policy.md",
+  "reason": "extracted text too short (0 chars)",
+  "len": 0
+ },
+ {
+  "ok": true,
+  "path": "raw/us-med-schools/bu-chobanian--md-program-ai-use-policy.pdf.md",
+  "len": 9244,
+  "sha256": "5e1397376f16d4a9cd3473f0fd63ead45086ae8ab6031541c81e9e1b3c7e4570",
+  "pdf": "pdf/bu-chobanian--md-program-ai-use-policy.pdf.pdf"
+ },
+ {
+  "ok": true,
+  "path": "raw/us-med-schools/gw-smhs--md-student-ai-use-guidelines.md",
+  "len": 28575,
+  "sha256": "5d285fdc2c0cb3c106da8751df2b961bdb56073a0bd8c7f6e89b20d7a534818b",
+  "pdf": null
+ },
+ {
+  "ok": false,
+  "path": "raw/us-med-schools/tufts-university--genai-usage-guidelines.md",
+  "reason": "extracted text too short (0 chars)",
+  "len": 0
+ },
+ {
+  "ok": true,
+  "path": "raw/us-med-schools/georgetown-university--ai-guidelines.md",
+  "len": 2913,
+  "sha256": "8b99ac64e82ce938ae8fe5ef2394e8de51dd76bce3af3de887e26b64e87dfe4d",
+  "pdf": null
+ },
+ {
+  "ok": true,
+  "path": "raw/us-med-schools/hofstra--ai-policy-faculty-students.md",
+  "len": 4594,
+  "sha256": "e50a740b4d89b832b857a5bdf7389a526e28a947881b7cc764d0db8a36105d1a",
+  "pdf": null
+ },
+ {
+  "ok": true,
+  "path": "raw/us-med-schools/drexel--provost-ai-policies.md",
+  "len": 375,
+  "sha256": "2ceac3be3e111fb834c9ee370165194b6d190b81fa3dfefcd26095a5fe66be71",
+  "pdf": null
+ },
+ {
+  "ok": true,
+  "path": "raw/us-med-schools/drexel--provost-ai-guidance-students.md",
+  "len": 5075,
+  "sha256": "dd1c423f9a0b88d037e78f3bd85074df96e43366a0b7976e9e579d911b9d5791",
+  "pdf": null
+ },
+ {
+  "ok": true,
+  "path": "raw/us-med-schools/u-rochester--provost-genai-use-in-education.md",
+  "len": 21923,
+  "sha256": "140d65bd4e8387f1c65ad727270c6401fa20532745b654d3826d0c87fa0c563f",
+  "pdf": null
+ },
+ {
+  "ok": false,
+  "reason": "403 Client Error: Forbidden for url: https://einsteinmed.edu/administration/ai-tools-resources",
+  "path": "raw/us-med-schools/albert-einstein--ai-tools-resources.md"
+ },
+ {
+  "ok": true,
+  "path": "raw/us-med-schools/brown--provost-ai-resources-course-policy-tools.md",
+  "len": 3116,
+  "sha256": "f131df58e5b3c5258910292aba47b124fa2e66c870aaf2c17f44405f4b9eedb5",
+  "pdf": null
+ }
+]

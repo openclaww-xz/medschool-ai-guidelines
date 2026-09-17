@@ -1,0 +1,14 @@
+# Run 03 report
+Agent scope: Confirmed seed school/university policies (Stanford MD, USC Keck, U Buffalo Jacobs, ECU Brody, HMS IT, Harvard Provost, Harvard HUIT, Stanford Lane Library)
+Sources saved:
+- raw/us-med-schools/stanford-md--genai-policy-3-32.md | 3.32: Generative Artificial Intelligence (AI) Policy (MD/MSPA Programs) | https://med.stanford.edu/md/mdhandbook/section-3-md-requirements-procedures/3-32--generative-artificial-intelligence--ai--policy.html | OK (curl, full policy text; trailing site nav trimmed; "updated August 2025")
+- raw/us-med-schools/usc-keck--medical-student-genai-tools-policy.md | Medical Student Use of Generative Artificial Intelligence (AI) Tools Policy | https://keck.usc.edu/md-student-portal/medical-student-use-of-generative-artificial-intelligence-ai-tools-policy/ | OK (curl; Reviewed/Approved 2025-12-17 by MECC)
+- raw/us-med-schools/buffalo-jacobs--genai-use-policy-medical-students.md | Generative AI Use Policy for Medical Students in the Medical Curriculum | https://medicine.buffalo.edu/offices/ome/current/policies/ai-policy.html | OK (curl; Revised 2026-03-31)
+- raw/us-med-schools/ecu-brody--responsible-use-of-ai.md | Responsible Use of Artificial Intelligence in Medical Education (SOP v1.1) | https://medicine.ecu.edu/academicaffairs/educational-policies-and-standard-operating-procedures/responsible-use-of-artificial-intelligence-2/ | OK (curl; Implementation 2026-03-01, EAC approval 2026-02-25)
+- raw/us-med-schools/harvard-hms-it--generative-ai-guidelines.md | Generative AI — HMS IT Policies and Guidelines | https://it.hms.harvard.edu/about/policies-and-guidelines/generative-ai | OK (curl)
+- raw/us-med-schools/harvard-provost--chatgpt-genai-guidelines.md | Guidelines for Using ChatGPT and other Generative AI tools at Harvard | https://provost.harvard.edu/guidelines-using-chatgpt-and-other-generative-ai-tools-harvard | OK (page 403'd to curl and r.jina.ai; retrieved via browser innerText)
+- raw/us-med-schools/harvard-huit--generative-ai-guidelines.md | Generative AI Guidelines (HUIT) | https://www.huit.harvard.edu/ai/guidelines | OK (page 403'd to curl and r.jina.ai; retrieved via browser innerText)
+- raw/us-med-schools/stanford-lane-library--ai-in-meded-papers-list.md | AI in MedEd Papers — curated reference list | https://laneguides.stanford.edu/medical-education/AI-in-MedEd-Papers | OK (curl; saved as reference list source, includes gpt-4o-generated article summaries note)
+Failures:
+- none
+Notes: Harvard provost + HUIT are Cloudflare-protected (403 to curl and r.jina.ai); browser extraction worked — worth noting for future Harvard runs. USC Keck policy is the most recent revision (Dec 2025). ECU and Buffalo policies are 2026 revisions with explicit version/SOP metadata. All 8 files verified non-empty and containing policy substance (not nav/cookie banners). sha256 fields left empty for parent to fill.

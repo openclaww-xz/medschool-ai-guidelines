@@ -1,0 +1,167 @@
+[
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/uc-davis--md-program-acceptable-use-genai-coursework.md",
+  "len": 6625,
+  "sha256": "d1bddb57863758486b0a5e371e9f3082488ef352e09320a08919c073fb164cdb",
+  "pdf": null,
+  "url": "https://health.ucdavis.edu/mdprogram-polices/curricular/Acceptable%20use%20of%20Generative%20Artificial%20Intelligence.html"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/uc-san-diego--senate-admin-workgroup-genai-education-report.pdf.md",
+  "len": 42468,
+  "sha256": "c27c482cfeb3235eb7643dcaeee9cbde1777c97f40395fabd8b39129c2ff1087",
+  "pdf": "/Users/openclaw/git/medschool-ai-guidelines/pdf/uc-san-diego--senate-admin-workgroup-genai-education-report.pdf.pdf",
+  "url": "https://evc.ucsd.edu/_files/2024.08.23%20Final%20Report%20-%20Senate%20Admin%20Workgroup%20on%20Impact%20of%20Generative%20Artificial%20Intelligence%20on%20Education%20at%20UC%20San%20Diego.pdf"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/uc-san-diego--libguide-ai-and-academic-integrity.md",
+  "len": 522,
+  "sha256": "00fb3eb4f1e9d2df80e8ae57b9864e1d08dbea97fc2be57201988b3f5f127b5f",
+  "pdf": null,
+  "url": "https://ucsd.libguides.com/AI/academicintegrity"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/uc-irvine--dtei-generative-ai-for-teaching-learning.md",
+  "len": 3225,
+  "sha256": "6ed265a2a13d20e7fe9b2f162c1fba60d2a0fbb671014d793ad0d8d9df00bd9d",
+  "pdf": null,
+  "url": "https://dtei.uci.edu/generative-ai/"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/u-arizona-tucson--policy-on-student-use-of-ai.pdf.md",
+  "len": 7535,
+  "sha256": "d95a6ff4fab57eea3297c31da2f13404604ac0b0131665810f29f7d65ca97a15",
+  "pdf": "/Users/openclaw/git/medschool-ai-guidelines/pdf/u-arizona-tucson--policy-on-student-use-of-ai.pdf.pdf",
+  "url": "https://medicine.arizona.edu/sites/default/files/2024-11/Policy-on-Student-Use-of-AI-2024-11-13.pdf"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/u-arizona--ai-guidelines-and-principles.md",
+  "len": 5603,
+  "sha256": "4e41d5abbdb8ed7fa90f1db3406da7daed2fe335cd0b224e401a46d3d8fdb748",
+  "pdf": null,
+  "url": "https://responsibleai.arizona.edu/ai-arizona/ai-guidelines-principles"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/u-arizona-phoenix--ai-use-by-students-policy.md",
+  "len": 5648,
+  "sha256": "a2e7d114d7ad4685f494b868653a180725b810ac2058849124d646a24f5087f4",
+  "pdf": null,
+  "url": "https://phoenixmed.arizona.edu/policy/ai-use-by-student-policy"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/unm--ai-appropriate-use-and-guidelines.md",
+  "len": 2423,
+  "sha256": "8a87456ab2208fcdaa5987182af54932171a0bdfbbba159f7720f5604e4aa661",
+  "pdf": null,
+  "url": "https://airesources.unm.edu/ai-guidance/appropriate-use.html"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/unm--faculty-senate-policy-use-of-genai.md",
+  "len": 9678,
+  "sha256": "25459f67ac11f12efb3436e8fe50e560e13d44be404b6f8588e6bec70ea21330",
+  "pdf": null,
+  "url": "https://fs.unm.edu/nss8/index.php/111/PolicyAI"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/u-oklahoma--ai-policies.md",
+  "len": 1074,
+  "sha256": "5de8b34bae0c8bd8f13da8059cb4c7e85028b42aab0063d72b3dcd5434d39421",
+  "pdf": null,
+  "url": "https://www.ou.edu/cfe/artificial-intelligence/AI-policies"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/ou-hsc--libguide-artificial-intelligence-and-genai.md",
+  "len": 1682,
+  "sha256": "f9911f04dd8965f35704c51ad26ffed7e3191a62164ea767e16fab18881202c8",
+  "pdf": null,
+  "url": "https://libguides.ouhsc.edu/ai"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/unmc--ai-use-guidelines.md",
+  "len": 11080,
+  "sha256": "5b4b343ef8fecefcd3eca6d23148189bd004f78b15fcaffe87d37b23ecd2647f",
+  "pdf": null,
+  "url": "https://wiki.unmc.edu/index.php/UNMC_AI_Use_Guidelines"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/ku--responsible-ai.md",
+  "len": 4689,
+  "sha256": "335901b59f543ee1680fed6b4ebf177e1f69093be5dad775c6e5fe07eb505e2e",
+  "pdf": null,
+  "url": "https://ai.ku.edu/responsible-ai"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/kumc--ai-steering-committee.md",
+  "len": 2821,
+  "sha256": "f516ccad038ea480908bcf61c9698fed538eb397c30e2463fb630572c2c56a08",
+  "pdf": null,
+  "url": "https://www.kumc.edu/artificial-intelligence-resource-center/ai-steering-committee.html"
+ },
+ {
+  "ok": false,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/uc-davis-health--guidelines-for-using-generative-ai.md",
+  "reason": "extracted text too short (9 chars)",
+  "len": 9,
+  "url": "https://health.ucdavis.edu/compliance/regulatory/guidelines-for-using-ai"
+ },
+ {
+  "ok": false,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/uc-davis-health--ai-at-uc-davis-health.md",
+  "reason": "HTTPError: 404 Client Error:  for url: https://health.ucdavis.edu/welcome/artificial-intelligence",
+  "url": "https://health.ucdavis.edu/welcome/artificial-intelligence"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/ucsd-health--ai-at-uc-san-diego-health.md",
+  "len": 7562,
+  "sha256": "982038490146e943e7d517e8c7050cd43c31caee666046369cb99efe0b2edc4f",
+  "pdf": null,
+  "url": "https://health.ucsd.edu/about-us/ai-at-uc-san-diego-health/"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/uci-health--approved-ai-tools.md",
+  "len": 4331,
+  "sha256": "f199d09be7b6e75fa8d2a34ce48ece3cf5a0c1f33af60ad21c47ddd7b33dd3a0",
+  "pdf": null,
+  "url": "https://www.ucihealth.org/about-us/compliance/approved-ai-tools"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/uci-health--safe-and-approved-use-of-ai-tools.md",
+  "len": 4437,
+  "sha256": "a5843ead1462603a80dce7b9885773b574e39bfd1d207dff27c6594d462e5baf",
+  "pdf": null,
+  "url": "https://its.health.uci.edu/security/safe-approved-ai-tools"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/nebraska-medicine--how-we-use-artificial-intelligence.md",
+  "len": 3485,
+  "sha256": "80113a21ad4ff0efdd7c7dfe4cc5eef57afd0722fcda140b0d846aaafef855f3",
+  "pdf": null,
+  "url": "https://www.nebraskamed.com/patients/rights-responsibilities/AI"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/nebraska-medicine--artificial-intelligence-help.md",
+  "len": 780,
+  "sha256": "7a0ae5246c6998b7825fc798b16f8077f1775fc546a1832275b9e2e41de2dbd1",
+  "pdf": null,
+  "url": "https://www.nebraskamed.com/help/artificial-intelligence"
+ }
+]

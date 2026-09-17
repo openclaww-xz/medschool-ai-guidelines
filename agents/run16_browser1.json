@@ -1,0 +1,20 @@
+[
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/uc-davis-health--guidelines-for-using-generative-ai.md",
+  "len": 1359,
+  "sha256": "56c70b0cd57958bff01d65738c11f92354e062b438a0d8adabf7933b945de408"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/uc-davis-health--ai-at-uc-davis-health.md",
+  "len": 12600,
+  "sha256": "84242057d98035c2f642d2e983cf7e6ea6ad0c82a3c2ebdb1ccb9cdc6ced8393"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/uc-davis-health--clinical-note-taking-technology.md",
+  "len": 2454,
+  "sha256": "6932bfc6d5e8335bac601dc27af6987d1af3b7bb5c56fed0e8ecaf3ca2db3bc0"
+ }
+]

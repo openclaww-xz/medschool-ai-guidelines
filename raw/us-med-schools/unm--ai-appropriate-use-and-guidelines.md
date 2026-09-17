@@ -1,0 +1,67 @@
+---
+source_url: "https://airesources.unm.edu/ai-guidance/appropriate-use.html"
+title: "Appropriate Use and Guidelines (UNM AI Resources)"
+publisher: "University of New Mexico"
+published_date: "unknown"
+accessed_date: "2026-09-17"
+license: "public web page"
+sha256: ""
+---
+
+Skip to main content
+Toggle navigation
+UNM A-Z
+myUNM
+Directory
+The University of New Mexico
+UNM A-Z
+myUNM
+Directory
+Help
+Student Support
+StudentInfo
+FastInfo
+UNM AI Resources
+UNM
+AI at UNM
+AI Guidance
+Appropriate Use and Guidelines
+Appropriate Use and Guidelines
+Initial Guidelines
+AI tools should only be used with identifiable UNM Data classified as
+“P Class” (Public) Data
+unless approved for use by the appropriate
+UNM Data Steward
+, or other appropriate office.
+Before using identifiable FERPA data in AI platforms, users should contact their office's/department's IT Officer to initiate a risk assessment. This would help ensure requests are properly vetted through security, privacy, and data governance processes before reaching the Data Steward for final approval.
+Before using data subject to HIPAA regulations in AI platforms, please reach out to the
+HIPAA Privacy Office
+.
+Guidelines on Appropriate Use
+AI tools can generate inaccurate, incomplete, or biased responses, so any AI-generated output should be closely reviewed and verified by a human.
+Students should ensure that they comply with the UNM Student Code of Conduct (
+Pathfinder
+), Faculty Handbook policy on Dishonesty in Academic matters, and any guidance provided by their instructor in their course syllabus that clarifies expectations related to the use of technology in completing academic work.
+As with any technology, Artificial Intelligence (AI) technology must be used in appropriate, permissible ways. Various UNM policies describe appropriate and inappropriate use of technology, as well as the offices and processes through which permission must be requested in order to receive authorization to use UNM Data with any technology, including AI technology – even if there is no cost for that technology.
+The policies include, but are not limited to:
+Acceptable Information and Information System Use
+Accessing and Safeguarding Personally Identifiable and Controlled Information
+Information Security
+Data Governance
+Data Stewards and access to data under purview of a UNM Data Steward
+Faculty Handbook D100: Dishonesty in Academic Matters
+Student Code of Conduct
+© The University of New Mexico
+Albuquerque, NM 87131, (505) 277-0111
+New Mexico's Flagship University
+UNM on Facebook
+UNM on Instagram
+UNM on Twitter
+UNM on YouTube
+more at
+social.unm.edu
+Accessibility
+Legal
+Contact UNM
+Consumer Information
+New Mexico Higher Education Dashboard

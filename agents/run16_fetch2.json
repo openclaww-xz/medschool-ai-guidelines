@@ -1,0 +1,33 @@
+[
+ {
+  "ok": false,
+  "path": "raw/us-med-schools/unm--libguide-ai-in-health-sciences.md",
+  "reason": "extracted text too short (161 chars)",
+  "len": 161,
+  "url": "https://libguides.health.unm.edu/AI_HealthSciences"
+ },
+ {
+  "ok": true,
+  "path": "raw/us-med-schools/u-oklahoma--ai-at-ou.md",
+  "len": 7062,
+  "sha256": "bb79bc88abac853d798d9fa058976b58eaeedb6abac1a15304352aa51924e62e",
+  "pdf": null,
+  "url": "https://www.ou.edu/ouit/ai"
+ },
+ {
+  "ok": true,
+  "path": "raw/us-med-schools/uc-san-diego--academic-integrity-gen-ai.md",
+  "len": 9232,
+  "sha256": "6571afdd5a7dcf6c6124eed7a9a0fca7e8361a1725d6c4db7845fd32909762c6",
+  "pdf": null,
+  "url": "https://academicintegrity.ucsd.edu/choose-integrity/gen-ai/index.html"
+ },
+ {
+  "ok": true,
+  "path": "raw/health-systems/ku-health--policies-and-procedures.md",
+  "len": 4860,
+  "sha256": "24452d424b5f13117b39f366e1668e88201233d3466fe1837e9e4705c7160fa9",
+  "pdf": null,
+  "url": "https://www.kansashealthsystem.com/patient-visitor/policies-procedures"
+ }
+]

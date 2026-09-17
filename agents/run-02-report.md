@@ -25,3 +25,8 @@ Notes:
 - All 14 PMC full texts fetched via Europe PMC REST fullTextXML endpoint (pmc.ncbi.nlm.nih.gov links in front-matter source_url); converted JATS XML -> markdown; tables preserved as markdown tables, figures noted as omitted. Each file has required YAML front-matter with license noted.
 - Verified each file non-empty (24k-69k chars) and containing methods/results/discussion substance, not nav/cookie text.
 - No files under raw/ pre-existed; no collisions. Did not touch metadata/sources.json, index.md, README.md. No push.
+- CONCURRENT-AGENT NOTE: this repo is shared by parallel runs. The 14 Europe-PMC full-text files
+  under raw/peer-reviewed/ were committed by a concurrent agent's broad `git add` in commit
+  ce4a5d3 ("run-03") before my commit ran; my commit 6ab8cf4 ("run-02: peer-reviewed full texts")
+  contains agents/run-02-report.md, the Clin Teach abstract file, and several files other agents
+  left untracked. Content is intact and verified; only commit attribution is mixed.

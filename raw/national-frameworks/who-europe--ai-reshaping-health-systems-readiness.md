@@ -1,5 +1,12 @@
 ---
-source_url: "https://iris.who.int/server/api/core/bitstreams/d2913ae3-c8e0-4a46-b6ff-b4b121e936f4/content"title: "Artificial intelligence is reshaping health systems: state of readiness across the WHO European Region"publisher: "WHO Regional Office for Europe"published_date: "2025"accessed_date: "2026-09-17"license: "CC BY-NC-SA 3.0 IGO (PDF saved to pdf/who-europe--ai-reshaping-health-systems-readiness.pdf)"---
+source_url: "https://iris.who.int/server/api/core/bitstreams/d2913ae3-c8e0-4a46-b6ff-b4b121e936f4/content"
+title: "Artificial intelligence is reshaping health systems: state of readiness across the WHO European Region"
+publisher: "WHO Regional Office for Europe"
+published_date: "2025"
+accessed_date: "2026-09-17"
+license: "CC BY-NC-SA 3.0 IGO (PDF saved to pdf/who-europe--ai-reshaping-health-systems-readiness.pdf)"
+---
+
 Artificial intelligence
 is reshaping
 health systems:

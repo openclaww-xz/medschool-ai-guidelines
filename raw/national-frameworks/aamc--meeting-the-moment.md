@@ -1,5 +1,12 @@
 ---
-source_url: "https://www.aamc.org/media/82026/download?attachment"title: "Meeting the Moment: Supporting the Use of AI in Medical Education"publisher: "AAMC"published_date: "2025-02-27"accessed_date: "2026-09-17"license: "copyright, fair-use excerpt (PDF saved to pdf/aamc--meeting-the-moment.pdf)"---
+source_url: "https://www.aamc.org/media/82026/download?attachment"
+title: "Meeting the Moment: Supporting the Use of AI in Medical Education"
+publisher: "AAMC"
+published_date: "2025-02-27"
+accessed_date: "2026-09-17"
+license: "copyright, fair-use excerpt (PDF saved to pdf/aamc--meeting-the-moment.pdf)"
+---
+
 Meeting the Moment: Supporting the Use of
 AI in Medical Education
 

@@ -1,5 +1,12 @@
 ---
-source_url: "https://lcme.org/wp-content/uploads/2026/03/LCME_LSL_2025_10-8-25_FINAL.pdf"title: "Strategic Re-visioning of the LCME Accreditation Standards (Learn Serve Lead 2025 session, Oct 8 2025)"publisher: "Liaison Committee on Medical Education (LCME)"published_date: "2025-10-08"accessed_date: "2026-09-17"license: "copyright, fair-use excerpt (PDF saved to pdf/lcme--strategic-re-visioning-standards-2025.pdf)"---
+source_url: "https://lcme.org/wp-content/uploads/2026/03/LCME_LSL_2025_10-8-25_FINAL.pdf"
+title: "Strategic Re-visioning of the LCME Accreditation Standards (Learn Serve Lead 2025 session, Oct 8 2025)"
+publisher: "Liaison Committee on Medical Education (LCME)"
+published_date: "2025-10-08"
+accessed_date: "2026-09-17"
+license: "copyright, fair-use excerpt (PDF saved to pdf/lcme--strategic-re-visioning-standards-2025.pdf)"
+---
+
 Strategic Re-visioning
 of the LCME
 Accreditation

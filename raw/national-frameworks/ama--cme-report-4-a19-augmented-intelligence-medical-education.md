@@ -1,5 +1,12 @@
 ---
-source_url: "https://www.ama-assn.org/system/files/cme-report-4-a19-annotated.pdf"title: "Report 4 of the Council on Medical Education (A-19): Augmented Intelligence in Medical Education (Resolution 317-A-18)"publisher: "American Medical Association"published_date: "2019"accessed_date: "2026-09-17"license: "copyright, fair-use excerpt (PDF saved to pdf/ama--cme-report-4-a19-augmented-intelligence-medical-education.pdf)"---
+source_url: "https://www.ama-assn.org/system/files/cme-report-4-a19-annotated.pdf"
+title: "Report 4 of the Council on Medical Education (A-19): Augmented Intelligence in Medical Education (Resolution 317-A-18)"
+publisher: "American Medical Association"
+published_date: "2019"
+accessed_date: "2026-09-17"
+license: "copyright, fair-use excerpt (PDF saved to pdf/ama--cme-report-4-a19-augmented-intelligence-medical-education.pdf)"
+---
+
 HOD ACTION: Council on Medical Education Report 4 adopted as amended, and the
 remainder of the report filed.
 REPORT 4 OF THE COUNCIL ON MEDICAL EDUCATION (A-19)

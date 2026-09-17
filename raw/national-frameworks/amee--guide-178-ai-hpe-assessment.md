@@ -1,5 +1,12 @@
 ---
-source_url: "https://geiselmed.dartmouth.edu/thesen/wp-content/uploads/sites/111/2025/01/Masters-MacNeil.-Thesen-2025-Artificial-Intelligence-in-Health-Professions-Education-assessment-AMEE-Guide-No.-178.pdf"title: "Artificial Intelligence in Health Professions Education assessment: AMEE Guide No. 178 (Masters, MacNeil, Thesen, Medical Teacher 2025)"publisher: "AMEE / Medical Teacher (Taylor & Francis)"published_date: "2025-01-01"accessed_date: "2026-09-17"license: "copyright, fair-use excerpt; open PDF hosted by Dartmouth Geisel (PDF saved to pdf/amee--guide-178-ai-hpe-assessment.pdf)"---
+source_url: "https://geiselmed.dartmouth.edu/thesen/wp-content/uploads/sites/111/2025/01/Masters-MacNeil.-Thesen-2025-Artificial-Intelligence-in-Health-Professions-Education-assessment-AMEE-Guide-No.-178.pdf"
+title: "Artificial Intelligence in Health Professions Education assessment: AMEE Guide No. 178 (Masters, MacNeil, Thesen, Medical Teacher 2025)"
+publisher: "AMEE / Medical Teacher (Taylor & Francis)"
+published_date: "2025-01-01"
+accessed_date: "2026-09-17"
+license: "copyright, fair-use excerpt; open PDF hosted by Dartmouth Geisel (PDF saved to pdf/amee--guide-178-ai-hpe-assessment.pdf)"
+---
+
 Medical Teacher
 
 ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/imte20

@@ -1,5 +1,12 @@
 ---
-source_url: "https://media.aofoundation.org/-/media/project/aocd/shared/facultyfocus/2024/ethical-use-of-artificial-intelligence-in-health-professions-education--amee-guide-no-158-pdf.pdf"title: "Ethical use of Artificial Intelligence in Health Professions Education: AMEE Guide No. 158 (Masters, Medical Teacher 2023)"publisher: "AMEE / Medical Teacher (Taylor & Francis)"published_date: "2023-06-01"accessed_date: "2026-09-17"license: "copyright, fair-use excerpt; open PDF hosted by AO Foundation (PDF saved to pdf/amee--guide-158-ethical-use-ai-hpe.pdf)"---
+source_url: "https://media.aofoundation.org/-/media/project/aocd/shared/facultyfocus/2024/ethical-use-of-artificial-intelligence-in-health-professions-education--amee-guide-no-158-pdf.pdf"
+title: "Ethical use of Artificial Intelligence in Health Professions Education: AMEE Guide No. 158 (Masters, Medical Teacher 2023)"
+publisher: "AMEE / Medical Teacher (Taylor & Francis)"
+published_date: "2023-06-01"
+accessed_date: "2026-09-17"
+license: "copyright, fair-use excerpt; open PDF hosted by AO Foundation (PDF saved to pdf/amee--guide-158-ethical-use-ai-hpe.pdf)"
+---
+
 Medical Teacher
 
 ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/imte20

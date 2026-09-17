@@ -1,5 +1,12 @@
 ---
-source_url: "https://www.aamc.org/media/89636/download"title: "Executive Summary: Generative AI in Academic Medicine - 2024 AAMC Medical School IT & SnippIT Survey Insights"publisher: "AAMC Group on Information Resources (GIR)"published_date: "2025-12-01"accessed_date: "2026-09-17"license: "copyright, fair-use excerpt (PDF saved to pdf/aamc--girl-survey-ai-executive-summary.pdf)"---
+source_url: "https://www.aamc.org/media/89636/download"
+title: "Executive Summary: Generative AI in Academic Medicine - 2024 AAMC Medical School IT & SnippIT Survey Insights"
+publisher: "AAMC Group on Information Resources (GIR)"
+published_date: "2025-12-01"
+accessed_date: "2026-09-17"
+license: "copyright, fair-use excerpt (PDF saved to pdf/aamc--girl-survey-ai-executive-summary.pdf)"
+---
+
 Executive Summary: Generative AI in Academic Medicine—
 2024 AAMC Medical School IT & SnippIT Survey Insights
 Prepared by the GIR Steering Committee, December 2025

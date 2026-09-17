@@ -1,5 +1,12 @@
 ---
-source_url: "https://www.ama-assn.org/system/files/ama-ai-principles.pdf"title: "AMA Principles for Augmented Intelligence Development, Deployment, and Use"publisher: "American Medical Association"published_date: "2024"accessed_date: "2026-09-17"license: "copyright, fair-use excerpt (PDF saved to pdf/ama--ai-principles.pdf)"---
+source_url: "https://www.ama-assn.org/system/files/ama-ai-principles.pdf"
+title: "AMA Principles for Augmented Intelligence Development, Deployment, and Use"
+publisher: "American Medical Association"
+published_date: "2024"
+accessed_date: "2026-09-17"
+license: "copyright, fair-use excerpt (PDF saved to pdf/ama--ai-principles.pdf)"
+---
+
 NOVEMBER 2024
 
 Augmented Intelligence Development,

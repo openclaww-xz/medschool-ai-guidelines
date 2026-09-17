@@ -1,0 +1,841 @@
+====================
+FILE: raw/us-med-schools/vcu--understanding-genai-policy-ico-blog.md
+FM title: Understanding VCU's Generative AI Policy: Responsible, Ethical and Safe Use of AI on Campus
+FM source_url: https://blogs.vcu.edu/ico/2026/03/13/understanding-vcus-generative-ai-policy-responsible-ethical-and-safe-use-of-ai-on-campus/
+[PHI]
+  Protecting Data & Privacy: One of the core expectations is that usersdo not enter confidential or sensitive data — such as personal student records, research data, financial or health information — into GenAI tools unless the tool has been approved for that level of data.
+  GenAI systems do not inherently guarantee privacy and content entered into public models that can be accessed or reviewed by others – interfering with regulations like FERPA, HIPAA and institutional data classification standards.  2.
+[PERM]
+  On November 12, 2025, VCU adopted the Acceptable Use of Generative AI Technology policy to establish clear expectations and guidelines for how AI should be used across the university community.
+  VCU’s Acceptable Use of Generative AI Technology policy sets  baseline boundaries to ensure that AI technologies are used in a way that:  Protects confidential and sensitive information  Supports academic and research integrity  Ensures compliance with university, state and federal regulations  Fosters digital literacy and ethical technology use  Key Policy Points  1.
+  Faculty are encouraged to provide clear guidance in syllabi about how, and if , GenAI tools may be used for coursework.
+[DATE]
+  The university offers guidelines, resources, training and approved tools via the CIO’s office and academic partners.
+  These materials help community members stay informed about secure and effective ways to leverage GenAI in their work.
+[DISC]
+  Students must remain accountable for the content they submit, and any AI-assisted work should be verified for accuracy and properly attributed.
+  Upholding Transparency and Accuracy : It’s important to understand the limitations and risks associated with AI-generated content.
+[TOOL]
+  Members of the VCU community are already using tools like Google Gemini, Microsoft Copilot and Adobe Firefly.
+[ENF]
+  While these tools offer tremendous potential for creativity and efficiency, they also raise new ethical and compliance questions around data privacy, academic integrity, copyright and accuracy.
+  Using AI with Academic Integrity : For students and educators, the policy notes classroom-specific guidelines on academic integrity.
+  Using AI tools in ways that are dishonest, or misrepresent student effort, is considered academic misconduct.  3.
+[APPLIES]
+  But we’ll tell you what we do know – like why this policy matters, what it means for VCU students, staff and faculty, and how embracing these best practices will help VCU remain a leader in academic excellence.
+  AI tools should not replace a student’s own work or original thinking.
+  Whether you’re a student using AI for research, an educator exploring innovative learning approaches or a staff member incorporating AI into administrative work, these policies aim to balance  innovation with accountability .
+====================
+FILE: raw/us-med-schools/wake-forest--ai-guidelines-for-academic-use.md
+FM title: AI at Wake Forest - Guidelines for Academic Use
+FM source_url: https://ai.wfu.edu/guidelines-for-academic-use/
+[BAN]
+  As courses fulfill various roles in our curricula, the permitted uses of GAI may not be the same in every course or on every assignment in a course, and permitted uses of GAI may change over time.
+  Department or program discussions will provide an opportunity for instructors to share a range of perspectives and scenarios for the permission or prohibition of GAI in the pursuit of course or program outcomes.
+  Using GAI as a learning tool and an appropriate professional skill: GAI may not be an appropriate learning or skills development tool in all courses, but program instructors should be aware of GAI use across their shared curricula.
+[PERM]
+  For example: “The unauthorized use of generative AI platforms by a student, whether in the classroom, laboratory, studio, intern- and externships, independent research settings, or other spaces identified as serving educational goals.”  Instructors and students share responsibility for communicating about GAI use.
+  In order to substantiate cases of academic misconduct, instructional materials (such as the course syllabus, assignment prompts, and/or verbal instructions) need to include directions regarding the authorized use of GAI, including method(s) for disclosing or citing such use; in short, when and how GAI tools can be used, along with when and how such use should be acknowledged.
+  Evidentiary standards for academic misconduct should not allow for AI detectors alone to constitute a sufficient standard of proof.
+  Academic integrity and learning: Students need clear guidance in every class regarding the permitted use of GAI technology, its role, if any, in their learning and skills development, and they need clear communication about the consequences of inappropriate use of GAI technologies.
+[DISC]
+  If any fee-based GAI tools are used for a particular course, instructors should follow existing university processes for transparency about the cost of required course materials.
+  What are the expectations for disclosure of GAI usage in these contexts?
+[ASSESS]
+  Clearly state the definition of Academic Misconduct relative to GAI: GAI may impact learning contexts and assessments in ways that require new structures for producing authentic student work that are distinct from those described in existing honor codes and definitions.
+  A critical discussion topic includes how GAI may affect typical disciplinary assessments and demonstrations of learning and if that projected impact requires the development of additional or alternative measures for making learning visible.
+  Identify and discuss the ways faculty might use GAI in teaching support work (outside the classroom, such as preparing syllabi, designing assignments, grading, writing letters of recommendation, etc.) and administrative tasks.
+[TOOL]
+  The group’s final report, delivered to the Provost and Deans in March 2025 reviews some impacts of GAI on Wake Forest’s educational enterprise, articulates principles based on our mission and values to guide our practices for engaging with GAI, and offers specific recommendations for maximizing the benefits of this technology while mitigating the likely harms associated with it.
+[ENF]
+  The absence of GAI guidance in a course undermines the ability to recognize and adjudicate instances of academic misconduct.
+  Provide clarity on academic misconduct with GA I  While each school maintains its own system, evidentiary standards, and procedures for identifying and adjudicating cases of academic misconduct, the College and each school should ensure that existing processes and criteria in judicial frameworks and academic honor codes are adequate to address academic misconduct with GAI.
+  The following points represent a core set of GAI-related issues that should inform judicial standards and honor codes.
+  Students are responsible for requesting clarification when they are uncertain about the appropriateness of a given use of GAI for a particular assignment (as well as when they have questions about maintaining academic integrity more broadly).
+  The Discussion Framework tool has been developed to provide prompts that academic programs can consider together on how GAI is impacting their teaching and research in ways specific to the discipline(s) and curricula they share.
+  As students are already using GAI across all disciplines, the AIWG strongly recommends departments include instruction in GAI use and best practices somewhere in their curriculum.
+  Identify ways GAI is best used or not used to enhance learning in this field/discipline.
+  Identify the skills and approaches necessary to use GAI successfully in relevant fields, disciplines, or professions.
+  Where will students learn about any recommended disciplinary or professional practices for using GAI resources?
+[APPLIES]
+  Include GAI expectations and policies on each course syllabus  Address issues such as: the types of resources students can use for which assignments; how and when GAI platforms may be used; how and when students can work together on assignments; appropriate citation methods, etc.
+  Syllabus statements provide clarity for all students and support their success.
+  Situate these expectations within the larger context of academic and professional integrity as well as support for student learning.
+  With wide range of possible applications in learning contexts, it is important to establish the responsibility of both instructors and students for communicating and clarifying acceptable GAI use and boundaries.
+  Instructors are responsible for communicating their policies and guidelines to students.
+  The instructor should be able to demonstrate that students had a reasonable opportunity to know the rules and expectations of the given context.
+  Students should be able to demonstrate that they took reasonable steps to know the rules and expectations regarding GAI in a given situation.
+  Sharing student work and data with AI detectors also brings up serious ethical considerations for privacy, intellectual property, and adding student work to AI training materials.
+  Any instructor whose course explicitly includes the use of GAI tools is expected to ensure that all students have access to the necessary GAI tools.
+  The instructor is also responsible for collaborating with appropriate campus partners (IS, CLASS, etc.) to implement accommodations or identify accessible alternatives to their chosen GAI tools for students with disabilities.
+  Share university resources for students that explain best practices for protecting their privacy, as well as personal and university data when using GAI tools.
+  Offering student-facing resources that identify common barriers to accessibility in GAI tools and offering guidance on how to select tools that best fit the needs of students who use assistive technology.
+====================
+FILE: raw/us-med-schools/wake-forest-som--md-student-handbook.pdf.md
+FM title: Wake Forest University School of Medicine Doctor of Medicine Student Handbook
+FM source_url: https://cdn.atriumhealth.org/-/media/wakeforest/school/files/students-right-to-know/doctor-of-medicine-student-handbook.pdf?rev=b6c8f023fd844d15bf06254981c83d51&hash=066498B9EADA27E2702FEB17E1DC2FF3
+[PHI]
+  When Academic Affairs or faculty  determine that content is inappropriate for recording (for example, due to patient privacy, confidentiality, or  content covered is directly related to actual assessment questions) students are prohibited from a making  audio or video recordings or photographs during the session.
+  Refrain from falsifying or deceitfully representing information regarding clinical work or patient  care, including, but not limited to, reporting or documenting false lab values or other unverified  patient information.
+  Maintain the confidentiality and security of patient information.  2.
+  Integrate patient information with clinical and basic science knowledge.  3.4.
+  Synthesize and communicate patient information to other health professionals to accomplish  safe care transitions and promote effective teamwork.   4.
+[BAN]
+  Students may not be eligible to advance in the  curriculum until the outstanding balance is paid in full.
+  The Honor Pledge  can be found in Appendix II; this pledge may be used as deemed appropriate by students and faculty,  e.g., as a posting in a lab or lecture hall, but it may not substitute for Appendix I on a graded  assignment.
+  Honor Council members may not also serve as the president, vice president, secretary, or  treasurer of his or her individual class or of the Student Body.
+  Members of the Honor Council shall not serve as Investigator for a  particular case if they feel themselves unable to act fairly or impartially in this duty.
+  The Deans and Chair will meet biannually to discuss,  in general terms and without revealing the identity of the students involved, the concerns reviewed  by each, including cases not referred to the Council, to promote a mutual understanding of the  types of circumstances that may or may not warrant referral to the Council.  2.
+  Convene a meeting of the Honor Council if the Chair feels for any reason that a reported  behavior does not constitute a violation of the code and thus may not need to proceed to a  formal hearing.
+  This representative may not be a member of the Honor Council.  f.
+  The  general public and members of the press or media are not permitted to be present.  2.
+[PERM]
+  The curriculum in Charlotte is comparable to that in Winston-Salem, allowing students to complete their third  and/or fourth years, including transition courses, testing, LEAP weeks, and certifications.
+  Students are strongly encouraged to add applicable policies to their PolicyTech ‘Favorites’ for quick  access.
+  Note Exchange   Wake Forest encourages student collaboration and discourse within our learning communities and between  classes to share study materials and resources to enhance learning and acquisition of knowledge and  competency.
+  Tuition changes authorized by the Board of Trustees will become effective at the opening of the next  session after adoption.
+  We encourage:  • Prospective students begin the financial planning process early.  • Current students stay abreast of their financial situation and knowledgeable of all options.  • Alumni to understand available repayment options for their field of residency, helping them make wise  decisions to balance student loan debt with financial wellness.
+  Unsubsidized Federal The Unsubsidized Federal Direct Stafford Loan program is a  Direct Stafford Loan federal student loan program that allows eligible medical students  to borrow up to $47,167; the amount is dependent upon length of  academic year.
+  A student who has been admitted to a Wake Forest University School of Medicine program and who is  entitled to educational assistance under chapter 31, Vocational Rehabilitation and Employment, or chapter  33, Post -9/11 GI Bill benefits, is permitted to attend or participate in the course of education without making  payment for tuition and fee amounts to be covered by the VA education benefits.
+  Refrain from cheating, including, but not limited to, copying the answers of another student on an  examination, unauthorized use of previous editions of examinations, reproducing information on  an examination for other students who have not taken the examination, or any other use of  unauthorized information or assistance on an examination or assignment.  3.
+  Create an atmosphere which encourages learning, characterized by cooperation and respectful  relationships with the patient population served.  2.
+  If the assignment is  electronic, the student is responsible for reading all of Appendix I and will be required to press an “I  Accept” button or its equivalent before being allowed to begin the assignment.
+  All individuals involved in an Honor Council proceeding must maintain that confidentiality  at all times, unless disclosure is required by law, or when disclosure is otherwise permitted under this  Code.
+  Investigator for the case;  iv. witnesses, allowed one at a time and only during their own testimony;  d.
+[DATE]
+  Effective October 9, 2020, and as part of an integration with Atrium Health, an agreement was entered  into by and among Wake Forest University (WFU), Wake Forest University Health Sciences (WFUHS),  North Carolina Baptist Hospital (NCBH), Wake Forest University Baptist Medical Center (WFUBMC) and  Atrium Health, Inc.
+  Notify the responsible person if something interferes with our ability to perform clinical tasks  effectively.
+  Recognize when our ability to function effectively is compromised, and ask for relief or aid.  3.
+  Also, no Council member will  hold a position on the Health and Effectiveness Committee.  d.
+  Current versions will also appear on the Honor Council portion of the SGA website, the  Educational Services portion of the eWake website, and in the Wake Forest School of Medicine  Student Bulletin which is revised and published annually.
+  Interpersonal and Communication Skills  Each graduate will communicate and interact effectively with patients, their families, and members  of the interprofessional healthcare team.
+  Patient Care  Each graduate will function as a member of an inter-professional healthcare team and provide  patient care that is compassionate, appropriate, and effective for the treatment of health problems  and the promotion of health in diverse populations and settings.
+  Systems-Based Practice  Each graduate will demonstrate awareness and understanding of the broader health care delivery  system and will possess the ability to effectively use system resources to provide patient-centered  care that is compassionate, appropriate, safe and effective for patients and populations.
+  Interprofessional Collaborative Practice  Each graduate will demonstrate the skills to participate as a contributing and integrated member  of an interprofessional healthcare team to provide safe and effective care for patients and  populations.
+  Identify one’s own role and the roles of other team members, including limitations and  boundaries of each role to optimize healthcare delivery and effective healthcare team  functioning.  7.2.
+  Participate as a high-functioning team member by contributing one’s skills set, supporting  other team members as needed and ensuring the functioning of the healthcare team remains  optimal (i.e. safe, timely, efficient, effective, and equitable) for patient and population-centered  care.    8.
+  Students are required to maintain  updated and accurate contact information in their PeopleSoft accounts to be included in these  messages.  2.
+[AAMC]
+  They will also introduce students to the resources within AAMC’s Careers in Medicine, which is  a free resource for all students.
+[DISC]
+  As required by The Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistic Act, information provided in the Annual Crime and Fire report may be found at the Wake Forest University School of Medicine Campus Safety and Security website:  community-life/campus-safety-and-security.
+  Disclosing such confidential material is an honor  code violation.
+  Disclosing such confidential material is an honor code violation.
+  The Committee on Admissions establishes and publicizes on the admissions webpage attributes  desired of applicants and reviews these attributes annually, aligning them with the School of  Medicine's mission and vision and the school's educational goals and objectives.
+  At matriculation, students will acknowledge that they have received the Technical Standards and can  meet these standards, with or without reasonable accommodation.
+  At this time, he or she must disclose his or her name, the name of the accused  student, the names of any witnesses and the suspected violation.
+  Only individuals specified in this Code should be provided information regarding  Honor Council business and proceedings, except when disclosure of information may  otherwise be required bylaw.  c.
+  To be attached to any quizzes or exams per section III.C:  “I acknowledge that the principles of the Honor Code and Honor Pledge pertain to this assignment.
+  Demonstrate honor and integrity by being honest about role and experience level, admitting  mistakes and shortcomings, appropriately attributing sources of ideas and data, and  respecting boundaries between patients, peers, and educators.  4.4.
+[ASSESS]
+  The partnership between Advocate Health system and Wake Forest University School of Medicine has been a  transformative collaboration with a shared mission to improve health, elevate hope, and advance healing for all.
+  However, actual assessment questions on tests and quizzes are confidential and should not be  shared in any format between classes.
+  Wake Forest University School of Medicine will not impose any penalty, including the assessment of late  fees, the denial of access to classes, libraries, or other institutional facilities, or the requirement that a  student receiving Chapter 31 or 33 benefits borrow additional funds due to the delayed disbursement of  funding from the VA.
+  Appendix I will apply to all graded assignments during any phase of the Wake Forest School of  Medicine course of study, and will appear on all quizzes or examinations.
+  Perform accurate, complete and focused physical and mental status examinations.  3.3.
+  Demonstrate a commitment to continuously improve their medical knowledge, skills and/or  attitudes by incorporating formative evaluation and feedback into daily practice.  5.6.
+  MD Program Student Handbook – CO 2024-2025, page 31    The Grading System   Grading scale for Courses and Clerkships   All students are assessed using the program level objectives and course objectives as defined by the  Undergraduate Medical Education Curriculum Committee (UMECC).
+  The grading system and criteria  contributing to a grade are clearly outlined in each course/clerkship syllabus.
+  Grading System for Pass/Fail courses  • Pass (P) assigned to students who successfully pass all benchmarks as defined in the course  syllabus.  • Fail (F) assigned to students who do not successfully pass criteria as defined in the course syllabus.
+  Grading System for Clerkships/Courses that use a Tiered Scale   Students should refer to their course/clerkship syllabus for details regarding the specific tiered scale including  criteria for each tier.  • Incomplete (I) assigned to students who have not completed all course components prior to the end of the  course due to missing class time due to illness or emergency.
+  Student evaluation includes  small-group participation, problem sets, and computer-based examinations.
+  Throughout the CS  curriculum, students have multiple opportunities to meet and practice talking with and examining patients  including real patients in our medical center, as well as standardized patients.
+[ENF]
+  Wake Forest University School of Medicine maintains policies that apply to all SOM students, including  policies on health requirements and immunizations, disability accommodations, refunds of tuition,  financial aid, education records, appeal of dismissal, substance abuse, and sexual misconduct.
+  Wake Forest School of Medicine maintains policies that apply to all SOM students, including policies on health  requirements and immunizations, disability accommodations, leave of absence, refunds of tuition, financial aid,  education records, appeal of dismissal, substance abuse and sexual misconduct.
+  Non-retaliation  Refrain from any action that could be construed as retaliation against a fellow student or faculty  member who has reported a potential violation of the Honor Code or other Medical School policy,  regardless of the outcome of such a report.
+  This includes violations of criminal statutes.
+  Witnessing Violations  Each student carries the personal responsibility to report concerns regarding possible violations of  the Code that he or she witnesses.
+  In addition, each student must report concerns when s/he has  sufficient information to believe a violation has occurred.
+  Failure to report such concerns will be  considered a violation of the Code.
+  Each matriculating student will sign the Honor Pledge during orientation.
+  Students are required to  sign the Honor Pledge.
+  The Honor Code and System will be applicable to all students.
+  For paper  assignments, the student will be asked to sign below Appendix I as a symbol of acceptance and  understanding that the Honor Code pertains to the assignment.
+  Any Council member found guilty of an Honor Code  violation in a formal hearing shall be immediately removed from the Council, with his or her  position filled as soon as possible by election from the appropriate class.  f.
+[APPLIES]
+  MD Program Student Handbook – CO 2024-2025, page 2    IMPORTANT NOTE FOR ALL STUDENTS  Circumstances may arise during a term that cause significant disruptions to School of Medicine and/or  Graduate School of Arts and Sciences – Biomedical Sciences operations and result in the closing of  campus or a change in course modalities.
+  NOTICE:  The information in this student handbook applies to the academic year 2024-2025.
+  PLEASE NOTE:  The student handbook contains only a subset of policies for students.
+  For the most recent version of  policies, students should access PolicyTech, the institutional policy site.
+  Students who are uncertain  about how to access program specific information should contact their Vice Dean and/or program director.
+  Students  are strongly urged to familiarize themselves with these policies on the institutional policy site.   *Each student is provided with an email account.
+  All students are expected to check and  respond to emails in a timely manner.   **Each student is provided with an identification badge.
+  Policies which apply to Atrium Health Wake Forest Baptist (AHWFBH) clinics, affiliates, and other  locations and/or specifically to the Medical Center (WFBMC) are designated as AHWFBH policies  and all faculty, staff and students are required to abide by the policies as noted in each policy.
+  MD Program Student Handbook – CO 2024-2025, page 3  Policies which apply to the education and learning environment and are specific to students enrolled in and/or taking courses as part of the Wake Forest University School of Medicine (WFUSM) or Graduate School of Arts and Sciences – Biomedical Sciences are designated as WFUSM/WFU policies and students are required to abide by these policies.
+  Students and faculty are equal and active partners in the learning process.
+  Our faculty and staff value them and model them for students.
+  Although our curriculum evolves as medicine changes, we hold firm to these core values so that above all else, our graduates are trained to practice medicine according to these principles MD Program Student Handbook – CO 2024-2025, page 6    Who Are We?
+====================
+FILE: raw/us-med-schools/wake-forest-som--policy-compliance-companion.pdf.md
+FM title: Wake Forest University School of Medicine Policy and Compliance Companion 2026-2027
+FM source_url: https://cdn.atriumhealth.org/-/media/wakeforest/school/files/students-right-to-know/student-handbooks/wake-forest-university-school-of-medicine-policy-and-compliance-companion.pdf?rev=a069a52b24bf43999b24493693e92a36&hash=45EDC04584AF96866AD7C28254ED898F
+[PHI]
+  Page | 26 HIPAA Privacy and Security Sanctions Policy (Enterprise) This policy will provide guidance on applying consistent sanctions for a violation of HIPAA that should be used in conjunction with Human Resources Corrective Action policy.
+  The  School of Medicine reserves the right to redact witness names/statements and other  personally identifiable information from the draft investigation report reviewed by each party.
+  Education Record: An Education Record is any record (in handwriting, print, tapes, film,  computer, e-mail, text message, or other medium), which contains information that is personally  identifiable to an Eligible Student, and is maintained by the School of Medicine or by a party or  organization on behalf of the school.
+  The right to provide written consent before the School of Medicine discloses personally  identifiable information from the Eligible Student's Education Records, except to the extent  that FERPA authorizes disclosure without consent.  4.
+  (3) Compliant: Adheres to privacy and regulatory standards, including the Family  Educational Rights and Privacy Act (FERPA) and the Health Insurance Portability and  Accountability Act (HIPAA).  b) Students must ensure all submitted academic and clinical work reflects personal  understanding and learning.  c) Examples of Acceptable Use:  (1) Grammar and spelling suggestions.
+  (c) Discloses student records; protected health information (PHI); information about  faculty, peers or School of Medicine staff; or clinical documentation, site details, or  simulation content.
+  Maintain the confidentiality of patient information.  2.
+  The Program Director has the discretion  to forgo issuing a verbal warning if the Program Director believes the breach is substantive (e.g.,  patient harm, falsification of records, impairment, breach of HIPAA) and may escalate action to the  DAN Student Success Committee (SSC).
+  Trustworthiness:  a) Maintain the confidentiality of patient information.  b) Maintain the confidentiality of student assessment/evaluation information.  c) Admit errors and do not intentionally mislead others or engage in self-promotion at the expense  of student peers, professional colleagues, or patients. 3.
+[BAN]
+  PLEASE NOTE:  • The policies included in this Handbook may not be the most current versions available.
+  In adherence with applicable laws and as provided by School policies, the School prohibits discrimination in its educational programs, admissions, and activities on the basis of race, color, religion, national origin, sex, age, sexual orientation, gender identity and expression, genetic information, disability, and veteran status.
+  Sexual misconduct will now be tolerated at the University and is expressly prohibited.
+  Retaliation is strictly prohibited in connection with any reports of possible sexual misconduct.
+  Students may not be eligible to advance in the curriculum until the outstanding balance is paid in full.
+  Upon receipt of any isolation order from the State Health Director,  the Student must notify the Program Manager.  5.
+  An infected health care provider who has been evaluated by Teammate Health shall notify  Teammate Health prior to a change in practice at the School involving surgical or obstetrical  procedures or dental procedures.
+  The infected health care provider shall not make the proposed  change without approval from Teammate Health.  10.
+  A student who withdraws is not permitted to attend School of Medicine educational activities or  access program-related materials.
+  This extension may not extend the period of  leave beyond one (1) year.
+  In some cases, student loans may not be deferred for  the entirety of a leave.
+  If the first dose is administered on or after the 16th birthday, a booster  dose is not required.  • Individuals born before January 1, 2003 shall not be required to receive  meningococcal conjugate vaccine Tetanus/diphtheria The following are required: toxoid • All students must submit documentation of 3 doses* of a (DT/DTaP/DTP/Td) tetanus/diphtheria toxoid containing and one must be a Tdap.
+[PERM]
+  Boone Partnering with Appalachian State University, the PA program established a campus in Boone North Carolina in 2014 to encourage future PAs to pursue careers in underserved rural areas.
+  State Authorization Reciprocity Agreement – North Carolina Complaint Information Students may contact the offices of the State Authorization Reciprocity Agreement – North Carolina (SARANC) via the North Carolina State Education Assistance Authority (NCSEAA), North Carolina’s portal entity for the State Authorization Reciprocity Agreement (SARA).
+  The Licensure Division of the University of North Carolina System Office serves as the official state entity to receive complaints concerning post-secondary institutions that are authorized to operate in North Carolina.
+  Page | 14 Learning Environment Liaison Team The Wake Forest University School of Medicine is committed to creating and maintaining a learning environment that supports and encourages respect for every individual and promotes the development of professionalism among medical students.
+  Students are strongly encouraged to add applicable policies to their PolicyTech ‘Favorites’ for quick access.
+  IMPORTANT INFORMATION FOR INDIVIDUALS WHO MAY BE VICTIMS OF SEXUAL HARASSMENT, SEXUAL MISCONDUCT, SEXUAL ASSAULT, DATING VIOLENCE, DOMESTIC VIOLENCE, OR STALKING: If you or someone you know may have been a victim of the behaviors listed above or any other type of violence, you are strongly encouraged to seek immediate assistance.
+  We encourage:  • Prospective students begin the financial planning process early.  • Current students to stay abreast of their financial situation and knowledgeable of all options.  • Alumni to understand available repayment options for their field of residency, helping them make  wise financial decisions to balance student loan debt with financial wellness.
+  Tuition changes authorized by the Board of Trustees will become effective at the opening of the next session after adoption.
+  A student who has been admitted to a Wake Forest University School of Medicine program and who is entitled to educational assistance under chapter 31, Vocational Rehabilitation and Employment, or chapter 33, Post -9/11 GI Bill benefits, is permitted to attend or participate in the course of education without making payment for tuition and fee amounts to be covered by the VA education benefits.
+  Unsubsidized Federal The Unsubsidized Federal Direct Stafford Loan program is a federal  Direct Stafford Lon student loan program that allows eligible medical students to borrow  up to $47,167; the amount is dependent upon length of academic  year.
+  Acceptable Use Policy (Enterprise) This document applies to students and the purpose of this policy is to outline the acceptable use of data within the Digital Landscape.
+  It is the policy of Atrium Health Wake Forest Baptist (AHWFB) to allow Advanced Practice Provider (APP) students to document in the medical record.
+[DATE]
+  Effective October 9, 2020, and as part of an integration with Atrium Health, an agreement was entered into by and among Wake Forest University (WFU), Wake Forest University Health Sciences (WFUHS), North Carolina Baptist Hospital (NCBH), Wake Forest University Baptist Medical Center (WFUBMC) and Atrium Health, inc.
+  Wake Forest University also may offer credentials such as certificates and diplomas at approved degree levels.
+  The Wake Forest PA Program is approved by the Accreditation Review Commission on Education for the Physician Assistant (ARC-PA) for 64 students at our Winston- Salem campus and up to 32 students at our expanded campus at Appalachian State University in Boone, NC.
+  The Boone campus has also been approved by SACSCOC.
+  Please Note: While School of Medicine policies are contained within the Wake Forest University School of Medicine Policy and Compliance Companion, students should always refer to PolicyTech for the most updated version of any policy.
+  Users: Advocate Health teammates, affiliates and their Workforce Members, contractors, third party  vendors, and other approved users of Advocate Health Technology Assets.
+  This  includes implementing a cybersecurity program, which will be monitored for effectiveness.  2.
+  Cybersecurity policies will be reviewed and updated annually.
+  Technology Assets configured with legacy access controls must be updated to current  cybersecurity standards during major upgrades or upon request by Cybersecurity.
+  Unmanaged devices (e.g., FDA certified, black box, vendor appliances) will have access controls  to the extent authorized and approved by Cybersecurity.  4.
+  Early dismissal: An early dismissal is an inclement weather closure of the campus that is effective  at a particular time of the day, decided and announced after students, faculty or staff have already  reported for work.
+  Students must maintain updated and accurate contact  information in their PeopleSoft accounts to be included in these messages.
+[AAMC]
+  The MSPE is required for  residency applications and is released in alignment with the timeline set by the Association  of American Medical Colleges/Electronic Residency Application Service (AAMC/ERAS).  2.
+[DISC]
+  As required by The Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, information provided in the Annual Crime and Fire Report may be found at the Wake Forest University School of Medicine Campus Safety and Security website:  This report will be mailed to anyone requesting a copy.
+  In addition to these modules, students may be asked to acknowledge program specific policies and/or procedures.
+  General Requirements/Applicability: Faculty/staff/Third Parties and Students should disclose any  conflict of interest, as defined in section B, below.  1.
+  Any faculty/staff/Third Party who assesses Students should disclose in writing the presence  of a conflict of interest to the appropriate Program Manager.  3.
+  Students should disclose any conflict of interest following the process specified in the Student  Handbook for their specific program.  4.
+  Examples of conduct that violate this policy include (Note: these examples are not intended  to be exhaustive):  • Intentional deception or dishonesty in disclosures  • Omission of relationship disclosures  Page | 35  • Failure to comply with plans to avoid conflict of interest in student assessment  2.
+  Confidentiality  CLASS is responsible for information disclosed by a student seeking accommodations.
+  An Eligible Student’s Education Record, or any component thereof, may be disclosed by  the record custodian without the written consent of the Eligible Student when the disclosure  is:  Page | 93 a) To school officials who have a legitimate education interest in the records.
+  When the custodian has any  questions regarding the request, the custodian should withhold disclosure unless the  custodian obtains the written consent of the Eligible Student, or the concurrence of a  supervisor or other appropriate office that the record may be released. b) To officials of another school, upon request, in which an Eligible Student seeks or intends  to enroll.
+  Although release of Education Records to the parent(s) of a dependent Eligible  Student is permissible under FERPA, it is the policy of the School of Medicine to require  a release from the dependent Eligible Student prior to disclosure to a parent.
+  In cases of divorced parents, disclosure  may be to either parent, unless the School of Medicine has been provided with evidence  that there is a court order, statue statute or legally binding document relating to such  matters as divorce, separation or custody that would prohibit such disclosure.
+  The Student Record’s Office shall be consulted prior to the  release of directory information to determine whether an Eligible Student has placed a  restriction upon the disclosure of such information.  *Please consult Wake Forest Legal Department for information about this code.
+[ASSESS]
+  The Charlotte campus offers a dynamic and highly integrated curriculum similar to that in Winston-Salem, enabling students to complete their clinical years, transition courses, examinations, LEAP weeks, and certifications.
+  The LEL team is not a part of any Wake Forest University School of Medicine program nor is it involved in student assessment.
+  We will be fair and impartial in grading, evaluations, promotions and grievances, and follow our policies and procedures for addressing concerns.
+  Wake Forest University School of Medicine will not impose any penalty, including the assessment of late fees, the denial of access to classes, libraries, or other institutional facilities, or the requirement that a student receiving Chapter 31 or 33 benefits borrow additional funds due to the delayed disbursement of funding from the VA.
+  The teaching provider must perform (or re-perform) the physical exam and/or medical decision-making activities of the E/M service being billed but may verify any student documentation in the medical record, rather than re-documenting this work.
+  The teaching physician must perform (or re-perform) the physical exam and/or medical decision-making activities of the E/M service being billed but may verify any student documentation in the medical record, rather than re-documenting this work.
+  Requests must have a documented requester, risk assessment, policy in conflict,  reason/justification, compensating controls (if possible), and approval from the requester’s  management.
+  REVISION DATES      Page | 33 Conflict of Interest Related to Student Assessment Policy (WFUSM) Version 3  PURPOSE The purpose of this policy is to ensure that faculty members and other university representatives who provide academic assessment of students are free from conflicting relationships with the students.
+  SCOPE All faculty engaged by Wake Forest University School of Medicine (WFUSOM), WFUSOM faculty and staff, Third Parties responsible for assessing Students, and Students are responsible for complying with this policy.
+  Assessment: The systematic use of a variety of methods to collect, analyze, and use information to  determine whether a Student has acquired the competencies (e.g., knowledge, skills, behaviors,  attitudes) established by and for the Student’s applicable program.
+  Third Party: an individual who is not employed by Atrium Health Wake Forest Baptist, but is in a position  of assessing a Student on behalf of Wake Forest University School of Medicine.
+  In the event of a conflict of interest, the appropriate Program Manager will develop a plan to  remove the faculty/staff/Third Party from the assessment of the Student with whom the  faculty/staff/Third Party has a conflict of interest.
+[TOOL]
+  Page | 4 Policies which apply to entities and markets that fall under Advocate Health are designated as Enterprise policies and all faculty, staff, and students are required to abide by the polices as noted in each policy.
+  Conflicts of Interest - Individual Policy (Enterprise) The purpose of this policy is to identify Significant Financial or Outside interests that pose a Conflict of Interest so associated risks can be mitigated.
+  Enterprise Drug Diversion Policy This policy applies to students.
+  Enterprise Social Media This document applies to students and the purpose of this policy is to assist our teammates in making responsible decisions about their use of social media.
+  Travel and Business Expense Policy (Enterprise)  This policy applies to business expenses incurred by and reimbursements paid to all faculty, physicians,  students, residents, clergy, fellows, officials, board members and teammates employed by an Advocate Health  entity.
+  Cybersecurity Policy (Enterprise)  Version 5   I.
+  DEFINITIONS:  Data: Any data as defined by the Data Classification Policy (Enterprise).
+  Updates will remain consistent with  the governing principles of this policy and in accordance with the Document Development and  Control Policy (Enterprise).  6.
+  Cybersecurity will establish an IT risk management program in accordance with the IT Risk  Management Policy (Enterprise).
+  Users will be responsible for using Data and Technology Assets in accordance with the  cybersecurity program and all cybersecurity policies, including the Acceptable Use Policy  (Enterprise).  3.
+  The Chief Information Security Officer (CISO) will be responsible for the cybersecurity program  and all cybersecurity policies in accordance with the Assigned Cybersecurity Responsibility Policy  (Enterprise).  4.
+  Documented  risks may be noted by Cybersecurity for technologies unable to support access controls in  accordance with the IT Risk Management Policy (Enterprise).  3.
+[ENF]
+  Page | 16 Accessing Policies Wake Forest University School of Medicine maintains policies that apply to all School of Medicine students, including policies on health requirements and immunizations, disability accommodations, refunds of tuition, financial aid, education records, appeal of dismissal, substance use, and sexual misconduct.
+  Learning institutions  We are proud to be an academic learning health system where we train both our own students and learners as well as those who come to do clinical rotations with our excellent faculty, providers and preceptors in a variety of disciplines and specialties.
+  Page | 19 Title IX and Non-Title IX Sexual Misconduct Policy and Grievance Procedures Please review this policy in its entirety in our PolicyTech System as well as the Appendix section of this Policy and Compliance Companion.
+  When students or employees experience acts of sexual misconduct (i.e., sexual assault, stalking, dating violence, domestic violence), their sense of safety and trust is violated and this can significantly interfere with their success at the University.
+  Sexual misconduct is a violation of the institution’s values and policies and presents a barrier to fulfilling the University ’s missions.
+  Responding to incidents of sexual misconduct can be challenging, whether you are the person harmed or someone trying to help.
+  The University provides assistance and intervention to survivors of sexual misconduct to support their continued progress at the University.
+  The University offers a coordinated response that include police and Title IX investigations, student conduct process, victim and respondent assistance, and counseling.
+  School of Medicine, Office of Student Affairs; and the Department of Physician Assistant Studies are the primary units that coordinate support services, victim assistance, and referrals for student victims and/or student respondents of sexual misconduct.
+  The University takes all complaints and accusations of sexual misconduct seriously.
+  We welcome your involvement in our mission to foster a campus environment that strives to prevent sexual misconduct and promotes the reporting of sexual misconduct, compassionate responses to survivors of sexual violence, and equitable treatment of complainants and respondents.
+  The University imposes strict sanctions against those found responsible for sexual misconduct and assists survivors in the pursuit of campus, civil and legal remedies.
+[APPLIES]
+  Our students, residents, and fellows have access to the finest learning environments along with the full breadth of clinical facilities in our system that draw a wide range of patients and case types from across a multi-state region.
+  Students, residents and fellows will spend the majority of their time at our Winston-Salem locations in the Innovation Quarter and at Atrium Health Wake Forest Baptist Medical Center as well as our Charlotte campus locations in The Pearl and at Atrium Health Carolinas Medical Center..
+  Each year, approximately 2,000 medical, physician assistant studies, and Academic Nursing students, medical residents and fellows, and graduate students in basic sciences and allied health care professions attend Wake Forest University School of Medicine and learn from more than 3.000 members of the faculty.
+  Through state-of-the-art technologies and an experiential curriculum that simulates real clinical events in inpatient and outpatient settings, students are learning the skills needed for the next generation of health care leaders.
+  With campuses in Boone, Charlotte and Winston-Salem researchers and faculty at Wake Forest University School of Medicine all strive to become lifelong learners and everywhere they go is an opportunity for education.
+  While third and fourth-year students have rotated in Charlotte for their clinical clerkships for years, the campus will now expand and seat its first four-year class in 2025.
+  Included within its walls are our NCI-designated cancer center; our nationally recognized center for aging and Alzheimer’s; a children’s hospital, centers for stroke and burn; offices of our senior leadership, faculty and house officers; and many other vital and specialized medical services.
+  Students who are uncertain about how to  access program specific information should contact their applicable Program Director.
+  Each student is provided with an email account.
+  All students are expected to check and respond to email in a timely manner.
+  Each student is provided with an identification badge.
+  Policies which apply to Atrium Health Wake Forest Baptist (AHWFBH) clinics, affiliates, and other locations and/or specifically to the Medical Center (WFBMC) are designated as AHWFBH policies and all faculty, staff and students are required to abide by the policies as noted in each policy.
+====================
+FILE: raw/us-med-schools/wayne-state-som--md-handbook-ai-guidelines-usage-policy-announcement.md
+FM title: M.D. Handbook and Policies updates: Artificial Intelligence Guidelines and Usage Policy
+FM source_url: https://www.med.wayne.edu/policies/news/md-handbook-and-policies-updates-65406
+[BAN]
+  Clarifies when AI may be used as a learning tool and when its use is not permitted.
+[ENF]
+  Emphasizes ethical considerations and academic integrity.  ← Back to listing
+====================
+FILE: raw/us-med-schools/wvsom--ai-for-students.md
+FM title: AI for Students
+FM source_url: https://www.wvsom.edu/ai/ai-for-students
+[PERM]
+  APA, Chicago, MLA, etc.)  Additional Precautions  Potential Misuse and Data Sharing  Resources on Risks of AI in our Communities  Acceptable uses  With these precautions in mind, there are numerous ways to use generative AI tools without submitting university data or intellectual property.
+  Examples of acceptable uses of generative AI (From a data management perspective)  Syllabus and lesson planning  Instructors can use generative AI to help outline course syllabi and lesson plans, getting suggestions for learning objectives, teaching strategies and assessment methods.
+  Correspondence when no student or employee information is provided  Students, faculty or staff may use fake information (such as an invented name for the recipient of an email message) to generate drafts of correspondence using AI tools, as long as they are using general queries and do not include institutional data.
+[DATE]
+  By being aware of these limitations, you can decide when and how to use GenAI effectively, so your work remains accurate, ethical and reflects your own understanding.
+  Microsoft 365 Copilot is approved to interact with university internal data; you must be logged in with your WVSOM username and password to ensure you’re using Microsoft 365 from WVSOM rather than the consumer-based Microsoft 365 Copilot service.
+  Personal (free) non-WVSOM Microsoft accounts are not approved for institutional data.
+  Creating Quality Prompts  AI prompt frameworks are structured approaches to crafting effective prompts for AI models like Microsoft 365 Copilot, ChatGPT, etc., helping users guide the AI and achieve desired outputs.
+  Considering the TRACI model will improve initial prompts and provide guidance as prompts are revised.
+[DISC]
+  Since these tools have been known to produce inaccurate content (sometimes called “hallucinations”), verify any factual information generated by an AI tool, and make sure to reference the tool as you would any other source (see the “Citing AI Usage” section for more information).
+  Response to the prompt “Outline how to cite AI tools including the prompt used” [Large language model].
+  AI Use Disclosure (Recommended)  Include a short statement in your paper (e.g., before the References section):  AI Use Disclosure: I used Microsoft Copilot   to assist in drafting and refining this paper.
+  The prompt used was: “Outline how to cite AI tools including the prompt used.” The AI-generated content was reviewed and edited for accuracy and clarity.
+  You can also be more granular with statements as part of an introduction or conclusion, such as:  “Microsoft Copilot was used to brainstorm ideas for this essay.” or “Copilot was used to check spelling and grammar.”  Always check with staff or faculty for more specific preferences regarding AI acknowledgment.
+  Additional Resources  MLA Guide titled “How do I cite generative AI in MLA style?”  Brown University Library “Citations and Attribution with AI Tools?” which provide examples for multiple styles (e.g.
+[ASSESS]
+  Assess its relevance, accuracy and appropriateness.
+[TOOL]
+  Retrieved from   About Microsoft 365 Copilot at WVSOM  Overview  Microsoft 365 Copilot is WVSOM’s preferred GenAI tool as it is covered by commercial data protection.
+  This means Microsoft does not claim ownership of the prompts you submit or the outputs you receive from Copilot.
+  At WVSOM, Microsoft 365 Copilot is available for use by faculty, staff and students.
+  Microsoft 365 Copilot is one of the recommended tools for using generative AI within the WVSOM environment.
+  Microsoft 365 Copilot is built on the same AI models and data as ChatGPT-4, so you can use it to write and summarize content, create code and answer complex questions.
+  Microsoft 365 Copilot also has access to current internet data, enabling it to provide real-time responses to current events.
+  Chat history in Microsoft 365 Copilot is only available to the logged-in user and the University Information Security Office (UISO), and only the latter in the case of an IT incident.
+  Training: Playbooks, Videos and Instructions  Microsoft 365 Copilot is WVSOM’s preferred GenAI tool as it is covered by commercial data protection, meaning it does not claim ownership of data, prompts or outputs you receive.
+  Access Microsoft 365 Copilot  Step 1:  Go to Microsoft Office or click the Microsoft 365 Copilot app icon on your desktop or taskbar.
+  Note: Even if the resource focuses on ChatGPT or Microsoft 365 Copilot specifically, the ideas can be used for any model:  Prompt Engineering Guide — Comprehensive on many aspects.
+[ENF]
+  Students should use generative AI in ways that align with university academic integrity policies and communicate with their instructors before using generative AI in their coursework.
+[APPLIES]
+  AI for Students  Generative AI complements, not replaces critical thinking  Complementing Critical Thinking With Generative AI  GenAI tools can be helpful for research, idea generation, summarizing content, and problem-solving.
+  As a student, your critical thinking skills are invaluable.
+  Additional resources, examples, and instructions (including instructional videos) for students can be found within Canvas.
+  For example, an expert educator, a student advisor, or instructional designer.
+  For example, introductory biology students, graduate-level competitive study majors, or Doctor of Pharmacy students.
+  Professional development and training presentations  Faculty and staff can use AI to draft materials for potential professional development opportunities, including workshops, conferences and online courses related to their field.
+  You may also want to check out the Student Guide to AI Literacy for more information.
+====================
+FILE: raw/us-med-schools/wvsom--ai-potential-misuse-data-sharing.md
+FM title: Potential Misuse and Data Sharing
+FM source_url: https://www.wvsom.edu/ai/potential-misuse-data-sharing
+[PERM]
+  WVSOM encourages the use of generative AI services, as long as no institutional data is submitted to them without approval.
+  Currently, Microsoft 365 Copilot is the only generative AI permitted.
+[DISC]
+  Any other system used for official institutional data or information will need to go through review to ensure the necessary contracts and safeguards are in place to protect the data submitted and to ensure the algorithms in use are ethical, transparent and beneficial to the WVSOM community.
+[APPLIES]
+  When you provide information to these tools, such as queries, student essays, grant proposals, source code or datasets, it is the same as posting information on a public website.
+====================
+FILE: raw/us-med-schools/wvsom--ai-procedures-and-guidance.md
+FM title: AI Procedures and Guidance
+FM source_url: https://www.wvsom.edu/ai/procedures-guidance
+[PHI]
+  At no time should patient or clinical data be used or stored in AI systems (see the WVSOM HIPAA Policy for more information).
+  Instead, they should refer to the institutional guidance, academic and professional standards, and HIPAA policies noted above.
+[TOOL]
+  Most GenAI tools use what you enter to train their systems, so there may be security issues involved in using GenAI outside of Microsoft 365 Copilot (which is a WVSOM-maintained and secure resource).
+[ENF]
+  Currently, students do not have a specific academic integrity policy around GenAI.
+====================
+FILE: raw/us-med-schools/wvsom--guidance-on-use-and-access-of-ai.md
+FM title: Guidance on Use and Access of Artificial Intelligence (AI)
+FM source_url: https://www.wvsom.edu/it/security/ai
+[PHI]
+  Do not use AI when working with sensitive, private, restricted, or confidential information, including personally identifiable and protected health information.
+[BAN]
+  Prohibited uses  Transcribing meetings where the content is highly confidential or sensitive, and the risk of data breaches or inaccuracies is significant  Example: Using AI transcription in closed-door, high-level strategic meetings or in contexts involving sensitive personal information, where human discretion is paramount.
+[PERM]
+  These guidelines which apply to all WVSOM faculty, staff, and students ensure responsible use of AI tools and align with WVSOM’s existing Institutional Policy GA-31.
+  These core principles align AI use with the ethical standards and integrity values central to WVSOM and supports Institutional Policy GA-31 , which identifies the acceptable and unacceptable uses of data and technology at WVSOM.
+  This constitutes the unauthorized practice of law and can result in disciplinary action, and civil or criminal penalties.
+  WVSOM encourages open dialogue and suggestions for improvements.
+  Acceptable use of AI in student curriculum  AI can be of great benefit for medical practice and learning.
+  Acceptable uses of AI in any material distributed as part of an approved course can include improving efficiency of note taking or study plan formation, helping generate ideas related to the course, providing challenges and platforms for problem solving.
+  Unacceptable use constitutes any use of AI that would bypass learning, provide answers without student engagement or logical reasoning, complete graded assignments without student input, assistance with any summative assessment without course director approval, etc.
+  Use of AI Tools  The following section includes examples of acceptable and not acceptable use of AI/Machine Learning tools.
+[DATE]
+  Reach out to IT for purchase or use of new AI technology, not previously approved by WVSOM.
+  For the purposes of the curriculum, mentions of AI in this guidance will broadly refer to any modality which utilizes algorithms or programming to generate spontaneous information related to any material distributed as part of an approved course outside of human/student development or generation.
+[DISC]
+  Employ trust and transparency to ensure clarity and openness when employing AI, particularly in areas affecting decision-making or policy development.
+[ASSESS]
+  As such, the course director will designate when it is considered acceptable to use AI in completion of an assignment or an assessment in the course.
+  All assignments or assessments without this designation should not have AI used for the completion of the assignment or assessments without prior approval by the course director.
+[TOOL]
+  Therefore, WVSOM provides the following guidance on how AI, CoPilot, ChatGPT, and other AI-related tools may be used.
+  Examples could include, but are not limited to, CoPilot, ChatGPT, Grammarly, Nuance, etc.
+[ENF]
+  Faculty, staff, and students are reminded of the following:  The use of generative AI is subject to all WVSOM policies and procedures, including those associated with academic integrity and professionalism.
+  Relying on AI generated information in a legal context can lead to serious consequences, which may put WVSOM at risk of liability.
+====================
+FILE: raw/health-systems/advocate-health--nitrd-ai-rfi-response.pdf.md
+FM title: Advocate Health Response to NITRD RFI on AI Development (2025)
+FM source_url: https://files.nitrd.gov/90-fr-9088/Advocate-Health-AI-RFI-2025.pdf
+[BAN]
+  Overall, AI and other similar tools, must not serve as a replacement for the judgment of experienced and qualiﬁed clinicians.
+  At the same time, it is important to note this is a quickly evolving area, such that overly speciﬁc regulations may restrict innovation and ultimately may not be aligned with technological advances.
+[PERM]
+  The four core principles allow Advocate Health to address many risks speciﬁc to AI in healthcare, such as data quality, evolving healthcare practices, liability, workﬂow challenges, transparency, and cost.
+  The DAX Copilot allows clinicians to create draft clinical summaries automatically and  securely in seconds from in-person exams or via telehealth patient conversations for  immediate review and ﬁnalizing in the Electronic Health Record (EHR).
+  Developing a meaningful AI framework that allows these technologies to achieve real beneﬁts for consumers while minimizing threats to safety and access will require cooperation across the federal government.
+[DISC]
+  (3) transparent; and (4) impactful.
+  We believe that healthcare requires the highest standards of security, privacy, transparency, validity, and evaluation for bias.
+  Transparency with patients is of paramount concern as building and maintaining their trust and understanding of new technology is vital.
+  Ethical Concerns and Risks  It is our belief that the highest standards of security, privacy, transparency, validity, and evaluation for bias are required in healthcare.
+  The 2024 MA ﬁnal rule1, which went into eﬀect on January 1, 2024, attempted to require plans to disclose their use of external coverage criteria, including AI and decision support algorithms, in a publicly accessible manner.
+  We believe a key element of this rule, and one that could be further strengthened by additional regulatory or legislative action, is to ensure transparency around the use of AI tools.
+  Therefore, we must have eﬀective internal and external communication, including transparency with patients.
+  We strongly support the need for regulations  that ensure transparency from vendors, such as implementing a standardized AI label.
+[ASSESS]
+  In the absence of such rigor, healthcare will adopt expensive technology that does not actually produce the intended outcomes; parodically leading to higher expenses and degraded population health.
+  We continue to believe that care decisions must include individualized assessment of each patient’s unique context.
+[TOOL]
+  Our Enterprise Artiﬁcial Intelligence Governance Subcommittee which is comprised of leaders across our organization including from our patient safety, health equity, ethics, clinical operations, information technology, data science, research, and digital innovation work in concert to maintain robust AI governance, guided by four core principles, ensuring AI is: (1) equitable and ethical;
+  Nuance® Dragon® Ambient eXperience™ Copilot (DAX™ Copilot) helps free  clinicians to focus on delivering high-quality personalized care, improving clinical  eﬃciency, and reducing administrative workloads associated with burnout.
+  Epic Inbasket: This AI technology oﬀered by our electronic health record vendor  leverages an LLM to provide the ﬁrst draft of a patient message.
+[APPLIES]
+  Advocate Health employs an estimated 162,000 team members across 69 hospitals and more than 1,000 care locations and oﬀers one of the nation’s largest graduate medical education programs with more than 2,000 residents and fellows across more than 200 programs.
+  Advocate  clinicians are seeing modest improvements in their documentation  time across the board with a subset getting substantial time back in their day.
+====================
+FILE: raw/health-systems/advocate-health--smart-health-care-ai.md
+FM title: Keeping Your Care Personal with Smart Technology
+FM source_url: https://www.advocatehealth.com/about-us/hospital-information/smart-health-care
+[PHI]
+  Your information is protected through strong security measures and compliance with federal and state privacy laws, including HIPAA.
+  Your conversation is handled safely and kept secure, just like the rest of your health information.
+[PERM]
+  See how your care team may use smart technology, including virtual assistants, and what that means for you.
+  Hands-free medical documentation During your visit, your provider may use an AI tool that listens to your conversation and captures relevant medical details.
+  By helping with note-taking and documentation, this technology allows your provider to spend less time typing and more time one-on-one with you.
+  This supports your healing while allowing your care team to respond quickly to any changes in your health.
+[DATE]
+  Your information is stored in approved, monitored spaces.
+====================
+FILE: raw/health-systems/atrium-wake-forest--smart-health-care-ai.md
+FM title: Keeping Your Care Personal with Smart Technology
+FM source_url: https://www.wakehealth.edu/patient-and-family-resources/smart-health-care
+====================
+FILE: raw/health-systems/bmc--responsible-ai-statement.md
+FM title: Responsible AI Statement
+FM source_url: https://www.bmc.com/content/dam/bmc/corporate/responsible-ai-statement.pdf
+[PERM]
+  This early-adoption mindset has allowed us to develop and refine AI capabilities that are integral to our portfolio of solutions.
+  AI automates processes and enables data-driven decisions, helping businesses optimize operations, react faster, and allow employees to focus on more innovative activities.
+  This involves securing data against unauthorized access and preventing misuse of personal information, particularly within our solutions.
+  We provide mandatory developer and security personnel training based on open-source guidelines and potential avenues for unauthorized access identified by the trusted security foundation, Open Web Application Security Project (OWASP).
+  This includes providing training on responsible AI practices, promoting ethical decision- making, and encouraging critical thinking about the societal implications of AI.
+[DATE]
+  In addition, BMC has adopted a Generative AI Use Policy to ensure ethical and responsible application of generative technologies.
+[DISC]
+  Transparency Transparency is central to building trust in AI for business use cases and facilitating adoption of AI-assisted features.
+  BMC is committed to making AI algorithms and data usage transparent, enabling stakeholders to understand how decisions are made.
+  The AI services in BMC solutions also disclose the limitations of the AI technologies used.
+  This transparency enables users to fully comprehend the functionalities and limitations of BMC AI solutions, fostering trust and promoting confident adoption of AI-assisted technologies.
+[ASSESS]
+  Additionally, AI Risk Review Teams in each business area assess and manage risks associated with the use of AI technologies and their deployment in BMC solutions, ensuring responsible and safe use in the organization.
+[ENF]
+  Accountability involves interdisciplinary collaboration, incorporating insights from ethics, law, information technology, and product development.
+====================
+FILE: raw/health-systems/cleveland-clinic--ambience-ai-platform-rollout.md
+FM title: Cleveland Clinic Announces the Rollout of Ambience Healthcare's AI Platform
+FM source_url: https://newsroom.clevelandclinic.org/2025/02/19/cleveland-clinic-announces-the-rollout-of-ambience-healthcares-ai-platform
+[DATE]
+  The notes are then reviewed and approved by the provider and uploaded to the patient’s medical record.
+[TOOL]
+  “Our implementation of ambient AI technology delivers on that promise because it helps our providers fully engage with their patients, saves time, and alleviates some of their administrative burden.” This AI technology does not diagnose or treat any disease or other medical condition.
+  “We are committed to finding innovative ways to support our providers and reduce administrative burden and burnout while enriching patient experience,” said Beri Ridgeway, M.D., Enterprise Chief of Staff at Cleveland Clinic.
+[APPLIES]
+  Later this month, Cleveland Clinic clinicians will have access to AI documentation software that records patient appointments and generates comprehensive medical notes.
+  “Our clinicians reported their enjoyment with more face-to-face patient interaction, and that the software provided detailed notes that improved care coordination across specialties.
+====================
+FILE: raw/health-systems/cleveland-clinic--state-of-the-clinic-2025.pdf.md
+FM title: State of the Clinic 2025 (AI strategy sections)
+FM source_url: https://my.clevelandclinic.org/-/scassets/files/org/about/who-we-are/state-of-the-clinic-2025.pdf?la=en
+[BAN]
+  Goals are meant to drive progress but may not always reflect an improvement over the previous year.
+[PERM]
+  The savings allow us to sustain and grow Cleveland Clinic.
+  We encourage event 19.6 reporting so we can learn  0.40 serious from each experience and events  per 10,000 prevent recurrence. patient days  0.33     2021 2022 2023 2024 2025     Striving for Care Consistency – We made modest Accelerating Progress With AI – progress on the cornerstones of care delivery in 2025.
+  These realistic creations of challenging clinical scenarios allow teams to practice critical  thinking and refine processes in a safe environment.
+  Our outpatient locations around the world. culture of teamwork and innovation allows us to  Serving their needs is the reason we exist. quickly adapt.
+  Reduced costs allow us to sustain and grow Cleveland Clinic to serve more people.
+  The improvements increased productivity, allowing us to offer more appointments without adding staff.
+  Of the two outpatient facilities Rendering of in Toronto, one is moving to a larger downtown downtown  Toronto facility location to allow care for twice as many patients.
+  LONDON  Rendering of  London cancer  center A new cancer center announced in 2025 will allow Cleveland  Clinic London to significantly expand its cancer services.
+[DATE]
+  The updated values we developed in 2025 — Serve with heart.
+  We will treat every person in thousands of caregivers, we conceived these  every interaction with humanity and care. updated core values:  • Accountability.
+  In 2025 work began on more than 18,000  square feet of new and updated space for the  emergency department at Indian River Hospital.
+  NOTE: For the charts on pages 45-49, some numbers in the 2024 column (or other prior-year columns) have been revised since the 2024 State of the Clinic report due to data updates after publication.
+[ASSESS]
+  The four-story,  150,000-square-foot structure includes  60 outpatient exam rooms and eight  operating rooms, as well as procedure  rooms and administrative space.
+  The phone-based  app records clinical visits, documents the exam in the  electronic health record, generates after-visit summaries for  patients and helps with medical coding.
+  Participants undergo comprehensive assessments to detect biomarkers of neurological disorders before symptoms appear.
+[TOOL]
+  Across this global enterprise, our caregivers bring skill, empathy and extraordinary  resolve to their work.
+  Thanks to more security, training and  enterprise initiatives, caregivers are more  proactively de-escalating and reporting  workplace violence.
+  Across our enterprise, lean practices produced more than $60 million in documented savings in 2025.
+  Ambience Healthcare’s AI ambient listening software was  deployed to all Cleveland Clinic outpatient practices in  2025, reducing administrative burden for providers and  improving communication with patients.
+[ENF]
+  S TAT E O F T H E C L I N I C | 2 0 2 5 13 CARE FOR CAREGIVERS     14 CLEVELAND CLINIC  FOCUS : Empower  caregivers to serve with  compassion, accountability,  respect and excellence  Cleveland Clinic caregivers work as  one — across disciplines, locations and  oceans — to show all of healthcare  what’s possible when we combine drive  with empathy.
+  A S T RO N G FINANC IAL PE RFORM ANCE TO SUPPORT OU R MISSION  Through discipline and prudence, Cleveland Clinic’s 2025 financial performance was one of the best in our history.
+  This members-only model of primary care features  24/7 physician access, longer appointments, personalized  treatment plans and coordinated specialist referrals.
+[APPLIES]
+  We are harnessing powerful new digital technologies, like an AI tool that generates  summaries of medical appointments to help clinicians and patients.
+  Now students can easily receive immunizations, sports physicals and care for injuries, illnesses, chronic conditions and behavioral health.
+====================
+FILE: raw/health-systems/hartford-healthcare--center-for-ai-innovation-launch.md
+FM title: Hartford HealthCare Launches Center for AI Innovation in Healthcare
+FM source_url: https://hartfordhospital.org/about-hh/news-center/news-detail?articleId=54161
+[DATE]
+  “We are committed to pioneering safe, effective and affordable solutions that revolutionize patient care while advancing clinicians’ expertise.”    Five key elements  The Center for AI Innovation in Healthcare has five foundational elements:  Collaboration and partnerships: Assembling an ecosystem of world-class AI partners, including MIT, the University of Oxford and Google Cloud.
+  Education: Equipping clinical and operational colleagues with the knowledge to leverage AI in a safe, trustworthy manner, and instruct others in its effective use.
+[ASSESS]
+  Hartford HealthCare Launches Center for AI Innovation in Healthcare  February 15, 2024  Seeking to harness the transformative power of Artificial Intelligence (AI) to safely enhance patient care, Hartford HealthCare has unveiled its Center for AI Innovation in Healthcare.
+  It is a declaration of intent — a commitment to lead the charge in shaping a future where healthcare thrives on the transformative power of AI.”  Connect With Us Subscribe to Our Newsletters  Get the latest healthcare news directly in your inbox.
+====================
+FILE: raw/health-systems/hartford-healthcare--innovation-center-for-ai.md
+FM title: Hartford HealthCare Innovation (Center for AI Innovation)
+FM source_url: https://hartfordhealthcare.org/about-us/innovation
+[ASSESS]
+  The space is focused on unlocking the transformative power of artificial intelligence (AI) for our patients in a safe and trustworthy way.
+====================
+FILE: raw/health-systems/howard-u-ai-in-healthcare-center--about.md
+FM title: About - Howard University AI in Healthcare Center
+FM source_url: https://www.huaihhoward.com/about
+[APPLIES]
+  The center is made up of a group of AI experts, clinicians, healthcare experts, researchers, and administrators who conduct healthcare related research and operations projects (focusing on people from minority populations) in the intersection of AI, healthcare, and public health
+====================
+FILE: raw/health-systems/howard-university--about-howard-ai.md
+FM title: About Howard AI
+FM source_url: https://howard.edu/ai
+[ASSESS]
+  Howard AI is our bold, interdisciplinary engine for ethical, transformative artificial intelligence, educating the next generation of AI leaders, accelerating breakthrough research, and deploying responsible technologies that uplift communities, drive operational excellence, and advance our nation’s progress.
+  AI Initiative  The Artificial Intelligence (AI) Initiative supports the development and implementation of Howard AI across Howard University and harnesses the transformative potential of AI for the betterment of society.
+[ENF]
+  Center for Applied Data Science & Analytics (CADSA)  CADSA was founded to coordinate and facilitate interdisciplinary programs in data science, collaborate with other institutes and centers on the campus, expand and coordinate research funding, and develop research.
+  Human-Centered AI Institute  A hub for innovative, this interdisciplinary research that re-imagines the role of artificial intelligence in service of society and the African Diaspora.
+  Center of Excellence in Artificial Intelligence and Machine Learning at Howard University (CoE-AIML)  CoE-AIML research is driven by a collaborative cohort of researchers (faculty and postdoc researchers along with graduate and undergraduate students) drawn from multiple disciplines to solving the most critical problems related to AI/ML for multi-domain operations.
+[APPLIES]
+  Center for Digital Business  The Center for Digital Business prepares students and faculty to engage with AI through hands-on learning, ethical exploration, and industry collaboration, building both technical fluency and critical thinking for the future of business and society.
+====================
+FILE: raw/health-systems/jefferson-health--bold-ai-strategy.md
+FM title: Jefferson Health's Bold AI Strategy to Reclaim Time, Empower Clinicians, and Transform Healthcare
+FM source_url: https://www.jeffersonhealth.org/about-us/news/2025/09/jh-bold-ai-strategy-to-reclaim-time-empower-clinicians-and-transform-healthcare
+[DISC]
+  Building Trust Through Transparency – Auditing all AI models for bias, co-design solutions with key stakeholders and ensuring human oversight in AI deployment.
+[TOOL]
+  Jefferson has already launched ambient listening technology for physicians and advanced practice clinicians and has a focused team working toward integration into nursing.
+  Following its strategic combination with Lehigh Valley Health Network in August 2024, Jefferson Health launched an enterprise-wide AI strategy under the leadership of a unified AI Steering Committee.
+[ENF]
+  Over the last several years, interdisciplinary leaders have been evaluating the evolving landscape, including new internal and external opportunities, and focusing on AI adoption that will support key outcomes.
+[APPLIES]
+  Skip to main content Open Menu NEWS Jefferson Health’s Bold AI Strategy to Reclaim Time, Empower Clinicians, and Transform Healthcare  SEPTEMBER 18, 2025  Philadelphia, PA — September 18, 2025 — Jefferson Health announced a system-wide artificial intelligence (AI) strategy designed to reclaim more than 10 million hours of clinician time by 2028.
+  “It’s a bold commitment to reimagine healthcare—where innovation amplifies compassion, and AI helps us deliver safer, smarter and more accessible care for patients.”  By cutting the administrative burden for more than 23,000 clinicians, Jefferson Health will free up the equivalent of two years, so clinicians can focus on what matters most: caring for patients and families.
+  “By using AI to reduce paperwork and streamline care, we are returning time to our clinicians to be with patients and removing barriers so that high-quality care is within reach for every community we serve,” Yehia added.
+====================
+FILE: raw/health-systems/medstar-georgetown--ai-colab.md
+FM title: MedStar-Georgetown Collaborative Center for Artificial Intelligence in Healthcare
+FM source_url: https://www.medstarhealth.org/innovation-and-research/ai-colab
+[ASSESS]
+  Collaborating with Industry to assess and implement AI in healthcare : Recognizing the value of industry partnerships in driving real-world applications of AI and data science, the center actively seeks collaboration with industry leaders across sectors to translate research findings into practical solutions, fostering technology transfer and promoting innovation.
+  Welcome to AI & Beyond, a podcast to discuss Artificial Intelligence applications in Healthcare, where the cutting edge of artificial intelligence intertwines with the transformative potential of healthcare data.
+[APPLIES]
+  Training and Education diverse trainees in AI and ML : AI CoLab is committed to nurturing the next generation of AI and data science experts.
+====================
+FILE: raw/health-systems/medstar-health--ai-center-of-excellence.md
+FM title: MedStar Health Artificial Intelligence Center of Excellence
+FM source_url: https://www.medstarhealth.org/innovation-and-research/ai-center-of-excellence
+[PERM]
+  Secure: Protective measures are in place to guard against unauthorized access, data breaches, and other cyber threats.
+[DATE]
+  The MedStar Health Artificial Intelligence Center of Excellence (AI Center) brings together clinical, research, and digital innovation experts to advance the safe, effective, and ethical use of AI in health care.
+  Our team advances strategy, governance, and education to ensure AI is both reviewed and adopted responsibly.
+  These efforts range from tools that support clinical documentation and workflow efficiency, to models that help identify patients who may need early intervention, to secure internal systems that enable staff to use information more effectively.
+  This externally-established, industry-supported approach ensures AI solutions meet the highest standards for safety, equity, and effectiveness.
+  John Lock  Senior Vice President and Chief Digital Transformation Officer MedStar Health  William Sheahan  Senior Vice President and Chief Innovation Officer, MedStar Health, and Executive Director, MedStar Institute for Innovation  Sarah Bacik  Vice President, Strategy & Activation  Jennifer Redmond Boyd  Vice President, Talent and Organizational Effectiveness  David L.
+[DISC]
+  Transparent: We know how the AI models work and the training data is clear.
+[ASSESS]
+  Based on risk and impact, the AIRB determines the appropriate level of assessment so that AI technologies are introduced responsibly and consistently across the system, ranging from streamlined review, to deeper analysis, to ongoing monitoring when appropriate.
+[TOOL]
+  Examples include:  Ambient documentation solutions that reduce clinician administrative burden  Predictive models to identify and alert care teams about patient risks earlier  Internal platforms that help associates safely leverage generative AI  How can I learn more about MedStar Health’s AI research and innovation?
+[ENF]
+  Our commitment: The TRUSTED framework Every AI solution introduced at MedStar Health is evaluated by our multidisciplinary AI Review Board using the TRUSTED framework, detailed below.
+  Responsible: Ownership is defined for the AI solution’s actions, decisions, and any consequences resulting from its recommendations or analyses.
+  Weissman, MD  President, MedStar Health Research Institute, and Chief Scientific Officer, MedStar Health  Edward Woo, MD  President, MedStar Medical Group  AI Center Working Groups  MedStar Health established several cross-disciplinary working groups to shape the direction, development, and systemwide readiness for AI efforts.
+====================
+FILE: raw/health-systems/meharry-oracle-health--nashville-partnership.md
+FM title: Oracle Health, Meharry Medical College partner to tackle health inequities in Nashville
+FM source_url: https://www.digitalhealthnews.com/oracle-health-meharry-medical-college-partner-to-tackle-health-inequities-in-nashville
+[DATE]
+  Aishwarya Sarthe  •  1 year ago  •  3 Mins Read  •  Last Updated On : 29 Nov 2024  This collaboration aims to address health disparities in Middle Tennessee, promote community wellness, and equip future healthcare workers with advanced skills using AI-powered tools and hands-on training.
+[APPLIES]
+  Furthermore, the collaboration will establish a dedicated community care and wellness center where medical students, residents, and professionals can access Oracle’s cloud-based clinical applications.
+  The research, technology, and skills we are cultivating will not only benefit the Nashville community but will have broad reach as students enter the workforce, applying the insights and understanding they’ve gained to shape the future of healthcare around the world,” said Verma.
+  In 2019, a Nashville health survey highlighted deep divides in the health status of residents, revealing how racial and income inequalities impact healthcare access.
+  Former US Senate Majority Leader Dr Bill Frist, a prominent voice in health equity, remarked on Nashville’s “shocking paradox” in healthcare, noting that despite being an industry leader, the city’s residents experience some of the worst health outcomes in the country.
+====================
+FILE: raw/health-systems/nebraska-medicine--artificial-intelligence-help.md
+FM title: Artificial Intelligence - Nebraska Medicine Help
+FM source_url: https://www.nebraskamed.com/help/artificial-intelligence
+====================
+FILE: raw/health-systems/nebraska-medicine--how-we-use-artificial-intelligence.md
+FM title: How we use artificial intelligence
+FM source_url: https://www.nebraskamed.com/patients/rights-responsibilities/AI
+[PHI]
+  Privacy, security and your rights Nebraska Medicine believes protecting your privacy and confidential health information is fundamental.
+[PERM]
+  Some outpatient and emergency department providers may use this tool to help document your visit.
+  How DAX Copilot works During your visit, your provider may use DAX Copilot, a voice-activated tool that helps document your care.
+[DATE]
+  This page will be updated as new tools are introduced.
+[TOOL]
+  AI in patient care: DAX Copilot for clinical documentation One example of how Nebraska Medicine uses AI is DAX Copilot.
+  Not all doctors use DAX Copilot.
+  For tools like DAX Copilot: •    Audio recordings are stored securely and deleted within a defined period. •    Your provider controls what is included in your medical record. •    Nothing becomes part of your record without provider review and approval.
+  Your choice as a patient You have a choice about the use of DAX Copilot tools during your care.
+  If your provider uses DAX Copilot and you don’t want it to be used, let your doctor know at the beginning of your appointment.
+[APPLIES]
+  AI tools assist clinicians and staff with certain tasks.
+  Nebraska Medicine uses AI in clinician-led, patient-centered ways.
+====================
+FILE: raw/health-systems/penn-state-health--ai-clinical-workflow-liability.md
+FM title: How AI integrated into clinical workflow lowers medical liability perception
+FM source_url: https://pennstatehealthnews.org/2026/03/how-ai-is-integrated-into-clinical-workflow-lowers-medical-liability-perception/
+[PERM]
+  Since most medical malpractice cases are settled out of court and out of the public record or, if they do go to court, take years to litigate, using a hypothetical case allows the researchers to gather information that would otherwise be unavailable.
+[ENF]
+  Nearly a year ago, Bruno convened a two-day research summit on “Human Factors and Artificial Intelligence in Healthcare,” on the Penn State College of Medicine campus, bringing together an international group of multidisciplinary experts from academia and industry to establish future research priorities for the field of Human-AI collaboration.
+[APPLIES]
+  Now, Bruno, working alongside a team of researchers from Brown University and Seton Hall University School of Law, found that the understanding of physician liability is influenced by the way in which AI is integrated into a clinician’s workflow.
+====================
+FILE: raw/health-systems/slucare-ssm-health--ai-work-ease-clinician-burden.md
+FM title: Article spotlights SSM Health's AI work to ease burden on clinicians (SLUCare)
+FM source_url: https://www.ssmhealth.com/newsroom/blogs/ssm-health-matters/september-2024-3889a7ff332791680f6cb8ab6c36f29c/article-spotlights-ssm-healths-ai-work-to-ease-burden-on-clinicians
+[PERM]
+  Cappellari, who is SSM Health’s chief medical information officer, has long been a pioneer in conjunction with Microsoft’s Nuance technology, which allows a physician to focus on their patient – not a computer screen – in the examining room.
+  Schmidt and Hu have presented at numerous national conferences on their collaboration, which can predict provider burnout as much as a year in advance, thus allowing employers a chance to intervene and retain the physicians and nurse practitioners.
+[DISC]
+  Sep 15, 2026  Connect with us:             About SSM Health  Classes & Events  Donate  Financial Assistance  Get My Medical Records  Pay My Bill  Price Transparency  Read Our Blog  Serving Our Communities  Visit Our Newsroom  Volunteer  Contact Our Locations  Call Us or Write Us  Choose a font size: A A A  Interested in working for SSM Health?
+[APPLIES]
+  Cappellari, the AI assistance is simply about easing the load on overloaded providers:  “Cappellari says she, Schmidt and the others involved in introducing the new tools to predict burnout or ease stress among care providers are following the clinicians' maxim: First, do no harm.
+====================
+FILE: raw/health-systems/temple-health--ai-clinical-notetaking-software.md
+FM title: Temple Health Debuts AI Clinical Notetaking Software
+FM source_url: https://www.templehealth.org/about/news/ai-clinical-notetaking-software
+[PERM]
+  “We chose a product that would allow for the same level of excellent documentation, but that would reduce the time we spent charting post-appointment and give us valuable personal time back.” Physicians who’ve started using DAX have already seen the benefits.
+  Igarabuza encourages all of her fellow physicians—especially in primary care—to try using DAX.
+[DATE]
+  “Because spending too much time on notetaking is such a widespread problem in the physician community, we thought introducing a technology that could cut down on notetaking hours would be an extremely effective way to improve satisfaction,” Dr.
+[TOOL]
+  She’s talking about Dragon Ambient eXperience (DAX) Copilot, also known as Dragon Copilot: a Microsoft AI tool Temple Health has acquired that uses ambient voice technology to help physicians dramatically cut down on the time they spend taking clinical notes.
+  After a patient consents to the use of the tool at the start of their appointment, their physician presses a button on the Epic Haiku app on their phone.
+  “Then, when you get back to your workstation and open Epic on your computer, a note will be generated for you in a format you can customize, summarizing the patient encounter with surprising accuracy in appropriate medical terminology.” At this point, physicians will have the chance to review and amend their notes.
+  According to Temple Health’s data, notes generated using ambient voice technology are highly accurate.
+[APPLIES]
+  Our goal, says Esme Singer, MD, MBA, FACP , Chief Medical Officer of Temple Faculty Practice Plan and Associate Professor of Clinical Medicine at the Lewis Katz School of Medicine, is to improve physician satisfaction.
+  “This is just the beginning of our implementation of novel tools for clinicians,” says Dr.
+  This is just the beginning of our implementation of novel tools for clinicians.
+  “Physicians from multiple specialties are already using DAX, including Temple Faculty Physicians, Temple Physicians, Inc., the Emergency Department, Cardiology, Urology, and Oncology,” says Katie Deschaine , Vice President of Clinical Applications, IT Administration.
+  “Attending physicians can reach out to our EPOCH team for training so they can start using DAX today,” Deschaine explains.
+====================
+FILE: raw/health-systems/uc-davis-health--ai-at-uc-davis-health.md
+FM title: AI at UC Davis Health
+FM source_url: https://health.ucdavis.edu/welcome/artificial-intelligence/
+[PHI]
+  Learn more about the Health Analytics Core team chevron_right State of the Art Security  We have a data security team that reviews, and pressure tests, AI applications to ensure that AI adoptions prioritize patient privacy and keep patient data safe.
+  Enhancing Patient Care Reducing Administrative Burden  AI-powered tools such as Abridge assist our clinicians with administrative tasks, such as creating visit summaries and managing patient data.
+  A Human-Centered Approach We have guidelines for using Generative Artificial Intelligence that protect patient privacy and data security while also prioritizing accuracy and checking for biases.
+  Data Privacy and Security HIPAA Compliance: We adhere to the strictest privacy regulations, including HIPAA, to protect your health information.
+  Anonymization: For research AI development, we use advanced anonymization techniques to ensure patient data is de-identified so an individual cannot be re-identified through its use. 3.
+[PERM]
+  We view AI as another doctor-supervised technology, and one of many technology tools that allows us to deliver advanced care, guided by our local experts.
+  Predictive Analytics  Our teams use AI to analyze large datasets to identify patients at high risk for certain conditions, like sepsis and emergency department visits, allowing for proactive intervention before a crisis occurs.
+  Read morearrow_forward Improving Patient-Physician Relationships  Our clinicians are now using Abridge, a technology that allows them to focus more directly on patients and their health needs – and which has made doctors 12% more efficient so they can spend that time with their patients instead of their computers.
+[DATE]
+  Today, artificial intelligence (AI) is already at work improving outcomes in health care – from increasing efficiency to improving diagnoses to accelerating the discovery of more effective treatments, AI is transforming the way that healthcare is delivered.
+  We are committed to using AI responsibly, ensuring that AI preserves the patient-provider relationship, and improves the effectiveness of care delivery and outcomes, while staying true to our values of kindness, equity, and compassion, so we can deliver tomorrow's care today.
+  Some Examples of Innovative AI That We Have Adopted Imaging – Viz.ai;
+  Reshma Gupta, this group is a group of health equity experts, clinicians, statisticians, and data scientists that develop the standards used to make sure that AI is developed and adopted equitably, ensuring that AI meets the needs of all members of our community.
+  It’s one of the many ways we work to ensure that AI is adopted responsibly in service of our patients and community.
+  Data Sharing Committee  This multi-disciplinary committee of clinicians, scientists, privacy and security experts, and legal specialists sets policies and guidelines to ensure data are not shared with third parties, unless the appropriate approvals and safeguards are in place, and ensures that only approved AI products are used at UC Davis Health.
+[DISC]
+  Using AI Responsibly to Care for Patients  When it comes to AI in health care, issues like fairness, privacy, accountability, and transparency matter.
+[ASSESS]
+  BE-FAIR Framework  BE-FAIR stands for Bias-reduction and Equity Framework for Assessing, Implementing, and Redesigning (BE-FAIR) healthcare predictive models.
+[ENF]
+  Learn more about BE-FAIRchevron_right Health Analytics Core Team  This inter-disciplinary team of healthcare providers and data scientists analyze potential AI applications and their use prior to adoption to evaluate whether they are safe enough for patients at UC Davis Health.
+[APPLIES]
+  The committee is charged with ensuring that AI is used responsibly and ethically to serve the needs of our patients, providers, students, and staff.
+  Every AI recommendation is reviewed and validated by our expert clinicians to ensure the highest standards of patient care and human dignity. 2.
+  Abridge records patients’ conversations with their clinicians during visits, then creates a summary using AI.
+  After the visit, the clinician reviews the summary for accuracy and adds it to the patient’s medical record.
+====================
+FILE: raw/health-systems/uc-davis-health--clinical-note-taking-technology.md
+FM title: Clinical Note-Taking Technology
+FM source_url: https://health.ucdavis.edu/patients-visitors/about-patient-care/quality-safety/clinical-note-taking-technology
+[PHI]
+  Abridge is HIPAA-compliant.
+[PERM]
+  That’s why your clinician is using Abridge, a new technology that allows them to focus more on you and your health needs.
+  Only your care team or authorized personnel have access to your information.
+[APPLIES]
+  During a typical office visit, your clinician must enter notes and other information into a computer to update your medical record.
+  This new service frees your clinician from data entry during your visit, meaning you get more focused attention from your clinician.
+  Abridge records your conversation with your clinician during the visit.
+  After your visit, your clinician reviews the summary for accuracy, and adds it to your medical record.
+  The recording will be started, stopped, and paused by your clinician.
+  Do I have a choice about whether my clinician uses Abridge?
+  If you do not want your clinician to use Abridge, just let them know.
+  Please speak with your clinician before, during, or after your visit.
+====================
+FILE: raw/health-systems/uc-davis-health--guidelines-for-using-generative-ai.md
+FM title: Guidelines for Using Generative Artificial Intelligence (AI)
+FM source_url: https://health.ucdavis.edu/compliance/regulatory/guidelines-for-using-ai
+[PHI]
+  You should not be used generative AI tools with any patient information or other sensitive data unless the tool is specifically approved by the UC Davis Health.
+[BAN]
+  Even with approved tools, you should be careful about the information you provide and the output you receive, as generative AI may not be accurate and may reflect biases.
+====================
+FILE: raw/health-systems/uci-health--approved-ai-tools.md
+FM title: Approved AI Tools
+FM source_url: https://www.ucihealth.org/about-us/compliance/approved-ai-tools
+[PHI]
+  At this time, only the AI tools listed below are approved for use with Protected Health Information (PHI) or any other restricted UCI Health data.
+  Entering patient data or restricted information into unapproved or personal AI tools, even for drafting, summarization or rephrasing, may result in an unauthorized disclosure and must be avoided.
+  What this means for UCI Health co-workers and care providers  PHI and restricted data must not be entered into any external or consumer AI tools.
+  Claims that an AI tool is “HIPAA compliant” do not mean it is approved for use at UCI Health.
+  Use of AI tools with PHI may be treated as a privacy incident and subject to review.
+  Permitted AI use for PHI  The following tools are permitted for use with PHI when signed in with your hs.uci.edu account and using the correct licensed features:  Abridge, within approved clinical documentation workflows  Epic-embedded AI features, where enabled, including DynaMedex and Dyna AI ( more.ebsco.com/Dyna-AI.html ) for clinical decision support.
+  Do not use, enter or share PHI or other clinical queries to any Large Language Models (LLMs) or AI programs, including DoxGPT, ChatGPT or OpenEvidence.
+  This page is intended to educate and promote safe use — not to block legitimate non-PHI activities.
+[BAN]
+  Safe and Approved Use of AI Tools at UCI Health  As the use of artificial intelligence (AI) tools continues to expand across healthcare, the Office of the Chief Information Security Officer (CISO) and the Compliance & Privacy Office want to reinforce clear expectations for how AI tools may and may not be used at UCI Health.
+  Copying information from Epic or other clinical systems into AI tools is not permitted.
+  Prohibited uses  The following tools are not approved for any clinical uses and should not be used with any UCI Health data:  UCI Health does not currently have any approved Doximity tools.
+[DISC]
+  To reinforce awareness and accountability, UCI Health will soon introduce a warning and acknowledgment page when accessing certain external AI tools from UCI-managed systems.
+[TOOL]
+  Appropriate replacements are Epic VoIP and Epic Secure Chat and Epic native video or audio visits.
+  We currently do not have any HIPPA-compliant LLM tools available at UCI Health but are actively working towards enabling such tools in the future.
+[ENF]
+  Uses of such tools is an Information Security & Privacy violation.
+====================
+FILE: raw/health-systems/uci-health--safe-and-approved-use-of-ai-tools.md
+FM title: Safe and Approved Use of AI Tools at UCI Health
+FM source_url: https://its.health.uci.edu/security/safe-approved-ai-tools
+[PHI]
+  At this time, only the AI tools listed below are approved for use with Protected Health Information (PHI) or any other restricted UCI Health data .
+  Entering patient data or restricted information into unapproved or personal AI tools, even for drafting, summarization, or rephrasing, may result in an unauthorized disclosure and must be avoided.
+  PHI and restricted data must not be entered into any external or consumer AI tools.
+  Claims that an AI tool is “HIPAA compliant” do not mean it is approved for use at UCI Health.
+  Use of AI tools with PHI may be treated as a privacy incident and subject to review.
+  Permitted AI Use for PHI  The following tools are permitted for use with PHI when signed in with your hs.uci.edu account and using the correct licensed features:  Abridge , within approved clinical documentation workflows  Epic-embedded AI features , where enabled, including DynaMedex and DynaAI (   ) for clinical decision support.
+  Do not use, enter, or share PHI or other clinical queries to any Large Language Models (LLMs) or AI programs, including DoxGPT, ChatGPT or OpenEvidence.
+  This page is intended to educate and promote safe use—not to block legitimate non-PHI activities.
+[BAN]
+  Safe and Approved Use of AI Tools at UCI Health  Dear colleagues,  As the use of artificial intelligence (AI) tools continues to expand across healthcare, the Office of the Chief Information Security Officer (CISO) and the Compliance & Privacy Office want to reinforce clear expectations for how AI tools may and may not be used at UCI Health.
+  Copying information from Epic or other clinical systems into AI tools is not permitted .
+  Prohibited Uses  The following tools are not approved for any clinical uses and should not be used with any UCI Health data :  UCI Health does not currently have any approved Doximity tools .
+[DISC]
+  To reinforce awareness and accountability, UCI Health will soon introduce a warning and acknowledgment page when accessing certain external AI tools from UCI-managed systems.
+[TOOL]
+  Appropriate replacements are Epic VoIP and Epic Secure Chat, and Epic native video or audio visits.
+  We currently do not have any HIPPA-compliant LLM tools available at UCI Health, but are activelyworking towards enabling such tools in the future.
+[ENF]
+  Uses of such tools is an Information Security & Privacy violation.
+====================
+FILE: raw/health-systems/ucsd-health--ai-at-uc-san-diego-health.md
+FM title: AI at UC San Diego Health - How We Use Artificial Intelligence for Smarter, Safer Health Care
+FM source_url: https://health.ucsd.edu/about-us/ai-at-uc-san-diego-health/
+[PHI]
+  That's why we maintain a strong commitment to patient privacy, safety, equity and ethical standards.
+  Predictive AI models are trained to predict outcomes based on examples of real patient data and their results.
+[PERM]
+  Instead, your care team may use AI to check that important information isn't missed, so that you receive the best care possible.
+  When used in clinical care, AI models generate predictions — often expressed as the risk of an outcome — which are shared with clinical team members who may use these predictions with other information to support care decisions.
+[DATE]
+  At UC San Diego Health, all our AI tools are used under strict security and privacy standards and tested to ensure that they are safe and effective.
+  Reliability  We monitor AI tools to ensure they continue to work effectively over time, especially as models are updated.
+[DISC]
+  We are transparent about our use of AI and provide clear information about how it’s applied wherever appropriate.
+  Transparency  We require clear information from vendors and developers about how tools work so we can make informed decisions about their use.
+[ASSESS]
+  Whenever new AI tools are implemented, they are paired with an evaluation plan to assess their impact.
+[TOOL]
+  You may be familiar with AI through popular technologies like ChatGPT.
+  AI-Supported Patient Messaging  UC San Diego Health was one of the first health systems nationwide to use generative AI to draft responses to patient messages in the Epic electronic health record system.
+[ENF]
+  A multidisciplinary group evaluates both current and proposed AI tools to ensure they align with our priorities and respect the community we serve.
+  Decisions are made by a multidisciplinary group of experts in clinical care, including nursing, ethics, health equity, clinical operations, quality and patient safety, information security and AI methods.
+[APPLIES]
+  This tool helps clinicians provide timely, comprehensive replies.
+====================
+FILE: raw/health-systems/umass-memorial--how-we-use-ai-in-patient-care.md
+FM title: How We Use AI in Patient Care
+FM source_url: https://www.ummhealth.org/patients-visitors/how-we-use-ai-patient-care
+[PHI]
+  When patient information is used with approved AI tools, it’s protected by the same privacy, security, and confidentiality safeguards that apply to all patient information at UMass Memorial Health.
+  AI tools are used only for specific purposes and don’t have unrestricted access to patient information.
+[PERM]
+  Examples of How We Use AI Create medical notes from conversations during patient appointments : This allows staff members to focus more on listening and engaging with patients during visits rather than typing notes.
+  Help to identify emergency department patients who may need urgent attention after their initial evaluation : This allows staff members to focus first on the most serious cases so patients can receive care as quickly as possible.
+[DATE]
+  Every digital tool we use, including AI tools, is thoroughly evaluated before it’s approved for use.
+  Only approved tools are used and with human oversight.
+====================
+FILE: raw/health-systems/uw-medicine--ai-policy-glossary-308g1.pdf.md
+FM title: UW Medicine AI Policy Glossary (Guidance 308.G1, V5.0)
+FM source_url: https://depts.washington.edu/comply/docs/308_G1.pdf
+[PHI]
+  The Honest Broker resides within the covered entity and acts as a gatekeeper between the  covered entity and the researcher and serves as the link between HIPAA Privacy and Security.  23    Inclusivity Designing and deploying systems that accommodate and represent diverse users, ensuring that AI  technologies serve a broad range of needs.
+  Includes engagement with learning  technologies such as Canvas, Learning Hub, and other platforms.  28 Limited Data Set A limited data set is a subset of Protected Health Information (PHI) and includes a narrow set of identifiable  patient information elements as defined in HIPAA.
+[BAN]
+  While ground truth is often meticulously  curated, it may not always reflect the complexity and variability of the real world, so should be reviewed  closely for applicability for any given scenario.  21 Hallucinations Instances when a Generative AI System generates untrue or inaccurate content that is not supported by real- world data.
+  This method is useful for clustering data or when subject matter experts are unsure of common  properties of a data set and/or are looking for similarities within a data set that may not be immediately  apparent.  45 UW Medicine  Business Operations  UW Medicine healthcare, administrative and business operations supporting both the clinical enterprise and  the UW School of Medicine.
+[DATE]
+  Approved Version     UW Medicine AI Glossary | V5.0 | Revised 8.25.2026    UW Medicine Artificial Intelligence (AI) Policy Glossary    There is no universally accepted definition of the term “Artificial Intelligence”, and the extent to which contemporary systems constitute AI is  still vigorously debated.
+  In  healthcare, this is critical as decisions can directly impact patient safety and treatment effectiveness.
+  Approved Version     UW Medicine AI Glossary | V5.0 | Revised 8.25.2026    2 Algorithm & Model An algorithm is a set of rules or instructions that a computer follows.
+  FERPA applies to higher-education and  postgraduate training programs, and universities are responsible for complying to data protection and record Approved Version     UW Medicine AI Glossary | V5.0 | Revised 8.25.2026    retention/request requirements.
+  Approved Version     UW Medicine AI Glossary | V5.0 | Revised 8.25.2026    25 Large Language  Model  A type of Neural Network trained on very large amounts of text, often across multiple languages.
+  Approved Version     UW Medicine AI Glossary | V5.0 | Revised 8.25.2026    43 Validation Data Set A held-out subset of the training data that is often used to tune the Model’s parameters and assess how well  the Model generalizes to unseen data.  44 Unsupervised  Learning  A category of Machine Learning that uses unlabeled data to discover patterns in similarities, differences, or  relationships.
+  Approved Version     UW Medicine AI Glossary | V5.0 | Revised 8.25.2026            Authors/Contributors  Primary Author: Jason Lau  Contributors: Ana Anderson, Trevor Cohen, Noah Hoffman Michael Leu, Chen Liang, Gang Luo, Angad Singh, Peter Tarczy-Hornoch, Jennifer  Slyker, Karen Segerson  References  1.  a.
+  Equity  For the purposes of this policy, UW Medicine data does not include UW Medicine information published for  public use or has been approved for public use by an appropriate University of Washington authority (see UW  Administrative Policy Statement 2.4).
+  Approved Version     UW Medicine AI Glossary | V5.0 | Revised 8.25.2026    4.
+[DISC]
+  It is the primary source of information for the Algorithm to adjust parameters  and improve performance.  41 Transparency The degree to which an AI System's operations and decisions are clear, understandable, and accessible for  review or scrutiny by users and stakeholders.
+  Unfortunately, larger and more capable Models are often less  transparent.  42 Transformer A type of Neural Network architecture that underlies many language Models.
+[ASSESS]
+  Records subject to FERPA include: academic records, student identification,  personal information, disciplinary records, financial records, health records, visa records, exams, and graded  assessments.  18 Foundation Model A large Machine Learning Model pre-trained on a vast quantity of data, which can be adapted to a wide range  of downstream tasks.
+[TOOL]
+  Examples include Models that learn to predict clinical outcomes from labeled health record data, Models that learn to  interpret medical images, and Models (such as GPT-4) that learn to generate coherent language and respond to requests from unlabeled text  and sets of instructions and preferences.
+[APPLIES]
+  When a student turns 18 years old, or enters a postsecondary institution at any age, the rights under FERPA  transfer from the parents to the student (“eligible student”).

@@ -1,0 +1,996 @@
+====================
+FILE: raw/us-med-schools/rush--library-guide-ai-resources-for-students.md
+FM title: Resources for Students - Artificial Intelligence (Rush Library guide)
+FM source_url: https://library.rush.edu/artificial-intelligence/resources-for-students
+[BAN]
+  If you are trying to find a reference provided by ChatGPT, be aware that it may not exist.
+[TOOL]
+  See I can’t find the citations that ChatGPT gave me.
+[ENF]
+  Asking for any information that would have dire consequences if it was incorrect (such as health, financial, legal advice, and so on).
+  Any student's failure to comply with the statement on the use of generative AI tools in a course syllabus is considered a violation of academic integrity and subject to the same penalties stated in Rush University's Student Code of Conduct Policy (UAC0030) and the Academic Honesty Policy (UAC0031).  ...
+  Disciplinary action will be imposed by the program/college on students who violate this policy, in accordance with Rush University's Student Code of Conduct and Academic Honesty policies.
+[APPLIES]
+  It can be found by clicking this link How to Work with Artificial Intelligence - for Students and then finding the link with that same name.
+  Consequently, students might use it without the permission of the faculty.
+  As such, students must be informed of AI course policies and under what circumstances they might responsibly use generative AI.
+  It is important to note that students who choose to use AI technology must be aware of and accountable for its limitations, potential inaccuracies, and possible biases.
+  For students in clinical situations or at off-site clinical locations: Please refer to the location's policy on AI use for clinical work.
+====================
+FILE: raw/us-med-schools/rush--library-guide-rush-ai-policy.md
+FM title: Rush Policy - Artificial Intelligence: An Overview (Rush Library guide)
+FM source_url: https://library.rush.edu/artificial-intelligence/rush-policy
+[APPLIES]
+  Policy: UAC0039 Generative Artificial Intelligence Use at Rush University  Category: Student and Academic  Summary: To uphold Rush University's reputation of academic excellence and integrity, this policy addresses the use of generative AI tools in academic and clinical courses.
+====================
+FILE: raw/us-med-schools/shsu-com--medical-ai-institute.md
+FM title: Medical Artificial Intelligence Institute
+FM source_url: https://www.shsu.edu/academics/colleges/osteopathic-medicine/medical-ai-institute
+[ENF]
+  He contributes to the MABS Program through interdisciplinary education, applied AI research, and the integration of computational methods into biomedical and clinical sciences.
+[APPLIES]
+  Medical Artificial Intelligence Institute  The Medical Artificial Intelligence Institute at SHSU-COM brings together clinicians, researchers, educators, and industry leaders to shape how artificial intelligence improves healthcare delivery, medical training, and patient outcomes.
+  Built for Real-World Impact Across Texas  The Medical Artificial Intelligence Institute benefits from SHSU-COM’s expanding clinical education and graduate medical education network across Texas.
+====================
+FILE: raw/us-med-schools/shsu-com--student-handbook.md
+FM title: SHSU-COM Student Handbook
+FM source_url: https://shsu-prod.dotcms.cloud/dept/academic-affairs/documents/com-policies/SHSU-COM%20Student%20Handbook.pdf
+[PHI]
+  Students must complete appropriate research ethics training through the university-authorized CITI program and must complete any additional training (HIPAA, lab safety, biosafety) when appropriate.
+  Identify the source patient's medical record number (MRN), physician, physician  phone number, and pertinent health information.  5.
+  Any student wishing to report a Title IX incident should follow the procedures outlined on the SHSU Office of Title IX & Discrimination Resolution website   Specialized Training  SHSU-COM students receive Health Insurance Portability and Accountability Act (HIPAA), Occupational Safety and Health Administration (OSHA), and Bloodborne Pathogen training during their SHSU-COM orientation.
+[BAN]
+  A LOA may not exceed one year.
+  Incomplete documents shall not be reviewed until all information has been received.
+  Post-Examination Feedback and Review  Upon completion of an examination, students shall not communicate the content of any examination in any format (verbal, electronic, in writing) to any other student.
+  Post-examination reviews may be conducted at the discretion of Course or Clerkship Directors to provide aggregate performance information by discipline, topic, or objective, but shall not disclose specific examination questions.
+  Students who arrive  without the required materials will NOT be permitted to take the exam until 20  minutes after the scheduled start time.
+  Talking   • Students may not talk in the testing environment during or after the examination.   21 Use of Restrooms and Exam Breaks   • The number of breaks permitted during an exam may be limited based on duration  of exam:  Exams < 1 hour = 0 breaks;
+  A student who is not in good academic standing may not participate in any extracurricular or co-curricular activities associated with SHSU.
+  Unused retest opportunities may not be carried over to another semester.
+  Unused remediations may not be carried over to another semester or academic year.
+  While on probation, students may not hold an elected office in student organizations or otherwise represent the COM or SHSU.
+  A student may not be promoted or graduated until an allegation of academic dishonesty has been resolved.
+  A SHSU-COM student who fails COMLEX-USA Level 1 examination on the second attempt:   • will be allowed to finish the current rotation;   29  • must meet with the SPAP Committee;  • may not resume clerkship rotations until achieving a passing score on COMLEX-  USA Level 1; and  • will be directed to the NBOME website to assure that all current NBOME policies  are understood and followed.
+[PERM]
+  The College was codified through Texas House Bill 2867 (effective March 29, 2019), which allows access to residency funding and other resources relevant to Texas medical schools.
+  MedEdPublish, 5(2).     13 Although not all educational activities are mandatory, many educational activities require the presence of all students to allow for the attainment of skills for active participation.
+  Students do not get to make up the 20  minutes of lost time.  • No other items shall be permitted in the immediate testing environment or on the  person of the student.
+  For the purposes of co-curricular activities, leadership roles, travel, and student research, it is understood that first semester osteopathic medical students will not have generated an academic standing and will not be allowed to hold an officer position in an SHSU- COM sponsored student organization.
+  Students are encouraged to meet with SHSU Financial Aid if funds were received, and to contact Medical Student Affairs for information regarding procedures and resources.
+  Limitations  Students are allowed a maximum of two end-of-course retests (Remediation #1) per semester.
+  Any retest beyond the maximum allowed shall automatically result in an SR grade for the course in place of the retest opportunity.
+  Students are allowed a maximum of three course remediations (Remediation #2) per academic year, with no more than two remediations per semester.
+  Any remediation beyond   25 the maximum allowed shall automatically result in a grade of F for the course in place of the remediation opportunity.
+  Except for required electives in the curriculum, no electives are permitted while a student is on academic probation without the approval of the SPAP committee.
+  A resignation will not be allowed if a grade has been earned or a final has been taken.
+  In general, a student will not be permitted to resign after the last class day of the first block of the semester (you may view your academic calendar at  calendar).
+[DATE]
+  Leave of Absence  A Leave of Absence (LOA) is an approved leave from SHSU-COM that postpones a student’s course of academic and/or clerkship study.
+  Before the LOA is approved, students are required to complete the checklist provided with the LOA form, which includes clearance from Financial Aid, the Registrar, and Student Affairs.
+  Students granted an LOA for medical reasons may be required to  have a licensed physician, approved by the Dean, certify in writing that the  student is able to resume their studies before returning to classes.      15  Parental Leave of Absence: Maternal, Paternal, Adoptive, etc.
+  Students are responsible for furnishing and maintaining any device required for an examination along with an approved privacy screen.
+  Students must ensure that their device is updated and in good working order.
+  With the exception of the student’s ID and approved items  of medical necessity, all pockets, clothing compartments, and personal storage  areas on the person must be empty prior to entering the testing environment and  remain empty throughout the examination.
+  Probationary status is updated on the transcript following the subsequent semester; however, this status will still be reflected on the transcript for the semester(s) it was in effect.
+  Although the use of electronic devices can enhance the teaching and learning experience, the absence of unnecessary distractions and interruptions is essential for an effective learning environment.
+  Students may contact the SHSU-COM Director of Research at COMResearch@shsu.edu for assistance with research compliance.      32  Research Funding  The Medical Summer Scholars Program (MSSP) provides stipend support to students that participate in an approved faculty led research program during the summer of their first year.
+  Note: Students who have been approved to travel by the SHSU-COM or SHSU should consult the official SHSU-COM attendance policy referenced in their syllabi and follow all guidelines prior to making travel arrangements.
+  Requests for accommodation may be submitted to SSD at any time during the academic year, but, once approved, accommodations do not apply retroactively.
+  Requests for accommodations must be approved in writing by an SSD representative.
+[DISC]
+  Academic Credentials  To be considered for admission to any program offered by SHSU, a student must possess the academic credentials and professional attributes deemed essential by the respective program’s admissions committee for selection to the program.
+  Final class quintiles will be disclosed to SHSU-COM students during Year 3, recorded by the SHSU Registrar, and may be indicated on transcripts and in Medical Student Performance Evaluations (MSPEs) for residency applications.
+  Students should be aware that the Texas Medical Board and other medical licensing boards may require disclosure of a student’s probation status during medical school when applying for a license.
+  Further, all applicants will be required to formally acknowledge understanding of the SHSU-COM immunization policy to include the potential for noncompliance to result in dismissal or failure to graduate.
+  This counseling must be acknowledged by the student in writing prior to consideration of the exemption request.
+[ASSESS]
+  Copies of accreditation standards and procedures are available online through the Office of Assessment, Evaluation, and Accreditation of SHSU-COM.
+  During these sessions, it is imperative that students examine  each other.
+  This type of leave is not to be utilized for  deficiencies in academic progress and cannot be granted once the last final exam  of a term is completed.
+  Grading Policies  Final Grades  End-of-course or -clerkship grades are based upon academic performance, professional behavior, participation in class or clinical rotation, laboratory work, examinations, and other activities, as applicable to a course or clerkship rotation.
+  In determining final grades, the proportionate weights assigned to graded components are determined by Course and Clerkship Directors.
+  Examination Procedures and Policies  Examinations  Examinations shall take place at the date and time specified on the course or clerkship syllabus.
+  Changes to the examination schedule are at the discretion of the Course or    18 Clerkship Director and shall be communicated to students in a timely fashion.
+  All examinations are administered in accordance with the SHSU and SHSU-COM policies.
+  Missed Examinations  Students missing an examination should consult the official SHSU-COM attendance policy referenced in their syllabi.
+  Recording or sharing examination questions is considered academic dishonesty.
+  Students will not receive grades or other performance indicators at the time of the examination.
+  Summary information, such as psychometric analyses and individualized scores and strength-opportunity reports, shall be provided within a reasonable time after examinations.
+[ENF]
+  The COCA Policies and Procedures may be found at:     General Information SHSU-COM Honor Code  The SHSU-COM Honor Code will be developed by students as a set of ethical principles governing the SHSU-COM community based on ideals that define what constitutes honorable behavior within the SHSU-COM community.
+  As delineated in SHSU Academic Policy Statement 800401 (Class Attendance)   affairs/documents/aps/800401%20Class%20Attendance.pdf, SHSU-COM students should refer to this handbook for attendance guidance, which is as follows: Each course and clerkship shall refer students to the official SHSU-COM attendance policy, which shall be enforced by the Course or Clerkship Director.
+  Such conduct constitutes a serious violation of  institutional policy and shall subject the student to the most severe disciplinary  measures available, including, but not limited to, dismissal from the program.
+  Such  conduct constitutes a serious violation of institutional policy and shall subject the  student to the most severe disciplinary measures available, including, but not  limited to, dismissal from the program.
+  Flagging does not constitute a violation in itself but may prompt  additional oversight.  • Students identified for follow-up based on monitored behaviors may be subject to  immediate and ongoing enhanced accountability measures during future exams.
+  Refusal to comply may result in denial of exam access or further disciplinary  action.  • Break access is a conditional privilege.
+  Patterns of concern  may be considered alongside other evidence in determining potential violations.  • These measures are designed to protect the fairness and integrity of the testing  environment for all students.
+  Failure to comply with test administration policies and procedures may result in a referral to the SPAP committee for possible disciplinary action.      23  Promotion, Remediation, Probation, Graduation, and Dismissal  Student Promotion and Academic Progress (SPAP) Committee  The SPAP committee shall maintain a continuing evaluation of the academic and professional progress of each student.
+  The SPAP committee shall review students’ professional behavior in and out of class and retains the right to invoke appropriate disciplinary measures, up to and including dismissal, for failure to adhere to standards of professionalism or ethical conduct.
+  Academic Honor Code  Academic Integrity  SHSU-COM “expects students to engage in all academic experiences both in and out of the classroom with honesty” SHSU Academic Policy Statement 810213 (Academic Honesty  affairs/documents/aps/810213%20Academic%20Honesty.pdf).
+  Academic Dishonesty  Academic honesty is defined in paragraph 5.3, Chapter VI, of the Rules and Regulations, Board of Regents, The Texas State University System, SHSU Academic Policy Statement 810213 (Academic Honesty  affairs/documents/aps/810213%20Academic%20Honesty.pdf), and in the SHSU Student Code of Conduct and Discipline in the Student Guidelines published by the Dean of Students’ Office.
+  Individuals who violate TSUS and/or SHSU academic dishonesty policy are subject to disciplinary action, up to and including dismissal.
+[APPLIES]
+  The provisions of this handbook do not constitute a contract, expressed or implied, between any applicant, student, faculty member, or staff employee and Sam Houston State University, including the College of Osteopathic Medicine, or the Texas State University System.
+  For more information regarding COCA accreditation, please visit   Policy on Student Complaints Regarding Institutional Compliance with Accreditation Standards  The Dean of the SHSU-COM, or other designated COM officials, will address expressed, informal concerns of students regarding institutional compliance in accordance with current COCA COM Continuing Accreditation Standards.
+  Individual students or their class representatives may register formal or informal concerns or complaints regarding the compliance of the institution with accreditation standards or procedures as published by the COCA.
+  Students are expected to maintain good moral character throughout their medical school career by adhering to the ethical and professionalism standards set forth in this handbook.
+  Student Code of Conduct  The SHSU Student Code of Conduct applies to SHSU-COM students and may be found here:  conduct# To submit an incident report visit shsu.edu/doso.
+  Students should reference Blackboard for details regarding specific course and clerkship events.
+  Holidays  For pre-clerkship years, students should reference the SHSU-COM academic calendar for designated holidays and applicable SHSU policies for religious holy days.
+  Vacations and Breaks  For pre-clerkship years, students should reference the SHSU-COM academic calendar for designated breaks.
+  Students are assigned four (4) weeks of vacation during their fourth-year clerkships.
+  Inclement Weather  The SHSU-COM is committed to the safety and security of its students, faculty, staff, and visitors.
+  When the campus is impacted due to inclement weather, notification will be sent to students directly from KatSafe, the emergency notification system.
+  Unless scheduled to be on campus, students participating in clerkship rotations are to follow the instructions of their preceptor at their designated clerkship rotation site with regard to inclement weather.
+====================
+FILE: raw/us-med-schools/slu--academic-integrity-policy.pdf.md
+FM title: Saint Louis University Academic Integrity Policy
+FM source_url: https://www.slu.edu/provost/policies/academic-and-course/academic-integrity-policy.pdf
+[BAN]
+  Using assistance, notes, aids, artificial intelligence or other technology, cell phones, calculators,  translation software, or internet-based applications not authorized by the instructor in taking  quizzes or examinations or to complete assignments.  3.
+  Retaliation or bias by or against any community member for exercising their rights or responsibilities under this Academic Integrity Policy is prohibited and may result in sanctions as deemed appropriate by the University.
+  The Hearing may not be recorded.  iii.
+  Visiting students (including 1818) may be prohibited from participating in the program/  opportunity.  7.
+[PERM]
+  Academic integrity allows those who practice it to contribute to a just and equitable learning environment that cultivatesmoral character and self- respect.
+  Cheating is the use of unauthorized assistance to gain an advantage over others, and/or a failure to comply with any reasonable direction or instruction of an officer, employee, or agent of the University relating to the conduct of a formal examination or assessment.
+  Collusion is the unauthorized collaboration in a deceitful manner with another person or persons for the purpose of giving or gaining an academic advantage in the completion of an assignment, quiz, or    2 examination that has been restricted to individual effort.
+  Collusion does not include receiving help from authorized University assistance.
+  Misrepresenting or altering information in the academic records of an instructor, academic or  administrative department, or unit of the University unless authorized to do so.
+  Examples include thoughts, words, or data created by another source other than the student not explicitly permitted by the instructor.
+  Furthermore, faculty are encouraged to create assignments that minimize academic dishonesty through clear expectations and to help create an environment where academic integrity is uppermost.
+  If participation  results in absence from a course, the University Authorized Absence Policy  applies.
+  The Chair of the Academic Hearing  Panel (in consultation with DAI) determines whether a witness is relevant to the  Hearing proceedings and may allow the witness at the Hearing or not.
+[DATE]
+  University Academic Integrity Policy Version: 3.1 Responsible University Official: Provost Version Effective Date: 8/19/2026  1.0 Introduction  Saint Louis University is a community of learning in which integrity and mutual trust are vital.
+  In the case of a New Evidence Appeal, the DAI refers the case and all relevant materials (initial  report, evidence, Academic Hearing Panel Hearing Summary, approved sanction(s), etc.) to the  original or a new Academic Hearing Panel within 5 University business days for a new hearing  and follows the procedures and timelines outlined above.  4.
+  In the case of a Process Appeal, the DAI refers the case and all relevant materials (initial report,  evidence, Academic Hearing Panel Hearing Summary, approved sanction(s), etc.) to the Office of  the Provost within 5 University business days.
+  This policy was: Endorsed by CADD: 5/22/2024 Approved by the Provost: 5/22/2024 Amended by UADD: 4/9/2026      10
+[DISC]
+  Acknowledging the source of information whether taken from another person, artificial  intelligence, or other technology.  3.
+  Acknowledging faculty members’ intellectual properties and confirming faculty support when  students conduct research, apply for assistantships and/or fellowships.
+  Disclosure of this information is limited to the Academic Hearing Panel and those University officials for each case who have a need to know the information in connection with discharging their official duties and responsibilities.
+  The student must acknowledge or refute responsibility in writing via their SLU email account  within 7 University business days.  a.
+  If acknowledged first Academic Integrity Incident:  a.
+[ASSESS]
+  Academic integrity is the foundation of the academic assessment process, which in turn sustains the ability of the University to certify to the outside world the skills and attainments of its graduates.
+  Copying from another student’s examination orwork.  2.
+  Acquiring, disseminating, or using any academic form of assessment belonging to an instructor or  staff member without prior approval.  4.
+  Hiring or otherwise engaging in the impersonation of another person to take a quiz or  examination or in fulfilling other academic requirements.  5.
+  Asking students for solutions to assignments, exams, quizzes and then submitting these solutions  as their own.
+  Having another individual or group do the/an assessment task.  3.
+  Giving solutions to assignments, exams, quizzes to other students.
+  The student may receive a lowered, failing, or zero grade on the examination or assignment in  question.  4.
+[ENF]
+  Since the University seeks to prepare students and instructors for lives of integrity and occupations of trust, it regards academic integrity as a matter of serious import.
+  Students are expected to adhere to the standards of academic integrity as defined in this policy and as guided by the faculty and staff supporting their educational endeavors, thus contributing to an environment in which academic integrity is respected.
+  The Academic Integrity Policy detailed below sets out principles implicit in the University's ethos but that call for explicit formulation to guide its practice.  2.0 Scope  The Policy on Academic Integrity set forth here is designed to promote ethical conduct within the University community by:  1.
+  Defining violations of academic integrity.  3.
+  Setting minimum standards for reporting and adjudicating (making a formal judgement/ decision)  violations of academic integrity.  4.
+  Note: Alleged violations of academic integrity in scientific research will be addressed in accordance with the Research Integrity and Compliance Program in the Office of the Vice President for Research.  3.0 Definitions  This section defines academic integrity and articulates the conduct and standards considered as having violated this policy.
+  More than one violation may apply.
+  Academic Integrity is the commitment to and demonstration of honest and moral behavior in an academic setting.
+  Applying academic integrity to one’s work entails practicing honesty and fairness towards others, taking responsibility for learning, and following the conventions of scholarship.
+  The University is responsible for awarding credit for honestly conducted work, and students are responsible for demonstrating academic integrity by practicing the following:  1.
+  Academic Integrity Incident refers to reported student conduct that violates the academic integrity standards set forth in this policy.
+  Concealment is the failure to report to the instructor or to call to the attention of an instructor or administrator any matter where a student knows of facts indicating a significant likelihood that a violation of this Academic Integrity Policy has been or will be committed or that an academic unit requires be reported, including the behaviors described in the definitions in this section.
+[APPLIES]
+  Establishing standards and procedures for maintaining records.    1 Saint Louis University undergraduate and graduate students’ educational experience in all modalities is governed by this Academic Affairs policy except for courses delivered by the School of Law, the School of Medicine, the Center for Advanced Dentistry Education, and the Madrid campus.
+  Paraphrasing another student’s assignment and submitting it as their own.  2.
+  Conflict of Interest is any interaction with a student(s), faculty, or staff involved in the Academic Integrity adjudication process that could directly and significantly affect one’s responsibilities on the Academic Hearing Panel.
+  Egregious is a willful act or conduct by a student who intentionally violates the university-wide Academic Integrity Policy in an impactful and a serious manner beyond a common transgression.
+  Faculty-Guided Resolution is a teaching practice in which faculty guide students to learn from mistakes, to recognize the impact of their actions, and to develop and enhance skills, problem-solving, and a deeper understanding of academic integrity issues.
+  Plagiarism is the presentation or representation of content as if the content were the student’s own without proper citation.
+  Directly presenting the written, artistic, or spoken work generated or created by someone other  than the student, by artificial intelligence, or by other technology without quotation marks or  indented quotations and without proper citation to the source.  2.
+  Paraphrasing or incorporating the ideas, concepts, arguments, observations, images, objects,  music, or statements generated or created by someone other than the student, by artificial  intelligence, or by other technology without proper citation of the source.  3.
+  Presenting information from the internet, produced by artificial intelligence, or by other  technology so that it appears to be the student’s own work.  4.
+  Submitting as the student’s own, any work that has been prepared, either entirely or in part, by  another person, group, commercial firm, artificial intelligence, or by other technology without  proper citation.  5.
+  Claiming research advisors’ research idea as the student’s own and using these ideas to apply for  scholarships/assistantship/fellowships without research advisors’ approval/support.      3 Preponderance of Evidence is a widely accepted standard of evidence/proof applied to academic integrity incident evaluations, proceedings, and determinations.
+  Students are responsible for adhering to university standards of academic integrity and seeking clarification from their instructors when they are uncertain if a behavior is in violation of this policy, helping to create an environment in which academic integrity is respected, and reporting violations of the policy to instructors, department chairs, or administrators.
+====================
+FILE: raw/us-med-schools/slu--complete-ai-guidelines.md
+FM title: Complete AI Guidelines - Saint Louis University
+FM source_url: https://www.slu.edu/provost/ai-guidelines/complete-ai-guidelines.php
+[PHI]
+  Privacy and data security: AI use must comply with SLU data protection policies and relevant laws (e.g., FERPA, HIPAA, GDPR).
+[BAN]
+  Do not input restricted use data: SLU community members must not input any restricted use data into generative AI tools.
+  Do not input confidential data: SLU community members must not input any confidential data into generative AI tools, except when permitted by validated contract language and security controls (approved by Information Technology Services (ITS)).
+  Do not input personal information: SLU community members must not input any personal information about SLU employees, students, faculty, or other stakeholders into a generative AI tool except when permitted by validated contract language and security controls (approved by ITS).
+  Please note that vendor licenses govern many of the digital resources provided by the SLU Libraries (“Libraries”), and some publishers are asserting that using their content with AI tools is not allowed.
+  Comply with third-party intellectual property rights: SLU community members must not hold out any output generated by generative AI tools as their own.
+  Do not use generative AI tools to produce malicious content: SLU community members are prohibited from using generative AI tools to generate malicious content, such as malware, viruses, worms and trojan horses that may have the ability to circumvent access control measures put in place by SLU or any other third-party entity to prevent unauthorized access to their respective networks.
+  SLU community members are prohibited from using AI tools with the intent to harm another person.
+  Instructor Permission Required: Unless an instructor includes a clear statement in their syllabus granting permission, the use of generative AI tools to complete an assignment or exam is prohibited.
+  This includes adherence to restrictions, prohibitions, disclosure requirements, data security standards, export control regulations, human subjects protections, and other research compliance requirements that may limit or govern the use of specific AI tools or platforms.
+  This includes unpublished manuscripts or funding proposals that researchers may be asked to peer review, as some funding agencies (e.g., NIH, NSF) prohibit using generative AI for peer review.
+  Generative AI tools may not provide protection for confidential information, and their use could create the potential to breach confidential contractual commitments.
+  External Policies: Researchers are expected to follow the policies of journals, funding agencies, and professional societies through which they report their research (e.g., some journals explicitly prohibit AI-generated text, figures, images, or graphics).
+[PERM]
+  The disclosure should be transparent, prominent, and sufficient to allow others to understand the role AI played in the work product.
+  Please contact SLU Libraries for assistance in defining acceptable uses for licensed content with an AI tool or large language model.
+  Unauthorized use of AI will be treated similarly to unauthorized assistance and/or plagiarism.
+  Instructors are encouraged to insert a syllabus statement regarding the use of GAI in their courses.
+  Disclosure and Citation: If permitted by the course instructor, students are encouraged to acknowledge and properly cite any use of AI applications in their academic work, aligning with institutional academic honesty policies, disciplinary standards, or other applicable professional standards.
+  Communicate with Instructors: Students are encouraged to speak with their instructors regarding their expectations for AI tool usage in each course.
+  Facilitate Discussion: Encourage discussions about AI in the classroom and online forums.
+  Researchers must comply with the terms of any federal, state or private grants with regards to AI use or allowability, as well as any written policies outlined by scientific or other journals where research output is published.
+  Responsible Use of AI Tools: Staff should not inappropriately employ GAI in their work, plagiarize by submitting work that is not their own creation, or inappropriately share confidential or protected data with a GAI provider.
+[DATE]
+  Complete training on effective and ethical and legal use of AI: SLU community members are expected to complete training in how to properly use AI before using any such AI tools that could implicate ethical, legal or policy considerations to ensure awareness of the issues presented and mechanisms and practices to avoid violating any such laws, regulations or policies.
+[DISC]
+  Transparency and disclosure: Usage of AI tools in academic work, research, or administrative activities must be clearly disclosed.
+  Disclose the use of generative AI tools: SLU community members who leverage generative AI to produce any written materials or other work product must disclose that those materials and that work product is based on or derives from the use of generative AI.
+  Always be transparent if you are relying on the output of a generative AI tool.
+  Transparency in Methods and Authorship: Be transparent regarding AI use in research, including describing methods, acknowledgements, or elsewhere, as appropriate.
+  Doing so may lead to the disclosure of unpublished work, impede future intellectual property protection, or create privacy violations.
+[ASSESS]
+  Non-discrimination and bias mitigation: AI technologies must be assessed for potential biases and actively designed to promote equity.
+  Careful consideration should be given when deciding if the use of these tools is appropriate for assessing student work.
+  Responsible Employment: Instructors should not inappropriately employ GAI in their teaching activities, including the design of courses, syllabi development, assignment development, course materials development, or the formative and summative assessment of student learning, in ways that violate institutional standards and policies.
+[TOOL]
+  Administrative Use of AI  Administrative applications in higher education are distinct in their enterprise-wide impact, affecting faculty, staff, students, and external stakeholders.
+[ENF]
+  Ethical use: AI must be used in ways that uphold academic integrity, fairness and human dignity.
+  For Students  Students Must Uphold Academic Integrity: Students must follow the academic integrity policy, faculty syllabi, and any applicable guidance from the student handbook when using AI as defined in section 8, inclusive of all subtypes of AI such as generative AI, agentic AI, or other intelligent systems.
+  This conversation can create opportunities to talk about the evolution of tools, their potential benefits in specific disciplines, their limitations, and how they relate to course objectives and student learning.
+  For Faculty Researchers (Research)  Compliance and Integrity: Researchers utilizing AI must comply with all applicable federal regulations, agency guidance, sponsor requirements, contractual obligations, and University policies governing the conduct of research (including research misconduct ) and use of artificial intelligence.
+[APPLIES]
+  SLU Madrid students, faculty and staff must also receive approval from the data protection officer (DPO).
+  SLU Madrid students, faculty, and staff must also receive approval from the data protection officer (DPO).
+  Academic Use of AI (Teaching and Learning)  The following statements are meant to guide the use of AI tools in academic settings, including use by students for learning and use by instructors for teaching.
+  For Faculty and Staff (Administrative)  The following statements are meant to guide the use of AI tools in administrative settings, both for faculty and staff.
+  Auditing for Fairness: AI systems used in critical administrative functions such as admissions, hiring, student services, and decision-making must be regularly audited for fairness and accuracy.
+====================
+FILE: raw/us-med-schools/temple-katz--ai-task-force.md
+FM title: Katz Launches AI Task Force to Guide Responsible and Strategic Use of Artificial Intelligence
+FM source_url: https://tuportal6.temple.edu/web/medicine/blog/-/blogs/katz-launches-ai-task-force-to-guide-responsible-and-strategic-use-of-artificial-intelligence-1
+[PERM]
+  Compliance, Risk, and Ethics: focusing on privacy, responsible use, and ethical standards.
+  The task force will also help foster a culture of shared learning across Katz by encouraging ongoing education, knowledge-sharing, and dialogue about AI across mission areas and functions.
+[DATE]
+  The work will be carried out through six specialized subcommittees:  Curriculum / Education and Faculty AI Training: focusing on integrating AI into curricula and preparing faculty to teach and use AI effectively.
+[DISC]
+  The task force will also guide the development of a new AI resource section for the Katz Portal that will provide the Katz community with updates, guidance, resources, and communication materials, helping to ensure transparency and clear communication.
+[TOOL]
+  They will evaluate potential AI applications to ensure they support the school's strategic priorities, explore practical elements of AI deployment, such as enterprise-wide feasibility, and pilot-test applications of interest.
+  The Katz AI Task Force will also align with the University and Temple Health AI task forces to share best practices, exchange information, and support a coordinated, enterprise-level approach to AI use, as appropriate.
+[APPLIES]
+  Ryan Gibbons, MD, Assistant Dean of Faculty Affairs and John M.
+  "Artificial intelligence is already shaping how faculty at medical schools teach, conduct research, care for patients, and manage operations," said Amy J.
+====================
+FILE: raw/us-med-schools/touro-tuncom--libguide-ai-in-medical-education.md
+FM title: AI in Medical Education
+FM source_url: https://libguides.tun.touro.edu/artificial_intelligence/medical_education
+[ENF]
+  Policy for Appropriate Use of Artificial Intelligence in Coursework This link opens in a new window  The Touro University System (TUS) Academic Integrity Policy defines plagiarism, cheating, and other unethical conduct, including in the context of use of AI.
+====================
+FILE: raw/us-med-schools/touro-university--academic-integrity-ai-addendum.md
+FM title: Policy for Appropriate Use of Artificial Intelligence in Academic Work (AI Addendum)
+FM source_url: https://www.touro.edu/students/policies/academic-integrity/artificial-intelligence-ai-addendum/
+[PHI]
+  Each instructor’s policy must include the Data Privacy Reminder as follows:  “Only AI tools approved by the university (which are available through the TouroOne Portal) are to be used when working with confidential or personally identifiable information (PII).
+  Data Privacy and Security  Data Security Notice: Per the Information Security Policy on Generative AI TUS faculty, staff, and students may only use AI tools that have been vetted and approved by the TUS when handling confidential or personally identifiable information (PII) about any individual or the university.
+[BAN]
+  Appropriate Use  Default Policy : In the absence of an explicit statement by the instructor regarding the scope of AI use for graded coursework, the following default rules apply:  Use of AI-generated text or output to write, complete, or substantially develop any portion of a graded assessment is not permitted.
+  Use of agentic AI tools, which are AI systems that generate text or outcomes with minimal human direction or oversight, is prohibited for all graded assessments.
+  Instructors are responsible for making clear to students, in writing, how AI may and may not be used in a course, and students are responsible for ascertaining, understanding, and following each instructor’s policy.
+  Use of non-approved AI platforms is prohibited on TUS machines, and may result in academic, legal, or disciplinary consequences.
+  The statement may refer to an easily available departmental or school policy or may be self-contained but must not permit actions otherwise prohibited by the TUS Academic Integrity Policy such as plagiarism, cheating, and other unethical conduct.
+  AI tools may not be used to deceive, manipulate, or harm others.
+  It is prohibited to use AI tools that are not approved by TUS on any TUS machine.
+[PERM]
+  The following definitions can be found in the TUS Academic Integrity Policy:  Plagiarism: Plagiarism is defined as the unauthorized use of the writings, ideas and/or computer-generated material of others without appropriate acknowledgement, and the representation of them as one’s own original work.
+  It also includes the unauthorized use of computer-generated material via AI and other emerging technologies without appropriate acknowledgement and the representation of them as one’s own original work.
+  Cheating on Examinations and other Class/Fieldwork Assignments: Examples of cheating include exceeding the restrictions put in place for “take home” examinations, such as unauthorized use of library sources or internet sources, unauthorized use of computer-generated material via AI and other emerging technologies, or unauthorized collaboration on answers.
+  Examples of unauthorized assistance include receiving assistance via AI and other emerging technologies without the authorization of the instructor.
+  Touro University encourages the responsible use of AI tools to enhance learning and research.
+  We encourage all members of our university community to experiment creatively with AI, provided such activities are conducted ethically and responsibly.
+  Use of generative AI tools is permitted for pre-task support activities.
+  Use of AI tools is permitted for grammar correction and language editing.
+[DATE]
+  Be advised that non-approved software can collect any information from your device without your knowledge or consent, which could result in unintended consequences.
+  Please access the full policy here:   .”  Policy Transparency: Effective January 1, 2026, every course syllabus shall contain a clear and unambiguous statement of the course’s policy on AI use as outlined below.
+  Use of non-approved AI platforms for academic work is discouraged.
+  Students, faculty, or staff who use AI platforms that are not approved by TUS assume full responsibility for any academic, legal, or ethical consequences resulting from such use.
+  Periodic updates on AI detection tools, their company policies and disclaimers, and their effective use will be posted on the TouroOne Portal by the Office of the Provost for Artificial Intelligence  6.
+[DISC]
+  Plagiarism encompasses acts of inadvertent failure to acknowledge sources, as well as improper attribution due to poor citation.
+  Intentional plagiarism includes using computer-generated material via AI and other emerging technologies without attribution.
+  Any use of AI for these purposes must be acknowledged in accordance with the Acknowledgement of Use requirements outlined in Section 3 of this policy.
+  Submitting AI-generated text, media, or code as one’s own without acknowledgement is a form of plagiarism and subject to disciplinary proceedings and possible sanctions.  3.
+  Acknowledgement of Use  Acknowledgement : As noted above, any use of AI tools in student work must be acknowledged; see guidelines below.
+  Unacknowledged use: To avoid all doubt, if a student uses AI and does not acknowledge said use, regardless of any statements made or not made in the syllabus, it is considered plagiarism and subject to disciplinary proceedings and sanctions.
+  Examples of Acknowledgement:  “This assignment was generated with support from Copilot (Microsoft, 2025) to assist with initial brainstorming and proofreading.”  “This paragraph was drafted with assistance from Copilot (Microsoft, March 2025), prompt: “Summarize the main arguments of X.”  Examples of Reference:  MLA: “Describe the symbolism of the green light in the book The Great Gatsby by F.
+  Confidential information includes any Touro-affiliated contact information (phone numbers, email addresses, physical addresses, etc.) or data not intended for public disclosure.
+  Acknowledgement  Portions of this document are based on AI summaries of best practices from leading universities and academic societies.
+[ASSESS]
+  The following guidelines clarify our expectations for students and faculty with regard to graded assessments in coursework.  1.
+  Instructor Autonomy : At their discretion, instructors may permit unrestricted AI usage, limited AI usage, or ban AI use for specified assignments and graded assessments.
+[TOOL]
+  Copilot, 13 Feb. version, Microsoft, 8 Mar. 2023, chat.microsoftcopilot.com/chat.
+  Chicago: Copilot, response to "Explain how to make pizza dough from common household ingredients," Microsoft, March 7, 2023,    APA: Microsoft.
+  Copilot (Mar 14 version) [Large language model].    4.
+  ChatGPT (accessed Feb 27, 2025; version o1) [Large language model].
+[ENF]
+  The Touro University System (TUS) Academic Integrity Policy defines plagiarism, cheating, and other unethical conduct, including in the context of use of AI.
+  Students who are found to have violated the parameters of academic integrity will be subject to sanctions, following the procedures described in the Policy.
+  Citation style may vary by discipline.
+  Open-source, public, and/or downloadable AI tools may collect such information from your device, biometric data, or other sensitive information without one's knowledge or consent, which could result in unintended consequences .
+  Failure to comply with this policy is a violation of TUS policy and may result in disciplinary action, up to and including expulsion, per such policy.
+  It may also constitute a violation of federal law.
+  Addressing Suspected Violations  Allegations of impermissible AI use are to be addressed with the same procedures and standards as any other suspected breach of the Touro University System Academic Integrity Policy.
+  Enforcement and Updates  Violations of these AI guidelines fall under the broader Touro University System Academic Integrity Policy and may result in sanctions, up to and including expulsion, per that policy .
+[APPLIES]
+  A student’s academic work must reflect their own original ideas, organization, and expression.
+  The use of AI tools should be limited to supporting—not replacing—the student’s thinking.
+  Such use should be limited to supporting, not replacing, the student’s own thinking and creative efforts.
+  This does not include the use of AI tools to rewrite or enhance the substance of the student’s writing.
+  This includes any AI agents that act autonomously to produce content, solve problems, or make decisions on behalf of the student.
+  Ethical Use: Students are to use AI tools ethically, ensuring that they respect the privacy, autonomy, and safety of others.
+  Students should use the citation format appropriate to the assignment as instructed by their faculty.
+  Changes will be communicated through official channels, and students must remain informed and in compliance.
+====================
+FILE: raw/us-med-schools/touro-university--ai-policy.md
+FM title: Touro University AI Policy
+FM source_url: https://ai.touro.edu/policy/
+[DATE]
+  AI Policy & Governance  Our Approach to Responsible AI  We recognize that the effective integration of artificial intelligence requires thoughtful policies and governance structures.
+[ENF]
+  Although our formal policy framework is still in development, the following resources are currently available to the Touro community:  AI and Academic Integrity Guidance: Touro’s existing academic integrity policies now include guidelines related to responsible student and faculty use of AI tools.
+====================
+FILE: raw/us-med-schools/ttuhsc--artificial-intelligence-use.md
+FM title: Artificial Intelligence (AI) Use at TTUHSC
+FM source_url: https://www.ttuhsc.edu/compliance/ai
+[PHI]
+  Artificial Intelligence (AI) Policy at TTUHSC  TTUHSC OP 52.21 – Acceptable Use of AI Tools   Can I enter patient information into an AI tool?
+[BAN]
+  Until formal approval is confirmed, AI tools must not be used with protected or confidential information without prior review.
+[PERM]
+  AI Use Guidelines Allowable Use  AI tools may be used when appropriate and in compliance with institutional policy.
+[DATE]
+  This page will be updated as AI technologies, institutional guidance, and applicable laws and regulations continue to evolve.
+  Approved AI tools that meet institutional privacy and security standards are currently under evaluation.
+  How do I know if an AI tool is approved?
+  What should I do if I accidentally enter sensitive information into an unapproved AI tool?
+[ASSESS]
+  The cross-functional committee approves AI policies, reviews and assesses AI tools and associated risks, monitors performance and compliance, evaluates vendors, oversees training, and addresses reported concerns.
+  Launch and complete the course and quiz to receive credit.
+====================
+FILE: raw/us-med-schools/tufts-university--it-guidelines-use-genai-tools.md
+FM title: Guidelines for Use of Generative AI Tools
+FM source_url: https://it.tufts.edu/guidelines-use-generative-ai-tools
+[PHI]
+  Adhere to Policies, Laws, and Regulations  AI use must comply with all applicable laws and regulations, including but not limited to:  FERPA  HIPAA  Research and human ‑ subjects protections  Copyright and intellectual property laws  Accessibility requirements  Special care is required when AI is used in clinical, research, or student  facing contexts.
+[BAN]
+  Seek Approval When Using Tools Not Pre-Approved  Faculty and staff must not use unapproved AI tools for Tufts business, instruction, research, or administration without review and approval, especially when institutional data is involved.
+[PERM]
+  When choosing or using an AI tool, users should be aware of whether the vendor’s terms allow:  Training or fine - tuning on user inputs: Some AI tools reserve the right to use submitted content to train or improve their models.
+[DATE]
+  Use Tufts Approved AI Tools  When available, faculty, staff, and students should use AI tools that are approved, licensed, or supported by Tufts.
+  See c urrent list of Tufts  approved or supported AI tools .
+  Tufts ‑ approved tools are reviewed for:  Privacy and data protection  Security and compliance  Accessibility  Contractual and licensing terms  Even when an AI tool appears useful, its terms and conditions may restrict use or create data vulnerabilities and intellectual  property risks.
+  Approved Tufts tools have been reviewed for these issues.
+  Unapproved tools require review before being used for Tufts work.
+[DISC]
+  These terms govern how data may be used, retained, disclosed, or incorporated into the vendor’s models—and may conflict with Tufts policies or legal obligations if not reviewed.
+[ENF]
+  This guidance is designed to help faculty, staff, and students make informed, ethical, and secure decisions about AI use—grounded in Tufts values, academic integrity, data stewardship, and respect for privacy.
+[APPLIES]
+  Students should understand that using AI tools does not transfer ownership, authorship, or responsibility and may affect originality, citation, or integrity requirements.
+  Faculty should consider how AI tool licenses interact with publication agreements, grant terms, and scholarly norms.
+====================
+FILE: raw/us-med-schools/u-arizona--ai-guidelines-and-principles.md
+FM title: AI Guidelines & Principles
+FM source_url: https://responsibleai.arizona.edu/ai-arizona/ai-guidelines-principles
+[BAN]
+  (NetId required)  AI Use in Teaching & Learning At the University of Arizona, the use of generative AI tools—such as ChatGPT—in coursework is guided by the Code of Academic Integrity , which prohibits all forms of academic dishonesty.
+  The university offers sample syllabus language based on a Red-Yellow-Green model , which outlines whether AI is prohibited, allowed with permission, or actively encouraged.
+  Bipartisan legislation to prohibit AI models from adversarial nations (China, Russia, Iran, North Korea) from being used by federal agencies unless exempted by Congress or OMB.
+[PERM]
+  While there is currently no single, university-wide policy specific to AI, instructors are encouraged to set clear expectations in their course materials.
+  Rogers College of Law Generative AI Legal Research Guide University of Arizona Global Campus Responsible Use of AI Guidelines UA Libraries AI Within Healthcare Guide  Additional Resources  U.S.
+  Proposes a federal private right of action over unauthorized use of personal data or copyrighted works in AI training.
+[DATE]
+  For students: You may only use AI tools for class assignments if your instructor has explicitly approved their use.
+[DISC]
+  For instructors: To support transparency and fairness, clearly communicate your expectations for AI use in your syllabus.
+  Targets undisclosed use of deepfakes.
+  Official HB 2394 Text (AZ Legislature) Senate Bill 1359 – AI Political Disclosure Law (May 2024) Currently active.
+  Requires AI-generated political media to disclose its synthetic nature.
+[ENF]
+  AI Guidelines & Principles  Image  University Guidelines and Academic Integrity We believe that AI must be developed and used with care.
+  University-wide Syllabus Guidance on AI  Academic Integrity Resources  Information Security and Artificial Intelligence Technologies Guidelines.
+  Using AI without permission may violate the Code of Academic Integrity and could be treated as academic misconduct.
+[APPLIES]
+  These localized approaches reflect the diversity of academic practice across campus and are designed to help students and instructors navigate AI use in ways that align with professional standards, learning goals, and ethical expectations.
+  College of Medicine (Tucson) Policy on Student Use of AI James E.
+  Students  Faculty & Staff
+====================
+FILE: raw/us-med-schools/u-arizona-phoenix--ai-use-by-students-policy.md
+FM title: Artificial Intelligence (AI) Use by Students Policy
+FM source_url: https://phoenixmed.arizona.edu/policy/ai-use-by-student-policy
+[PHI]
+  These principles and guidelines for AI use include ethical considerations, responsible usage, proper citation of AI tools, and HIPAA compliance in clinical documentation.
+  HIPAA: Health Insurance Portability and Accountability Act  PHI: Protected Health Information  Section Two: Principles of Appropriate Use of AI  Educational Enhancement  AI tools should supplement learning and enhance educational outcomes, supporting— not replacing—the critical thinking and clinical reasoning skills essential to medical practice.
+  Patient Confidentiality and Data Security  The use of AI must comply with HIPAA and other relevant laws regarding patient confidentiality and data security.
+  AI tools used for clinical documentation must be certified as HIPAA-compliant.
+  Students must ensure that PHI is only used with approved AI systems and shared in a secure manner.
+  The user is responsible for ensuring clinical use of AI is compliant with HIPAA regulations to ensure confidentiality and security of PHI.
+  Non-HIPAA-Compliant Tools: AI tools that do not meet HIPAA standards must not be used for processing or storing any form of PHI.
+[BAN]
+  Prohibited Uses  Assessments and Assignments: All student contributions to any assessment or assignment must represent the student’s own, original work.
+  Unless explicitly permitted by a course* director, any use of generative AI for an assessment or assignment is prohibited.
+  Histories, physical exams, assessments and plans: AI tools may not be used to write histories, perform physical exams, or create assessments and plans for patient care in the foundational and clinical phases of the curriculum.
+[PERM]
+  Section Three: Guidelines for Using AI  Permitted Uses  Learning and Research: AI may be used for educational purposes, such as studying, researching medical literature, and understanding complex topics.
+  AI Training Set Opt-Out: Students are strongly encouraged to only use AI tools that allow users to opt out of having the data they submit to generative AI be used for the system’s own training.
+  Unauthorized Patient Interaction: AI should not be used in direct patient interactions unless authorized by supervising faculty and in compliance with institutional policies.
+[DISC]
+  Transparency and Accountability  Students are responsible for any AI-generated content they submit, even if flawed or biased.
+  Students must be transparent about AI usage and accountable for their work.
+  Any assistance from AI must be acknowledged and properly cited according to institutional guidelines .
+  Explicit Citation and Acknowledgement of AI Use  Any use of AI tools in assignments, research, clinical documentation, or other academic work must be clearly cited according to institutional guidelines .
+  Students must describe the nature and extent of AI assistance, ensuring transparency and ethical responsibility.
+[ASSESS]
+  Refer to the following policies:  Professionalism Assessment Policy  Honor Code Committee and Procedures and Process for Dismissal  Course* = any component of the curriculum where a grade is earned
+[TOOL]
+  Examples include, but are not limited to, ChatGPT, Claude, and OpenEvidence.
+[ENF]
+  Section Four: Compliance and Review  Reporting and Enforcement of Violations  Any suspected or evident violations of AI use can be considered a potential professionalism report or honor code violation.
+[APPLIES]
+  Students are responsible for verifying with course faculty whether the use of AI tools is permissible for specific assignments or tasks.
+  Ethical Standards  Students are expected to adhere to the highest ethical standards in their use of AI.
+  Intellectual Property and Compliance with Terms: When using AI tools, students must ensure that any content they input does not violate intellectual property rights or the terms and conditions governing the AI tool.
+====================
+FILE: raw/us-med-schools/u-arizona-tucson--policy-on-student-use-of-ai.pdf.md
+FM title: Policy on Student Use of AI
+FM source_url: https://medicine.arizona.edu/sites/default/files/2024-11/Policy-on-Student-Use-of-AI-2024-11-13.pdf
+[PHI]
+  It emphasizes ethical considerations, responsible usage, proper citation of AI tools, and HIPAA compliance in clinical documentation.
+  Any use of AI for clinical documentation must adhere to the policies and guidelines of the clinical site and comply with HIPAA regulations to ensure the confidentiality and security of patient information.
+  Patient Confidentiality and Data Security  1) The use of AI must comply with HIPAA and other relevant laws regarding patient  confidentiality and data security.
+  AI tools used for clinical documentation must be  certified as HIPAA-compliant.  2) Students must ensure that protected health information (PHI) is only used with  approved AI systems and shared in a secure manner.
+[BAN]
+  AI tools may not be used for writing History and Physicals (H&Ps) in the Doctor & Patient Course.
+  Prohibited Uses  1) Assessments and Assignments: All student contributions to any assessment or  assignment must represent the student’s own, original work.
+[DISC]
+  Transparency and Accountability  1) Students must be transparent about AI usage and accountable for their work.
+  Any  assistance from AI must be acknowledged according to institutional guidelines.     1  C.
+  Explicit Citation and Acknowledgement of AI Use  1) Any use of AI tools in assignments, research, clinical documentation, or other academic  work must be clearly cited according to institutional guidelines.
+  Policy on Student Use of AI The University of Arizona College of Medicine – Tucson 2  2) Students must describe the nature and extent of AI assistance, ensuring transparency  and ethical responsibility.
+[ENF]
+  Monitoring and Enforcement  1) Faculty and administrative staff will monitor compliance with this policy.  2) Plagiarism detection tools may be used to verify originality in student work.  3) Violations of the policy will be subject to disciplinary actions per the Honor Code Policy.
+[APPLIES]
+  Applicability & Scope This policy applies to students in all phases of the medical education program leading to the MD degree.
+  Ethical Standards  1) Students are expected to adhere to the highest ethical standards in their use of AI.
+  AI tools may,  however, be used for other tasks, such as researching clinical questions.  4) AI Training Opt-Out: Where available, students must opt out of having the data they  submit to generative AI systems be used for the system’s own training.
+  Also see the COM-T’s Policy on  Student Use of University-Sponsored Educational Material.
+  Policy on Student Use of AI The University of Arizona College of Medicine – Tucson 3
+====================
+FILE: raw/us-med-schools/u-oklahoma--ai-at-ou.md
+FM title: AI @ OU
+FM source_url: https://www.ou.edu/ouit/ai
+[PHI]
+  OU Information Technology  660 Parrington Oval, Room 321  Norman, OK 73019  Phone: 405.325.4357  Accessibility  Sustainability  HIPAA  OU Job Search  Policies  Legal Notices  Copyright  Resources and Offices  OU Report It!
+[PERM]
+  AI-assisted Grading allows instructors to automatically group similar answers and grade all the answers in each group at once.
+  View the  Acceptable Use Policy for University Data .
+[DATE]
+  Updated 8/5/2026 by OU Information Technology : ouit@ou.edu
+[DISC]
+  As we continue to investigate the ability of AI features for our IT services, we are committed to providing transparent, user-friendly explanations and guidance.
+[ASSESS]
+  Gradescope  Gradescope is a feedback and assessment tool that may reduce the time associated with grading exams, homework, and other assignments.
+  Dynamic rubrics help streamline the tedious parts of grading while increasing grading consistency.
+  This workshop is part of the CFE Teaching faculty development curriculum plan (Assessment 209).
+[TOOL]
+  AI Related Services Available Now  Microsoft Copilot for Web  Microsoft Copilot with organizational data protection (formerly Bing Chat Enterprise) is an everyday AI companion; providing Chat GPT4 AI-powered chat for the web.
+  Copilot is available for use by OU faculty and staff.
+  LiteLLM  LiteLLM is an open-source API gateway and management layer for large language models.
+  At the University of Oklahoma, LiteLLM is used as part of the AI Sandbox infrastructure to provide consistent, secure, and scalable access to multiple AI models through a single API interface.
+  Be prepared to be asked to login to either Copilot, ChatGPT or ClaudeAI as part of our exploration.
+[APPLIES]
+  Faculty and staff have the option to activate this service for meetings they host on their OU Zoom account.
+  At the University of Oklahoma, LibreChat is deployed as part of the University Libraries’ AI Sandbox Pilot Project to give OU faculty, researchers, staff, and students secure, flexible access to generative AI tools for learning, experimentation, and research workflows.
+  Courses:  Center for Faculty Excellence: Generative AI at the University (requires Canvas login via OU credentials).
+  Teri Reed, Director of the OU Polytechnic Institute and OUPI faculty for a robust discussion exploring the field of Artificial Intelligence.
+  How do we get students to “think with” generative AI rather than rely on generative AI think for them?
+  We’ll then collaboratively work together to discuss what assignment types may limit the misuse of generative AI and which can incorporate generative AI to aid a student in their own learning.
+  Throughout, we’ll situate student motivation as an important consideration in any assignment created.
+====================
+FILE: raw/us-med-schools/u-oklahoma--ai-policies.md
+FM title: OU AI Policies
+FM source_url: https://www.ou.edu/cfe/artificial-intelligence/AI-policies
+[PHI]
+  Back to top  Center for Faculty Excellence  Wallace Old Science Hall 224  640 Parrington Oval  Norman, OK 73019-3063  (405) 325-2323  Accessibility  Sustainability  HIPAA  OU Job Search  Policies  Legal Notices  Copyright  Resources and Offices  OU Report It!
+[PERM]
+  Faculty are encouraged to familiarize themselves with these policies, particularly when incorporating AI into coursework or research workflows.
+[DATE]
+  Updated 3/6/2026 by Center for Faculty Excellence : cfe@ou.edu
+[DISC]
+  Campus Resources  OU’s AI policies are intended to support responsible, ethical, and transparent use of AI across teaching, research, and operations.
+[APPLIES]
+  Policy Quick Links  ·  AI Administrative and Operational Guidance for OU Staff and Employees  · AI Guidance for Students  · AI Governance Policies  · AI Teaching Guidance for OU Faculty and Instructors  · AI Research Guidance for Researchers  Also see the Chief AI Officer ’ s AI Roadmap .
+====================
+FILE: raw/us-med-schools/u-rochester--libguide-ai-ethics-policy.md
+FM title: AI: Ethics and Policy (URMC LibGuide)
+FM source_url: https://libguides.urmc.rochester.edu/c.php?g=1315586&p=9675179
+[PERM]
+  AS&E encourages instructors to adopt ChatGPT/AI only after they consider: (a) how the tools support course learning goals, and (b) how they can create alternative assignment options for students who want to avoid uploading their personal details and/or intellectual property into these platforms.
+  Detection versus Disclosure  Detection is complicated, encouraging disclosure is recommended.
+[DISC]
+  When content of a publication has been impacted (even in the absence of using AI-generated text), this should be disclosed.
+  OpenAI Model Behavior Feedback & Bug Bounty Program  OpenAI Model Behavior Feedback: Share feedback on AI model behavior & learn about ongoing improvements  OpenAI Privacy Center: Opt-out of data usage for model enhancement, acknowledging potential impacts on tailored model performance  OpenAI Bug Bounty Program: Report vulnerabilities in AI systems via Bugcrowd & earn rewards.
+====================
+FILE: raw/us-med-schools/u-rochester--responsible-use-ai-tools-data-security.md
+FM title: Responsible Use of AI Tools and Institutional Data Security
+FM source_url: https://www.rochester.edu/provost/responsible-use-of-ai-tools-and-institutional-data-security/
+[PERM]
+  I encourage you to take advantage of our secure version of a generative AI chatbot, designed to securely handle medium- and high-risk institutional data.
+[DATE]
+  It is imperative to remember that non-public or sensitive University information should never be uploaded into external AI tools—whether free or paid—unless there is a university agreement with the vendor approved by one of the various AI governance groups.
+[APPLIES]
+  Accessible at  chat.rochester.edu , this advanced AI tool is exclusively for our faculty, staff, and students, providing a reliable and secure platform for managing a variety of inquiries and tasks.
+====================
+FILE: raw/us-med-schools/uc-davis--md-program-acceptable-use-genai-coursework.md
+FM title: Acceptable Use of Generative Artificial Intelligence in Academic Coursework Policy
+FM source_url: https://health.ucdavis.edu/mdprogram-polices/curricular/Acceptable%20use%20of%20Generative%20Artificial%20Intelligence.html
+[PHI]
+  Under no circumstances should PHI be entered into any generative AI tool outside of a secure, institutionally supported system.
+  The use of GenAI tools by students must uphold UC Davis and the School’s standards of academic integrity, professionalism, patient privacy, and intellectual property protection.
+[BAN]
+  This policy establishes expectations for appropriate student use of these technologies, outlines prohibited uses, and identifies related institutional policies, guidelines, and best practices.
+  GenAI may not be used to directly author any portion of a submitted assignment unless faculty or course leadership grants written permission.
+  Students are prohibited from using GenAI tools to research or generate answers for closed-book assessments unless faculty or course leadership grants written permission.
+  Students are not permitted to use external GenAI tools to generate patient care documentation, including notes, assessments, or care plans, except as outlined in the UC Davis Heath Generative AI Services and Application Use Policy.
+[PERM]
+  Acceptable Use of Generative Artificial Intelligence in Academic Coursework Policy  PURPOSE The purpose of this policy is to define the acceptable use of Generative Artificial Intelligence (GenAI) and large language models (LLMs) by medical students in academic coursework at the UC Davis School of Medicine (i.e., the School).
+  In instances where the use of GenAI is permitted, the acceptable use of AI tools in a course is stated in the course syllabus or assignment instructions.
+  Only AI functionalities explicitly supported by the electronic health record (EHR), authorized by course leadership, and in strict adherence with University of California Health policies, may be used.
+  In instances where use of GenAI is allowed in preparing scholarly work for publication or presentation, students must comply with all relevant GenAI disclosure requirements established by journals, conferences, or professional organizations.
+[DISC]
+  Any use of GenAI tools must be transparently disclosed, including the type of tool used and the nature of its contribution.
+[ASSESS]
+  Faculty may choose to limit students’ ability to upload, copy, or input the School’s curricular materials, including but not limited to slides, articles, book chapters, assignments, examinations, or proprietary instructional content into GenAI or similar platforms.
+[ENF]
+  Violations of this policy constitute reaches of the Code of Academic Conduct and professionalism and will be addressed according to the School's procedures.
+  Consequences will include referrals to the Honor and Professionalism Council, the Committee on Student Promotions (CSP), and the Associate Dean for Students.
+  Consequences may result in academic of professionalism remediation or disciplinary actions, including course failure and/or dismissal.
+  RESPONSIBILITY Course Directors  REFERENCES Generative AI Services and Applications Use Policy (UC Davis Health login required) UC Davis Academic Code of Conduct UC Davis Informational and Educational Technology AI Guidance and Tools UC Davis Policy on Student Conduct and Discipline UC Davis School of Medicine Bylaws and Regulations, Regulation 80  RELATED M.D.
+[APPLIES]
+  As the use of generative AI tools continues to expand, students and faculty must understand how to use these tools legally, safely and appropriately.
+  If specific assignments require or grant the use of AI technologies, students must strictly follow all instructions provided by faculty regarding how these tools may be used.
+  Students remain responsible for verifying the accuracy and reliability of any information produced by GenAI tools and are accountable for errors or misinformation incorporated into their work.
+  Students are responsible for ensuring their use of GenAI aligns with faculty expectations and complies with all institutional policies.
+  PROCEDURE  Students are responsible for ensuring their use of GenAI complies with copyright law, intellectual property rights, and institutional guidelines.
+  PROGRAM POLICIES Coursework and Professionalism Remediation Policy Curriculum Property Rights Professionalism Policy Student Code of Academic and Social Conduct Policy  POLICY OWNER Committee on Educational Policy  REVIEWED BY Associate Dean of Curriculum and Medical Education Associate Dean for Students;
+  Committee on Educational Policy* Committee on Student Promotions Curriculum Director Curriculum Managers Director of Medical School Professionalism  REVIEW DATE and REVIEW CYCLE Enacted April 2026; annual review cycle  * Indicates the Policy Owner
+====================
+FILE: raw/us-med-schools/uc-irvine--dtei-generative-ai-for-teaching-learning.md
+FM title: Generative AI for Teaching & Learning
+FM source_url: https://dtei.uci.edu/generative-ai/
+[DATE]
+  In Spring 2025, DTEI hosted a speed round-style pitch competition in which several faculty shared their ideas on how AI can be leveraged by faculty and departments to make teaching more efficient and effective.
+[APPLIES]
+  Generative AI for Teaching and Learning  For Students: Watch Video on Using AI Productively and Responsibly at UC Irvine  DTEI Events on Generative AI  UC Irvine’s campuswide theme for this academic year is The Scholarly Values .
+  With all the talk of AI, teaching, and the impact on student learning, the UCI Division of Teaching Excellence and Innovation (DTEI) is hosting a special event focused on the Scholarly Values, AI, and Teaching .
+  On May 21st, 2025, DTEI hosted a panel with School of Humanities where faculty shared their varied approaches to incorporating or moderating AI in humanities courses, including the strategies employed and perspectives on the potential role of AI in students’ writing development.
+====================
+FILE: raw/us-med-schools/uc-san-diego--academic-integrity-gen-ai.md
+FM title: Artificial Intelligence & Academic Integrity
+FM source_url: https://academicintegrity.ucsd.edu/choose-integrity/gen-ai/index.html
+[PERM]
+  Create a Q&A discussion forum to encourage ongoing dialogue  Use the sample AI survey for students (removing or adding questions as you like)  Utilize Rush University's AI ethics discussion prompts , tailoring them to your course context.
+[DATE]
+  They need to be taught how to use these tools responsibly, effectively, and efficiently" ~Sid Dobrin ( Warner et al., 2024 ).
+[ASSESS]
+  HOME  Choose Integrity  Artificial Intelligence in Education  Artificial Intelligence & Academic Integrity  The release of Open AI's ChatGPT in November 2022 disrupted predominant methods of teaching, learning and assessment in education overnight.
+  Academic integrity was obviously a primary concern - which assessments could be generated by an LLM?
+  Which exam questions could be answered?
+  Teaching, learning and assessments all need to change.
+  It has become challenging to teach, learn and assess without technology.
+  AI Literacy matters because we - instructors and students - are not always cognizant of what tools we're using, why we're using them, and how they impact our approaches to teaching, learning, and assessment.
+  Critical evaluation of AI-generated content: Assessing AI outputs, understanding their origins, potential biases, and limitations.
+  How do I redesign assessments for the age of AI?
+  What can I do differently with grading to minimize the harms and maximize the benefits of GenAI?
+[TOOL]
+  And ChatGPT is just one Large Language Model (LLM) tool.
+  Generative AI (GenAI) tools, like Claude or ChatGPT , produce text, images, and code in response to a prompt, and they do it quickly and in ways that make it increasingly difficult to detect.
+  Bertram Gallant  Additional Student Resources  Is Using ChatGPT cheating?
+  The Library's GenAI and Academic Integrity Guide  Choose Integrity  Integrity Tutorial  Artificial Intelligence in Education  Using ChatGPT  After Education  Cheating Defined  Learn More
+[ENF]
+  This page will try to keep the UC San Diego community up-to-date on all things related to artificial intelligence and academic integrity in higher education.
+  How to Use The Canvas Module  The Critical AI Literacy Canvas Module was adapted by the Academic Integrity Office and the Teaching & Learning Commons from a module designed by The Center for Teaching Excellence and Innovation ( CTEI, Rush University) .
+  GenAI - Dos and Don'ts for Academic Integrity  Request a GenAI in Education Presentation , Workshop, or Consultation with Dr.
+[APPLIES]
+  Students are already widely using the technology.
+  Yet, students are also asking for help in using these tools ethically and responsibly .
+  Students are worried that their critical thinking skills will decrease with their use of AI and 47% believe its easier to cheat with the tools .
+  Although there is not yet campus-sponsored AI Literacy training, you can help educate students.
+  This module, adapted from one created by Rush University, aims to help you engage students in conversations about AI, even while it is still relatively new to all of us.
+  Your expertise in the course content, along with this AI Literacy Module and the AI Office's Guide for Instructors , can help you guide students in using GenAI tools ethically and responsibly for your course(s).
+  "We assume our students are inherently digitally native, but they don’t always understand the professional, ethical ways to deploy new technology like gen AI.
+  Students accept Grammarly suggestions without realizing that they are AI generated which might make their writing sound robotic.
+  Instructors may falsely believe that so-called "AI detectors" are valid and accurate, thus using them to "catch" students who are cheating with GenAI.
+  AI Literacy helps instructors and students:  understand when GenAI is helpful and not helpful in school  engage in informed discussions about GenAI's role in learning and teaching  prepares students to use GenAI ethically and responsibly  What is AI Literacy?
+  It is meant as a resource to support instructors to introduce students to fundamental AI competencies so they might become critical users and understand if, when and how they can leverage the technology responsibly and ethically.
+  Module Structure  The module aims to increase in students the four competencies of AI Literacy - Recognition, Comprehension, Critical thinking, Proficiency - through key questions that students ask about GenAI: What is Artificial Intelligence, How Does It Work, How Do I Use it, and How Can I Use it Responsibly?
+====================
+FILE: raw/us-med-schools/uc-san-diego--libguide-ai-and-academic-integrity.md
+FM title: AI and Academic Integrity - Generative Artificial Intelligence LibGuide
+FM source_url: https://ucsd.libguides.com/AI/academicintegrity
+[ENF]
+  UCSD Policy on Integrity of Scholarship  UC San Diego Academic Integrity Office Statement of Artificial Intelligence
+[APPLIES]
+  UC San Diego's Support of AI Services  UC San Diego is building an AI-enabled campus where students, faculty, and staff can confidently leverage trusted, secure, and responsible AI tools to enhance research, improve operations, and expand educational opportunities while protecting ethics, equity, and university values.
+====================
+FILE: raw/us-med-schools/uc-san-diego--privacy-guidelines-for-uses-of-ai-assistants.md
+FM title: Guidelines for Uses of AI Assistants
+FM source_url: https://privacy.ucsd.edu/ai-guidelines/index.html
+[PHI]
+  Use of AI assistant features is prohibited for Meetings where identifiable human subjects research is discussed, except where the use of AI is part of the research project or there are approvals from the Campus Privacy Office and the IRB.
+[BAN]
+  Allowable and Prohibited Uses  Users are advised to consider the nature of their Meetings and intended contents of discussion before Capturing them, including through services such as Otter.ai or Zoom AI Companion.
+  For example, AI Assistants may not be appropriate in Meetings where individuals may share personal stories or open deliberations are anticipated.
+  Where Capturing is Prohibited (I.A.3) or restricted (I.A.4), the Meeting host does not intend to Capture the Meeting, or an attendee objects to Capture, alternative disability accommodations may be required.
+  Authorized Users  Disability Accommodations : Except where Capturing is Prohibited (I.A.3) or restricted (I.A.4), the Meeting host does not allow Meeting Capture, or an attendee objects to Capture, individuals with a relevant, authorized disability accommodation may Capture Meetings using approved tools (see Section IV below) in accordance with their accommodation.
+  However, they are not authorized to distribute the output or use the output for any other purpose than their own personal accommodation needs or as required by the California Public Records Act.
+  Individuals may not “send” an AI assistant to “attend” a Meeting on their behalf when the individual is not also present.
+  Removal of AI Assistants: Provided they furnish alternative disability accommodations, where needed, hosts must remove AI assistants or stop Capture in Meetings:  Where Capturing is Prohibited (I.A.3) or restricted (I.A.4),  An attendee objects to Capture; or  An AI Assistant is present without its User.
+  Output of Captured Meetings ( e.g. , videos, summaries) may not be saved on personal devices ( i.e. , non-university-issued) or in personal accounts and must only be stored on university-approved services .
+  P-4 data and sensitive P-3 data (as specified above) may not be discussed while AI features are enabled or the Meeting, including one hosted by another organization, is being Captured.
+  If a Meeting participant objects to Capturing by the host, the Meeting may not be Captured, and the Host must disable AI features if a Meeting Participant requests that features be turned off while presenting or asking questions.
+  Allowable and Prohibited Uses  Instructors are advised to consider the nature of their Classes and Educational Meetings before Capturing them, including through services such as Otter.ai or Zoom AI Companion.
+  For example, in Classes where students may share personal experiences or patients, minors, or incarcerated individuals are guests/case studies, AI Assistants may not be appropriate.
+[PERM]
+  AI has the potential to alleviate some of the administrative burdens on educators, allowing them to focus more on teaching and less on administrative matters.
+  Users and Meeting hosts are encouraged to work with the appropriate office identified in PPM 200-9 Supplement I to determine a suitable course of action.
+  Meetings Hosts : Other than those with authorized disability accommodations, only the meeting host/co-host is authorized to Capture Meetings.
+  No other attendees are authorized to Capture Meetings.
+  Hosts may consider announcing that only AI Assistants approved for disability accommodations are authorized to remain in the Meeting and request that non-accommodation AI assistants leave.
+  For these reasons, individuals may only use AI Assistants that:  Have been reviewed for privacy and security by the Campus Privacy Office and the Office of Information Assurance, respectively, or systemwide equivalents; and  Are covered by a written agreement, including the Appendix DS and Appendix GDPR, where relevant, executed by an authorized central contract officer.
+  Capturing of Classes using approved tools is allowed :  Where required by law, such as for documented accommodations authorized by Disability Counseling and Consulting (DCC) or the Office for Students with Disabilities (OSD) where other non-AI accommodations do not suffice, and  By instructors where students and attendees have been notified prior to the Class.
+  Authorized Users  Disability Accommodations : Except where Capturing is Prohibited (I.A.3) or restricted (I.A.6), Students with a relevant, authorized disability accommodation may Capture Educational Meetings and Classes using approved tools in accordance with their accommodation.
+  Instructors : Other than those with authorized disability accommodations, only the instructor/host is authorized to Capture Classes/Educational Meetings.
+  Instructors may choose to allow all students to Capture Classes (see Section B.4 below).
+  Instructors may choose to allow students to “send” an AI assistant to “attend” a Meeting or Class on their behalf when the student is not present, provided the use complies with these guidelines.
+  Reminder provided before the Educational Meeting/Class with an opportunity to object; and  Reminder at the beginning of the Educational Meeting/Class that it will be Captured  Where there is an unauthorized or unknown AI Assistant present in the Educational Meeting/Class, the instructor may remove it.
+[DATE]
+  These tools can also analyze content to provide insights and suggest improvements, making meetings more effective.
+  Questions regarding:  Capabilities of approved technologies should be directed to ITS  Privacy, appropriate use, and consent should be directed to the Campus Privacy Office  Disability accommodations should be directed to the appropriate office identified in PPM 200-9 Supplement I .
+  Approved Tools :  Some AI assistants collect and retain all information presented in meetings, including biometrics such as voices, which can be used to train the AI.
+  Output of Captured Meetings ( e.g. , videos, summaries) may only be stored on university-approved services ( e.g. , in the UC San Diego Kaltura, Canvas, or UC Google Drive services, not in one's non-university accounts).
+[DISC]
+  Use of AI assistant systems must be disclosed in the IRB protocol.
+[ASSESS]
+  Individuals are advised to use extreme caution when Capturing Educational Meetings where other P-3 personal or confidential information ( e.g. , research planning, assessments) is discussed.
+[ENF]
+  A Meaningful Opportunity to Object exists where, without pressure, coercion, negative consequences, or having to leave the Meeting, 1) the participant had advance notice that the Meeting would be Captured and given the opportunity to object, or 2) participants are given the opportunity at the start of the Meeting to object.
+[APPLIES]
+  Individuals attending a Meeting hosted by an organization other than UC San Diego should be advised that the policies of the other organization govern the Meeting, including notification and ability to object.
+  Instructors should not Capture Meetings (e.g ., office hours) where student concerns, behaviors, integrity issues, and other sensitive topics are intended to be discussed.
+  However, no one may require students to “send” an AI assistant to “attend” on the absent individual’s behalf.
+  See available storage solutions for students and for instructors .
+  P-4 data and sensitive P-3 data (as specified above) may not be discussed, and students should be advised not to discuss sensitive information about themselves, while AI features are enabled or the Educational Meeting/Class is being Captured.
+  A student’s refusal to participate in a Meeting with AI features enabled should not be the subject of an adverse action (for example, courses enabling AI cannot require student participation as part of a lesson or course grade).
+====================
+FILE: raw/us-med-schools/uc-san-diego--senate-admin-workgroup-genai-education-report.pdf.md
+FM title: Final Report - Senate-Admin Workgroup on Impact of Generative Artificial Intelligence on Education at UC San Diego
+FM source_url: https://evc.ucsd.edu/_files/2024.08.23%20Final%20Report%20-%20Senate%20Admin%20Workgroup%20on%20Impact%20of%20Generative%20Artificial%20Intelligence%20on%20Education%20at%20UC%20San%20Diego.pdf
+[BAN]
+  This means that students must not offload their thinking and doing to machines unless they were expected to do so by the course instructor and/or are transparent about their use.
+  Second, when instructors and students are left on their own to pick the tools, they may not know which tools are appropriate to use for what purposes, and what data they can share with the tools and which data they should not.
+  Course policies should specify which GenAI uses are allowed, such as using GenAI for brainstorming, grammar checking, or research assistance, and which are prohibited, such as using GenAI to complete assignments without personal engagement.
+[PERM]
+  It can also assist with course design and automate routine tasks such as providing feedback in ways that may allow instructors to focus more on interactive and student-centered teaching approaches.
+  These include questions about allowable uses of GenAI, whether learning outcomes should change, and how the ethical concerns raised by GenAI should be addressed.
+  Consequently, we recommend that UC San Diego support research in this area to provide an evidence-based foundation for future policy decisions, allowing UC San Diego to take a leadership role in this field.
+  At the same time, GenAI tools may allow some students to have a more equitable education experience (e.g., those who are neuro-atypical who have access to assistive AI technologies).
+  Instructors should establish clear and transparent guidelines on the acceptable and unacceptable uses of GenAI tools in their class, as well as if they are using artificial intelligence in student feedback or grading.
+  As we implement GenAI into education, we must prioritize critical thinking (can also be thought of as AI literacy, information literacy, or digital literacy), which includes    5 teaching people ethical and responsible use of generative AI while reinforcing the need for human input and evaluation.
+  They can also incorporate exercises in their courses that encourage students to critically evaluate AI-generated content in their academic discipline, such as comparing human-written and AI-generated texts and assessing the credibility of AI-generated information.
+  This will also allow instructors to have access to people with relevant disciplinary knowledge to help answer their questions and solve specific problems related to AI and education.
+  Instructors should explain the rationale behind these policies and provide examples of acceptable and unacceptable uses of GenAI to help students make informed decisions about how to integrate AI into their learning practices.
+  Fortunately, our campus has a great deal of collective expertise on this topic, and it will be important to allow people with diverse areas of expertise to give talks and participate in panel discussions.
+  Funding for outside speakers and conferences on AI and education will also be important in allowing our campus to take on a leadership role in this area and help instructors learn general and discipline-specific best practices.      13 Recommendation 4.b.
+[DATE]
+  While we anticipated finding extensive empirical research to guide us, we discovered a scarcity of rigorous studies testing the effectiveness of specific uses of GenAI.
+  Thus, any tool(s) adopted by the University or used by students/instructors must protect private data (P3 & P4 levels) and preferably not share any of our data with the vendor for training purposes.
+  We recommend that AI literacy be added to the existing Preparing for Success: Online Course for Instructional Assistants7 to help Instructional Assistants gain the knowledge and skills to support students in using GenAI tools effectively and ethically.
+  As GenAI technology continues to evolve and as we learn more about AI, new challenges and opportunities will emerge, and it will therefore be important that GenAI policies are updated regularly to reflect these changes.
+  For instructors to be effective in promoting AI literacy, they will need relevant professional development opportunities.
+  For example, Cal State University Sacramento has established the National Institute for Artificial Intelligence in Education to ‘train current and future teachers to use the technology ethically and effectively.”25  Research grants could look like what Carnegie Mellon is doing with their Generative Artificial Intelligence Teaching as Research (GAITAR) Fellowships.
+  UC San Diego should prioritize ongoing studies of GenAI usage, effectiveness, and support requirements within its community.
+  By implementing the report's recommendations and maintaining a proactive stance, UC San Diego can become a model for effectively integrating GenAI into higher education while addressing its unique challenges.     27  Written by Claude 3.5 Sonnet.
+[ASSESS]
+  Protect the Integrity of Academic Assessments  4.
+  Student Representatives      2 Background Beginning in November 2022 with the launch of OpenAI’s ChatGPT, Generative Artificial Intelligence (GenAI)1 has brought significant disruptions to teaching, learning, and assessment in educational institutions.
+  By doing so and leveraging the diverse expertise within our community, we can iteratively craft policies that advance our educational mission while thoughtfully considering ethical implications.    4 Ethical Considerations Core values must guide University decisions about when, if and how to integrate artificial intelligence into teaching, learning and assessment.
+  Therefore, the University should explicitly assess the best ways to amplify educational opportunities for all, and to ensure that all of our graduates have the chance to develop AI literacy by graduation.
+  This assessment might conclude that the University should provide GenAI tools, and training on how to use those tools, that students might need to be successful in the classes we offer.
+  It is critical that this assessment be driven by research insights into the ways in which GenAI tools do (or do not) positively impact student learning, as well as consideration of the opportunity costs (both financial and time) of integrating GenAI tools.
+  Integrity: All academic work submitted for credit must be an honest and trustworthy reflection of a student’s achievement of the particular learning outcomes for that assessment and/or course, otherwise the integrity of our degrees is at risk.
+  At risk, for the purposes of this report, are the materials that instructors create for their courses such as lectures, readings, class activities, lesson plans, and assessments of and for learning.
+  Students may already be using GenAI tools to distill lectures by uploading podcast transcripts to produce summaries or prompting machines with the instructor’s assessment prompts, actions that could violate intellectual property rights and potentially copyright laws.
+  Thus, when considering when, if and how to use GenAI tools for teaching, learning and/or assessment, we do not recommend a single, uniform policy for all of campus.
+  At a high level, AI literacy focuses on developing an understanding of the capabilities of AI systems, including where and how they are (or can be) used, along with skills to critically assess and evaluate AI system outputs and performance.
+  Training for IAs could include workshops on how to use (or not use) GenAI tools in grading and feedback, how to guide students in the ethical use of AI, and how to handle situations where AI use may raise academic integrity concerns.
+[TOOL]
+  Privacy: When GenAI tools hosted by outside vendors (e.g., ChatGPT) are used for academic work, this can risk the privacy of student and instructor information if: a) personal data is included in that work (e.g., a personal reflective essay) and b) the tool stores this data and uses it for training purposes (hacks of these tools to release user information have been successful).
+  Third, as instructors adapt their courses to incorporate LLM usage, they are depending on the availability of free versions to ensure all students have access.
+  In terms of recouping any costs of providing these tools to students, we recommend that the University consider novel programs like UC Davis’s Equitable Access that charges students one flat rate per term for all of their “textbook” needs (which could include access to an LLM tool).
+  Several university units already have information on artificial intelligence such as the Library ( CSE ( IT ( and Academic Integrity ( However, there is no one-stop-shopping site for educators and students who want to educate themselves about if, when and how to use LLM (or other artificial intelligence) tools for teaching, learning and/or assessment.
+  Recommendation #4: Provide Time, Training & Support to Instructors  When ChatGPT was first released in November 2022, instructors were advised to change the ways they teach and assess.
+[ENF]
+  These include ensuring academic integrity, helping community members critically evaluate AI-generated information, addressing privacy issues, and mitigating the risk of exacerbating existing inequalities due to uneven access to, and bias baked within, GenAI tools.
+  Academic Freedom: Instructors have the freedom to make decisions about their individual courses based on their disciplinary expertise and their teaching experiences, and the faculty (through Academic Senate) have oversight and final say over course and program approvals.
+  The University could bring together, in a structured way, the people and units on campus who are already working collaboratively together on this issue (e.g., Academic Integrity, the Commons, Ed Tech, Library).
+  As a result, “the risk of academic dishonesty is substantial. [Gen]AI tools, if left unchecked, could erode the trust in educational qualifications and compromise the value of academic achievements.”17  The University already has some guidance for maintaining academic integrity in the age of GenAI.
+  The AIO also produced guidance for instructors on how to rethink their courses in the age of AI and craft their GenAI and academic integrity policies.21  As indicated in the AI Office’s Crafting Your GenAI & Academic Integrity Policy Guide, it is critical that all instructors craft their own policy according to their course learning outcomes and clearly communicate that policy to their students.
+  If we expect instructors and students to uphold academic integrity and for learning to be prioritized, then they need university-wide, accepted guidance (not just from the Academic Integrity Office and the Library) on if, when, and how to use GenAI in assessments.
+  These precautions are necessary to maintain the integrity of our academic   22  Academic Senate’s Academic Integrity Policy states that instructors must report all suspected integrity violations to the Academic Integrity Office.
+  Other recommendations for short-term support include ensuring there are sufficient workshops or consultations available through the Commons or other related units (e.g., Academic Integrity).
+  The University could also look at funding institutes, retreats for cross-disciplinary collaborations, or research grants to enable instructors to develop ways to integrate AI into the curriculum.
+  Third, protect academic integrity by providing clear guidelines on GenAI use in coursework.
+[APPLIES]
+  Establish AI Teaching Leaders in the Faculty  c.
+  For instance, many instructors currently administer unproctored online exams or assign paper-based tasks that GenAI can complete without substantive student contributions.
+  Conversely, GenAI offers opportunities to personalize learning experiences, to support students in developing their ideas, to help students understand complex concepts, and to provide assistive technologies to students with accommodations.
+  Equity: The fact that only certain portions of our student population are using more advanced GenAI tools (e.g., paid versions), raises important questions about inequity in learning outcomes (and threats to degree integrity).
+  Instructors and students alike should be informed and educated about how to determine whether free or open GenAI tools meet this standard.
+  So, when GenAI tools are used by students or instructors without their critical discernment, this undermines the educational mission of our University.
+  When considering next steps, the University should prioritize protecting the intellectual property of instructors, but also of students.
+  Faculty purview over the curriculum should be a prioritized value and no action should be taken or decision made without faculty input and/or approval.
+  Key Recommendations Recommendation #1: Teach AI Literacy  One of our key recommendations is to incorporate AI Literacy into the educational curriculum to ensure that all students have a foundational understanding of artificial intelligence, relevant ethical considerations, and its applications.
+  The module “presents four competencies based on Anders’ The AI Literacy Imperative: Empowering Instructors and Students6: awareness, capability, knowledge, and critical thinking.    5   6    udents/    6 For our campus, One possibility is that we, similar to the Integrity Tutorial, require all new students to take an AI Literacy online module.
+  Any of these approaches will help ensure that all students receive some training.
+  We also recommend that academic departments and programs consider how they can promote AI Literacy and how it can be incorporated into the curriculum to help students understand what professional uses are appropriate and the problems that can arise from misuse.
+====================
+FILE: raw/us-med-schools/uconn--cetl-generative-ai.md
+FM title: Generative AI - Center for Excellence in Teaching and Learning
+FM source_url: https://cetl.uconn.edu/generative-ai/
+[BAN]
+  For example, students may not know what acceptable collaboration looks like.
+[PERM]
+  There is confusion, however, about which professors allow AI to be used in projects, and where the boundary lies between appropriate collaboration and cheating.
+  In this interactive session, participants are encouraged to share examples, solicit feedback, or ask questions of other attendees.
+  This workshop is meant to encourage knowledge exchange and active participation from all attendees as we explore AI-generated imagery's practical applications, creative possibilities, and ethical considerations within learning environments.
+  You are encouraged to contribute your questions, ideas, and experiences.
+  Zotero AI lists Zotero allows groups to be created on a topic.
+  Participants are encouraged to bring questions about the implications of artificial intelligence in education and observations about AI use in teaching, learning, and research.
+[DATE]
+  The resources on this page will be updated continuously.
+  Hosted on the edX platform, this free short course provides an overview and examples of key terms in the practice of effective prompting, like few shot, prompt refinement, chain-of thought prompting, etc.
+  October 9, 12:30–1:30 Helping students effectively prompt generative AI for homework tutoring Do you want to help students effectively use AI chatbots for support while completing homework?
+[DISC]
+  Similarly, scholars are attentive to the need for transparency in what publishing companies do with their articles and books, e.g., selling them to AI companies.
+  Setting Clear Expectations: Discover best practices for establishing course guidelines regarding the use of AI tools to promote transparency and fairness.
+[ASSESS]
+  Read More  Study comparing student and faculty perceptions of digital learning, including AI (Tryton Partners, 2023)  Examining Faculty and Student Perceptions of Generative AI in University Courses (Klopfer, Grohs, et al, 2025)  What should I communicate to students about AI use?
+  You may also want to tell students whether and how you use generative AI yourself, in designing the course, developing materials, giving feedback, assessing work, or communicating with them.
+  What does generative AI do to assessment of learning?
+  While safeguarding the integrity of assessment practices is critical, it is equally important to recognize that cheating and plagiarism often stem from reasons other than lack of ethics.
+  Here are some additional resources for reflecting on AI in assessments.
+  This process highlights what is needed to secure the reliability of assessment even with the use of AI.
+  (MIT) This information can support assessment design in your course.
+  Lodge, Sandra Milligan, Neil Selwyn, Dragan Gašević, Assessment in the age of artificial intelligence,  Computers and Education: Artificial Intelligence, Volume 3, 2022,   The goal of this article is to describe the opportunities and threats of AI-assisted assessment.
+  The authors critique traditional assessment practices and examine whether AI can address some of these drawbacks.
+  “The Artificial Intelligence Assessment Scale (AIAS) : A Framework for Ethical Integration of Generative AI in Educational Assessment.” Journal of University Teaching & Learning Practice , vol. 21, no. 6, 2024, pp. 49–66,   .
+  “Exploring the Frontiers of Generative AI in Assessment: Is There Potential for a human‐AI Partnership?” New Directions for Teaching and Learning , 2024,   .
+  “A Dialogic Approach to Transform Teaching, Learning & Assessment with Generative AI in Secondary Education: A Proof of Concept.” Pedagogies (Mahwah, N.J.) , vol. 19, no. 3, 2024, pp. 493–503,   .
+[TOOL]
+  Examples include Copilot, ChatGPT, Gemini, Llama, Claude, Midjourney, Dall-E, and others.
+  Generative AI tools themselves range from simple autofill in emails, through paraphrasing tools like Grammarly, to sophisticated generative chatbots like ChatGPT, so what counts as “using AI” is not always obvious to students.
+  AI use varies by discipline, profession, or enterprise.
+  An introduction to, and comparison of, large language models (LLM), along with suggestions for syllabus AI policies, make this a useful starting point for those new to generative AI in teaching.
+  ChatGPT & Education Slide Deck (Torrey Trust, United Kingdom).
+  UConn has a contract with Microsoft for basic access to Copilot.
+  Due to these protections, it is recommended, though not required, that you use Copilot.
+  The other most prominent chatbots include ChatGPT (owned by OpenAI), Llama (owned by Meta), Claude (owned by Anthropic), and Google Gemini (owned by Alphabet).
+  With a paid ChatGPT account, you can access custom GPTs (models) for, e.g., data analysis, diagnostics, etc., or create your own “GPT” through detailed instructions.
+  Copilot does not feature custom GPT creation, but there are ways to instruct it that come close, especially in Copilot Plus (paid).
+  Are you curious about how to use tools like CoPilot or ChatGPT to support your teaching this semester?
+  This session is suitable for participants with minimal experience using generative AI but will be most useful if you know how to access either Microsoft CoPilot through your UConn Microsoft 365 login, or ChatGPT (both the free “mini” and paid versions will be demonstrated).
+[ENF]
+  AI use is governed by the Data Classification Policy , the Academic, Scholarly, and Professional Integrity and Misconduct Policy , and the Family Educational Rights and Privacy Act of 1974 ( FERPA ).
+  There is no single approach appropriate for every course, discipline, or assignment.
+  Including AI or addressing it with your students will help prepare them for jobs or further work in most disciplines, in addition to building important technological literacy more broadly.
+  Cornell’s AI in Education and Pedagogy Report Assembled by Cornell administration, this committee’s report is succinct and comprehensive – and is one of the few resources analyzing how AI might appear in different fields and disciplines.
+  While this is more a copyright than detection issue, it points to a node of issues related to fair labor and academic integrity.
+  Please consult the UConn Office of Community Standards and the university’s academic misconduct policy for information about handling plagiarism and cheating.
+  UConn’s University Senate, and the Office of the Provost, maintain guidelines for academic integrity and scholastic standards.
+  CETL continues to prioritize programming that creates learning communities across the university, while recognizing that the challenges and benefits of AI will be realized within departments and shaped by disciplinary norms of inquiry, accreditation requirements, and local curricula.
+  Finally, we will review The Graduate School Academic, Scholarly, and Professional Integrity and Misconduct (ASPIM) Policy to foster greater understanding of how to report Scholarly Misconduct, with a focus on ASPIM when AI use is suspected.
+  This presentation will cover key topics to help faculty better understand and navigate these emerging technologies in the classroom while upholding academic integrity.
+  Addressing Misuse: Understand how to handle Generative AI or Large Language Models misuse in violation of Academic, Scholarly, and Professional Integrity and Misconduct Policy; university data on the impact and prevalence of AI tool usage in cases referred for academic misconduct.
+  This program, based on the popular AI Safety Fundamentals courses developed by BlueDot Impact, is designed for faculty and instructors across disciplines who want to develop a foundational understanding of advanced AI systems and their potential impacts.
+[APPLIES]
+  This 7-minute video covers the basics of Large Language Models  Do many students use it?
+  Both students and instructors increasingly use AI as part of teaching or learning.
+  A study from 2024 showed that 30 percent of students reported using generative AI and more than fifty percent reported positive attitudes toward AI.
+  For these reasons, students may either avoid using AI entirely or use it inappropriately.
+  Read More  Creating Your Syllabus  Syllabus templates  Sample syllabus statements for generative AI use  Searchable collection of AI syllabus policies from colleges and universities (Lance Eaton)  UConn Office of Community Standards  How can I build student AI literacy and fluencies in my class?
+  Slides that could be useful for students include content about the risks of AI as well as examples of what AI can do.
+  It is free to faculty, staff, and students.
+  This includes FERPA-protected student information.
+  For ideas about “AI-resistant” assignments, please expand this section:  Read More  AI Detectors Don’t Work and What to do (MIT Sloan School of Management)  Essential Considerations for Addressing the Possibility of AI-Driven Cheating (Faculty Focus)  Using an AI chatbot can feel natural and seamless.
+  Require students to slow down, engage as active readers, and reflect on their engagement with these tools.
+  You could ask students to use this Template and rubric for students to track their use of AI (Bradner, APA) and perhaps assign points to doing so.
+  Make sure you communicate to students that this work supports the course learning objectives.
+====================
+FILE: raw/us-med-schools/uconn-health--ai-guidance-v20240314.pdf.md
+FM title: UConn / UConn Health Guidance on Using Artificial Intelligence (AI) (V03142024)
+FM source_url: https://health.uconn.edu/aits/wp-content/uploads/sites/200/2024/03/UCH-UConn-AI-Guidance-V03142024.pdf
+[BAN]
+  YES  NOT ALLOWED    *Please refer to the Data Classification Policy (   classification-information-technology/) for full details, including definitions and examples.
+[DISC]
+  However, we also acknowledge the ethical, legal, and social implications of AI.
+  UConn and UConn Health are committed to using AI responsibly, transparently, and ethically across its domains.
+[TOOL]
+  AI has recently been popularized by OpenAI’s ChatGPT, a model trained to interact in a human- like conversational way, answer questions, and assist with tasks such as writing and creating computer code.
+[APPLIES]
+  This communication is intended to provide guidance on using AI at UConn and UConn Health and the resources available to our staff, faculty, and students.
+  Donald Babcock (UConn) | Interim Chief Information Security Officer | donald.babcock@uconn.edu David Wallace (UConn Health) | AVP for IT Security | dwallace@uchc.edu  Resources:  (1) Seminal Whitepaper on ChaptGPT by UNESCO (pdf)  (2) Student and Faculty should refer to the guidance published by UConn-Storrs’s CETL    Ver 3/14/2024
+====================
+FILE: raw/us-med-schools/uconn-health--guidance-on-using-ai.md
+FM title: UConn Health Guidance on Using Artificial Intelligence (AI)
+FM source_url: https://health.uconn.edu/aits/ai/
+[DATE]
+  Due to the nascent and rapidly evolving nature of this technology, this page will be updated frequently in an attempt to provide the latest information.
+====================
+FILE: raw/us-med-schools/umass-chan--clinical-learning-environment-genai-policy.pdf.md
+FM title: Usage Policy for Generative AI-Powered Tools in the Clinical Learning Environment
+FM source_url: https://www.umassmed.edu/globalassets/office-of-undergraduate-medical-education-media/vista-curriculum/clinical-genai-policy-v2-draft-.pdf
+[PHI]
+  GenAI (such as AI scribes) should not be used to create summaries of  meetings as this can contain PHI/PII. • Editing and Proofreading: Leveraging tools for grammar checks, clarity improvements, or  stylistic refinements. • Supplementary Learning: Using GenAI for explanations of course concepts or generating  study questions.
+  Students may use standard dictation  software that is not powered by GenAI.  • Use of PHI/PII in publicly available GenAI tools is not permitted due to risk for data  compromise;
+  PHI/PII may only be used in GenAI tools that are approved by the medical school  or clinical system for such use.
+[BAN]
+  UMass Chan AI Commons provides GenAI  guidance, policies, and training as well as private GenAI tools that allow for input of  some materials (such as internal course materials) that are not allowed in public  GenAI tools.
+  Users should refrain from submitting such materials to external GenAI systems that are not authorized by UMass Chan Medical School.
+  Prohibited Uses: • Submitting GenAI-generated work as original content without modification and attribution. • Using GenAI to generate differential diagnoses or management plans de novo     UMass Chan Medical School  T.H.
+  Nuance DAX/Microsoft Dragon Copilot, Doximity) is prohibited  unless permission is granted from the course director.
+[PERM]
+  They hold the promise of increasing efficiency, allowing  rapid and targeted access to knowledge, and improving diagnostic accuracy but also hold  the possibility of disrupting development of clinical skills if they are introduced to a learner  without guidance prior to initial skill acquisition.
+  Appropriate Use of GenAI Tools  Students are permitted to use GenAI tools in the clinical learning environment to support their  academic work, provided that their use aligns with the following guidelines:   1.
+  Allowed Uses: In general, the principle guiding GenAI usage in the clinical education setting is  GenAI cannot replace core cognitive work, but rather can support, augment, or reinforce  learning.
+  Some specific allowed usages are provided below:  • Outlining: Using GenAI to help brainstorm or organize ideas into a structured outline for  written assignments.  • Summarizing Documents: Using GenAI to create summaries of articles, research papers, or  other readings, provided the summary is treated as a preliminary resource and not a substitute    UMass Chan Medical School  T.H.
+  Students may use GenAI-powered natural language consultation tools for  evidence-based clinical queries (OpenEvidence, UpToDate) with citation of its use • Students may use GenAI features that are embedded within institutionally provided platforms  or workflows when such functionality is not optional.
+[DATE]
+  This policy is in effect whenever students are participating in learning activities in a clinical  environment.
+  To protect intellectual property, licensing agreements, and academic ownership, educational materials that may be copyrighted or proprietary should be used only within institutionally approved LLM platforms, such as those offered through UMass Chan AI Commons.
+  Submission Date: Date Approved: Approved by: list relevant institutional leaders and/or committees Updated:  Effective Date:      UMass Chan Medical School  T.H.
+[DISC]
+  Attribution Requirements: • Any use of GenAI tools must be clearly disclosed in the submitted work.
+[TOOL]
+  Chan School of Medicine   55 Lake Avenue North, Worcester, MA 01655 | www.umassmed.edu  • Using GenAI to generate entire essays, responses, or projects.  • Use of ambient scribes (e.g.
+  (E) RELEVANT BACKGROUND INFORMATION (optional)   SOM Usage Policy for Generative AI-Powered Tools   This policy was reviewed in ChatGPT 5.2 to enhance clarity of language.
+[ENF]
+  Chan  School of Medicine Honor Code, Technical Standards and/or Professionalism guidelines and  policies, as well as sanctions from the relevant clinical system.
+[APPLIES]
+  (B) SCOPE   This policy applies to all students enrolled in the SOM   (C) DEFINITIONS   • AI: Artificial Intelligence  • GenAI: Generative artificial intelligence  • GenAI Tools: In this policy, GenAI tools means software applications used to  produce new content—such as text, images, code, or audio—based on user input.
+  It is important for students to be able to  leverage the assistance and support that GenAI technology can offer in a way that  augments learning and efficiency, while maintaining independent development of  foundational skills such as clinical reasoning, clinical decision-making, and critical  appraisal.
+  As such, clearly articulated parameters around GenAI use in clinical education  are necessary to support students in achieving these goals.
+  Examples include GenAI features  embedded into radiographic image reconstruction, billing and coding, and chart  summarization. • If there is GenAI usage not described here that the student believes aligns with the  principle stated above, they should review its use with the course director for  permission for usage  2.
+  Student Responsibilities: • Verification: Students are responsible for ensuring the accuracy, relevance, and reliability of  any GenAI-generated content.
+  Relying solely on GenAI for  comprehension will hinder learning and negatively impact academic development. • Supervision: When GenAI output influences clinical judgment, students must review  conclusions with their supervising clinician and should not act independently on GenAI-  generated suggestions.  4.
+====================
+FILE: raw/us-med-schools/umass-chan--faculty-council-ai-policy-update.pdf.md
+FM title: AI Policy Update to the Faculty Council (May 7, 2026)
+FM source_url: https://www.umassmed.edu/globalassets/office-of-faculty-affairs/faculty-council/ay25-26/ai-policy-update-2026may07.pdf
+[DATE]
+  The final draft will be approved by Executive Council and  Provost Flotte before signing.    4
+[APPLIES]
+  William.Barnett@umassmed.edu    This Policy Draft is also being reviewed by Scientific Council and Academic mission (GSBS,  Med Ed, Nursing School) faculty.
+====================
+FILE: raw/us-med-schools/unm--ai-appropriate-use-and-guidelines.md
+FM title: Appropriate Use and Guidelines (UNM AI Resources)
+FM source_url: https://airesources.unm.edu/ai-guidance/appropriate-use.html
+[PHI]
+  Before using identifiable FERPA data in AI platforms, users should contact their office's/department's IT Officer to initiate a risk assessment.
+  Before using data subject to HIPAA regulations in AI platforms, please reach out to the HIPAA Privacy Office .
+[PERM]
+  Various UNM policies describe appropriate and inappropriate use of technology, as well as the offices and processes through which permission must be requested in order to receive authorization to use UNM Data with any technology, including AI technology – even if there is no cost for that technology.
+[APPLIES]
+  Students should ensure that they comply with the UNM Student Code of Conduct ( Pathfinder ), Faculty Handbook policy on Dishonesty in Academic matters, and any guidance provided by their instructor in their course syllabus that clarifies expectations related to the use of technology in completing academic work.
+====================
+FILE: raw/us-med-schools/unm--faculty-senate-policy-use-of-genai.md
+FM title: Policy on the Use of Generative Artificial Intelligence (AI) in Teaching, Research, and Service at UNM
+FM source_url: https://fs.unm.edu/nss8/index.php/111/PolicyAI
+[BAN]
+  According to ICMJE guidelines, authorship requires:  Substantial contributions to the conception or design of the work  Drafting or critically revising the intellectual content  Final approval of the version to be published  Agreement to be accountable for all aspects of the work  Since AI systems cannot meet these criteria, they may not be credited as co-authors or contributors.
+  Inputting confidential manuscript content into public AI platforms (such as ChatGPT) is strictly prohibited and constitutes a breach of ethical review practice.
+[PERM]
+  Acceptable Use of Generative AI by Authors  Authors may utilize generative AI tools such as ChatGPT, Grammarly, DeepL, or other large language models (LLMs)to assist in language editing, grammar correction, reference formatting, or data presentation, provided that such use does not replace the intellectual and scholarly contribution of the authors themselves.
+  Editorial Oversight and Detection  Our editorial team may use specialized tools to detect excessive or unethical reliance on AI-generated content.
+  Authors, reviewers, and editors are encouraged to consult the latest version published on our official website under the "Publication Ethics" section.
+[DATE]
+  Continuous Policy Updates  As AI technologies continue to evolve, this policy will be regularly reviewed and updated.
+[DISC]
+  Policy on the Use of Generative Artificial Intelligence (AI) in Scientific Publishing  Policy on the Use of Generative Artificial Intelligence (AI) in Scientific Publishing  Neutrosophic Sets and Systems  At Neutrosophic Sets and Systems , we are committed to upholding the highest standards of academic integrity, ethical publishing, and transparency in research.
+  Mandatory Disclosure  Any use of generative AI tools in the preparation of a manuscript must be clearly and fully disclosed in the Acknowledgments section.
+  Undisclosed or inappropriate use of AI tools will be handled in accordance with the COPE flowcharts for ethical misconduct.
+[ASSESS]
+  All assessments must be conducted independently by qualified human experts.
+====================
+FILE: raw/us-med-schools/unm--libguide-ai-in-health-sciences.md
+FM title: Artificial Intelligence (AI) in Health Sciences (LibGuide)
+FM source_url: https://libguides.health.unm.edu/AI_HealthSciences
+[DATE]
+  Last Updated: Aug 20, 2026 9:18 AM URL:  Print Page Login to LibApps Tags: AI Questions?
+[APPLIES]
+  Reinforcement Learning: This model iteratively refines its decisions based on feedback, much like how students might refine their clinical skills based on feedback from simulations or actual patient interactions.
+====================
+FILE: raw/us-med-schools/unmc--ai-use-guidelines.md
+FM title: UNMC AI Use Guidelines
+FM source_url: https://wiki.unmc.edu/index.php/UNMC_AI_Use_Guidelines
+[PHI]
+  Patient data may not be used within AI tools.
+[BAN]
+  Federal funding agencies prohibit the use of AI tools during the peer-review process.
+  For Faculty and Instructors  UNMC encourages a flexible framework in which faculty and instructors can choose to prohibit, to allow with attribution, or to encourage use of generative AI tools.
+[PERM]
+  Follow the University of Nebraska’s Policy for Responsible Use of University Computers and Information Systems , Policy on Research Data and Security, and Policy on Risk Classification and Minimum Security Standards .  3.
+  Employees and students must maintain current awareness of ethical and responsible use of AI in research and creative activities by regularly reviewing university policies and relevant guidelines from funding agencies.  5.
+  If it is unclear whether AI tools are allowed in a particular course or for an assignment, review your course syllabus, Canvas course information, or ask your instructors directly.
+  If you are permitted to use generative AI tools, you may be required to disclose your use and cite the tools you used.
+  Faculty and instructors should describe the policy for the course clearly, and where relevant, the use that is permitted for each assignment.
+  When considering using generative AI in a research context, it is essential to investigate how much and what type is permitted.
+[DATE]
+  Per Executive Memorandum No. 42, Policy on Risk Classification and Minimum Security Standards , only public or Low Risk Data may be used with AI tools—unless a legal enterprise agreement and confidentiality agreement have been established with the third party and the required assessment process has been completed, or the tool is listed on the UNMC Approved Technology List.  2.
+  Use for Education  For Students  In the UNMC curricula, students have opportunities to effectively leverage AI systems while developing a solid grounding in fundamental healthcare knowledge, critical thinking abilities, and strong ethics.
+  Entering queries or text into generative AI tools that have not been approved for use at UNMC will expose information publicly online.
+  Treat what you enter in non-approved generative AI tools as if you were posting on a public forum.
+  For Everyone  If you are uncertain about the approval status of a particular AI tool or require guidance on its appropriate use, please refer to the UNMC Approved Technology List .
+  Only public or Low Risk Data may be used with AI tools—unless a legal enterprise agreement and confidentiality agreement have been established with the third party and the required assessment process has been completed, or the tool is listed on the UNMC Approved Technology List.
+[DISC]
+  Cite AI-generated content word-for-word and describe use and paraphrasing generated by the tool.
+  They are not required to disclose its use, but it is recommended to model good practice by doing so.
+  UNMC is committed to developing AI responsibly, ensuring rigorous validation, transparency, privacy protection and alignment with our humanistic values.
+  At a minimum, when you use generative AI output in scholarly works, disclose and describe how you used it and identify the sections of the work that include generative AI output.
+[ASSESS]
+  Any new solution involving AI—or any addition of AI to an existing solution—must go through the risk assessment process, as outlined in UNMC/Nebraska Medicine IM #63: Risk Assessment Policy .
+[ENF]
+  All students, faculty, and staff who develop or use AI, including generative AI will follow these guidelines, which are enforced through the UNMC Code of Conduct , Student Code of Conduct , and Research Integrity Policy .
+  Maintain academic integrity.
+  Misuse of generative AI will be subject to the same policies and procedures as other academic misconduct.
+  Contact the Division of Student Success for guidance if you have questions about generative AI and the academic misconduct process.
+  Use for Administration and Other Purposes  UNMC embraces an interdisciplinary, collaborative paradigm that brings clinicians, computer scientists, ethicists, and stakeholders together to maximize the use of generative AI tools.
+[APPLIES]
+  The appropriate use of AI and AI-enabled tools requires a collaborative approach among UNMC administrators, faculty, staff, students, information security partners, and NU campus partners.
+  UNMC employees and students are expected to:  Not enter confidential, proprietary, or patient-related information that is subject to federal or state regulations or otherwise considered sensitive or restricted.
+  Faculty and instructor expectations will vary from course to course.
+  Faculty and instructors can use Generative AI to create course instruction materials.
+  Our generative AI solutions will be human-centered, aiming to reduce burnout and administrative burdens on faculty, staff and students, while elevating premier education, outstanding research, and the highest quality patient care, access, and outcomes.
+====================
+FILE: raw/us-med-schools/ut-austin--guidance-for-using-artificial-intelligence.md
+FM title: Guidance for Using Artificial Intelligence
+FM source_url: https://tech.utexas.edu/governance/guidance-for-ai
+[PERM]
+  Responsible use of AI tools includes adhering to relevant policies that protect confidential, personal, and proprietary data, as well as following ethical guidelines that prioritize transparency, accountability, and fairness.
+  Guiding Principles  Safe & Secure  Ensuring the protection of University data from unauthorized access and misuse, while also safeguarding humans from any potential harm or risks.
+  Responsible Use of AI  Policies & Guidelines  Acceptable Use of AI Tools  This policy outlines acceptable practices for using AI tools while safeguarding institutional, personal, and proprietary information.
+  In all cases, use of AI tools must be consistent with the Information Resources Use and Security Policy and, for students, the Acceptable Use Policy .
+  Responsible use of AI in learning involves adhering to ethical guidelines and ensuring data privacy.
+  AI in Research  As AI tools become more powerful and accessible, researchers are encouraged to critically assess the implications of their use, ensuring transparency, fairness, and accountability in their methodologies.
+  AI in Operations  Employees are encouraged to explore AI tools to enhance their productivity.
+  AI can augment the workday by automating routine tasks and allowing more time for strategic, creative, or interpersonal work.
+  Implementing AI Governance and Oversight  To ensure responsible use of AI platforms and tools, Enterprise Technology has convened a cross-organizational working group to: Develop policies, standards, and guidelines for the responsible and ethical use of AI tools and data, including a review of existing information, IT, and data governance policies as they relate to AI.
+[DATE]
+  Approved AI Tools Decision Matrix  Always check the decision matrix before using any AI tool with University data.
+  AI tools without a University contract and proper data-sharing controls are not approved for use with controlled or confidential information.
+  Create Training and Awareness Programs to ensure the community is informed about responsible AI use and how to effectively use the approved AI tools.
+[DISC]
+  Fair & Transparent  Ensuring fairness, transparency, and alignment with the institution’s mission, while maintaining clarity and openness about AI usage.
+[ENF]
+  Guidance for Using Artificial Intelligence  The University of Texas at Austin is committed to fostering innovation while upholding the highest standards of security, privacy, and academic integrity.
+  Good Systems  An interdisciplinary team comprised of faculty and student researchers from more than two dozen schools and units at UT Austin works to better understand what changes new technologies will bring, predict how those changes will unfold, and mitigate the harms or unintended consequences they could cause while still leveraging the benefits AI provides.
+  Student Standards of Conduct  The University of Texas at Austin holds its students to a high standard grounded in a Code of Conduct and Student Honor Code.
+[APPLIES]
+  The purpose of the working group was to respond to the need among students, faculty, and staff for clear, centrally defined guidance on how to adopt AI tools in responsible and ethical ways in teaching and learning contexts.
+  Students are expected to abide by all state and federal laws, statutes, and all regulations of the University of Texas System.
+  However, it is crucial to ensure that AI is used ethically and responsibly, respecting students' privacy and promoting fairness.
+  Students can benefit from AI-driven tools that provide customized study plans, instant feedback, and virtual simulations.
+  These technologies can help students learn at their own pace and deepen their understanding of complex subjects.

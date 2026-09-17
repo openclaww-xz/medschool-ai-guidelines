@@ -1,0 +1,235 @@
+====================
+FILE: raw/us-med-schools/jabsom--guidelines-on-generative-ai-for-learners.md (34281 bytes)
+[PHI]
+  This policy is designed to complement broader University of Hawai'i (UH) guidance on AI, and future policies, with additional specificity tailored to the unique context of JABSOM’s MD Program and GME curricula and the critical importance of protecting patient and learner privacy under HIPAA and FERPA, respectively.
+  Faculty are responsible for removing identifiable information (PII) in  accordance with FERPA before running through such software.
+  This  includes indirectly identifiable information that may appear within the  content of the submitted assignment.   b.
+  Burns School of Medicine (JABSOM)  Guidelines on Generative AI for Learners  May 2025     Data Privacy and Security  The protection of sensitive information, including patient health information (PHI) and student records, is of utmost importance at JABSOM.
+  Generative AI tools must be used responsibly to ensure compliance with HIPAA, FERPA, and other relevant data protection laws.   1.
+  Generative AI tools must not be used to process, store, or transmit any sensitive  information covered by HIPAA, FERPA, or other applicable data protection laws.
+  This includes, but is not limited to, patient health information, student records,  and other forms of personally identifiable information (PII).  b.
+  Sensitive data such as that covered by HIPAA, FERPA, or other applicable data  protection laws, or protected by copyright, may not be used to train or fine-tune  an AI model without all appropriate and applicable forms of consent.  c.
+  This constitutes a breach of HIPAA, as the patient’s PHI is exposed to a  non-secure, third-party system.  2.
+  If there is a legitimate educational or research need to use AI tools with data  derived from sensitive information, the data must first be deidentified to remove  any personally identifiable information.
+[BAN]
+  Any use of AI that promotes harm, violence, discrimination, or graphic or explicit  content is prohibited in the context of UH campuses and spaces, on UH-affiliated  technological devices, or software resources provided by UH to its learners. 4.
+  It is incumbent upon individuals at JABSOM creating media, products,  inventions, ideas, and other potentially copyrightable outputs to be aware  that AI-generated components of their works may not be copyrighted.   b.
+  While JABSOM does not encourage using such  tools at this time, they are not forbidden.
+  Prohibited Use of Sensitive Information:  a.
+  All members of JABSOM must ensure that sensitive or potentially identifiable  data is never input into open or unsecured AI platforms.
+  AI may be used to organize existing information into outlines or other  educational formats.  o Not Permitted: Generative AI is not allowed to produce differential diagnoses,  treatment plans, or other clinical reasoning outputs.
+  Content Generation:  o Not Permitted: AI tools should not be used to generate substantive content for  assignments, such as writing sections of essays or reports.
+  Data Privacy:  o Strictly Prohibited: Students must not use generative AI tools to process, store,  or transmit any sensitive or identifiable information.
+  Exams and Quizzes:  o Strictly Prohibited: The use of generative AI tools is not allowed for take-home  exams, quizzes, or any assessments intended to measure individual knowledge  and understanding. 10.
+  Simulations and Virtual Patients:  o Not Permitted: The use of generative AI in simulations, virtual patient  interactions, or any clinical education scenarios is not allowed unless explicitly  permitted by the instructor. 11.
+[PERM]
+  Burns School of Medicine (JABSOM) for the appropriate and responsible use of generative AI by JABSOM learners.
+  Faculty are encouraged to explore the pedagogical potential of generative AI by  integrating it into their teaching practices.
+  Students are permitted to use generative AI tools for academic assignments only  as described in Appendix A, or otherwise if explicitly allowed by the instructor.
+  Instructors are encouraged to clarify in their syllabi and assignments what  constitutes acceptable use of AI, including any specific limitations or  expectations.  2.
+  Faculty may use generative AI to collate and summarize qualitative  comments on assessments and evaluations, such as in summarizing  multiple supervisor comments across a clerkship.
+  The IRB or a privacy board must approve any waivers or  alterations of authorization.
+  Additionally, consent and authorization forms related  to participants in research should note the potential use of their data with AI  technologies, as applicable.  c.
+  In the meantime, we encourage JABSOM and the University of Hawaii to instead focus on advocacy for sustainable practices in data management locally, nationally, and globally.
+  Grammar, Syntax, and Idea Generation:  o Permitted:  1.
+  Students may use generative AI tools to assist with grammar and syntax  corrections in their writing.
+[DISC]
+  As generative AI tools become increasingly integrated into educational practices, all learners, faculty, and staff must understand and adhere to the highest standards of honesty and transparency.
+  In  such cases, the use of AI must be fully disclosed, and students must critically  assess the output generated by these tools.  b.
+  Disclosure of AI Use:  a.
+  When AI tools are used to generate content for an assignment, students must  include a clear disclosure statement indicating how and to what extent AI was  utilized.
+  This disclosure should be placed at the beginning or end of the  assignment, as directed by the instructor.
+  See also Appendix A for additional  guidance on disclosure in various contexts.  b.
+  Example Disclosure Statement:  i.
+  Failure to disclose the use of AI in assignments may be considered a violation of  academic integrity and could result in disciplinary action, as per JABSOM and  UH policies.  3.
+  This includes disclosing the use of AI for generating lecture content, exam  questions, or any other educational resources.
+  When this occurs, the  use of AI should be FERPA compliant (e.g., through de-identification  and/or the use of UH-licensed and approved LLMs—See Data Privacy  and Security below) and disclosed.
+[ASSESS]
+  Burns School of Medicine (JABSOM)  Guidelines on Generative AI for Learners  May 2025   Introduction  Generative Artificial Intelligence (AI) represents a significant technological advancement, offering transformative possibilities in medical education, research, and administration.
+  Faculty members are expected to model academic integrity by clearly stating their  own use of AI tools in creating course materials, assignments, or assessments.
+  The disclosure of AI use for  summative comments would also carry over to a need for disclosure in  subsequent documentation utilizing these summations, such as the MSPE.  b.
+  If faculty choose to use such  tools in assessing a learner’s work, this is only permissible when such  tools and their use uphold all relevant data privacy and security standards,  professionalism, and due diligence as otherwise delineated in this  document and other JABSOM or UH policies.   ii.
+  Faculty Use for Instruction:  o Permitted with Disclosure: Faculty may use generative AI tools to create  teaching materials, including lecture notes and exam questions.
+[TOOL]
+  "In completing this assignment, I used ChatGPT to generate an initial  draft of the literature review section.
+  A student uses a generative AI tool to transcribe notes from a patient  interview, including the patient’s name, date of birth, and specific medical  conditions, and inputs this data into an open AI platform like ChatGPT.
+  Without additional review for other risks of  identification, the essays are fed into chatGPT (without any specific  settings like Temporary Chat) so that it can assist with thematic analysis.
+  When finished, the faculty deletes that conversation from the list of prior  conversations in chatGPT.  1.
+  Identification of a lower-risk LLM, such as an  institution-specific, approved LLM, which will not save or  train on the inputted student data. 3.
+  Disclosure of AI Use in Policy Authorship  OpenAI’s ChatGPT was used in the information gathering, initial brainstorming, and early first draft outline to create this policy.
+[ENF]
+  However, its use also raises critical considerations regarding academic integrity, data privacy, ethical standards, and professional conduct.
+  Burns School of Medicine (JABSOM)  Guidelines on Generative AI for Learners  May 2025     Academic Integrity  Maintaining academic integrity is paramount at JABSOM.
+  Any attempt to use AI tools to deceive or mislead, such as generating work (e.g.,  assignments, reports, research) that is falsely presented as entirely original or  failing to verify AI-generated content, will be treated as academic and  professional misconduct.  b.
+  Depending on the severity of the violation,  consequences may range from receiving a failing grade on the assignment to more  severe disciplinary actions.  c.
+  Risk of indirect identification: A student conducting a mentored medical  education research project for MD5 interviewed five students from  underrepresented backgrounds about their experiences of inequity in  education throughout their lives.
+  Consequences of Misuse:  a.
+  Depending on the severity of the breach, consequences may include  retraining, loss of access to AI tools, or more severe disciplinary actions in cases  of gross negligence or repeated violations.  b.
+  UH Executive Policy EP7.205 – Systemwide Student Disciplinary Sanctions  E.
+  UH Executive Policy EP7.208 – Systemwide Student Conduct Code  F.
+[APPLIES]
+  A “learner” is defined in this policy as a student educated within JABSOM  (including but not limited to medical students and ʻImi Hoʻōla students), as well  as those in graduate medical education programs for which UH JABSOM is the      Page 1  John A.
+  Burns School of Medicine (JABSOM)  Guidelines on Generative AI for Learners  May 2025  sponsoring institution, i.e., residents and fellows of UH residency and fellowship  programs.  b.
+  Appendix A elaborates on some default policies on generative AI use  by learners.  c.
+  Instructors retain the flexibility to customize generative AI use in their courses,  provided that these expectations are clearly communicated to students at the  outset and do not conflict with other aspects of the JABSOM or AI policy, or  other state and federal policies, such as the use of sensitive information, etc.
+  Any  modifications should be explicitly stated in the course syllabi or communicated  directly to students. 2.
+  However, they must ensure that  students know these tools' limitations and are guided on how to use them  responsibly.  b.
+  Suggested educational strategies include assignments that critically evaluate  AI-generated content, scenarios that require students to compare AI outputs with  human-created materials, and discussions on the ethical implications of AI in  medicine. 3.
+  Students and trainees are all subject to this policy and are expected to uphold the  professional standards of JABSOM in their use of generative AI.
+  It is a breach of professionalism for any learner who, without explicit consent,  falsifies representations of another person, using AI or otherwise.
+  In the above, a “person” may include any student, colleague, faculty, staff, patient,  or other real human being.  e.
+====================
+FILE: raw/us-med-schools/lsuhsc-no--policy-on-use-of-generative-ai-by-medical-students.md (10194 bytes)
+[PHI]
+  LSUHSC-NO, LCMCHealth, FMOL, etc) • Security: Students are prohibited from storing or transmitting protected health information  (PHI) within AI tools, external cloud services, browser plug-ins, third-party integrations, or  consumer applications (EverNote, REmarkable, etc.) unless those services have been  formally vetted and approved by LSUHSC-NO’s Information Security Office.
+  Always maintain academic integrity and never place any Protected Health Information (PHI) in non-approved AI tools to ensure that patient confidentiality and HIPAA regulations, and any applicable state or federal privacy regulations, are maintained.
+[BAN]
+  Unless otherwise stated by the faculty member, upload of any course materials is  not permitted. • Continued Education: Students and faculty are encouraged to stay informed, use and be  mindful of generative AI tool usage.
+  Students must never use generative AI as a substitute for their own knowledge acquisition, analysis or self- reflection.
+[PERM]
+  Unauthorized use of AI tools to generate assignments or assessments  constitutes academic misconduct and will be addressed in accordance with LSUHSC-NO  Honor Code and relevant disciplinary procedures.
+  These tools should be used with LSUHSC-NO credentials to  ensure that privacy agreements apply. • Faculty Discretion: Faculty and instructors have the authority and are encouraged to set and  discuss specific guidelines regarding AI tool usage in their courses, assignments, or patient  care work.
+  This includes setting any desired limitations on (or encouraging) use and  uploading of course notes, slide decks, or other educational materials with Generative AI  tools.
+  Students and faculty are encouraged to participate in  any applicable training sessions offered or sanctioned by the institution. • Responsible Use: Misuse and over-reliance on generative AI tools can lead to  misinformation, misunderstanding, and harm.
+[TOOL]
+  LSUHSC-NO  currently has formal licensing for Microsoft (including OneDrive, Teams, and Copilot Chat),  Zoom, and Adobe Firefly.
+  ChatGPT (May 14 version) [Large language model].
+  Retrieved from    Portions of this policy were developed with the assistance of OpenAI’s ChatGPT, a large language model.
+[ENF]
+  General Principles  • Academic Integrity: Students must ensure that all submitted work reflects their understanding  and personal effort.
+[APPLIES]
+  Scope  This policy provides guidance and applies to all medical students enrolled at LSUHSC-NO, as well as faculty members involved in teaching and evaluating them.
+  Students and Faculty are responsible for  the content they produce, regardless of AI assistance.
+  This  includes but is not limited to patient care information, faculty research, etc.
+  Retrieved from  students/policies/Use-of-Generative-AI-Tools-Policy.pdf  University of California, San Francisco School of Medicine.
+  Content generated was reviewed, edited, and approved by LSUSHC-NO faculty and policy stakeholders.
+====================
+FILE: raw/us-med-schools/rush--library-guide-ai-resources-for-students-uac0039-excerpts.md (4241 bytes)
+[BAN]
+  If you are trying to find a reference provided by ChatGPT, be aware that it may not exist.
+[TOOL]
+  See I can’t find the citations that ChatGPT gave me.
+[ENF]
+  Asking for any information that would have dire consequences if it was incorrect (such as health, financial, legal advice, and so on).
+  Any student's failure to comply with the statement on the use of generative AI tools in a course syllabus is considered a violation of academic integrity and subject to the same penalties stated in Rush University's Student Code of Conduct Policy (UAC0030) and the Academic Honesty Policy (UAC0031).  ...
+  Disciplinary action will be imposed by the program/college on students who violate this policy, in accordance with Rush University's Student Code of Conduct and Academic Honesty policies.
+[APPLIES]
+  It can be found by clicking this link How to Work with Artificial Intelligence - for Students and then finding the link with that same name.
+  Consequently, students might use it without the permission of the faculty.
+  As such, students must be informed of AI course policies and under what circumstances they might responsibly use generative AI.
+  It is important to note that students who choose to use AI technology must be aware of and accountable for its limitations, potential inaccuracies, and possible biases.
+  For students in clinical situations or at off-site clinical locations: Please refer to the location's policy on AI use for clinical work.
+====================
+FILE: raw/us-med-schools/uams--ai-generative-tool-use-policy-2.1.6.md (18946 bytes)
+[PHI]
+  Protected Health Information (PHI) may only be inputted and processed by an AI service if fully approved by UAMS and a fully executed Business Associate Agreement (BAA).
+  Refer to UAMS Policy 2.1.23 Safeguarding Protected Health Information.
+  Inputting identifiable participant data into public or non-secure AI tools is prohibited.
+  In accordance with the Family Educational Rights and Privacy  Act (FERPA), instructors may not input any student-identifiable  information or student work into GAI, plagiarism checking tools,  or Al-detection software without explicit written permission from  the student unless approved for use by UAMS.
+  Refer to UAMS policy 2.1.23 Safeguarding Protected Health Information for additional guidance on approval for GAI tool use in a clinical context.
+  When writing and entering queries into any GAI model outside of an electronic health record, PHI may only be inputted and processed by an AI or GAI tool if fully approved by UAMS AI Governance Committee and only when a fully executed BAA exists, compliant with UAMS Policy 2.1.23 Safeguarding Protected Health Information.
+  Al-related disclosures or violations of this Policy must be reported within 24 hours to the UAMS Chancellor’s AI Governance Committee and one or more of the following, as appropriate: the HIPAA Office, the Office of Research Misconduct, Teaching and Learning Support Committee, and/or FERPA officer.
+  Due to ethical, legal, HIPAA, FERPA, and research compliance implications, all faculty, staff, and students will be required to take annual AI and GAI training.
+  REFERENCES  UAMS Policy 2.1.23 Safeguarding Protected Health Information UAMS Administrative Policy 4.4.01 Basic Code of Conduct UAMS Administrative Policy 2.2.14 Student Code of Conduct  UAMS Core Values.
+[BAN]
+  Lack of diversity in the training data: If the training data does not include a diverse range of examples, the GAI system may not perform well on diverse inputs, which may lead to discrimination.  iv.
+  Use of Al-based tools must not violate any copyright or intellectual property laws (please refer to UAMS Distribution of Royalties from Inventions policy;
+  Faculty should make a clear, conscious  effort to describe the expectations for a given course/activity with respect  to whether GAI is prohibited (i.e., not allowed in any capacity), restricted  (i.e., allowed for specific projects/activities with appropriate citation), or unrestricted (i.e., allowed in any course activity with appropriate  citation).
+  Instructors are prohibited from asking Students for permission to input their work into GAI without express permission from the AI Governance Committee.
+[PERM]
+  Use of GAI by students to satisfy course requirements must be authorized  by the course faculty, trainer, or education supervisor.
+  Use of such applications of GAI must be specifically allowed by the instructor/mentor  for the given course or activity.
+[DISC]
+  The policy includes guidance on if, how, and when artificial intelligence generative tools can be utilized and any attribution or other information that is required when it is used.
+  UAMS considers the presentation of Al-generated work as one’s own work without appropriate attribution/citation to be plagiarism and is a violation of the UAMS Basic Code of Conduct policy, the UAMS Responsible Conduct of Research policy, the UAMS Student Code of Conduct, UAMS Core Values (integrity) and each College’s Policies for trainees on Academic Misconduct or Academic Integrity.
+  Lack of transparency: Some GAI systems can be difficult to understand and interpret, making it challenging to detect and correct for biases.  vi.
+  Faculty, employees, trainees, and academic visitors must fully disclose how and where they used GAI technology in their work.
+  For example, in 3   UAMS Academic Affairs Policy — 2.1.6  academic writing include a statement in the methods or acknowledgements section.
+  Consult the formatting style guide for specific instructions when citing or acknowledging the use of a GAI tool in any work or assignment.
+  Faculty, employees, trainees, and academic visitors do not have to disclose the use of GAI with UAMS Chancellor’s AI Governance Committee- approved tools, dictation software, language translation, spelling/grammar/punctuation, formatting, alphabetizing items, and formatting of citations (e.g., converting an APA citation to an AMA citation).  e.
+  Investigators must clearly disclose in consent forms any use of generative AI tools when the outputs could potentially re-identify research participants.
+  Instructors may have additional requirements regarding citation or acknowledgement of the use of GAI in assignments.
+  Clinicians must disclose whether patient consent was obtained before the use AI or GAI technology (if applicable).  6   UAMS Academic Affairs Policy — 2.1.6  d.
+[ASSESS]
+  Work-related content (herein referred to as “work”) is defined as writing, images, or other creative products presented for peer review, grading as an assignment, academic credit, patents and other intellectual property, presentations, publications, and/or the media.
+  Work is defined as UAMS-related content such as writing, images, or other creative work presented for peer review, grading as an assignment, or for public and/or scholarly dissemination through publications, presentations, and the media.
+  AI tools must be assessed by Investigators for potential bias, especially in datasets involving human subjects.
+  Further, any use of GAI by instructors to assist or review grading or evaluating student class assignments or work requires prior approval by the AI Governance Committee.
+[ENF]
+  GALis a rapidly evolving field that has many benefits, applications, and implications for various disciplines.
+  Students should refer to each College’s policies related to Academic Misconduct or Academic Integrity for the appropriate grievance policy and process.  d.
+  It is important to keep in mind that these biases can be unconscious, unintended, and hard to detect, but they can have serious consequences if they are not identified and addressed.  c.
+  Failure to cite GAI and appropriately describe its use in work or assignments is in violation of the UAMS Student Code of Conduct and the College’s Academic Misconduct or Academic Integrity policies because the information derived from these tools is not the product of an individual’s unaided mind.  f.
+  Violating this policy or the instructor’s directions about the use of GAI in their course or on an assignment might be considered a violation of the College’s Academic Misconduct Policy and/or Academic Integrity Policy and could include disciplinary action up to and including dismissal.
+  Retrieved:   UAMS Administrative Policy 16.1.04 Responsible Conduct of Research Academic Misconduct and/or Academic Integrity Policies for each college UAMS Administrative Policy 16.1.05 Distribution of Royalties from Inventions University of Arkansas Board Policy 210.1 — Patent and Copyright Policy  University of Arkansas Board Policy 210.2 — Copyright and Distance Learning Policy
+[APPLIES]
+  SCOPE  This policy applies to any work-related content created through an affiliation with UAMS or on behalf of UAMS, by any paid or unpaid employees, faculty, academic visitors, and trainees (including students, residents, postdoctoral fellows, etc.).
+  There are rapid advances in technology that might be used by faculty, employees, trainees, and academic visitors, among others.
+  The use of GAI tools, including large language models (LLMs), to help write clinical notes, manuscripts, student essays, presentations, and research articles are noteworthy examples.  b.
+  A list of approved AI detection tools and GAI tools approved for faculty, student, and/or staff use in clinical, research, and/or educational contexts (and any limitations to their use) can be obtained from the UAMS AI Governance Committee.
+  As such, that document is considered be cognitive work of the faculty, employee, student, or academic visitor.
+  Researchers and students  involved in research must evaluate the accuracy and appropriateness of recommendations made by GAI tools and make the final determination.
+  Teachers and/or students  must evaluate the accuracy and appropriateness of recommendations made by  GAI tools and make the final determination.
+  Trainees should use GAI tools wisely and intelligently, aiming to deepen understanding of subject matter and to support learning.
+  However, it must be the trainee who guides, verifies, and crafts the final answers on class assignments.
+  Any use of GAI to analyze student grades or other records also requires prior approval by the appropriate Dean and the UAMS Chancellor’s AI Governance Committee.
+====================
+FILE: raw/us-med-schools/uky--advance-clinical-care-guidelines-genai.md (17593 bytes)
+[PHI]
+  Protected health information,  personally identifiable information, other information protected by privacy laws, and any  proprietary information should not be provided to generative AI tools unless they have  been vetted for data privacy and other governance issues and approved by the University  and UK HealthCare for the proposed use.   2.
+  Providing protected health information, including de-identified information, or any other  information protected by law  3.
+[DISC]
+  This alignment involves many factors, including accountability, autonomy, equity, integrity, morality, non-maleficence, privacy, security, transparency, and trust.8 The following areas of caution are particularly significant for the use of generative AI in clinical care.9   1.
+  Transparency and explainability are important aspects of AI use in  clinical care, yet it is difficult to explain how a generative AI tool arrived at its output from  the given input.11 Further, a generative AI tool can provide varying output from the same  prompting without the user understanding the underlying processes at work.   4.
+  “From Black Box to Glass Box: Advancing Transparency in Artificial Intelligence Systems for Ethical  and Trustworthy AI.” Computational Science and Its Applications: ICCSA 2023 Workshops, pp 118-130, 2023.
+[ASSESS]
+  Researchers continue to examine the degree to  which generative AI can support and potentially enhance clinical decision-making.10 At the  same time, centering human agency and accountability is a critical component of  informed and ethical use.
+  “Generative Artificial Intelligence in Healthcare: Ethical Considerations and Assessment Checklist.”  arXiv, 2 Nov 2023.
+[TOOL]
+  Since the release of OpenAI’s ChatGPT in late 2022 the number of stand-alone apps and interfaces has proliferated, including both proprietary and open-source tools.
+  Use of generative AI outside Epic EHR or other secure UKHC systems.
+  UK ADVANCE recommends against using generative AI that is not housed within Epic, UK HealthCare’s electronic health record management system, as well as other secure UKHC systems such as 3M and Hyland OnBase, especially in the following ways:13   1.
+  Making clinical decisions without appropriate expert and human oversight  Use of generative AI within Epic EHR or other secure UKHC systems.
+  Any rollout or integration of a generative AI tool within Epic and other secure UKHC systems such as 3M and Hyland OnBase will be reviewed and approved by the appropriate IT governance authorities in UKHC regarding risk and regulatory compliance.
+  Epic has laid out its Generative AI Roadmap, and users must make a UserWeb account to access it.
+  Any specific  13  This category includes any apps that are available in the Epic API Portal/Vendor Services Showroom.    4 requests to integrate or interface with a third-party generative AI vendor (including a third-party interface in Epic) should be sent to the UKHC Demand Management Committee where it will be reviewed for security, safety, architecture, data, and privacy.
+  “Artificial Hallucinations in ChatGPT: Implications in Scientific Writing.” Cureus,  vol 15, no 2, 19 Feb 2023.
+  “A glimpse into Epic's 2024 strategy.” Becker’s Health IT, 29 Dec 2023. www.beckershospitalreview.com/  ehrs/a-glimpse-into-epics-2024-strategy.html.
+  “ChatGPT Influence on Medical Decision-Making, Bias, and Equity: A Randomized Study of Clinicians  Evaluating Clinical Vignettes.” medRxiv, 27 Nov 2023.
+[ENF]
+  UK ADVANCE is taking an evidence-based approach with experts from many disciplines and continues to monitor experiences among our local campus and community as well as national and global developments.
+====================
+FILE: raw/us-med-schools/unlv-ksom--it-ai-best-practices-no-campus-policy.md (5104 bytes)
+[PHI]
+  Personally identifiable information, system credentials (passwords, IP addresses), and non-public records should not be provided as prompts.
+[BAN]
+  Third-party tools are not supported by UNLV, and may or may not be integrated into university systems, depending on factors such as accessibility, funding, privacy and security considerations, and more.
+[PERM]
+  Check security measures: Ensure the tool has robust security measures in place, such as encryption and secure data storage, to protect against unauthorized access and breaches.
+[DISC]
+  One should acknowledge the use of generative AI (other than incidental use) and default to disclosing such assistance when in doubt.
+[ASSESS]
+  Using generative AI tools to complete a Financial or Human Capital Management project, or entering assignment or exam answers is not advisable.
+[TOOL]
+  Awareness of AI Limitations : Always employ human judgment when using AI outputs and be aware of misuse or misapplication where human judgment is critical  Enterprise vs Third-Party AI Tools Best Practices  Enterprise tools are computer applications, software, hardware, or systems that are supported by UNLV, that are designed to be scalable and integrated into a variety of university systems.
+[APPLIES]
+  UNLV faculty, staff, and students are required to adhere to NSHE and institutional policies and procedures.
+====================
+FILE: raw/us-med-schools/unr-med--use-of-artificial-intelligence-policy.md (4910 bytes)
+[PHI]
+  AI must not be used for the purpose of deidentifying protected health information, since datasets deidentified in this manner may be reverse engineered.
+[BAN]
+  Reliable Sourcing: AI systems may not differentiate between reliable and unreliable source materials.
+  Meetings with legal counsel must not be transcribed.
+[PERM]
+  Purpose/Background  The purpose of this policy is to provide a framework for the responsible use of Artificial Intelligence (AI) at UNR Med.
+  Training for AI: All users intending to use generative AI for academic, clinical, or administrative tasks are encouraged to complete a brief institutional AI orientation module.
+  References  NSHE Records Retention Policy  State Policy on the Responsible Use of Al  UNR Med AI Attestation  Microsoft Copilot is UNR Med’s approved AI tool and is strongly encouraged for AI-assisted work.
+[DISC]
+  Use of Al for Original Content: To the extent that the end-user relies substantially on the use of AI to produce original content, such use will be disclosed with the following statement: Al was used to generate this content, and the content was reviewed and edited for validity.
+[TOOL]
+  Use of non-enterprise, commercially available generative AI platforms (e.g., ChatGPT Free or Plus) is discouraged due to their potential to retain and use inputted data.
+  Users purchasing a subscription to non-enterprise AI platforms must complete the ’Restricted Use of Commercial AI Tools’ agreement available from Med IT.
+  If you choose to use a non-Copilot AI tool (for example, ChatGPT, Claude, or Gemini), completion of the UNR Med AI Attestation is required.
+[APPLIES]
+  Use of Artificial Intelligence Policy  JUMP TO AI ATTESTION  Effective: 1/8/2026  To whom this policy applies  UNR Med administrative faculty, academic faculty and staff.

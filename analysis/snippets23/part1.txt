@@ -1,0 +1,910 @@
+====================
+FILE: raw/us-med-schools/atsu--libguides-guidelines-on-ai.md
+FM title: Guidelines on AI - Artificial Intelligence LibGuide
+FM source_url: https://guides.atsu.edu/c.php?g=1384501&p=10238154
+[PHI]
+  Avoid utilizing generative AI applications with any form of protected health information or other legally protected data.
+[TOOL]
+  Department of Education Shares Insights and Recommendations for Artificial Intelligence This link opens in a new window  Introduction to ChatGPT  Copyright Considerations  Intellectual property law across the globe is reckoning with the implications of generative AI for creators of copyrighted works and the artists, programmers, and scholars who would use those works for generative AI outputs.
+====================
+FILE: raw/us-med-schools/atsu-its--navigating-ai-at-atsu.md
+FM title: Navigating Artificial Intelligence at ATSU
+FM source_url: https://its.atsu.edu/navigating-artificial-intelligence-at-atsu
+[PERM]
+  Information shared with generative AI tools using default settings is not private and could expose proprietary or sensitive information to unauthorized parties.
+  ( Reference Article )  Connect with ITS when Selecting AI Tools, Applications and Services: The University is working to ensure that tools procured for the institution have the appropriate privacy and security protections and that vendors have been vetted as to their responsible use of AI.
+  This allows them to provide accurate and relevant information to customers.
+  It is similar to ChatGPT and is trained on a massive dataset of text and code, which allows it to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way.
+[DATE]
+  Adhere to Current Policies: While we expect that new language will be developed and policies will be updated as we better understand the implications of using AI tools, be aware of existing policies and guidelines that cover ethical and professional expectations and may exist in your area, school or program.
+[TOOL]
+  As we think about ALL of the promise of new AI tools like ChatGPT, Bing, and many others on the way, here is a good article that reminds us there are possible information security risks and we have a responsibility to monitor vendors and make sure employees understand how enterprise data is being used.
+  Be Alert for Scams: Because of the high levels of media buzz around tools like ChatGPT, cybercriminals and scammers are taking advantage of the hype and promoting unsafe malware that may look very similar to legitimate tools.
+  Google Gemini: A large language model (LLM) chatbot developed by Google AI.
+  Anthology CRM: An enterprise CRM platform with AI-powered features that can help businesses automate tasks, improve customer engagement, and make better decisions.
+[APPLIES]
+  Students must follow the AI policies established by their academic program, course, and instructor.
+====================
+FILE: raw/us-med-schools/atsu-kcom--policies-page.md
+FM title: ATSU Policies - KCOM
+FM source_url: https://www.atsu.edu/kirksville-college-of-osteopathic-medicine/about-kcom/policies
+[APPLIES]
+  The policies listed below ensure fair, consistent, and clear standards across the University. **University Student Handbook** View Handbook PDF
+====================
+FILE: raw/us-med-schools/cincinnati--ai-at-uc-guidelines.md
+FM title: AI at UC - Guidelines on AI Use
+FM source_url: https://ai.uc.edu/about/ai-guidelines
+[BAN]
+  Faculty members can provide clear guidance about how these tools may or may not fit into their learning objectives and evaluation criteria.
+  Use of Generative Artificial Intelligence Technologies Prohibited in NIH Peer Review Process .
+[PERM]
+  These principles guide its responsible use, acting as a compass for ethical and practical application.
+  General guidelines General guidelines to support the ethical, secure, and responsible use of AI technology at UC.
+  Understand academic integrity The responsible use of technology, including AI technology, should align with the UC Student Code of Conduct .
+  Research Investigators are encouraged to indicate in the project description the extent to which, if any, generative AI technology was used and how it was used to develop their proposal.
+[DATE]
+  Sign into UC-licensed tools with your UC credentials The university’s software licensing agreements offer privacy-protected access to approved AI and Generative AI tools for university-related academic and administrative use.
+  Neither controlled nor restricted data are approved for use in AI tools.
+  UC student directory data is not approved for use in AI tools.
+[ENF]
+  We champion academic integrity, discovery, and human-centered responsibility as AI evolves.
+  It is built on the pillars of academic integrity, intellectual curiosity, and human-centered responsibility.
+  Look for sections on assignments, academic integrity, and technology use, or reach out to your instructor if you're unsure.
+[APPLIES]
+  Responsible AI  AI Policies  Students Actions to take before using AI technology for academic purposes.
+  Check with faculty members Communicate with your instructors about the acceptability and appropriate use of AI and Generative AI tools in your coursework.
+====================
+FILE: raw/us-med-schools/cincinnati--ai-at-uc-policies.md
+FM title: AI at UC - Policies
+FM source_url: https://ai.uc.edu/about/ai-policies
+[BAN]
+  AI may not be used in a manner that creates a conflict of interest.
+  AI may not be used to engage in any form of harassment.
+[PERM]
+  Data Security Adherence to Information Security policies is an important component of secure and responsible use of AI technologies at UC.
+  Acceptable Use  Acceptable Use of Information Technology Policy This policy is intended to define and promote the responsible use of information technology at the university while simultaneously limiting and preventing abuse of IT resources.
+  The Acceptable Use policy is applicable to the use of AI.
+  Conduct and Ethics  Adherence to conduct related Board rules and policies is another important component of secure and responsible use of AI technologies at UC.
+[DATE]
+  Harassment is defined as conduct and/or expression that is not protected by the First Amendment to the United States Constitution or Article I of the Ohio Constitution because it is unwelcome; and so severe, pervasive, and objectively offensive that it effectively denies an individual equal access to the individual's education program or activity.
+[ASSESS]
+  Security Review  Security Review Information security risk assessments (Information Security Reviews) are necessary to identify and document information security risk that may exist related to new or existing university information systems or information technology (IT) solutions, including AI, and provide recommendations to mitigate the identified risk.
+[ENF]
+  Students  Student Code of Conduct (PDF) The Student Code of Conduct informs students of their rights and responsibilities, identifies procedures to address student behavior that is inconsistent with university policies, and sets forth potential sanctions, interventions, and measures designed to educate and safeguard the university community.
+  Faculty & Staff  Conduct and Discipline Board Rule  and  Employee Conduct  The UC Conduct and Discipline Board Rule and Employee Conduct policy are applicable to employees not covered by a collective bargaining agreement or for whom the agreement contains no provision regarding this subject.
+  An employee may receive disciplinary action, up to and including termination, for conduct and/or rules violations.
+[APPLIES]
+  In addition, federal and state laws require that the university must limit access to certain categories of data to protect the privacy of employees, students, subjects, affiliates and patients.
+  Students and employees who access UC digital infrastructure, data, or services are required to comply with these policies while utilizing AI at the university.
+  The Student Code of Conduct is applicable to the use of AI.
+  Export Control Regulations Administration and Compliance (PDF) All students, volunteers, and visitors engaged in research, development, production, or use of export-controlled items or technical data, international travel or shipments, international collaborations or proprietary work must comply with Export Control Regulations.
+  Export Control Regulations Administration and Compliance (PDF)  All faculty, staff, volunteers, and visitors engaged in research, development, production, or use of export-controlled items or technical data, international travel or shipments, international collaborations or proprietary work must comply with Export Control Regulations.
+====================
+FILE: raw/us-med-schools/cincinnati--ai-at-uc-students.md
+FM title: AI at UC - Students
+FM source_url: https://ai.uc.edu/students
+[TOOL]
+  Copilot Chat What will you achieve with an AI assistant?
+[APPLIES]
+  Students  UC provides artificial intelligence (AI) services and resources to augment student learning.
+  By using AI responsibly in their courses, students can develop the innovative skills needed to be leaders.
+  Students should also consult their syllabus for course-specific guidelines on the use of AI.
+  View our Guide For Students:  Should I Use AI?
+  Tools UC provides AI tools for students, faculty, and staff.
+====================
+FILE: raw/us-med-schools/cwru-som--curriculum-policies-and-procedures.md
+FM title: Policies and Procedures - Curriculum (CWRU SOM)
+FM source_url: https://case.edu/medicine/curriculum/curriculum-overview/policies-and-procedures
+====================
+FILE: raw/us-med-schools/drexel--it-genai-guidance.md
+FM title: IT Generative Artificial Intelligence (AI) Guidance
+FM source_url: https://drexel.edu/it/security/policies-regulations/ai-guidance/
+[PHI]
+  In addition to the potential for disclosure, it's also possible it might allow prompts and attached files to be processed in other countries, where compliance with U.S. law covering regulated data (e.g., academic records covered by FERPA or health records covered by HIPAA) may not be enforced.
+[BAN]
+  It is important for faculty and staff to be aware that any university sensitive data must not be shared with any of the consumer versions of these GenAI services that have not been reviewed and approved for use.
+[DATE]
+  To provide the benefits of generative AI while complying with university policy and data protection requirements, our usage of approved services is governed by agreements that protect intellectual property, maintain privacy, and comply with our legal obligations to safeguard personal data entrusted to the university.
+[ASSESS]
+  If you are interested in using a different service or require access to a service's application programming interface (API) to build new GenAI-based services such as chatbots, Drexel employees should contact Information Security for a risk assessment review.
+[TOOL]
+  Some well-known generative AI systems are ChatGPT and Google Gemini.
+====================
+FILE: raw/us-med-schools/duquesne--ai-at-duquesne.md
+FM title: Artificial Intelligence at Duquesne
+FM source_url: https://www.duq.edu/academics/office-of-the-provost/artificial-intelligence-ai-at-duquesne.php
+[PHI]
+  In all cases, faculty are responsible for ensuring their use of AI does not violate existing disclosure laws and policies for confidential information, including the Health Insurance Portability and Accountability Act (HIPAA), Family Educational Rights and Privacy Act (FERPA), Duquesne University’s TAPs and CTS’s Data Governance Service Requirements.
+[BAN]
+  Learn More  Data Governance Service Requirements  Restricted Data may not be used in conjunction with any generative AI tool that the University has not licensed and/or contracted for use.
+  Given the sensitivity and confidentiality of student assessment, faculty are not permitted to use AI programs in student assessment that have not been approved for use by the University.
+  Unprotected third-party AI software is prohibited from being used to read, respond or track emails on a Duquesne email account.
+  Existing course policies may not sufficiently address each area where AI intersects with coursework.
+  Using generative artificial intelligence tools in classwork is prohibited and will be treated as a violation of academic integrity.”  Prompt for Citing AI Use  If faculty allow the use of AI in their course, it is strongly suggested they adopt a course policy requiring students to cite all uses of AI in coursework.
+  Ensure Accuracy of AI-Generated Content  AI tools frequently gather information from other sources that may not be factual or accurate.
+[PERM]
+  Faculty, staff and students are encouraged to share feedback, questions and comments on the guidance below with the Provost's Office by emailing provostFREEDUQUESNE .
+  Before considering how to integrate AI into their courses, faculty are encouraged to explore the various AI tools and their capabilities.
+  Faculty and academic leadership are encouraged to discuss these developments in faculty and leadership meetings to increase awareness and promote discussion on AI.
+  Faculty are also encouraged to consider attending professional development opportunities on AI.
+  Determining Acceptable Use in Your Courses  Faculty are strongly recommended to develop an AI policy that stipulates acceptable uses of AI within the context of their course, both for themselves and their students .
+  Additionally, departments are encouraged to discuss implementing the same (or similar) AI policies across multiple sections of the same course.
+  AI course policies should stipulate which types of tools are allowed in the course and in what capacity.
+  For example, a course might allow editing and proofreading tools such as Grammarly but disallow ChatGPT and other text-generating tools.
+  Outline unacceptable uses of AI : This includes outlining how to cite AI use properly in the course and providing clear examples of policy violations.
+  Faculty may use Duquesne-approved AI programs such as Microsoft Copilot to assist in email correspondence.
+  Syllabus Statements  Faculty are strongly encouraged to include an AI statement on their course syllabi.
+  Faculty are encouraged to use or modify the language in these examples to meet their course's needs.
+[DATE]
+  However, AI is not without limitations, and institutions across the globe are grappling with how to integrate these tools ethically, safely, and effectively.
+  This page will be updated regularly to incorporate campus feedback and respond to new advancements in AI.
+  While many AI tools are available, it is essential that faculty use Duquesne-approved tools when interacting with confidential or restricted data.
+  Unlike other AI software, Duquesne-approved AI tools such as Microsoft Copilot have security protections for University data and intellectual property.
+  For a list of AI tools approved for use by Duquesne, visit the Office of Computing and Technology's AI Guide .
+  Given that faculty have access to sensitive or confidential student information, it is imperative that any AI tool used to aid in email correspondence has protections for institutional data and has been approved for use by the University.
+  These statements were drafted by the AI Committee and updated by the Provost’s Office.
+  With the rise of generative artificial intelligence, the Writing Center has taken several steps to ensure it continues to be an effective resource.
+  It also contains a broad overview of Microsoft Copilot, a Duquesne-approved AI tool.
+  It is a valuable resource for learning how to use their AI tool effectively.
+[DISC]
+  Communicate plan for using AI : If faculty intend to use AI to assist in developing course material or as a tool in course assignments or email correspondence, they should disclose this to students in their AI syllabus statement and go over the statement at the beginning of the course.
+  There may be instances where detection tools incorrectly attribute work to AI or fail to detect AI-generated work.
+  If AI is used to support student assessment in any capacity, faculty are strongly recommended to disclose its use to students verbally and include a statement in the course syllabus.
+  Engage in transparent conversation with students : At the beginning of your course, have a transparent discussion with students about your stance on AI, your level of experience with AI tools, and your AI syllabus statement.
+  Citing AI use promotes transparency between faculty and students and ensures your work is properly attributed.
+[ASSESS]
+  Student Assessment  AI tools should not be used as the only means of assessing students.
+  If AI is used in student assessment, faculty remain fully responsible for holistically evaluating student performance.
+  Before using AI to assist in student assessment, faculty should consult with their department chair and abide by any existing school/department/program AI regulations and policies.
+  AI in Pedagogy, Course Design :  Approaches to Assessment in the Age of AI : King’s College London created a guidance page for adapting student assessment to account for the presence of generative AI.
+[TOOL]
+  More in This Section  Artificial Intelligence at Duquesne  Since the release of generative artificial intelligence (AI) tools such as ChatGPT in 2022, the use of AI has grown considerably, and its impact is being compared to some of the most significant technological advancements of our time.
+  Microsoft Copilot Training : Microsoft’s official  Copilot website compiles training, videos, and other resources.
+  You can access Copilot by  logging in with your Duquesne MultiPass credentials.
+  Will ChatGPT  Change the Way You Teach?
+[ENF]
+  Learn More  Academic Integrity  All members of the Duquesne University community – including faculty, students, administration, and staff – are responsible for upholding academic integrity and maintaining a culture in which academic integrity can flourish.
+  Evaluate how AI is used in your discipline : If students in a specific discipline are expected to use AI in their future careers, faculty should consider integrating AI into the course in ways that help students become proficient in these tools.
+  Failure to do so will be treated as a violation of academic integrity.
+  AI Initiatives and Resources  Schools, departments, centers and institutes across campus have also created workshops, symposia and informational resources related to how AI intersects with their respective disciplines.
+  Speakers will represent a broad range of disciplines from across the higher education sector.
+[APPLIES]
+  Over the past academic year, the Office of the Provost worked with Duquesne's faculty-based Artificial Intelligence Committee and other campus groups to develop the framework for the University’s response to artificial intelligence .
+  This page highlights those efforts and offers guidance for faculty and students on various topics related to AI's applications in teaching and learning.
+  Duquesne's AI-Related Policies  Below are several existing AI-related policies that faculty and students should consider before using AI tools.
+  Learn More  Guidance for Faculty  The Provost's Office, in collaboration with the faculty-based Artificial Intelligence Committee, created preliminary AI guidance for faculty on various topics related to their teaching duties.
+  Duquesne’s faculty are recommended to follow the guidelines below.
+  Faculty should ensure their AI use is in accordance with any specialized AI policies from their school or department.
+  Faculty Guidance  Click each tab for detailed, task-specific guidance.
+  Professional Development  Given the rapid advancement of AI, Duquesne’s faculty likely have varying levels of exposure and proficiency in AI.
+  Additionally, faculty should consider tracking the latest news and updates on AI and evaluating how these tools are used in their respective fields.
+  When developing an AI course policy, faculty should consider the following:  Ensure consistency with school/department policies : Some schools/departments have created specialized AI policies.
+  Faculty should confer with their department and abide by their respective school’s policy approval guidelines before implementing a specialized AI policy.
+  Consider how AI interacts with your course's learning objectives : Faculty and student AI use should align with the course’s stated learning objectives.
+====================
+FILE: raw/us-med-schools/hofstra--ai-at-hofstra-overview.md
+FM title: AI at Hofstra University
+FM source_url: https://www.hofstra.edu/about/ai/
+[BAN]
+  Faculty should establish and communicate guidelines for use (or prohibition) in their classes.
+  If the use of AI tools is prohibited in your course, please follow the syllabus guidelines linked here .
+[PERM]
+  Some use cases:  Disability Studies  ChatGPT can create sufficiently detailed personas or character sketches (including appearance, occupation, and backstory) of individuals, allowing students to better understand the challenges and barriers that affect people with disabilities.
+  Axinn Library promotes the discovery, evaluation, and responsible use of information through workshops, events, consultations, Library Guides, and its Information Literacy course.
+  Each faculty member is encouraged to consider if/how these technologies can support their teaching and their students’ learning.
+  If the use of AI tools is permitted with acknowledgement, please follow the syllabus guidelines linked here .
+  If the use of AI tools is allowed only with permission and acknowledgement, please follow the syllabus guidelines linked here .
+  Faculty are encouraged to explore Generative AI Resources and Hofstra’s Honor Code .
+  Students are encouraged to explore Hofstra’s Honor Code .
+  Show More Questions  x  Use of Hofstra ChatGPT Edu is subject to all applicable University policies, including but not limited to the Computer Networks Acceptable Use Guidelines and the Confidentiality Agreement and Security Policy .
+[DATE]
+  To support this vision, Hofstra has adopted a thoughtful and principled AI policy to ensure its ethical and effective integration across curriculum, research, and academic life.
+  Explore AI Use Guidelines [Hofstra Login Required]  Library Services  Information literacy is critical to understanding how to use Generative AI tools safely, ethically, and effectively.
+  Employers across all business sectors have a growing expectation that new employees be proficient in artificial intelligence tools such as ChatGPT and understand how to use them creatively, effectively, and ethically.
+  ChatGPT Edu can be an effective tool to support brainstorming, drafting, and exploring ideas.
+  All outputs from Hofstra ChatGPT Edu should be reviewed by the user, and revised, if appropriate, before use or distribution.
+[DISC]
+  Email CELTA  Quick Tips and Standards  Some helpful tips on using AI at Hofstra, including the main policies you should know:  Resources for Using GenAI in Teaching and Learning  How to cite AI  Smart AI Use  AI challenges us with new ethical and legal questions.
+  In general, you should disclose when you have used ChatGPT Edu.
+[ASSESS]
+  Momentum That Matters  Hofstra 100, the strategic plan that charts the University’s path to its centennial in 2035, underscores the transformative role of technology, especially AI, as key to achieving organizational agility, student success, interdisciplinary innovation, and community impact.
+  At the 2023 Presidential Symposium, we explored the rapid integration of artificial intelligence into daily life, highlighting its impact on everything from household conveniences to national challenges, and examined how higher education is adapting in response.
+  Center for Excellence in Learning, Teaching, and Assessment Contact the Center for Excellence in Learning, Teaching, and Assessment for guidance on integrating AI into classroom teaching, student learning, and curriculum design.
+[TOOL]
+  SHAPING MINDS FOR SUCCESS  AI  AT HOFSTRA  ChatGPT Edu Accounts Available October 1, 2025  Learn More  We want every member of the Hofstra community to be ready for the future.
+  Hofstra is the first institution on Long Island to launch ChatGPT Edu campus-wide.
+  Watch Session Replays  GIVING IT A TEST RUN  ChatGPT Edu Pilot Program  In the 2024 academic year, Hofstra launched a pilot program for select faculty and staff to request a ChatGPT Edu license, supporting uses from instruction to research to operational tasks.
+  Counseling and Mental Health Professions  Developed practice simulations that offered graduate counseling students the opportunity to engage in simulated counseling sessions using ChatGPT as a mock client.
+  Communication  Used ChatGPT Edu for implementation of a quick BINGO game for class review.
+  Population Health  Students compared symptom interpretation between ChatGPT Edu, Google Search, and a clinician.
+  Journalism  To inject life into a topic perceived as dull, a semester-long “game show” was created, with problem-solving competitions judged by ChatGPT Edu, with real-time feedback provided during class.
+  E-mail help@hofstra.edu Visit the ITS Service Portal Call 516-463-7777  EdTech  Explore upcoming workshops on ChatGPT Edu and other generative AI tools for teaching, learning, and research.
+  View event listings  Additional Assistance  Hofstra users are eligible to sign up for the OpenAI Academy and to join the Academy’s Higher Education community for access to training and explanatory videos, FAQs, help articles, and other ChatGPT Edu support materials.
+  Why Use Your Hofstra ChatGPT Edu Account?
+  Hofstra ChatGPT Edu is a secure, education-focused version of OpenAI’s ChatGPT that the University is offering to all students, faculty, and administrators.
+  OpenAI also does not use data entered into Hofstra ChatGPT Edu to train its models.
+[ENF]
+  We want every member of the Hofstra community to be ready for the future, and incorporating AI into teaching and learning will open the door to more classes and across disciplines.
+  How does the use of ChatGPT Edu work with Hofstra’s Academic Honor Code?
+  You must follow Hofstra’s Honor Code .
+  However, the University reserves the right to review the content of accounts when necessary to maintain system security, investigate suspected policy violations, or comply with the law.
+[APPLIES]
+  That’s why Hofstra has partnered with various technology leaders to launch initiatives that give all 10,000+ students and many faculty and administrators access to powerful AI tools and training.
+  “We’re always thinking, ‘How do we develop tech agility in our students?’ And the way that you build that agility is by exposing learners to all different types of technology.”  – Janet Lenaghan, Dean, Zarb School of Business  AI at Hofstra goes beyond ChatGPT Edu  AI is a part of many tools and platforms used every day at Hofstra.
+  Faculty and staff may request access to advanced models and features, including GPT-5 Pro, Deep Research, and Image Generation.
+  The Library supports students and faculty in their use of Generative AI tools.
+  Students should consult with faculty on the use of AI in each course.
+  What happens after a student graduates?
+  Faculty may set their own rules for AI use in courses.
+====================
+FILE: raw/us-med-schools/howard-university--ai-policy-100-022-full.md
+FM title: Artificial Intelligence Policy 100-022 (PDF)
+FM source_url: https://secretary.howard.edu/sites/secretary.howard.edu/files/2026-05/100-022%20Artificial%20Intelligence%20Policy.pdf
+[PHI]
+  Personally Identifiable Information (PII) – Personally Identifiable Information (PII) refers to information that can be used to distinguish or trace an individual's identity, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual.
+  Protected Health Information (PHI) – Protected Health Information is individually identifiable health information that is created, received, maintained, or transmitted by a HIPAA‑covered entity or its business associate, in any form or medium.
+  Confidential Information, Personally Identifiable Information (PII), University Data, or  other protected information shall not be entered into AI systems unless expressly  authorized in writing and subject to appropriate institutional review and approval.  5.
+  Confidential Information, Personally Identifiable Information (PII) that is sensitive  information, or other protected University Data shall not be entered into AI systems in  connection with research activities unless expressly authorized and subject to appropriate  institutional review and approval.  4.
+  Use of AI in work-related activities shall comply with all applicable University policies  governing data privacy, information security, and records management, including  requirements related to student education records (FERPA) and protected health  information (HIPAA).  4.
+[BAN]
+  University Data and Confidential Information shall not be used to train AI systems or  models.  6.
+  The University does not authorize third-party use of its data or intellectual property (IP)  for marketing, training, or model development purposes without prior review, approval,  and agreement by appropriate University authorities, including the use of anonymized or  aggregated data in exchange for AI services, regardless of cost or consideration.
+  Use of AI in instructional activities shall not undermine learning objectives, assessment  integrity, or the evaluation of student work, and shall remain subject to applicable  academic integrity standards.  5.
+  Confidential Information, PII, or student education records shall not be entered into AI  systems in connection with teaching and learning activities.  6.
+  Use of AI shall not compromise the security, ownership, or value of the University’s  intellectual property or University Data or violate applicable intellectual property,  copyright, or authorship policies.
+  Employees, students, contractors, and affiliates shall not enter into any agreement or  arrangement, whether formal or informal, with external entities involving the  development, use, digitization, licensing, or sharing of University Data or intellectual  property without prior legal review by the Office of the General Counsel and approval by  authorized University officials.  3.
+  University Data and intellectual property shall not be licensed, transferred, or made  available to external entities for AI-related purposes in exchange for digitization, access,  or other consideration without appropriate authorization and compensation and without  legal review by the Office of the General Counsel.     4  5.
+  Use of AI in external engagements and partnerships shall not compromise the security,  ownership, control, or value of the University’s intellectual property, Confidential  Information, and institutional interests.
+  Faculty, staff, student employees, and other University personnel shall not enter  Confidential Information or PII into AI systems in connection with work-related activities  unless expressly authorized and subject to appropriate institutional review and approval.  3.
+[PERM]
+  POLICY STATEMENT  It is the policy of Howard University (“the University”) to ensure the responsible use of artificial intelligence (AI) in support of the University’s academic, research, and operational activities.
+  Accordingly, this policy establishes a University-wide framework for the responsible use of AI that promotes ethical conduct, protects individual and institutional interests, upholds academic integrity, and ensures alignment with applicable laws and University policies, while maintaining accountability for individuals and units using AI.
+  Confidential Information – Confidential Information means any non-public or proprietary information of the University, where the unauthorized access, use, disclosure, or loss of which could result in a violation of University obligations or policies, or could reasonably cause harm to the university’s reputation, programs and services, safety, operations, finances, or community members.
+  For purposes of this Policy, PII constitutes sensitive information and shall be protected and handled in accordance with applicable University information and data protection policies, as defined in the Howard University Acceptable Use University Information Resources, Data, and Communication Services Policy 700-002.
+  Responsible Use of AI – Responsible Use of AI refers to the design, development, deployment, and use of AI systems in a manner that is ethical, transparent, lawful, and aligned with University policies, including appropriate safeguards to mitigate bias, protect privacy, and ensure human accountability.
+  POLICY PROCEDURES  The following procedures establish University-wide requirements governing the responsible use of artificial intelligence (AI) systems and tools.
+  Administration and Oversight  The Provost and Chief Academic Officer is the Responsible Officer for this policy and is authorized to oversee its implementation, interpretation, and enforcement.
+[DATE]
+  HOWARD UNIVERSITY POLICY  Policy Number: 100-022: Academics and Research Policy Title: HOWARD UNIVERSITY ARTIFICIAL INTELLIGENCE (AI)  POLICY Responsible Officer: Provost & Chief Academic Officer Responsible Office: Office of the Provost Effective Date: April 24, 2026  I.
+  This policy will be reviewed annually and updated as necessary by the Responsible Officer.
+  This policy shall be reviewed periodically and updated as necessary to reflect changes in applicable law, University priorities, and evolving artificial intelligence technologies.   2 B.
+  Any  new contract containing provisions for the use of University Data or IP must be reviewed  and approved by the Office of the General Counsel to ensure compliance with this policy.
+[DISC]
+  Use of AI shall be disclosed when required by the academic, research, administrative, or  operational context in which it is employed, in a manner appropriate to that context.  4.
+  Use of AI in research shall be documented and disclosed as required by applicable  funding agencies, publishers, or other binding external requirements.  5.
+  Use of AI in work-related activities shall be disclosed and documented when required by  applicable University policies, legal obligations, or requirements established by an  administrative unit overseeing the work.
+[ASSESS]
+  Student use of AI shall comply with course requirements, instructor requirements, and all  applicable University academic conduct policies, and in the absence of explicit course-  level guidance regarding AI use, students shall seek clarification from the instructor prior  to using AI tools for coursework or assessments.  4.
+  AI-related agreements shall be subject to appropriate institutional review prior to  execution to assess legal, financial, data security, privacy, and intellectual property risks.  4.
+[ENF]
+  Use of AI in teaching and learning activities shall be consistent with the University’s  commitment to academic integrity, honesty, and the pursuit of knowledge, as set forth in  the Code of Ethical Conduct and the Academic Code of Student Conduct.  2.
+  Failure to follow this policy may result in disciplinary action in accordance with applicable University policies and procedures.
+[APPLIES]
+  ENTITIES AFFECTED BY THIS POLICY  This policy applies to all members of the Howard University community, including faculty, staff, students, contractors, affiliates, and any other individuals or entities using artificial intelligence systems in connection with University activities.
+  Faculty shall establish and communicate, through course syllabi and other official course  materials, course requirements regarding the permissible and impermissible use of AI  tools, including whether and how AI may be used in coursework.  3.
+====================
+FILE: raw/us-med-schools/howard-university--ai-policy-100-022.md
+FM title: Artificial Intelligence (AI) Policy (100-022)
+FM source_url: https://secretary.howard.edu/resources/ai-policy
+[PERM]
+  This policy establishes a university-wide framework for the responsible use of AI that promotes ethical conduct, protects individual and institutional interests, upholds academic integrity, and ensures alignment with applicable laws and Howard University policies, while maintaining accountability for individuals and units using AI.
+[APPLIES]
+  This policy applies to all members of the Howard University community, including faculty, staff, students, contractors, affiliates, and any other individuals or entities using artificial intelligence systems in connection with university activities.
+====================
+FILE: raw/us-med-schools/howard-university--initial-genai-tools-guidelines.md
+FM title: Initial Howard University Guidelines for use of Generative AI Tools
+FM source_url: https://provost.howard.edu/initial-howard-university-guidelines-use-generative-ai-tools
+[DISC]
+  Fairness and transparency are key to hosting an innovative and safe learning environment.
+[ASSESS]
+  According to the Academic Code of Student Conduct , it is a cause for concern when students submit work for assessment as their own, which has been substantially created using artificial intelligence tools or other content-generating tools without obtaining permission from the instructor.
+[TOOL]
+  Tools such as ChatGPT, an AI writing tool, represent a concerted shift to our learning practices and definitions of integrity, and thus require informed engagement.
+[ENF]
+  The popularity of generative AI tools demands an expansive set of AI literacies to be developed across colleges, disciplines, departments, and programs.
+  Schools and colleges, as well as departments and faculty should develop their own policies regarding the use of AI tools in accordance with the research, writing, and citation expectations of the different disciplines housed within each school or college.
+  But there should be a clear and understood set of parameters and expectations for usage of such tools that clearly outline penalties for violation of such expectations regarding academic work within the classroom, department, college, and university.
+  The implications of Artificial Intelligence, and Generative AI tools on Academic Integrity at Howard University are broad and wide ranging.
+[APPLIES]
+  Below is information and recommendations for learning and engaging these tools within academic settings by faculty, students, and other University stakeholders.
+  Howard University prepares students to be leaders, and our faculty engage and prepare students to be the architects and builders of new technologies, not solely the users.
+  To that end, the University expects students and faculty to adhere to the highest standards of corresponding high ethical and moral standards of conduct.
+  The ethical implications of how AI models are developed and deployed must be areas faculty and students explore together.
+  Schools, Colleges, instructors, and students should all participate in creating policies and guided materials that emphasize the value of intellectual and rigorous processes for learning and provide ethical guidelines for using such technologies as resources rather than replacements for intellectual work.
+  Any instructor has the right to inquire about a student's authorship of AI-related work, while at the same time, selected students also have the liberty to defend themselves against such allegations.
+  These technologies are relatively new to the general public and should be subject to responsible exploration and experimentation by both instructors and students within the classroom environments.
+====================
+FILE: raw/us-med-schools/kcu--harnesses-ai-medical-education-blog.md
+FM title: KCU harnesses AI to transform medical education and patient care
+FM source_url: https://www.kansascity.edu/blog/students/kcu-harnesses-ai-to-transform-medical-education-and-patient-care
+[PERM]
+  (0) Comments  Allowed HTML: <b>,<i>  Submit Comment as Logout  Your comment has been submitted!
+[APPLIES]
+  KCU brings cutting-edge orthopedic training to the heartland  Kansas City University welcomed 30 top medical students from across the country for the fourth...
+  Williams  At RISE Elementary in Neosho, Missouri, young students got a taste of real science with a little...
+  Sign in  Post as  Save ID  Reply  Cancel  Stories by Category  Students  Alumni  Research  Service  Medical Education  Center for Population Health and Equity  Awards and Recognition  Faculty  Leadership  KCU in the News  News Releases
+====================
+FILE: raw/us-med-schools/kcu--medicine-reimagined-ai-blog.md
+FM title: Medicine, reimagined: KCU equips future physicians to lead in the age of AI
+FM source_url: https://www.kansascity.edu/blog/medical-education/medicine-reimagined-kcu-equips-future-physicians-to-lead-in-the-age-of-ai
+[PHI]
+  At the same time, case-based discussions and class debates encourage students to think critically about patient privacy, fairness in algorithms and how to balance speed with equity in clinical decision-making.
+[PERM]
+  At Kansas City University (KCU), future physicians aren’t just learning how to work with these technologies — they’re learning to lead their responsible use.
+  (0) Comments  Allowed HTML: <b>,<i>  Submit Comment as Logout  Your comment has been submitted!
+[DATE]
+  While completing labs, case studies and a capstone project, students learn to harness the power of AI: crafting effective prompts to guide AI tools, refining system outputs to improve results and applying concepts like computer vision and language generation in clinical scenarios.
+[ASSESS]
+  “Ethical, safe and equitable use of AI depends on informed clinicians,” said Joseph Williams, EdD, KCU director of COM assessment and analytics, who has designed much of the curriculum.
+  “If our students enter with POCUS proficiency, that’s one less skill they need to master — and it distinguishes them from other residents.”  Students complete coursework paired with personal scanning practice, building skills and earning certifications in a range of essential exams, including extended focused assessment with sonography in trauma (eFAST), lung and cardiac imaging.
+[APPLIES]
+  By thoughtfully integrating AI into the College of Osteopathic Medicine (COM) curriculum, the University is ensuring students gain not only the technical skills but also the ethical grounding to use these tools with confidence and care in everyday clinical settings.
+  “Our goal is to ensure students leave with not only technical fluency but a strong voice in how these tools are applied to serve all patients—not just the ones in the data.”  KCU-COM curriculum now includes comprehensive AI training beginning in year one.
+  Students explore the building blocks of artificial intelligence, machine learning and data analytics — and how each is used in public and clinical health.
+  A dedicated data analysis module helps students make sense of large sets of health data, spot patterns using predictive tools and better understand how AI draws its conclusions.
+  Students use Butterfly’s ScanLab™ app, which leverages AI to guide probe placement, label anatomy and grade scan quality in real time.
+  In doing so, KCU students are not only ready for what’s next, they’re helping define it.
+  Sign in  Post as  Save ID  Reply  Cancel  Stories by Category  Students  Alumni  Research  Service  Medical Education  Center for Population Health and Equity  Awards and Recognition  Faculty  Leadership  KCU in the News  News Releases
+====================
+FILE: raw/us-med-schools/kcu-library--introduction-to-ai.md
+FM title: Introduction to AI (LibGuide overview)
+FM source_url: https://library.kansascity.edu/IntroductionAI
+[PERM]
+  We currently have the following AI tools available through our databases:  Scopus AI : Scopus AI is a search tool powered by genAI that provides summaries of articles or sets of articles, produces concept maps, and allows you to sort search results by various categories, such as most influential.
+[ASSESS]
+  Next: Assessing Artificial Intelligence >>
+[APPLIES]
+  Each college has empowered instructors and advisors to set their own standards and communicate them to students.
+====================
+FILE: raw/us-med-schools/ku--responsible-ai.md
+FM title: Responsible AI - Artificial Intelligence
+FM source_url: https://ai.ku.edu/responsible-ai
+[PERM]
+  The University's approach to AI is grounded in principles that emphasize fairness and responsible use.
+  These policies apply based on the activity and data involved, rather than the specific technology used, and may address areas such as data privacy, security, research integrity, human subjects research, academic conduct, accessibility, records management, procurement, and acceptable use of university systems.
+  KUMC AI Steering Committee  Click to expand The KUMC AI Steering Committee provides strategic leadership and governance for the responsible use of artificial intelligence across academics, administration, and research at the University of Kansas Medical Center.
+[DATE]
+  Follow university policies, use approved tools, and safeguard sensitive data.
+[DISC]
+  Transparency : AI use should be open and understandable to those affected.
+[APPLIES]
+  The Taskforce’s work was informed by faculty and staff from across the university.
+====================
+FILE: raw/us-med-schools/kumc--ai-steering-committee.md
+FM title: AI Steering Committee - KUMC Artificial Intelligence Resource Center
+FM source_url: https://www.kumc.edu/artificial-intelligence-resource-center/ai-steering-committee.html
+[APPLIES]
+  The committee's main responsibility is to ensure that KU Medical Center becomes a national leader in developing AI technologies and educating students about their potential to transform various aspects of our lives while emphasizing and supporting their use responsibly and ethically.
+====================
+FILE: raw/us-med-schools/lecom--college-of-medicine-catalog-2025-2026.md
+FM title: LECOM College of Medicine Academic Catalog and Student Handbook 2025-2026
+FM source_url: https://lecom.edu/content/uploads/2025/11/College-of-Medicine-Catalog-2025-2026.pdf
+[PHI]
+  Topics include the overview of the U.S. legal system; relevant legal concepts; physician licensure; pertinent federal law including the Health Insurance Portability and Accountability Act (HIPAA), the Affordable Care Act (ACA), the Emergency Medical Treatment and   LECOM College of Medicine Academic Catalog and Student Handbook 36  2.
+  Special attention is made to HIPAA and the duty of confidentiality.
+  This  is critical for protecting patient rights and ensuring ethical practice.  • Confidentiality and Privacy: Ethical training teaches future physicians how to handle sensitive  patient information in a responsible manner.
+  Identifiable information about victims of the crimes of domestic violence, dating violence, sexual assault, and stalking shall not be available in any publicly available record-keeping, including the reporting and disclosure of crime statistics.
+  This act protects the privacy of a student’s information in distance education by requiring, with certain limited exceptions, that the student’s consent must be obtained before disclosing any personal identifiable information in the students’ education record.  6.4.
+  DISCLOSURE OF DIRECTORY INFORMATION LECOM may disclose personally identifiable information from the educational record of a student who is attending the institution if that information is considered directory information.
+  Any violation of HIPAA, including placing HIPAA protected information on personal electronic  devices or transmitting such information to home e-mail addresses;
+[BAN]
+  Title IX Prohibition of Discrimination on the Basis of Sex ..............................................125  6.8.
+  Discrimination Prohibited .......................................................................................148  8.4.
+  STATEMENT OF NONDISCRIMINATION LECOM prohibits and does not engage in discrimination on the basis of race/ethnicity, color, religion, gender or sex to include sexual orientation, gender identification, and gender expression, pregnancy, national origin, ancestry, ethnicity citizenship, age, genetic characteristics, disability, or any other characteristic protected by applicable law.
+  Transfer from an allopathic school is prohibited after the second year.
+  The President shall notify the student and the  Dean/Associate Dean of Academic Affairs of the decision in writing.   • The Dean/Associate Dean of Academic Affairs shall notify the registrar within a reasonable  amount of time (usually five (5) working days) in writing of the final decision.
+  A student on probation may not serve as an officer of an official LECOM club or organization or  receive any LECOM scholarship funding and shall not engage in time-consuming extracurricular  activities.
+  Repeating successive, or multiple  years will not be permitted.
+  Repeating students will not be permitted to change campus location.  2.4.6.
+  A student may not take the COMLEX-USA Level 1 and COMLEX-USA Level 2-CE,  and examinations more than three times each.
+  If a student is notified by the Preclinical or Clinical Education Office that they are not  permitted to sit for COMLEX-USA Level 1, the student must not sit for the exam.
+  The student will not be permitted to return to rotations until a passing score is obtained.
+  All other materials are prohibited unless explicitly and specifically designated by the course director.
+[PERM]
+  The establishment of a medical college in Erie had the intended effect of allowing the hospital to train needed new doctors and to accommodate the open positions at MCH and at other hospitals throughout the region.
+  These Programs allow qualified students to complete the Doctor of Osteopathic Medicine Degree in just three years.
+  Residents of Corry, Pennsylvania now have access to expanded healthcare options allowing them to receive high-quality care in their own region.
+  Additional information regarding the institution can be obtained by contacting: Commission for Independent Education 325 West Gains Street, Suite 1414 Tallahassee, FL 32399 (888) 224-6684  National Council for State Authorization Reciprocity Agreements (SARA) LECOM participates in the SARA as a voluntary, regional approach to state oversight of postsecondary distance education.
+  As a SARA-approved institution, LECOM is authorized to offer online courses in each state that is part of the agreement without having to get approval from each state individually.
+  The college encourages its students to participate in research and life-long learning to further advance his or her chosen profession.
+  Applicants are encouraged to complete their applications as early as possible to receive early consideration for an interview.
+  International students are encouraged to investigate limitations on obtaining medical residency  before moving forward in the application process.
+  A student is only permitted one change of pathway or transfer request.
+  Repeating students will not be allowed to change campus location.  2.3.2.
+  The primary aim of this component of the course is to identify the elements of a complete history and develop interviewing skills, which allow the physician to precisely identify pertinent history which will later direct the physical examination.
+  Performing concise physical examinations in concert with taking accurate histories provides a solid foundation, which allows the physician to build an appropriate differential diagnosis based on the patients' complaints.
+[DATE]
+  With its holistic focus on creating an effective learning environment, the  LECOM College of Medicine Academic Catalog and Student Handbook 1  1.
+  LECOM would be the first of its kind to introduce an effectively innovative approach to medical education, Problem-Based Learning (PBL).
+  The Commonwealth of Pennsylvania approved the LECOM School of Pharmacy in May of 2001 with its unique three-year, accelerated curriculum.
+  Seeking to quickly and effectively fill the need for more physicians, LECOM added two accelerated programs in the medical college: the Primary Care Scholars Pathway (in 2007), and the Accelerated Physicians Assistant Pathway (in 2011).
+  This Program fills the need for healthcare workers and administrators who are better prepared to recognize and effectively handle the ethical complexities and dilemmas woven into modern medical practice.
+  On July 15, 2019, the New York State Board of Regents approved the LECOM request to operate its Doctor of Osteopathic Medicine Program in Elmira, New York.
+  The College adopted an honor code, a dress code for classroom and clinic, and professional policies that inculcate respect for the faculty, colleagues, and classmates.
+  The date of effectiveness and interpretation of these rules, regulations, and policies are at the sole discretion of LECOM.
+  Graduates will be able to articulate and apply fundamental biostatistical and epidemiologic  concepts, clinical decision-making skills, and evidence-based medicine principles and  practices to provide effective patient-centered osteopathic medical care.   7.
+  Graduates will be able to demonstrate the knowledge, behaviors, and attitudes that facilitate  accurate and efficient information gathering, empathetic rapport building, and effective  information giving in interactions with the patient, the patient’s family members and  caregivers, physician colleagues, and other members of the interprofessional collaborative  team.  2.1.1.
+  However, each application will be assessed individually with courses completed under accreditation standards for Physician Assistant Programs being considered and approved as substitutions as appropriate.  2.2.2.
+  Academic Program - College of Osteopathic Medicine    Disability Insurance (Mandatory) Variable - Age Dependent $562   Health Insurance (Mandatory Unless Approved for Waiver) $4,452  2.2.9.
+[DISC]
+  Record of Requests for Disclosure ..........................................................................136  7.6.5.
+  Disclosure of Directory Information .......................................................................136  7.6.6.
+  The College has solidified its venerable place in medical education through a multiplicity of attributes; one of its most noteworthy offerings focuses upon its student-centered Learning Pathways.
+  The visionary leaders of medicine who founded LECOM sought to develop the core attributes that define a healthcare professional: the credo of the calling; the intrinsic purpose of the healer; and the foundation of that which carries a physician to seek the best version of themselves - for each defines the future of medicine.
+  NOTE: Students without U.S. citizenship or permanent residency status must understand and  acknowledge that LECOM cannot guarantee placement in a residency upon graduation.
+  Students are required to sign a contract acknowledging their commitment and that they will be assessed a financial penalty if they leave primary care practice prior to the time frame specified in the contract.
+  The PBL cases are based on actual patients and facilitators use a Progressive Disclosure Model.
+  The appropriate information is progressively disclosed by the facilitator in response to student requests.
+  Candidates must be able to demonstrate intellectual-conceptual, integrative, and quantitative abilities; possess skills in observation, communication, and motor functions; and display mature behavioral and social attributes.
+  An accepted candidate will be required to sign a statement acknowledging acceptance and understanding of the Health and Technical Standards.
+  A candidate must acknowledge felony offense(s) or misdemeanor offense(s)  occurring prior to matriculation and/or while enrolled at LECOM.
+  Such disclosure is required of  all charges and convictions, including expunged.
+[ASSESS]
+  National Board of Osteopathic Medical Examiners, Inc.
+  Examination  (NBOME) ..................................................................................................................77  2.4.7.1.
+  COMLEX-USA Examination Results ................................................................... 82  2.4.8.
+  Grading and Credit Hours .........................................................................................90  2.4.16.
+  Timing of and Attendance at Examinations ..............................................................91  2.4.17.
+  Examination Decorum ...............................................................................................92  2.4.17.1.
+  Interruptions During an Examination .................................................................... 92  2.4.18.
+  Counseling after Failed Examinations.......................................................................93  2.4.19.
+  LECOM Accommodations for Testing and Licensing Examinations .....................147  8.3.3.
+  The Academic Catalog and Student Handbook includes essential information regarding academic standards, grading policies, class attendance, tuition and fees, refund policies, student promotion, retention, graduation, academic freedom, students' rights and responsibilities, grievance and appeal procedures, and other relevant information about LECOM for the student body.
+  LECOM began the year 2024 with an upgraded and expanded School of Dental Medicine Simulation (SIM) Lab at the Bradenton, Florida campus.
+  LECOM medical students are eligible to sit for the Comprehensive Osteopathic Medical Licensing Examination (COMLEX) Level 1, Level 2-CE, and Level 2-PE (suspended indefinitely); and LECOM graduates are eligible to sit for the COMLEX Level 3 examination.
+[TOOL]
+  With the creation of this new Center, and with other third-decade plan initiatives, LECOM is increasing the reach and reputation of its medical and academic enterprise.
+[ENF]
+  STUDENT CONDUCT ............................................................................................ 160  Introduction: Code of Student Conduct and Discipline ...............................................................160  9.1.
+  Student Honor Code and Professional Conduct ...............................................................160  9.3.
+  Adjudication of Honor Code Violations ............................................................................169  9.7.1.
+  Examples of Honor Code Infractions ......................................................................170  9.7.3.
+  Examples of Non-Honor Code Infractions ..............................................................171  9.8.
+  Student Disciplinary Procedures ........................................................................................174  9.9.1.
+  A 23,000 square-foot facility supporting a full range of innovative care, the Center engages multidisciplinary specialists, bringing together cutting-edge medicine and compassionate care to treat the whole patient.
+  Applicants requesting to transfer into LECOM College of Osteopathic Medicine from other Colleges of Osteopathic Medicine or between separate campuses of LECOM, must be in good standing and have no adverse disciplinary action at an accredited osteopathic medical school or at an allopathic medical school accredited by the Liaison Committee on Medical Education (LCME).
+  Immigration and Custom  Enforcement (ICE) regulations governing retention and reporting information by the Student and  Exchange Visitor Information System (SEVIS).
+  Academic Program - College of Osteopathic Medicine   science disciplines of anatomy, biochemistry, microbiology, pathology, pharmacology, and physiology.
+  NAT 1003 – Basic Neuroscience – 5.5 Credit Hours The Basic Neuroscience System covers the basic structure, function, and dysfunction of the human nervous system, using a multidisciplinary team of basic science faculty to cover histology and embryology of the nervous system, neuroanatomy, physiology, and biochemistry.
+  Preclinical topics are considered from the viewpoints of the basic sciences disciplines of anatomy, biochemistry, microbiology, pathology, pharmacology, and physiology.
+[APPLIES]
+  Description and Purpose of Academic Catalog and Student Handbook ............................1  1.2.
+  Accreditation, Licensure and Student Complaints .............................................................12  1.8.1.
+  Student Complaints to State Licensing Agencies and Accreditors ...........................14  1.9.
+  International Students ................................................................................................24  2.2.8.
+  Preclinical Course Sequence and Credit Hours for Lecture  Discussion Pathway ............................................................................................... 29  LECOM College of Medicine Academic Catalog and Student Handbook xvi  2.3.2.2.
+  Dismissal ...................................................................................................................76  LECOM College of Medicine Academic Catalog and Student Handbook xvii  2.4.7.
+  Letter of Evaluation of the Academic Dean of the College Medical Student  Performance Evaluation ............................................................................................82  2.4.9.
+  Students Who Believe They Are Sensitive to Chemicals ...................................... 86  2.4.10.2.
+  The Pregnant Student............................................................................................. 87  2.4.10.3.
+  Student Rights and Responsibilities ..........................................................................96  3.
+  Student Financial Assistance and Payment of Tuition and Fees .......................................99  3.4.
+  Tuition Refund Policy for Students Who are Self-pay .......................................................99  3.4.1.
+====================
+FILE: raw/us-med-schools/loyola-stritch--student-handbook-2025-2026.pdf.md
+FM title: Stritch School of Medicine Student Handbook 2025-2026
+FM source_url: https://www.luc.edu/media/stritchschoolofmedicine/student-affairs/Student%20Handbook%202025-2026.pdf
+[PHI]
+  AMS Connect is a HIPAA compliant secure messaging platform that offers  21 mobile applications for Apple and Android devices and a web application for desktops.
+  HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT OF 1996  The Health Insurance Portability and Accountability Act of 1996 (HIPAA) is a federal law that provides for  33 the protection and privacy of personal health information.
+  Compliance with these rules and guidelines includes, but is not limited to,  maintaining confidentiality of paper and electronic health records and protected health information.
+  All students are required to complete HIPAA training.
+[BAN]
+  STRITCH SCHOOL OF MEDICINE   STUDENT HANDBOOK   2025-2026      *Updated 8/19/25*  UNIVERSITY NON-DISCRIMINATORY POLICY   Loyola adheres to all applicable federal and state civil rights laws and regulations prohibiting discrimination in private institutions of higher education.
+  This Nondiscrimination Policy prohibits discrimination in employment and in providing access to educational opportunities.
+  In congress with Loyola policy, the Stritch School of Medicine strictly prohibits harassment, discrimination, and mistreatment of any kind.
+  Bikes may not be brought into the any building on campus, including the student communities.
+  They should not be left out on the tables, floor, or windowsills.  • Bicycles, plants, exercise equipment, personal refrigerators, microwaves, and hot plates are  not allowed in the Communities.  • Police the bulletin board in your Community.
+  Dispose of outdated or inappropriate postings.  • Common study space cannot be claimed as one’s own.  • Students and student organizations are not allowed to store any items in the common student  areas.
+  Students and staff are expected to follow all parking rules and regulations and are prohibited from parking in the patient and visitor lots.
+  Hazing is expressly prohibited by the University and by Illinois law (720 ILCS 120).
+  The misuse of any potentially addictive, abusive, or illicit drugs is strictly forbidden, regardless of year of training, and is incompatible with safe clinical performance.
+  Finally, students must not use alcohol or other drugs when they are expected to be participating in patient care, patient settings or curricular related activities.
+  Students may not take parental absence on exam days unless circumstances are  incredibly extenuating.
+  POLICY FOR CHILDREN IN EDUCATIONAL SETTINGS  As a general rule, students may not bring children to classes, clerkships, small groups, or academic co-  curricular activities (such as lectures or conferences).
+[PERM]
+  Our faculty, trainees, students, and staff, are called to go beyond facts, experimentation, and treatment of disease to prepare people to lead extraordinary lives and treat the human spirit in an environment that encourages innovation, embraces diversity, respects life, and values human dignity.
+  We encourage you to explore all of the wonderful specialties and sub-specialties during your training and we will do all that we can to make sure you enter the residency of your choice upon graduation.
+  Additionally, the M4 Class Board includes an elected Alumni Relations Liaison position(s) that work directly with the Office of Advancement and Alumni Relations to encourage student attendance at alumni events.
+  Otherwise, refunds of premiums are allowed only upon entry into the armed forces.
+  Students are encouraged to maintain continuous coverage.
+  All fees are non-refundable; the student will retain the amenities, services, and privileges allowed through the Stritch service fees structure through the end of the semester.
+  Adjustments and refunds of tuition are authorized only after the Senior Associate Dean for Student Affairs has officially approved a withdrawal from the Medical School.
+  If a student is required to attend Stritch Medical School more than four years due to “allowable events” and not due to academic failure, the student may submit a petition to the Associate Dean of Student Affairs requesting to be exempted from paying additional tuition that would amount to more than ten (10) semesters of tuition charges.
+  Petitions for tuition exemption must be approved by the Associate Dean of Student Affairs and the SSOM Dean in order for the student’s medical school tuition to be considered “paid in full.”  “Allowable Events” are defined as follows:   1.
+  Guidance on responsible use of LUC emails can be found here.
+  PARKING  Prior to the start of each academic year, Stritch students are given the opportunity to purchase parking, which allows access to designated parking garages using your Loyola ID card.
+  Deck C assigned students are allowed to park in Deck B after 2 pm, M-F, and 24 hours on Saturdays and Sundays.
+[DATE]
+  Note: In the event of an approved leave of absence/withdrawal from the Stritch School of Medicine, unearned premiums will be refunded to the student, based on the date of withdrawal.
+  During an approved leave of absence, students may have the option of paying the premiums for Disability Insurance and Hospitalization Insurance directly to the vendor.
+  An approved educational leave of absence for standardized exam study or to complete an  approved outside program of study, relevant to their MD degree.  2.
+  An approved medical or personal leave of absence.
+  Failure to meet the terms of Satisfactory Academic Progress will result in suspension of a student’s aid eligibility until an appeal is approved or until the student returns to good standing without the use of federal aid.
+  If a student is approved for one of these statuses after aid has already been disbursed, their eligibility may be reduced, and a Return to Title IV review may be required.
+  The northern room offers students a multi-purpose area for dining, meetings, and other events approved by Student Affairs.
+  Off-campus COVID Testing  • Please review this Updated off-campus testing options near all three Loyola campuses.
+  Failure to disclose the unapproved use of AI is a violation of our professional standards.
+  When a student’s wellness is compromised so then is the safety and effectiveness of the medical care she or he provides.
+  The medical profession that the student is now joining has an obligation to ensure that its physicians, as well as all learners, are able to provide safe and effective care for others and to avoid unreasonably disrupting the normal education processes and orderly operation of Stritch.
+  If such a problem is identified, the student will be removed from clinical (or curricular) activities and an appropriate, confidential referral made to help her or him to address and effectively manage this illness.
+[DISC]
+  By enrolling at the Stritch School of Medicine, the student acknowledges that he or she is responsible for paying all tuition and fees associated with the coursework for the MD degree.
+  Students taking planned absences may be asked to sign an acknowledgment of the terms of  the absence.
+  POLICY FOR CLERKSHIP SCHEDULING  For M3 and M4 clerkship scheduling there are 3 categories under which a student may qualify for a  scheduling accommodation: 1) students who are parents as defined in this policy, 2) students serving in  the military, 3) students with declared disabilities currently under accommodation.
+[ASSESS]
+  The mission of ACE is to enhance the academic performance of all students in the Stritch School of Medicine by providing evidence-based advising and support for coursework, USMLE preparation, and clerkships through individual and group services.
+  The committee's focus is on providing formative feedback and program information to applicants during the preparation and application phases.
+  The Office of the Bursar maintains the right to assess a late payment fee of 1.5% to any past due balances on a student's account  Website: LUC.edu/bursar/billing  LOCUS>FINANCIAL ACCOUNT>VIEW E-BILL(S)  Payment Methods  For your convenience, Loyola University Chicago offers the following ways to pay your tuition:   1.
+  We believe diversity and inclusion are essential to fulfilling our mission of transformative education, innovative discovery, and service to others.
+  Our educated, experienced and professional staff will guide you through a complimentary health assessment and provide you with a plan to assist you in reaching your goals.
+  Competencies are assessed in all courses and are components of the evaluation process.
+  If a student needs to take a parental absence on an exam day for an emergency,  they must make every effort to notify OSA prior to the start of the exam.
+[ENF]
+  Therefore, any member of the Loyola community who acts to deny, deprive, or limit the educational or employment benefits or opportunities of any student, employee, guest, or visitor on the basis of their actual or perceived membership in the protected classes listed above is in violation of the Nondiscrimination Policy.
+  Permitting another to use one’s own LUHS ID is also a violation, and when used fraudulently may also constitute a violation of Loyola’s Community Standards.
+  Allowing someone to enter through a secure entrance such as a door or gate or propping open doors is a safety risk and may be a violation of Loyola’s Community Standards.
+  Our work is guided by our beliefs and commitment to:  • High-quality, interdisciplinary care that is evidence-based  • Diversity, equity, and inclusion in our organizational practices, policies, services, and programs.
+  If you don’t have access to a nurse line, please visit our urgent care referral  sites here.
+  Specialist Referrals  • If you are in need of a specialist (ex: gastroenterologist, ear nose & throat, orthopedic), please call  Dial-A-Nurse and we will be happy to help provide a referral.
+  The Community Standards provide a simple baseline for acceptable student conduct.
+  To file an incident referral regarding alleged misconduct by a Loyola student or to request conflict resolution  30 services, contact the Office of the Dean of Students (ODOS) or visit the website at LUC.edu/communitystandards.
+  LOYOLA’S COMPREHENSIVE POLICY AND PROCEDURES FOR ADDRESSING DISCRIMINATION, SEXUAL MISCONDUCT, AND RETALIATION   Loyola University of Chicago (“Loyola” or the “University”) is committed to providing an educational and employment environment where the full richness of our diverse community can be explored and celebrated.
+  To file a report or complaint of discrimination, sexual misconduct, or equity- based retaliation, contact the Office for Equity & Compliance (“OEC”) or visit the OEC website at LUC.edu/equity.
+  Loyola is committed to safeguarding the confidentiality of individuals who submit reports and encourages reporting of misconduct by providing whistleblower protections for good-faith reports.
+  Expectations for the Use of Artificial Intelligence (AI) Tools in Education and Training  A student’s presentation of academic work, in whole or part from any source (e.g., published literature, web resources, generative AI, third parties such as ghostwriters) as their own (whether paraphrased or copied in verbatim) is unacceptable and constitutes an academic integrity violation.
+[APPLIES]
+  Loyola does not discriminate against any employee, applicant for employment, student, or applicant for admission on the basis of race, color, religion, sex, age, sexual orientation, gender identity or expression, national or ethnic origin, ancestry, disability, marital status, parental status, military/veteran status, or any other characteristic protected by applicable law.
+  Stritch students enjoy opportunities to personalize their educational experience to meet their specific professional goals with a focus on research, public or global health and/or Bioethics.
+  Loyola's dual-degree programs – combining an MD with a Master of Public Health, MBA, PhD, or other degrees – provide students with multiple options.
+  We are proud of our students and graduates who strive for excellence, in the spirit of compassion, discernment, and service.
+  A MESSAGE FROM THE DEAN  Dear Stritch Students,  Welcome to Loyola University Chicago Stritch School of Medicine.
+  Thirty-five years ago, I was reading a copy of my Stritch student handbook.
+  Student participation is vital to our overall success at Stritch.
+  We have several opportunities for students to get involved with the admissions process and look forward to your participation.    4 Admissions Committee  Our Admissions Committee consists of four parallel committees: the Recruitment and Outreach Committee, Review Committee, Interview Committee, and Selection Committee.
+  The Committee on Admissions is led by the admissions staff and a group of faculty who make up the Executive Admissions Committee.
+  We involve students at every level and welcome first-year medical students who are interested in joining our Recruitment and Outreach Committee.
+  At every interview day, ROC engages with prospective students who are interested in medical school through virtual or in- person panels, sharing their academic and experiential activities while also providing advice about the process of application.
+  ROC also gives campus tours to prospective students at In-Person Interview days, Stritch Visits, Second Look and throughout the spring for candidates who schedule campus visits.
+====================
+FILE: raw/us-med-schools/meharry-sacs--artificial-intelligence-program.md
+FM title: Artificial Intelligence MS Program
+FM source_url: https://meharry.edu/program/artificial-intelligence/
+[BAN]
+  While some of the programming languages may not be covered in detail, examples include Java, Scala, Julia, MATLAB, JavaScript, TensorFlow, Go, Spark.
+[DATE]
+  They will develop the skills necessary to transform raw data into compelling visuals that communicate insights effectively and responsibly.
+[ENF]
+  Students are expected to have a working familiarity with the discipline of data science and analytics and general knowledge about the impacts of Big Data in businesses and corporations.
+  MSDS 520 Math and Statistical Foundations for Data Science  3 credit hours  Techniques for building and interpreting mathematical models of real-world phenomena in and across multiple disciplines, including linear algebra, discrete mathematics, probability, and calculus, with an emphasis on applications in data science and data engineering.
+  Students are expected to have a working familiarity with the discipline of data science and analytics and general knowledge about the impacts of big data in businesses and corporations.
+[APPLIES]
+  Degree Requirements  14 courses, 42 graduate credits  Students will gain a common background in artificial intelligence applications through thirteen core courses.
+  The degree culminates with a comprehensive real-life, industry-type capstone, oriented toward the student’s domain of interest.
+  All students should have a working knowledge of all aspects of Microsoft Office; and it goes without saying that they should be familiar with Internet access and usage.
+  Students will obtain hands on experience in implementing a range of commonly used statistical methods on numerous real-world datasets.
+  Students will explore learning theory, statistical learning theory, and algorithmic principles that form the basis for developing and analyzing machine learning models.
+  Students implement machine learning models with open-source software for data science.
+  Students will explore the fundamental concepts of HPC, including distributed and parallel computing, HPC architecture, and operating systems.
+  Additionally, students will gain insights into specialized topics such as System on Chip (SoC) design, neuromorphic computing, and CUDA programming.
+  Through hands-on projects and practical exercises, students will learn to harness the power of HPC for solving complex computational problems.
+  Students work with unstructured and semi-structured text from online sources, document collections, and databases.
+  Using methods of artificial intelligence and machine learning, students learn how to parse text into numeric vectors and to convert higher dimensional vectors into lower dimensional vectors for subsequent analysis and modeling.
+  Students will learn data visualization tools and technologies (including Matplotlib, Seaborn, Plotly) essential to analyze massive disparate amounts of information and make data-driven decisions.
+====================
+FILE: raw/us-med-schools/miami-miller--ai-in-medical-education-resources.md
+FM title: AI in Medical Education - Resources
+FM source_url: https://med.miami.edu/offices/ai-in-medical-education/resources
+[DATE]
+  The AI in Medical Education Resources page centralizes innovative guides, instructional frameworks, toolkits, and best practices designed to support ethical and effective integration of AI into medical teaching, learning, assessment, and scholarly work.
+[AAMC]
+  All Rights Reserved LCME fully accredited institution | Contact: Lcme@aamc.org  Individuals with disabilities who experience any technology-based barriers in accessing our website or accessing services through our website may contact our team at 305-284-3781 or via email at wei@miami.edu.
+[TOOL]
+  Prompt Creation Tools + Prompt Libraries and Frameworks + UM AI Tools + Selected Useful LLM Tools Beyond Gemini, Copilot, ChatGPT, and Claude + University of Miami Louis Calder Memorial Library Curated Guide to AI Journals and Books (Courtesy of Mr.
+====================
+FILE: raw/us-med-schools/miami-miller--ai-in-medical-education.md
+FM title: AI in Medical Education - Office of AI in Medical Education
+FM source_url: https://med.miami.edu/offices/ai-in-medical-education
+[PHI]
+  Data Stewardship: We strictly observe FERPA, HIPAA, and IRB requirements, prioritize institutionally approved and compliant AI tools, and incorporate privacy by design in all data practices.
+[PERM]
+  Collaboration and Leadership  Build partnerships across departments, institutions, and industry to advance the responsible use of AI in medicine and education.
+[DATE]
+  Human in and on the Loop: Subject matter experts are actively involved in evaluating the accuracy, effectiveness, and equity of AI models and tools to ensure responsible integration and continuous improvement.
+  Research and Evaluation  Conduct studies that assess the effectiveness, ethics, and impact of AI in medical education and clinical practice.
+[AAMC]
+  All Rights Reserved LCME fully accredited institution | Contact: Lcme@aamc.org  Individuals with disabilities who experience any technology-based barriers in accessing our website or accessing services through our website may contact our team at 305-284-3781 or via email at wei@miami.edu.
+[DISC]
+  Our efforts are grounded in the following core principles: Safety, Equity, & Accountability: We emphasize unbiased approaches to learning and assessment, require transparency in all AI tools and models, and maintain thorough documentation throughout the development process.
+  Academic Integrity & Professionalism: We ensure all activities comply with the Miller School’s AI policies, with clear expectations for disclosure and ethical conduct.
+[ASSESS]
+  Vision We are creating a precision medical education ecosystem where evidence, analytics, and AI-enabled tools personalize learning; where assessment is trustworthy and competency based; and where faculty, trainees, and staff are confident, ethical AI users; driving value for learners, and ultimately patients and communities.
+  Faculty Development and Support  Provide training and resources that empower faculty to adopt AI responsibly in teaching, assessment, and mentorship.
+[ENF]
+  Guiding Principles The Office of AI in Medical Education partners with multidisciplinary faculty to foster excellence in curriculum integration, precision education, research, and innovation within medical education.
+[APPLIES]
+  Core Goals The Office of AI in Medical Education drives four primary initiatives that strengthen the Miller School’s leadership in academic innovation: Contact Us Curriculum and Student Training  Embed AI competencies within the medical curriculum and offer specialized electives, such as Introduction to AI in Medicine & Public Health, to help students build hands-on expertise.
+  Office News ALL OFFICE NEWS  SEP 16TH, 2026 AI in Pulmonary Medicine: What Works Now and What Still Needs Proof A pulmonary medicine expert explains where AI is helping clinicians today and what responsible adoption requires.
+====================
+FILE: raw/us-med-schools/morehouse-sm--service-desk-ai-policies-guidelines.md
+FM title: Artificial Intelligence: Policies & Guidelines
+FM source_url: https://servicedesk.morehouse.edu/TDClient/174/ServiceDesk/KB/Article/5604/Artificial-Intelligence-Policies-Guidelines
+[APPLIES]
+  During the 2024–2025 academic year, Academic Affairs established an Academic Policy Working Group to develop generative AI guidance for both student learning and faculty instruction, with representation across the institution (including HR and IT).
+====================
+FILE: raw/us-med-schools/morehouse-sm--student-handbook-student-use-of-ai.md
+FM title: Morehouse School of Medicine - Student Use of Artificial Intelligence
+FM source_url: https://msm.smartcatalogiq.com/en/2026-2027/2026-2027-morehouse-school-of-medicine-student-handbook/policies-and-procedures/student-use-of-artificial-intelligence
+[BAN]
+  Tools that may not be used for these assignments include chat GPT, GPT-4, Copilot, Google Bard, and other similar tools.
+  It is noted that AI can generate undocumented information that may not be valid as well as omit important information and every student should develop and use data verification skills to avoid errors due to AI “hallucinations”.
+[PERM]
+  This also applies to assignments requiring online postings, comments, and other online assignments unless specifically permitted.
+  General use of AI The use of generative AI tools in study, learning, and assignments where this is permitted can be an important aspect of learning.
+[ASSESS]
+  Unless otherwise specified in the specific in-class/closed resource examination/assessment, use of generative AI content tools for examinations/assessments that are specifically not “open book/open resource” constitutes academic dishonesty and will be grounds for SAPP referral.
+[APPLIES]
+  Students inappropriately using such resources will be subject to dismissal.
+====================
+FILE: raw/us-med-schools/nova-kpcom--student-handbook-academic-standards-genai.md
+FM title: KPCOM Student Handbook 2025-2026 - Academic Standards (generative AI provision)
+FM source_url: https://www.nova.edu/publications/kpcom-student-handbook/32
+[BAN]
+  Knowingly giving or allowing one’s work to be copied, giving out exam questions or answers, or releasing or selling term papers is prohibited.
+[PERM]
+  Exams and tests are original work when no unauthorized aid is given, received, or used before or during the course of the examination, reexamination, and/or remediation.
+[DATE]
+  Students must acquire a style manual approved by their program and become familiar with accepted scholarly and editorial practice in their program.
+  Students’ work must comport with the adopted citation manual for their particular center.
+[DISC]
+  Work is not original when it has been copied or partially copied from any other source, including another student, unless such copying is acknowledged by the person submitting the work for the credit at the time the work is being submitted, or unless copying, sharing, or joint authorship is an express part of the assignment.
+  Standards of scholarship require that the writer give proper acknowledgment when the thoughts and words of another author are used.
+[ENF]
+  Violations of academic responsibility include, but are not limited to, the following: − plagiarism − any form of cheating − conspiracy to commit academic dishonesty − misrepresentation − bribery in an attempt to gain an academic advantage − forging or altering documents or credentials − knowingly furnishing false information to the institution Made with FlippingBook RkJQdWJsaXNoZXIy NDE4MDg=
+[APPLIES]
+  At all times, students are expected to comply with the university and/or program center’s recognized form and style manual and accepted citation practice and policy.
+  Deviating from center standards is considered plagiarism at NSU. • Tendering of information—All academic work must be the original work of the student.
+====================
+FILE: raw/us-med-schools/nova-su--libguide-ai-at-nsu.md
+FM title: AI at NSU - Generative Artificial Intelligence (GenAI) LibGuide
+FM source_url: https://libguides.nova.edu/GenAI/NSU
+[PERM]
+  Next to each research topic you will find a magnifying glass icon that will allow you to run a search to retrieve further documents related to that specific research topic.
+  Learn more  |  Access the Database IBISWorld Paragraph analysis – this is a feature that allows users to switch between the traditional list style format to a paragraph analysis format (narrative form).
+  This enhanced tool blends the power of generative AI with O’Reilly’s learning library to deliver: Concise, trustworthy answers grounded in expert content Cited sources and clickable references for deeper exploration Smart follow-up questions to encourage continued learning Unlike generic AI tools, O’Reilly Answers is purpose-built for education and research.
+[DATE]
+  Access the database ScienceDirect AI is an artificial intelligence solution designed to assist researchers in navigating through vast amounts of scientific literature efficiently and effectively.
+  Last Updated: Jun 17, 2026 8:16 AM URL:  Print Page Library Staff Login Report a problem.
+[ASSESS]
+  Features: Assess content relevance - The tool supports your ability to skim text by highlighting key points and arguments so you can assess its relevance.
+[TOOL]
+  Guides ChatGPT - This LibGuide is designed to answer some basic questions about ChatGPT and artificial intelligence and provide educators and students with an understanding of how this new technology will impact education going forward.
+  Subjects: Science & Mathematics Tags: AI AI in education AI tools Artificial Intelligence ChatGPT GenAi generative artificial intelligence language models large language models LLMs natural language processing Sign up for our newsletter to get library news and events delivered straight to your inbox.
+[APPLIES]
+  Learn More |  Access the Database  (available to NSU Law students & faculty) Oxford Academic Research Assistant The conversational AI Research Assistant will rapidly navigate books and articles, pulling out the most relevant information related to your prompt and delivering generated responses.
+  Faculty Resources for Artificial Intelligence (AI) Learning and Educational Center’s  Faculty Resources for Artificial Intelligence (AI)  webpage serves to familiarize, support, and guide faculty in AI matters that affect both their practice and the student experience.
+  AI Webinars Check out the first video in Shark Media's Generative AI Playlist , which features trainings on AI presented by NSU faculty.
+  Deli Writing Center Resources Faculty Resources Alumni Resources Databases by Subject Study Rooms Loan Periods New Materials Suggest a Purchase Get a Library Card Help Contact Us Make an Appointment Event Recordings LibraryLearn Videos Report an Issue Policies Library Map FAQ Contact Us Using Our Site Privacy Policy GDPR Privacy Notice ADA Policy
+====================
+FILE: raw/us-med-schools/nova-su-lec--responsible-use-of-genai-infographic.md
+FM title: Responsible Use of Generative AI (infographic)
+FM source_url: https://cms-www.nova.edu/learning-educational-center/documents/ai/responsible_use_gai_infographic_lec_2024.pdf
+[PERM]
+  RESPONSIBLE USE OF GENERATIVE AI WITH F.A.S.T.E.R.
+  EDUCATED  Learn about strengths, limitations,  and responsible use; learn how  to create effective prompts and  to identify potential weaknesses  in the outputs.
+[DISC]
+  TRANSPARENT  Identify content that has been  produced using GAI; notify  users that they are interacting  with an AI tool; document  decisions.
+====================
+FILE: raw/us-med-schools/ou-hsc--libguide-artificial-intelligence-and-genai.md
+FM title: Artificial Intelligence and Generative AI (LibGuide)
+FM source_url: https://libguides.ouhsc.edu/ai
+====================
+FILE: raw/us-med-schools/penn-state--ai-guidelines.md
+FM title: AI at Penn State - Guidelines
+FM source_url: https://ai.psu.edu/explore/guidelines
+[BAN]
+  Ownership and licensing of AI outputs vary depending on the platform and its terms of service, and in many cases you may not hold a copyright over AI-generated work at all.
+[DATE]
+  How to Request an Accessibility Review  To initiate a review, email accessibility@psu.edu and include:  The name of the AI tool  Intended use (for example, a course activity or office workflow)  Estimated number of users  If accessibility gaps are identified, an Enterprise‑wide Equally Effective Alternative Access Plan (EEAAP) will be required.
+  If yes, send an email to courseware@psu.edu identifying the courseware to be used along with the approvals from the department head and dean, or appropriate commonwealth campus leadership, confirming that the intended courseware use for grading student work is approved.
+  Email courseware@psu.edu with a copy of the completed Software Request Form , along with the approvals from the department head and dean, or appropriate commonwealth campus leadership, confirming that the intended courseware use to assist with grading student work is approved.
+  Using AI-Generated Images at Penn State  When creating images intended for distribution use Adobe Firefly, Penn State's approved image generation tool.
+[ASSESS]
+  Home  Explore AI  Guidelines  General Guidelines for AI Use at Penn State  On this Page  General Guidelines  Accessibility  AI-Assisted Grading  Copyright  AI-Generated Images  Penn State supports the responsible exploration and use of AI.
+  ChatGPT (free version) EEAAP template  Standard Copilot (free version) EEAAP template  M365 Copilot (paid version) EEAAP template  Use of AI Software to Assist with Grading Student Work  Instructors need to secure approval prior to using courseware .
+  Software being used to assist with grading is classified as courseware.
+  Before submitting a request for an AI-assisted grading software, approval is needed (email is sufficient) from both the department head and dean, or appropriate academic leadership at commonwealth campuses.
+====================
+FILE: raw/us-med-schools/penn-state-com--harrell-library-genai-guide.md
+FM title: Gen AI Overview and Resources - Harrell Health Sciences Library
+FM source_url: https://harrell.library.psu.edu/genai
+[PHI]
+  NOTE : PSU Copilot is not HIPAA compliant.
+  College of Medicine employees and students should consult with CoM IT for specific guidance and consider using the CoM instance of M365 if handling PHI information.
+[PERM]
+  As part of Penn State's AI literacy training, faculty, staff and students are encouraged to take the AI Essentials course and learn more about AI literacy at Penn State and beyond.
+[DATE]
+  This link opens in a new window  Using ChatGPT effectively This link opens in a new window  Creating Multimedia with AI Tools This link opens in a new window  This series adds to our AI Literacy resources offered via the Credo Information Literacy modules .
+  For the most recent titles see this dynamically updated list from the libraries catalog.
+  (Note: the catalog link requires PSU login credentials)  Last Updated:  Aug 28, 2026 11:27 AM  URL:     Print Page  Login to LibApps  Subjects: Artificial Intelligence
+[TOOL]
+  At present, Claude, Gemini and ChatGPT are available in the studio.
+  GenAI Training and Support  Penn State faculty and staff can request a consultation and get one-on-one support with using Copilot from AI Guides , Penn State students who have been trained in the use of generative AI.
+  Penn State University Libraries Generative AI guides and tutorials:  Our five-part Generative AI tutorial series offers a user-friendly exploration of generative AI technology like ChatGPT.
+  The technology behind ChatGPT This link opens in a new window  How does ChatGPT aim to prevent harmful use?
+[APPLIES]
+  AI Studio , a suite of AI assistant and agent tools from various platforms, is available to University faculty and staff.
+  Faculty Guide to AI This link opens in a new window (PSU access)  Using Gen AI Systems for Research This link opens in a new window (PSU access)  Teaching Resources: AI Literacy (PSU access)  University Libraries (UL) GenAI guide and PSU GenAI books  Some content in this guide was adapted or copied from Penn State University Libraries' GenAI guide.
+====================
+FILE: raw/us-med-schools/penn-state-com--md-student-handbook.md
+FM title: MD Student Handbook - Penn State College of Medicine
+FM source_url: https://med.psu.edu/education/academic-resources/md-student-handbook
+[PHI]
+  Students shall follow the privacy regulations set forth in the Health Insurance Portability and Accountability Act (HIPAA) at all times.
+  During their assessment and referral for placement, they ask about employment and education; therefore, Penn State medical students should be identifiable.
+[BAN]
+  Additionally, first or second-degree relatives, spouses and significant others may not serve as Program Representatives during the same admissions cycle.
+  If the potential conflict pertains to a member of the COI Committee, that member shall not participate in the discussions nor the resulting determination.
+  Disclosure of Inquiries made on behalf of an Applicant The admissions process shall not be unduly influenced.
+  Students who do not complete clearances by the date specified will not be permitted to participate in patient facing activities until all clearances have been completed.
+  Students are not permitted to request reimbursement exceeding the funds available in their general and gift fund accounts.
+  Insufficient funds can prohibit student organizations from receiving general funds during the next fiscal year.
+  Groups are not authorized to reserve these areas until their fundraiser has been approved by the Student Assembly.
+  Flyers may only be posted on bulletin boards and may not be taped on walls, in elevators, in restrooms, on fixtures, on doors, or existing signage.
+  Routine back-and-forth movement between campuses is not permitted.
+  Transfers must preserve the student's ability to meet College of Medicine competencies and must not compromise curricular comparability, assessment integrity, clinical learning experiences, or accreditation standards.
+  Students are not permitted to participate in courses remotely during an Extended Absence .
+  Research taken during the pathway may not be counted towards Phase III coursework requirements.
+[PERM]
+  The student is encouraged to review their status in all competencies with their PSCOM advisor prior to the meeting.
+  If the student cannot attend, the student will be allowed to submit information in writing to the committee at least 48 hours in advance.
+  Only information written by the student will be allowed.
+  If the student cannot attend, the student will be allowed to submit information in writing to the Appeals Committee at least 48 hours in advance.
+  Culture of Respect in Education - C.O.R.E. plus icon Penn State College of Medicine is committed to assuring a safe, encouraging, and supportive learning environment that reflects our commitments to professionalism and respect, and virtues such as honesty, integrity, compassion, and kindness.
+  This agreement allows you to accept your financial aid, enroll for classes, and pay your bill through the new student system.
+  The student will be notified by the Senior Director for Educational Affairs when attendance to courses is no longer allowed until the student’s payment obligation is met.
+  Please note, students who receive accommodations do not receive an advantage over others; rather, accommodations allow such students to not be at a disadvantage relative to other students because of conditions beyond their control.
+  Social events are allowable provided a staff or faculty person is in attendance and/or the event falls under student affairs or activity programming.
+  PayPal, Venmo, and other third-party payment services companies in the course of University-related activities are not allowable.
+  Kegs of beer are never permitted at events on University property.
+  Only 1 short term absence is allowed per phase (Phase I, Phase II, Phase III) and must be approved ahead of time by the Associate Dean for Student Affairs.
+[DATE]
+  Patient Care Provide patient-centered care that is compassionate, appropriate, and effective for the promotion of health and treatment of health problems Competency Domain 2.
+  Interpersonal and Communication Skills Demonstrate verbal and non-verbal communication skills that show respect for and result in effective exchange of information and collaboration with patients, their families, and health professionals.
+  Systems-Based Practice Demonstrate an awareness of and responsiveness to the larger context and system of health care and public health, as well as the ability to call effectively on other resources in the system to provide optimal health care .
+  In addition, Penn State College of Medicine is required to have an effective specialty career advising (SCA) system in place that integrates the efforts of faculty members and educational affairs leadership and staff to assist medical students in choosing elective courses, evaluating career options, and applying to residency programs.
+  APC Promotion and Graduation Review At the end of each Phase I, Phase II, and Phase III (MD Program) or the didactic year and clinical year (PA Program), a slate of students who have met competency requirements for promotion to the next portion of the curriculum or for graduation will be reviewed and approved by their respective APC.
+  Rental costs associated with approved on-campus events Promotional items for events, door prizes, and participation prizes that are distributed randomly.
+  Financial Transactions:  The use of cash and checks is the approved method for financial transactions.
+  Guidelines All fundraising activities planned by students must be approved by the Student Assembly-HPSA.
+  There will be no sales for personal benefit or to provide individuals or patients with materials, cash, or goods outside of approved Penn State Hershey Medical Center programs.
+  Use of Alcohol Alcoholic beverages may only be served at events involving students if approved prior to the event and must comply with the University’s general provisions for alcoholic beverages.
+  Requests submitted 30 days before the event will not be approved.
+  An approved transfer is generally considered a durable reassignment for the remainder of the MD program.
+[AAMC]
+  Note: The Penn State College of Medicine competencies/subcompetencies and milestones were informed by the ACGME Domains of Competence, Physician Competency Domains, ACGME Harmonized Milestones, AAMC Entrustable Professional Activities (EPAs), AAMC Core Competency for Entering Medical Students, and the Foundational Competencies for Undergraduate Medical Education.
+  Non-Disclosure Information about applicants and decisions rendered during the admission cycle will not be disclosed to non-Program Representatives, except where required (eg, AAMC) and should not be used or shared by Program Representatives in ways beyond those needed to perform their responsibilities.
+  In order to conform with the AAMC recommendations and existing hospital requirements, we have decided to require criminal background checks for our accepted students.
+  Also, the AAMC, Visiting Student Learning Opportunities (VSLO) policy states that away rotations must be for students in their senior year.
+  VSLO electives: Students are encouraged to consider locations that are affiliated with Visiting Student Learning Opportunities (VSLO) as they are vetted by AAMC and have clinical rotations for visiting students already established.
+[DISC]
+  All Program Representatives have an obligation to self-disclose and should err on the side of disclosure.
+  All Program Representatives shall review this policy annually to ensure all necessary disclosures are made and addressed prior to performing their role in the admissions cycle.
+  Potential Conflict of Interest In addition to the relationships that create assumed COIs, a Program Representative who is uncertain whether a particular situation or circumstance creates a real or perceived COI should make a disclosure to the COI Committee Chair for evaluation by the Program COI Committee.
+  Program Representatives must disclose any inquiries from individuals outside the College of Medicine made on behalf of an applicant, whether or not explicitly so stated, to the Chair of the COI Committee for evaluation by the Committee.
+  The student acknowledges that scholarship, financial aid, tuition support, campus-specific awards, rural pathway funding, donor-restricted awards, or other funding may be reviewed and may be continued, adjusted, discontinued, or deemed non-portable based on the terms and intent of the award.
+  Acknowledgment that transfer approval is not guaranteed and that financial aid or scholarship implications require separate review.
+  Students are not required to disclose to the program whether paid employment is taking place.
+  We wish to acknowledge and thank Pritzker School of Medicine for allowing us to adapt their model for Extended Study Options for use at Penn State College of Medicine.
+  Submitting AI-generated work as one’s own without disclosure will constitute an academic integrity violation and misconduct .
+  Submit logistics information (i.e. plan for housing and daily transportation, etc.) and site contact acknowledgment with the elective request.
+  International Independent Elective Request Form: Submit a completed Off-Site Elective Request Form with: Logistics Plan (housing, daily transportation, etc.), Course Director signature and contact information, and On-Site contact information and acknowledgment signature for Learner Expectations.
+  Disclosure may be necessary if there is reason to believe that the infected individual has declined or has failed to follow the provisions of this policy in regards to personal notification of appropriate personnel or fails to respond within a reasonable amount of time to a recommendation that he/she personally notify the person in charge of a particular clinic or department.
+[ASSESS]
+  Violations in Academic Integrity are investigated at the level of the course or clerkship with assistance of the Office of Evaluation and Assessment and may be referred to the APC.
+  These may be reported in multiple ways, including, but not limited to, a Penn State College of Medicine Concern Form , written assessment form, or directly to the Office of Student Affairs or the Office of Evaluation and Assessment.
+  Investigation: A suspected unprofessional behavior or academic integrity violation that occurs within a course/clerkship/required school activity will be investigated by the course/clerkship director or activity director, in coordination with the Office of Evaluation and Assessment.
+  Materials to the Appeals Committee: Upon receipt of the written appeal, the chair of the APC will refer the appeal to the Appeals Committee and will notify the Vice Dean for Educational Affairs, and the Associate Dean for Student Affairs, and the Associate Dean for Evaluation and Assessment.
+  Within seven (7) calendar days of the meeting, the Appeals Committee will transmit its final decision (by PSH email) to the student with a copy to the Vice Dean for Educational Affairs, the chair of the APC, the Associate Dean for Student Affairs, the Associate Dean for Medical Education, and the Associate Dean for Evaluation and Assessment.
+  It is anticipated that such inquiries may be managed by corrective action, including the setting of clear expectations with the inquirer that the assessment of the applicant will not be influenced in any way outside the admission process.
+  Copies of the form are given to the student, the Associate Dean of Student Affairs, and Associate Dean of Evaluation and Assessment, and the student’s Longitudinal Academic Counselor.
+  Collection agencies may assess collection fees up to 33.33% of your balance.
+  Assessment of litigation and court costs.
+  Any cost incurred by the Medical Center/College of Medicine as a result of the event will be assessed to the group.
+  The transfer can be implemented without compromising existing campus commitments, community partner relationships, clinical placement capacity, or LCME accreditation expectations related to educational comparability, supervision, assessment, and student support.
+  Required course, clerkship, longitudinal integrated clerkship, selective, elective, and assessment capacity.
+[TOOL]
+  This policy applies to the use of all generative AI tools, including but not limited to Chat GPT, Grammarly, Copilot, and other AI tools, including those provided by the university.
+[ENF]
+  Academic integrity includes a commitment not to engage in or tolerate acts of falsification, misrepresentation, or deception.
+  Such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.” Academic dishonesty (including, but not limited to cheating, plagiarism, or falsification of information) will not be tolerated and can result in academic or disciplinary sanctions such as a failing grade (F) in the course.
+  See the Academic Integrity Policy in the policy management tool .
+  Breaches in Professional Behaviors Breaches in student conduct and violations in academic integrity are considered breaches in professional behaviors for the purposes of the MD and PA medical education program.
+  The Penn State University has identified specific breaches that are investigated through the Student Conduct process .
+  The Academic Integrity Policy G-9 provides a list of examples of academic integrity violations (not an exhaustive list) that would be considered grounds for adverse actions and/or dismissal from the MD or PA program.
+  Responding to Misconduct/Unprofessional Behavaiors/Academic Integrity Violations Reporting: Any person may report a suspected unprofessional behavior/breach in student conduct, or violation of academic integrity by a student.
+  Any suspected unprofessional activity/breach in student conduct that occurs outside of a course/clerkship/required school activity will be initially evaluated by the Office of Student Affairs to determine whether the report requires further response.
+  The PSCOM Student Conduct designee will conduct an informational meeting with the student.
+  The PSCOM Student Conduct designee collects data regarding the breach.
+  Scope of the Appeals Committee: The Appeals Committee is charged with determining the following: If the adverse action was made in accordance with the policies of the PSCOM; and If the student was afforded due process; and If the adverse action was appropriate for the violation(s)/breach(es) It is not within the purview of the Appeals Committee to critique the academic judgment of the APC.
+  Students who do not take action on their tuition bills may experience several consequences of delinquent tuition payments that include but are not limited to: You will not receive grades for courses attended.
+[APPLIES]
+  Academic Resources MD Student Handbook Explore More Offices and Contacts MD Academic Calendar Competencies, Subcompetencies and Milestones Medical Student Competencies, Sub-competencies and Milestones plus icon Competency Domain 1.
+  View Medical Student Competencies/Subcompetencies and Milestones in the policy portal (ePass login required).
+  General Policies The following policies are relevant to MD students at Penn State College of Medicine.
+  The Office of Student Affairs provides oversight of and direction to both LAC and SCA systems, and outcomes such as related items on the Graduation Questionnaire or other instruments must be reported to CUMED on an annual basis.
+  (ePass login required) Academic Progress Committee plus icon Purpose The purview of the MD and PA Academic Progress Committees (APC) respectively are to approve the promotion of students in the doctor of medicine (MD) and physician assistant (PA) program as defined by the relevant competency domains of each of these Penn State College of Medicine (PSCOM) programs.
+  It is the job of each APC to make promotion determinations for all their respective students, and to develop and ensure accountability for individualized plans for those students with deficiencies in some aspect(s) of the MD or PA education program competencies.
+  Scope This policy applies to College of Medicine MD and PA faculty and students.
+  Definitions for MD and PA Program Academic Probation: An action reflecting academic concerns that have resulted in requirements needed to demonstrate a student is meeting course or program competencies.
+  Academic Probation is noted in the permanent academic record, including on the student’s transcript.
+  Students on Academic Probation are not in good academic standing.
+  Academic probation will be reported in the Medical Student Performance Evaluation (MSPE) (for MD students only).
+  Professionalism Probation: An action reflecting professional behavior concerns that have resulted in requirements needed to demonstrate a student is meeting course or program professionalism competencies.
+====================
+FILE: raw/us-med-schools/rosalind-franklin--library-ai-guide.md
+FM title: Artificial Intelligence Tools for Teaching - RFU LibGuide
+FM source_url: https://guides.rosalindfranklin.edu/ai
+[PERM]
+  Research Tools  Consensus This link opens in a new window  Consensus is a search engine that allows you to find answers from scientific research.
+  Elicit.org This link opens in a new window  Elicit.org allows you to enter a research question and it will return relevant scholarly literature.
+  It is a chat that allows you to ask questions of the text.
+[TOOL]
+  Citation Manager Integration?*  ChatGPT Plugin?
+====================
+FILE: raw/us-med-schools/rosalind-franklin-cms--policies.md
+FM title: CMS Policies - Chicago Medical School
+FM source_url: https://www.rosalindfranklin.edu/academics/chicago-medical-school/policies
+====================
+FILE: raw/us-med-schools/rush--cte-faculty-guide-to-ai.md
+FM title: Your Classroom Faculty Guide to AI
+FM source_url: https://www.rushu.rush.edu/education-training/academic-affairs/center-teaching-excellence-innovation/your-classroom-faculty-guide-ai
+[PERM]
+  Educators should design AI-enabled activities that encourage student engagement, critical thinking, and creativity.
+  You may want to allow it only for certain purposes or require specific disclosures or citations.
+  Encourage your students to use non-AI sources to verify accuracy and to cite those non-AI sources instead of the AI-generated content.
+  Set clear policies on AI use: Establish clear policies on whether AI tool use is permitted for assignments Emphasize unique human skills: Highlight critical thinking, creativity, and problem-solving skills like critical thinking that AI cannot easily replicate.
+  Acknowledge the challenge: Encourage students to embrace challenges and view mistakes as opportunities to grow.
+  Furthermore, AI can streamline time-consuming administrative tasks, allowing faculty members to focus more on teaching and research.
+[DATE]
+  Furthermore, ongoing professional development is crucial for educators to effectively implement AI in the classroom.
+  By adhering to these best practices, educators can leverage AI technologies to create engaging and effective learning experiences that prepare students for the AI-driven world while maintaining the central role of human interaction and guidance in the learning process.
+  To fully embrace AI, faculty members need to stay updated on the latest advancements in AI technologies and their applications in education.
+  Institutions can offer professional development programs and workshops to empower faculty with the necessary skills to incorporate AI tools effectively.
+[DISC]
+  Six Best Practices for Approaching AI in the Classroom  Image  Usage and Citation Guidelines How to Guide Students on Using and Citing AI Sources Using AI sources can be helpful for students to brainstorm, edit, translate, or generate ideas for their academic work.
+  Here are some tips and guidelines for using and citing AI sources in your students’ academic work: Set clear expectations for your students on whether and how they can use AI sources in your assignments.
+  These tools do not disclose the origin of the information they provide and sometimes completely make up information or fake source citations.
+  Require your students to declare their use of AI sources with an AI Use Disclosure (or other statement as you direct, such as appendix) that describes which tool they used and how they used it.
+  Ask your students to include an AI Use Disclosure even if they only used AI tools for brainstorming or other preparation for an assignment.
+  How to Cite AI Sources in APA Format APA format uses an author-date citation system for in-text citations.
+  For more information and examples on how to cite AI sources in APA format, see these resources: How to cite ChatGPT | APA Blog How to Cite ChatGPT and AI in APA Format | Grammarly Blog ChatGPT Citations | Formats & Examples - Scribbr How to Cite AI Sources in MLA Format MLA format uses a template of core elements to cite sources.
+  The core elements are: Author Title of source Title of container Other contributors Version Number Publisher Publication date Location To cite AI sources in MLA format, you should follow these guidelines: Do not treat the AI tool as an author .
+  Transparency, data privacy, and algorithmic bias must be carefully considered to ensure that AI is used responsibly and in the best interest of students and society as a whole.
+[ASSESS]
+  Faculty should consider reasonable steps to reduce this vulnerability while recognizing that AI usage cannot be fully eliminated for most activities and assessments.
+  Focus on higher-order thinking: reward work that successfully applies knowledge, analyzes concepts, assesses theories, creates new ideas, and produces organized writing displaying deep understanding.
+  Automated grading systems can assess assignments and exams, providing instant feedback to students while freeing up instructors from the burden of manual grading.
+  Assessment in the Age of AI With AI detection proving to be unreliable, it will be difficult for instructors to know the degree to which their students are using AI in their work.
+  The challenge, then, is to design assignments that ensure authentic assessments that mitigate (or incorporate) the use of AI by students.
+  At its base, this requires instructors to design assessments that focus on higher-order thinking skills and require students to demonstrate their understanding and application of knowledge in meaningful ways.
+[TOOL]
+  Text AI sources like ChatGPT may write responses without concern for factual accuracy.
+  For example: When asked to describe the symbolism of the green light in The Great Gatsby, ChatGPT provided a summary about optimism, the unattainability of the American dream, greed, and covetousness (OpenAI, 2023).
+  Scott Fitzgerald [Text generated by ChatGPT].
+  Use the Title of Container element to name the AI tool (e.g., ChatGPT).
+  For example: ChatGPT and Matt Ellis.
+  AI Workshops  ChatGPT Skills Lab I  ChatGPT & AI Literacy 2.0 Skills Lab II  AI Vulnerability Skills Lab III  AI Podcasts  Teaching with AI: Beyond the Buzz & Into the Classroom by Teaching in the CTEI
+[APPLIES]
+  By aligning AI initiatives with educational goals, educators can maximize its potential impact on student learning outcomes.
+  Creating opportunities for students to interact with AI technologies, understand their underlying principles, and reflect on their implications fosters digital literacy and prepares them for the AI-driven world they will face.
+  Faculty members should be provided with the necessary training and support to understand AI technologies, their applications, and their potential impact on teaching and learning.
+  Discuss with your students how to check the facts!
+  Require your students to cite the specific AI-generated content they use or take ideas from (text, images, videos, audio, code, etc.).
+  By thoughtfully implementing these strategies, faculty can promote meaningful learning experiences while reducing overreliance on AI.
+  Image  Leaning into AI In the rapidly evolving landscape of higher education, faculty members can “lean into” AI to harness its potential and enhance various aspects of teaching, research, and administrative functions.
+  By embracing AI technologies and integrating them into their practices, faculty can significantly benefit both themselves and their students.
+  Faculty can leverage AI-powered learning platforms to analyze individual student data, identify learning patterns, and tailor instructional content to meet the unique needs of each learner.
+  Additionally, AI-powered tools can help manage course scheduling, student enrollment, and other administrative processes, optimizing efficiency and minimizing administrative overhead.
+  Faculty can utilize AI algorithms to analyze vast amounts of data, identify trends, and generate insights that would otherwise be challenging to uncover manually.
+  While AI undoubtedly presents immense opportunities, faculty should approach its implementation thoughtfully and ethically.

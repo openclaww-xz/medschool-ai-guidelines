@@ -69,7 +69,7 @@ Acknowledgement: "Portions of this document are based on AI summaries of best pr
 - Standing infrastructure: Office of the Provost for Artificial Intelligence posting detection-tool updates — named responsible office for AI tooling intel.
 - Self-disclosure that the document drew on AI summaries — practicing its own acknowledgement norm.
 
-## Distictives / Distinctives
+## Distinctives
 - Genre: integrity-policy addendum, not a learning policy — no pedagogy/philosophy of medical education, no clinical-environment or EHR/PHI-in-education provisions (health data appears only inside the general PII list).
 - Instructor autonomy is maximal (may permit unrestricted use or ban entirely) atop a restrictive system default — inverse of Buffalo/GW's anti-ban safeguards; here banning is a protected instructor choice.
 - Code-specific citation guidance (comment indicating which function/snippet) reflects Touro's broader (non-medical) portfolio.

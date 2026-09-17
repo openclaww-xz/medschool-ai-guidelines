@@ -1,0 +1,97 @@
+[
+ {
+  "url": "https://secretary.howard.edu/sites/secretary.howard.edu/files/2026-05/100-022%20Artificial%20Intelligence%20Policy.pdf",
+  "title": "Artificial Intelligence Policy 100-022 (PDF)",
+  "publisher": "Howard University",
+  "date": "2026-04-24",
+  "out": "raw/us-med-schools/howard-university--ai-policy-100-022-full.md",
+  "ok": true,
+  "path": "raw/us-med-schools/howard-university--ai-policy-100-022-full.md",
+  "len": 16386,
+  "sha256": "bf3b6ed9c59d3a1bf21a14b9fc841689ea44698e14fe635c7951b997260aa1f2",
+  "pdf": "pdf/howard-university--ai-policy-100-022-full.pdf"
+ },
+ {
+  "url": "https://www.kansascity.edu/blog/medical-education/medicine-reimagined-kcu-equips-future-physicians-to-lead-in-the-age-of-ai",
+  "title": "Medicine, reimagined: KCU equips future physicians to lead in the age of AI",
+  "publisher": "Kansas City University",
+  "date": "unknown",
+  "out": "raw/us-med-schools/kcu--medicine-reimagined-ai-blog.md",
+  "ok": true,
+  "path": "raw/us-med-schools/kcu--medicine-reimagined-ai-blog.md",
+  "len": 4640,
+  "sha256": "904e67f17de6c36a7056fe92e0e81a64abf12360c5cd5f0ae3b488bc7bd16010",
+  "pdf": null
+ },
+ {
+  "url": "https://lecom.edu/content/uploads/2025/11/College-of-Medicine-Catalog-2025-2026.pdf",
+  "title": "LECOM College of Medicine Academic Catalog and Student Handbook 2025-2026",
+  "publisher": "Lake Erie College of Osteopathic Medicine",
+  "date": "2025",
+  "out": "raw/us-med-schools/lecom--college-of-medicine-catalog-2025-2026.md",
+  "ok": true,
+  "path": "raw/us-med-schools/lecom--college-of-medicine-catalog-2025-2026.md",
+  "len": 872782,
+  "sha256": "2bc069767ac20ccfd0f0315405d72004438ef01c5bf0afce4a9b20e770a80170",
+  "pdf": "pdf/lecom--college-of-medicine-catalog-2025-2026.pdf"
+ },
+ {
+  "url": "https://meharry.edu/program/artificial-intelligence/",
+  "title": "Artificial Intelligence MS Program",
+  "publisher": "Meharry Medical College School of Applied Computational Sciences",
+  "date": "unknown",
+  "out": "raw/us-med-schools/meharry-sacs--artificial-intelligence-program.md",
+  "ok": true,
+  "path": "raw/us-med-schools/meharry-sacs--artificial-intelligence-program.md",
+  "len": 16499,
+  "sha256": "efb1d6681d873bdb5fb96baf2f9ebe24da1e77d29bf6349bd5738a019e27bc19",
+  "pdf": null
+ },
+ {
+  "url": "https://www.digitalhealthnews.com/oracle-health-meharry-medical-college-partner-to-tackle-health-inequities-in-nashville",
+  "title": "Oracle Health, Meharry Medical College partner to tackle health inequities in Nashville",
+  "publisher": "Digital Health News",
+  "date": "unknown",
+  "out": "raw/health-systems/meharry-oracle-health--nashville-partnership.md",
+  "ok": true,
+  "path": "raw/health-systems/meharry-oracle-health--nashville-partnership.md",
+  "len": 4591,
+  "sha256": "5837a63e4bab57e815db548505c565c16ba2f4b77964c97f55d716067eac276f",
+  "pdf": null
+ },
+ {
+  "url": "https://www.atsu.edu/kirksville-college-of-osteopathic-medicine/about-kcom/policies",
+  "title": "ATSU Policies - KCOM",
+  "publisher": "A.T. Still University KCOM",
+  "date": "unknown",
+  "out": "raw/us-med-schools/atsu-kcom--policies-page.md",
+  "ok": false,
+  "path": "raw/us-med-schools/atsu-kcom--policies-page.md",
+  "reason": "extracted text too short (13 chars)",
+  "len": 13
+ },
+ {
+  "url": "https://meharryglobal.org/about-us/policies-procedures-and-guidelines/",
+  "title": "Policies - Meharry Medical College",
+  "publisher": "Meharry Medical College",
+  "date": "unknown",
+  "out": "raw/us-med-schools/meharry--policies-procedures-guidelines.md",
+  "ok": true,
+  "path": "raw/us-med-schools/meharry--policies-procedures-guidelines.md",
+  "len": 397,
+  "sha256": "a707a934f33429562aafecd370102ddf02b254b2f760ae137477ebfbe4034f0b",
+  "pdf": null
+ },
+ {
+  "url": "https://www.kansascity.edu/blog/students/kcu-harnesses-ai-to-transform-medical-education-and-patient-care",
+  "title": "KCU harnesses AI to transform medical education and patient care",
+  "publisher": "Kansas City University",
+  "date": "unknown",
+  "out": "raw/us-med-schools/kcu--harnesses-ai-medical-education-blog.md",
+  "ok": true,
+  "path": "raw/us-med-schools/kcu--harnesses-ai-medical-education-blog.md",
+  "len": 1323,
+  "sha256": "981a47ec83717ee12deb4b76d25a345ae063e9c3d3e4bea0f45d61f15b1fee3c",
+  "pdf": null
+ }
+]

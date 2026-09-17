@@ -2,6 +2,8 @@
 
 **Classification: pioneer** (run-27 batch A rank #4; `analysis/deep-reading/27-schoolsA-synthesis.md`)
 
+*Word-count note: ~770 words of body text; the compactness is itself a data point — the only batch-A pioneer under 900 words, evidence that enforcement honesty and citation precision, not length, carry pioneer status.*
+
 ## Who drove it
 
 Handbook-level policy authority: the policy lives inside the Stanford SoM MD Handbook (section 3.32, "MD Requirements & Procedures") — "formally part of the MD/MSPA program's governing handbook... not a standalone dean's memo" (`raw/us-med-schools/stanford-md--genai-policy-3-32.md`; `analysis/deep-reading/stanford-md--genai-policy-3-32.md`). No individual author is named; it defers to Stanford's university-wide "Generative AI Policy Guidance." Updated August 2025; covers both MD and MSPA programs. The driver, structurally, is the program's own requirements machinery — AI conduct is governed where academic conduct is governed.

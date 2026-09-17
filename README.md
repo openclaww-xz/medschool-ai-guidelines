@@ -50,6 +50,12 @@ README.md             This file
 - **[analysis/REPORT.md](analysis/REPORT.md)** — flagship synthesis (landscape, policy typology,
   PHI/assessment clause analysis, GME–UME gap, international contrast, adoption timeline,
   AAMC-alignment paradox, drafting guidance).
+- **[analysis/typology.md](analysis/typology.md)** — master typology (run 35): the five
+  classification axes (posture, sophistication, authority, actor, maturity), the formal
+  knowledge-conservative vs naive-conservative split with scorable K/N criteria, every
+  institution in the corpus placed on the map (counts sum to 378), diffusion analysis
+  (state-to-state borrowing, library networks, national-leader disconnect), and the
+  2026–27 landscape verdict.
 - [analysis/findings.md](analysis/findings.md) · [analysis/summary-stats.md](analysis/summary-stats.md) ·
   [analysis/clauses.csv](analysis/clauses.csv) · figures in `analysis/figs/`.
 - [index.md](index.md) — master index of all 365 sources.

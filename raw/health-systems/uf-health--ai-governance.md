@@ -8,54 +8,56 @@ license: "public web page"
 sha256: ""
 ---
 
-Skip to main content
+AI GOVERNANCE
 
-Launch Recite Me assistive technology
+Menu
 
-Privacy
+Generative AI
 
-School Logo Link
+Generative artificial intelligence (AI) utilizes deep learning models to create outputs, such as text and images, when given inputs, such as instructions and queries. By leveraging sophisticated training data and algorithms, generative AI creates new content based on the patterns within the data it was trained on. Large Language Models (LLMs) are a prominent subset of generative AI specifically designed to respond to text or verbal inputs, also known as Natural Language Processing. Some examples of commonly referenced LLMs include Google’s Gemini, OpenAI’s ChatGPT, and Anthropic’s Claude.
 
-MENU
+Privacy and Security Risks of Generative AI
 
-University of Florida
+UF faculty, staff, and students must exercise caution when providing inputs to AI models. Only publicly available data or data that has been authorized for use by UF’s Integrated Risk Management team should be provided to the models.
 
-Resources
+Sharing sensitive or restricted data with AI models carries the potential for negative consequences. This category of data includes student records, employee data, unpublished research results, financial data, and protected health information, which should not be used with Generative AI.
 
-Department of Education
+How to use Generative AI responsibly and protect your privacy:
 
-Office for Civil Rights
+For those using generative AI in their regular work:
 
-Florida Statutes
+Investigate opportunities to acquire or license an enterprise edition of the software, which typically includes contractual safeguards.
 
-Information Security
+Submit potential AI tools to the Integrated Risk Management team for a Risk Assessment.
 
-General Counsel
+Validation of Generative AI outputs. When integrating Generative AI into your work, consider incorporating processes for fact-checking and review of outputs.
 
-Registrar
+For those using generative AI in meetings:
 
-IRB
+AI transcriptions and meeting summaries may be subject to public records requests.
 
-UF Innovate
+The settings of AI tools must be set to prevent the models from learning from meeting content. Additionally, the data should not be shared with developers or third parties.
 
-UF Records Management
+Prior to the use of AI transcriptions and meeting summaries, meeting hosts should inform meeting attendees of their potential use. Attendees should be able to object to its use or be provided more information about its use.
 
-UFCE Units
+Avoid using AI tools for transcribing meetings involving sensitive or restricted data.
 
-UF Compliance and Ethics
+Meeting Transcripts and Summaries
 
-ADA
+Using an unauthorized AI assistant, such as Read.ai, during your Zoom or Teams meetings to generate notes or transcriptions may involve the sharing of all content, including recordings, transcriptions and data disclosed, with the third-party vendor. This data may be used by the third-party vendor to train the model. These tools should not be used in meetings involving sensitive or restricted data. Some of these AI tools can join scheduled meetings, even in the absence of the meeting organizer. Hosts and cohosts should remove unauthorized AI tools from meetings if they are in attendance.
 
-Clery
+Compliance and Regulation
 
-Policy Hub
+Projects involving Personally Identifiable Information (PII) at the University must comply with all relevant laws, University policies, and contractual obligations.
 
-Privacy
+At UF, relevant privacy laws concerning data use and Generative AI include laws and regulations such as the Florida Information Protection Act (FIPA), Family Educational Rights and Privacy Act (FERPA), Health Insurance Portability and Accountability Act (HIPAA), and Children’s Online Privacy Protection Rule (COPPA). Additionally, international laws such as the EU’s General Data Protection Regulation (GDPR), the EU’s AI Act, as well as many others also apply.
 
-Title IX
+Please exercise extreme caution when considering new technologies that handle PII. AI has been incorporated into technologies at an extremely fast pace. This rush has created a tension between the AI technologies and regulators, often leaving the status of their compliance with laws, ethical standards, and integrity unclear.
 
-Stop Hazing
+Intellectual Property Rights
 
-Youth
+Generative AI models may not follow the ethical and professional standards in certain areas, such as research. These tools could potentially violate the intellectual property rights of original data or content owners and the privacy rights of individuals whose data is used in training.
 
-Report Incident
+The training data may originate from sources that breach intellectual property and privacy laws. Additionally, compromised data has the potential to undermine the integrity of the model itself and any of its outputs.
+
+The courts and legislatures are still figuring out the impacts the use of AI models will have on the potential patentability of research, so researchers must be cautious when using AI models to aid in research initiatives.

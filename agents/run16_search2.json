@@ -1,0 +1,524 @@
+{
+ "ucsd-som": [
+  {
+   "title": "Residency & Fellowship Programs",
+   "url": "https://medschool.ucsd.edu/education/residency-fellowship/index.html",
+   "description": "The lives of residents and fellows at UC San Diego School of Medicine are remarkably dynamic. Our community is dedicated to supporting residents and fellows in a manner that allows them to take full advantage of learning opportunities, while providing for themselves and their family.",
+   "position": 1
+  },
+  {
+   "title": "UC San Diego School of Medicine",
+   "url": "https://www.medschool.ucsd.edu/education/residency-fellowship/residency-programs.html",
+   "description": "The UC San Diego School of Medicine is fully accredited by the Liaison Committee on Medical Education (LCME). The school\u2019s last accreditation review occurred in 2018, after which it received a full, eight-year term of accreditation.",
+   "position": 2
+  },
+  {
+   "title": "Residency Requirements: Graduate Students",
+   "url": "https://students.ucsd.edu/finances/fees/residence/residency-requirements-graduate-students.html",
+   "description": "Aug 10, 2026 \u00b7 Students should review the UC Residence Policy and Guidelines prior to applying for a Residency Classification to ensure compliance with the most recent requirements for the relevant academic term.",
+   "position": 3
+  },
+  {
+   "title": "Principles for Responsible AI in Medical School and Residency ...",
+   "url": "https://www.aamc.org/about-us/mission-areas/medical-education/principles-ai",
+   "description": "AI can streamline operations and promote equity in medical school and residency selection but must be balanced with human judgment and ethical standards.",
+   "position": 4
+  },
+  {
+   "title": "Resources for Residents - University of California, San Diego",
+   "url": "https://imresidency.ucsd.edu/program/resources/index.html",
+   "description": "Internal Medicine Residency Training Program, UC San Diego School of Medicine",
+   "position": 5
+  },
+  {
+   "title": "UC San Diego Department of Medicine Residency Programs",
+   "url": "https://med.ucsd.edu/education/residency/index.html",
+   "description": "This residency program offers broad-based training in general internal medicine and all its specialties. Residents rotate at three world-class teaching hospitals and a myriad of outpatient clinics.",
+   "position": 6
+  }
+ ],
+ "ucsd-som2": [
+  {
+   "title": "Medical Education - University of California, San Diego",
+   "url": "https://medschool.ucsd.edu/education/index.html",
+   "description": "The UC San Diego School of Medicine is fully accredited by the Liaison Committee on Medical Education (LCME). The school\u2019s last accreditation review occurred in 2018, after which it received a full, eight-year term of accreditation.",
+   "position": 1
+  },
+  {
+   "title": "Current Status of ChatGPT Use in Medical Education ...",
+   "url": "https://www.sciencedirect.com/org/science/article/pii/S1438887124005272",
+   "description": "This paper examines the potential applications, limitations, and strategies for using ChatGPT. ChatGPT offers personalized learning support to medical students through its robust natural language generation capabilities, enabling it to furnish answers.",
+   "position": 2
+  },
+  {
+   "title": "DOJ investigating race in admissions to UC San Diego school ...",
+   "url": "https://www.nbcsandiego.com/news/local/uc-san-diego-trump-administration-race-admission-medical-school/4001006/",
+   "description": "Mar 26, 2026 \u00b7 The Trump administration has opened investigations into how race is considered in admissions at UC San Diego's medical school and two others.",
+   "position": 3
+  },
+  {
+   "title": "UC San Diego School of Medicine",
+   "url": "https://medschool.ucsd.edu/index.html",
+   "description": "The UC San Diego School of Medicine is fully accredited by the Liaison Committee on Medical Education (LCME). The school\u2019s last accreditation review occurred in 2018, after which it received a full, eight-year term of accreditation.",
+   "position": 4
+  },
+  {
+   "title": "Embracing ChatGPT for Medical Education: Exploring ... - PubMed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38598263/",
+   "description": "Apr 10, 2024 \u00b7 With its remarkable performance in language-related tasks, ChatGPT offers personalized and efficient learning experiences for medical students and doctors. Through training, it enhances clinical reasoning and decision-making skills, leading to improved case analysis and diagnosis.",
+   "position": 5
+  },
+  {
+   "title": "(PDF) ChatGPT as a Tool for Medical Education and Clinical ...",
+   "url": "https://www.researchgate.net/publication/380430474_ChatGPT_as_a_Tool_for_Medical_Education_and_Clinical_Decision-Making_on_the_Wards_Case_Study",
+   "description": "May 8, 2024 \u00b7 We attempt outline how ChatGPT may be applied to support undergraduate medical education during the preclinical and clinical years, and highlight possible concerns regarding its use which...",
+   "position": 6
+  }
+ ],
+ "ucsd-hs-policy": [
+  {
+   "url": "https://health.ucsd.edu/about-us/ai-at-uc-san-diego-health",
+   "title": "AI at UC San Diego Health | How We Use Artificial Intelligence for Smarter, Safer Care for You",
+   "description": "What Is AI in Health Care?\nAI doesn't replace your care team's expertise or judgment. Instead, your care team may use AI to check that important information isn't missed, so that you receive the best care possible.\nThere are two common types of AI:\n* Predictive AI: Helps our teams be in the right place at the right time\n* Generative AI: Helps our teams communicate and document care in a timely manner.\nPredictive AI\nWhat Is Predictive AI?\nGenerative AI\nWhat Is Generative AI?\nGenerative AI refers to tools that draft clinical notes or secure messages under the guidance of your care team, helping them work more efficiently. For example, we use generative AI capabilities within our electronic health record system to improve our team's communication with patients.\nHow Does Generative AI Work?\nGenerative AI models are trained on information from the internet and other sources to create text based on instructions. These models are then tailored for health care through detailed prompts or additional training on medical data \u2014 a process known as fine-tuning.\nDepending on the instructions, generative AI can help our teams draft clinical notes or respond to patient messages.\nYour Privacy and Safety Come First\nyoung woman sits with a brain imaging device clamped to her head while doctor looks at monitor\nWe Strive to Use AI Responsibly\nHere are our responsible AI principles, and what they mean for patients. Our AI use follows these guidelines.\n* Appropriateness AI isn\u2019t always the right solution. We evaluate whether it\u2019s the right tool for the specific use case and workflow.\n* Transparency We require clear information from vendors and developers about how tools work so we can make informed decisions about their use.\n* Accuracy We evaluate AI tools to ensure that they are accurate enough to be useful.\n* Reliability We monitor AI tools to ensure they continue to work effectively over time, especially as models are updated.\n* Safety We evaluate AI tools to ensure that they do not produce information or guidance that could lead to unsafe care.\n* Fairness We evaluate the ability of AI tools to serve our diverse patient population.\n* Sepsis surveillance: A sepsis AI tool helps our Emergency Department quickly identify patients who are at risk for sepsis infection .\n* Quality measurement: A generative AI tool helps our quality team accurately measure our quality of care in a timely manner.\n2. Helping Our Teams Be More Efficient\nEarly results show that AI transcription tools help save time while capturing accurate information.\nAI-Supported Patient Messaging\nUC San Diego Health was one of the first health systems nationwide to use generative AI to draft responses to patient messages in the Epic electronic health record system.\nThis tool helps clinicians provide timely, comprehensive replies. Its use is optional, giving our teams the flexibility to use AI only when it helps them provide better care.\nA Health System Working for You",
+   "position": 1
+  }
+ ],
+ "uci-som": [
+  {
+   "url": "https://sc.edu/study/colleges_schools/medicine/education/md_program/documents/ai_policy_11_5_25_draft.pdf",
+   "title": "[PDF] Policy Title: - Use of Artificial Intelligence - University of South Carolina",
+   "description": "This policy applies to:\n\u2022\nAll faculty, students, staff, and affiliated researchers at The University of South Carolina School\nof Medicine \u2013 Columbia (USC SOMC) using Artificial Intelligence (AI) or AI-driven applications\nfor teaching, clinical care, research, administrative tasks, or community outreach.\n\u2022\nThis policy does not apply to personal AI use on non-university digital devices.\nPolicy Statement\nThe USC SOMC is committed to the responsible, ethical, and legally compliant use of AI in\neducation, clinical practice, research, and administration. This policy ensures AI integration aligns\nHowever, AI cannot replace human judgment in grading students,\npatient care, research, or institutional or clinical decision-making. Protected Health Information\n(PHI) must not be processed by external AI platforms and AI-assisted work must be disclosed in\nacademic and research contexts.\nPage 2 of 5\nReason for Policy\nThe purpose of this policy is to provide guidance for the responsible, ethical, and legally compliant use of\nAI within the USC SOMC. This policy ensures that AI integration in education, clinical practice,\nresearch, and administration adheres to HIPAA regulations, USC\u2019s academic integrity policies, IACUC\nregulations, and IRB standards.\nThis policy is established in accordance with the USC Policy Development and Approval Process\n(UNIV 1.00) to provide a clear framework for AI adoption and governance at SOMC. All AI\nusers must uphold the principles of the Carolinian Creed, as well as institutional ethics and honor\ncode policies.\nDefinitions\n\u2022\nArtificial Intelligence (AI): Computational systems designed to simulate human cognition,\nincluding machine learning, deep learning, and natural language processing.\n\u2022\nGenerative AI: AI that produces new content based on training data, including but not limited\nto ChatGPT, Bard, or DALL\u00b7E.\n\u2022\nGuiding Principles\no AI-generated content must not be misrepresented as original work by students, faculty, or\nstaff.\no AI cannot be used in the scientific peer review process and cannot be listed as an author on\npublications.\no Students must obtain Principal Investigator (PI) approval before using AI tools for\nscientific writing.\no Education records and PHI must never be processed or uploaded into generative AI\nplatforms unless explicitly approved by USC\u2019s IT security team and legal counsel.\no AI tools must be reviewed by the IRB before use in patient-related studies.\no Users should not enter any sensitive, confidential, or personally identifiable information\nAI Bias and Ethical Concerns\no AI tools found to reinforce bias or inaccuracies in patient care, research, or academic\ngrading must be immediately reviewed and modified.\no Instructors and faculty are responsible for verifying the appropriateness and ethical\nintegrity of AI-generated educational materials before classroom use.\nPage 5 of 5\nIV.",
+   "position": 1
+  },
+  {
+   "url": "https://med.virginia.edu/policies/uva-school-of-medicine-som-md-program-policy-on-generative-ai/",
+   "title": "UVA School of Medicine (SOM) MD Program Policy on Generative AI - Policies and Guidelines",
+   "description": "Modifications\nThis Student Policy on Generative AI is subject to change to ensure alignment with UVA SOM, UVAHealth, and University of Virginia policies.\nOversight\nThe Medical Education Management Committee has oversight and approval for this policy.\nHistory\nDeveloped by the UVA SOM Generative AI Advisory Team and reviewed and approved by the Medical Education Management Committee. Updated July 2026. In This Section Menu\nUVA School of Medicine (SOM) MD Program Policy on Generative AI\nSchool of Medicine Policies & Guidelines School of Medicine Home\nTools that are provisioned by UVA or UVA Health. With institutional data agreements these tools offer \u201csafe harbor\u201d for content. As of July 2026 \u2013 CoPilot, Google AI (including Gemini Notebook), Dax Co Pilot, and a small-scale pilot of Claude.\nContent-Restricted External Tools. These typically require individual accounts and do not have institutional data agreements behind them. Some, such as OpenEvidence, Consensus, and UpToDate Expert AI, are designed for clinical queries and draw on the medical literature. We acknowledge that there are many potential benefits of AI software as well as inherent risks (e.g., bias, limited contextual understanding, plagiarism, ethics and academic integrity, inappropriate language, errors in referencing, etc).\nPolicy\nHow do I cite generative AI in MLA style? (Updated and Revised) | MLA Style Center\nWhen submitting scholarly work for publication or presentation, students must adhere to generative AI policies set forth by journals and organizations and disclose when and how these tools have been used.\nStudents are responsible for any inaccurate, biased, offensive, or otherwise unethical content they submit regardless of whether they personally authored it or used AI software to generate the content.\nStudents may not create clinical documentation of any kind (e.g., H&Ps, progress notes, discharge summaries) within the authentic clinical environment using artificial intelligence applications outside of those supported by the EHR (e.g., Dax or Abridge).\nThis document was created to define acceptable student use of generative AI software, including but not limited to ChatGPT, CoPilot, Gemini, Claude, DeepSeek, Perplexity, Elicit AI and Dall-E, and tools designed for medical practice, education, or research such as OpenEvidence, UpToDate Expert AI, and Consensus, etc. For purposes of this policy, we categorize these tools into two tiers:",
+   "position": 2
+  },
+  {
+   "url": "https://research.uci.edu/human-research-protections/assessing-risks-and-benefits/privacy-and-confidentiality/artificial-intelligence-and-human-subject-research",
+   "title": "Artificial Intelligence and Human Subject Research - UCI Office of Research",
+   "description": "A red flag means it could be allowed but will require further analysis and engagement with Human Research Protections (HRP) and subject matter experts as noted below.\nRed Flags - April 2026\n* Use, storage, sharing, selling of identifiable information about UC Student Employees, Research Subjects, Patients, including Protected Health Information (PHI).\n* Do not use, enter or share PHI or other clinical queries to any Large Language Models (LLMs) or AI programs including DoxGPT, ChatGPT or OpenEvidence.\nAppropriate replacements are Epic VoIP and Epic Secure Chat, and Epic native video or audio visits.\n* AI making decisions or recommendations that affect research subjects.\n* Foreign language translations of subject facing documents, including consent forms.\nPoints to Consider\n* Where did the training data come from?\n* Is there evidence that the system does what it says it can do?\n* De-identification is more difficult with AI; Anonymized data or aggregated data sets could be appropriate.\n* If consent is used, ensure the intent for current and possible future use is well described.\nBeing too broad however, may exclude a well-informed consent process for future uses however.\nAI at UCI Health\n* PHI and restricted data must not be entered into any external or consumer AI tools.\n* Claims that an AI tool is \u201cHIPAA compliant\u201d do not mean it is approved for use at UCI Health.\n* Copying information from Epic or other clinical systems into AI tools is not permitted.\n* Use of AI tools with PHI may be treated as a privacy incident and subject to review\n* The following tools are permitted for use with PHI when signed in with your hs.uci.edu account and using the correct licensed features:\n* Abridge , within approved clinical documentation workflows\n* Epic-embedded AI features , where enabled, including DynaMedex and Dyna.A i for clinical decision support. AI-generated documentation must be reviewed, edited, and validated in the same manner as copied or templated material.\nProviders remain fully responsible for verifying the accuracy, relevance, and clinical appropriateness of all AI-assisted content prior to signing the note.\nEngage with Procurement\nPlease note that UCI already offers a selection of contracted AI services . If intending to use AI outside of these available options, please ask for Procurement to review and execute all agreements or contracts with AI vendors.\nDuring the Procurement process, the Terms of Use or Privacy Policy will be reviewed to ensure it does not expose UC to risk. Contracts must include an Appendix Data Security , and, where PHI is involved, an Appendix - Business Associate Agreement .\nRemember, faculty do not have the ability to sign contracts on behalf of UC.\nFollow Federal, UC, Local and International Security Policies\nWhen providing personal information, including protected health information, UC\u2019s Electronic Information Security Policy (IS-3) , along with local UC data security policies for researchers , must be followed.",
+   "position": 3
+  },
+  {
+   "url": "https://dtei.uci.edu/generative-ai/syllabus",
+   "title": "Syllabus - UCI DTEI",
+   "description": "Syllabus - UCI DTEI\nFeb 12, 2026 \u00b7 The pedagogical role of generative AI varies significantly across disciplines, course levels, and learning objectives. In some contexts, AI tools may support\n > \nSyllabus - UCI DTEI\nFeb 12, 2026 \u2014 There is no single campuswide policy governing student use of generative AI. Instead, the content of each policy is left to the discretion of the instructor.\n > \nSyllabus - UCI DTEI\nAll graduate course syllabi must include a policy on student use of generative AI in that course. There is no single campuswide policy governing student use of",
+   "position": 4
+  },
+  {
+   "url": "https://writing.uci.edu/2025/05/04/generative-ai-and-writing-course-policies",
+   "title": "Generative AI and Writing Course Policies",
+   "description": "Generative AI and Writing Course Policies\nAdditionally, the process of writing an AI course policy can help you, as the instructor, gain clarity about your own thoughts and expectations\n > \nGenerative AI and Writing Course Policies\nUCI's formal policy does explicitly mention that submitting writing by generative AI without attribution or citation and representing \u201c\n > \nGenerative AI and Writing Course Policies\nMay 4, 2025 \u2014 For instance, here is UCI's formal policy on Academic Integrity and Student Conduct. Recognize that some of these guidelines may not exist just\n > \nGenerative AI and Writing Course Policies\nMay 4, 2025 \u2014 Generative Al is used for different purposes and in different contexts across the university. -cases can be divided into two groups: research\n > \nGenerative AI and Writing Course Policies\nAl tools for research could include such tools as Researchrabbit, Perplexity Al, Scholarcy, Connected Papers, and many others. This resource\n > \nGenerative AI and Writing Course Policies\nHowever, UCI's formal policy does explicitly mention that submitting writing by generative AI without attribution or citation and\n > \nGenerative AI and Writing Course Policies\nMay 4, 2025 \u2014 \u201cUniversity students describe how they adopt AI for writing and research in a general education course.\u201d Scientific Reports 15: 8799 (2025). DOI\n > \nGenerative AI and Writing Course Policies\nMay 4, 2025 \u2014 This drafting exercise is designed to help writing instructors draft course policies about generative AI for their syllabus. The 5-part exercise\n > \nGenerative AI and Writing Course Policies\nMay 4, 2025 \u2014 However, UCI's formal policy does explicitly mention that submitting writing by generative AI without attribution or citation and\n > \nGenerative AI and Writing Course Policies\nThese packs are not meant to be exhaustive in scope, but rather small bites that can get you going or to supplement your current understanding.",
+   "position": 5
+  },
+  {
+   "url": "https://www.oit.uci.edu/2024/07/16/zotgpt-for-students-story",
+   "title": "UC Irvine Embraces AI with Launch of ZotGPT for Students | Office of Information Technology",
+   "description": "UC Irvine Embraces AI with Launch of ZotGPT for Students July 16, 2024 **With 'ZotGPT' now released to students, UC Irvine shows its commitment to embracing bold leaps in technology.** **By: [Johnny Loc Nguyen](mailto:johnnln1@uci.edu)** On April 30, UC Irvine announced the launch of ZotGPT Chat for students. Custom-made to support UC Irvine's emerging generative AI needs, ZotGPT is UCI's answer to the data privacy and governance concerns regarding third-party AI services, while still offering users the capabilities found in the latest GPT large-language models. ... the GPT-3.5 Turbo model. All of this functionality is brought to ZotGPT by Microsoft Azure AI, Amazon AWS and GPT-4 Turbo, with continual updates to come as the technology improves over time. ZotGPT makes all of these GPT capabilities, currently available to paid ChatGPT Plus users and those running a demo of ChatGPT's GPT-4o language model, widely available to UCI users for free; bringing feature-rich AI functionality that rivals existing services, while keeping all user-submitted data secure to university servers and out of the hands of third-parties. ... Initially available as a beta program to only faculty and staff since March, students have quickly gravitated toward the chatbot following its launch. Tina Tsai, a '26 Business Information Management and Software Engineering double-major student, tells me ZotGPT is now her 'main AI chatbot', saying \"the responses [ZotGPT] gave me are worded better than my ChatGPT-3.5 and",
+   "position": 6
+  }
+ ],
+ "uci-som2": [
+  {
+   "title": "airesearch.medschool.uci.edu - A2IR",
+   "url": "https://airesearch.medschool.uci.edu/",
+   "description": "The Center for Applied Artificial Intelligence Research (A 2 IR) at the University of California, Irvine is a cross-disciplinary initiative with the mission to empower health care providers, researchers, and patients through the deployment of artificial intelligence (AI) healthcare applications.",
+   "position": 1
+  },
+  {
+   "title": "AI Policy Development Checklist MedEd - AAMC",
+   "url": "https://www.aamc.org/media/86441/download",
+   "description": "The Office of Medical Education has integrated AI use guidelines into the student handbook. This policy is practical, concise, and focused on the tools available.",
+   "position": 2
+  },
+  {
+   "title": "Center for Applied Artificial Intelligence Research (A2IR)",
+   "url": "https://research.uci.edu/center/center-for-artificial-intelligence-in-diagnostic-medicine-caidm/",
+   "description": "The Center for Applied Artificial Intelligence Research (A2IR) at the University of California, Irvine is a cross-disciplinary initiative with the mission to empower health care providers, researchers, and patients through the deployment of artificial intelligence (AI) healthcare applications.",
+   "position": 3
+  },
+  {
+   "title": "About Us | A2IR - airesearch.medschool.uci.edu",
+   "url": "https://airesearch.medschool.uci.edu/about-us/",
+   "description": "The Center for Artificial Intelligence in Diagnostic Medicine (CAIDM) at the University of California, Irvine is a cross-disciplinary initiative with the mission to empower health care providers, researchers, and patients through the deployment of artificial intelligence (AI) healthcare applications.",
+   "position": 4
+  },
+  {
+   "title": "Bridging the AI Policy Gap in Medical Education: Assessing ...",
+   "url": "https://asmepublications.onlinelibrary.wiley.com/doi/10.1111/tct.70347",
+   "description": "Jan 27, 2026 \u00b7 Our descriptive findings offer a baseline foundation for strengthening AI governance. Tailored, student-specific and regularly updated policies are essential to support responsible AI use while preserving academic and professional standards.",
+   "position": 5
+  },
+  {
+   "title": "UC AI Working Group Final Report - UCOP",
+   "url": "https://www.ucop.edu/uc-health/_files/uc-ai-working-group-final-report.pdf",
+   "description": "To provide guidance on strategies to operationalize the UC Responsible AI Principles, the Working Group established four subcommittees, each corresponding to a high-risk AI application area: health, human resources (HR), policing, and student experience.",
+   "position": 6
+  }
+ ],
+ "unm-som": [
+  {
+   "title": "UNM Health Sciences Center",
+   "url": "https://hsc.unm.edu/",
+   "description": "The University of New Mexico\u2019s Health Sciences Center is New Mexico\u2019s best in health care, medical education, and research. Apply for a program or find a doctor.",
+   "position": 1
+  },
+  {
+   "title": "About UNM Health Sciences - University of New Mexico",
+   "url": "https://hsc.unm.edu/about/",
+   "description": "UNM\u2019s Health Sciences Center serves over 900,000 patients each year. Explore our high-quality academic programs, learn about our community initiatives and discover our impact on New Mexico.",
+   "position": 2
+  },
+  {
+   "title": "HSC Organization",
+   "url": "https://hsc.unm.edu/about/hsc-organization.html",
+   "description": "UNM HSC Organization The UNM Health Sciences Center (HSC) is New Mexico\u2019s only academic medical center and home to the state\u2019s largest teaching hospital. UNM HSC embodies the clinical, research and education initiatives of the University of New Mexico. Each of our four main branches the UNM Health System, UNM Health System Partners, academics and research has its own governance. Together ...",
+   "position": 3
+  },
+  {
+   "title": "The University of New Mexico School of Medicine | School of ...",
+   "url": "https://hsc.unm.edu/medicine/",
+   "description": "Advancing the health of all New Mexicans since 1964 The UNM School of Medicine leads the nation in family medicine and rural health training. Our graduates account for nearly 40% of New Mexico\u2019s practicing physicians. We are home to a nationally ranked research enterprise and Biomedical Science Graduate Programs with world-class scientific investigators and scholars who deliver life-saving ...",
+   "position": 4
+  },
+  {
+   "title": "Admissions | School of Medicine - University of New Mexico",
+   "url": "https://hsc.unm.edu/medicine/education/md/admissions/",
+   "description": "Admissions The University of New Mexico School of Medicine offers a nationally ranked educational experience. Our graduates are well prepared to pursue any medical area of practice. We hope that our website will answer many of your questions regarding your application and admission to the UNM School of Medicine. No matter what point you are at in the process, the UNM School of Medicine Office ...",
+   "position": 5
+  },
+  {
+   "title": "Centers and Programs - University of New Mexico",
+   "url": "https://hsc.unm.edu/research/centers-programs/",
+   "description": "Centers and Programs The University of New Mexico Health Sciences Center (UNM HSC) offers a vibrant and collaborative research environment, home to a wide array of research centers and programs dedicated to advancing health sciences and improving health outcomes. These programs span the full translational research spectrum\u2014from laboratory-based and pre-clinical studies to clinical trials and ...",
+   "position": 6
+  }
+ ],
+ "unm-som2": [
+  {
+   "title": "Appropriate Use and Guidelines :: UNM AI Resources | The ...",
+   "url": "https://airesources.unm.edu/ai-guidance/appropriate-use.html",
+   "description": "As with any technology, Artificial Intelligence (AI) technology must be used in appropriate, permissible ways.",
+   "position": 1
+  },
+  {
+   "title": "AI Capture Guidelines :: UNM AI Resources | The University of ...",
+   "url": "https://airesources.unm.edu/ai-guidance/index.html",
+   "description": "Except in contexts where specific regulations are in effect, these guidelines are not prescriptive and are intended to assist UNM faculty, staff, and students in balancing the benefits of these technologies while reducing the risks associated with their use.",
+   "position": 2
+  },
+  {
+   "title": "Artificial Intelligence (AI) in Health Sciences",
+   "url": "https://libguides.health.unm.edu/AI_HealthSciences",
+   "description": "Aug 20, 2026 \u00b7 At its core, AI refers to systems that can perform tasks that normally require human intelligence. These tasks include problem-solving, understanding natural language, recognizing patterns, and making decisions.",
+   "position": 3
+  },
+  {
+   "title": "UNM to launch campus-wide guidelines on ethical AI use",
+   "url": "https://www.dailylobo.com/article/2026/05/unm-to-launch-campus-wide-guidelines-on-ethical-ai-use",
+   "description": "May 18, 2026 \u00b7 The AI Steering Committee is made up of students, staff and faculty from across campus with a variety of expertise in artificial intelligence, and formed because of the large amount of AI use on campus without a coordinated set of policies or strategies to follow, Emmons said.",
+   "position": 4
+  },
+  {
+   "title": "AI & Ethics - Artificial Intelligence (AI) in Health Sciences ...",
+   "url": "https://libguides.health.unm.edu/c.php?g=1357523&p=10023950",
+   "description": "Apr 16, 2026 \u00b7 The project is aimed at providing a guiding framework to ensure that AI algorithms and their application in health, health care, and biomedical science perform accurately, safely, reliably, and ethically in the service of better health for all.",
+   "position": 5
+  },
+  {
+   "title": "UNM launches AI resources website to highlight campus-wide AI ...",
+   "url": "https://news.unm.edu/news/unm-launches-ai-resources-website-to-highlight-campus-wide-ai-endeavors",
+   "description": "Aug 23, 2023 \u00b7 Across campus, UNM organizations are tapping into the vast potential of AI to enrich the academic experience for students and accelerate research discoveries by faculty.",
+   "position": 6
+  }
+ ],
+ "ou-com": [
+  {
+   "title": "Michael S. Businelle, PhD - OU College of Medicine",
+   "url": "https://medicine.ouhsc.edu/directory/details/michael-s-businelle-phd-2",
+   "description": "Michael S. Businelle, PhD, is a Peggy and Charles Stephenson Endowed Chair in Cancer, Co-Director of the TSET Health Promotion Research Center, and Professor (tenured) in the Department of Family and Preventive Medicine at OUHSC. He is also the founding director of the NCI-designated Stephenson Cancer Center mHealth Shared Resource. Over the past nine years, Businelle's team has developed the ...",
+   "position": 1
+  },
+  {
+   "title": "Robyn Cowperthwaite, MD - OU College of Medicine",
+   "url": "https://medicine.ouhsc.edu/directory/details/robyn-cowperthwaite-md-1",
+   "description": "Dr. Robyn Cowperthwaite is an Associate Professor in the Department of Psychiatry and Behavioral Sciences at the University Of Oklahoma, College Of Medicine. She serves as the Associate Program Director for Child and Adolescent Psychiatry. She is also the Director of Child and Adolescent Consultation and Liaison Psychiatry Services and the Chief of Child and Adolescent Mental Health Division ...",
+   "position": 2
+  },
+  {
+   "title": "Qingnan Liang, PhD - OU College of Medicine",
+   "url": "https://medicine.ouhsc.edu/directory/details/qingnan-liang-phd-2",
+   "description": "Novel AI/ML algorithms development and application to single-cell and spatial genomics data. Interpretable computational modeling of biological processes such as gene regulation, pathway crosstalk,tumor progression, and cell plasticity",
+   "position": 3
+  },
+  {
+   "title": "Snehal Patel, MD, PhD - OU College of Medicine",
+   "url": "https://medicine.ouhsc.edu/directory/details/snehal-patel-md-phd",
+   "description": "He completed his MD/PhD at the University of Illinois, followed by AP/CP residency and MGP fellowship at Cedars-Sinai Medical Center and AI research fellowship at Michigan State University.",
+   "position": 4
+  },
+  {
+   "title": "Immunology & Informatics Core (IIC) | OU College of Medicine",
+   "url": "https://medicine.ouhsc.edu/academic-departments/microbiology-immunology/research/immunology-informatics-core-iic",
+   "description": "The Immunology & Informatics Core provides state-of-the-art technologies and expertise supporting immunology, genomics, transcriptomics, proteomics, metabolomics, and computational biology. The core assists investigators with experimental design, data generation, analysis, interpretation, and training.",
+   "position": 5
+  },
+  {
+   "title": "Noon Hagmusa, MBBS - OU College of Medicine",
+   "url": "https://medicine.ouhsc.edu/directory/details/noon-hagmusa-mbbs",
+   "description": "Noon Hagmusa, MBBS Pediatrics Noon Hagmusa, MBBS Home Khartoum, Sudan & Amsterdam, Netherlands Medical School University of Medical Sciences and Technology",
+   "position": 6
+  }
+ ],
+ "ou-com2": [
+  {
+   "url": "https://ou.edu/content/dam/ai/documents/appendices.pdf",
+   "title": "APPENDICES",
+   "description": "Sharukh Khajotia, Associate Dean, College of Dentistry\nAdvisory Members\n\u2022\nDee Wu, Professor, College of Medicine\n\u2022\nChris Jones, Senior IT Director, IT Administration\n\u2022\nKenton Brice, Academic Director, Law Center Library\n\u2022\nNaveen Kumar, Associate Professor, Management Information Systems, Price College of Business\n\u2022\nTracy Pearl, Professor, Law\n\u2022\nBuilding on the foundations of the National Institute of Standards and Technology\u2019s (\u201cNIST\u201d) Artificial Intelligence Risk Management Framework for AI Risks and Trustworthiness (AI RMF 1.0, Section 3 [NIST AI 100-1], fig.\nDefinition of Artificial Intelligence: As used in the NIST AI RMF 1.0 (adapted from OECD Recommendation on AI:2019; ISO/IEC 22989:2022), AI \u201crefers to an AI system as an engineered or machine-based system that can, for a given set of objectives, generate outputs such as predictions, recommendations, or decisions influencing real or virtual\nOperational: Each AI system should have designated personnel accountable for verifying outputs, managing risk, and ensuring compliance with institutional and legal standards. OU employees and students are accountable for their AI usage and its implications.\nFair and Reduces Harm\nOU and the provider.\nAspirational: AI governance at OU should cultivate a spirit of curiosity, experimentation, and boundary-pushing that advances discovery, creativity, and societal impact. Innovation should be empowered, not impeded, by policy\u2014so long as it is guided by shared values and ethical integrity.\nDefinition of Artificial Intelligence: As used in the NIST AI RMF 1.0 (adapted from OECD Recommendation on AI:2019; ISO/IEC 22989:2022), AI \u201crefers to an AI system as an engineered or machine-based system that can, for a given set of objectives, generate outputs such as predictions, recommendations, or decisions influencing real or virtual\nFaculty in professional colleges (i.e., law and health sciences), or who deal with special populations (e.g. Indigenous or education data) may have additional requirements that mandate more careful or limited use of these systems.\nBecause artificial intelligence tools can write so efficiently, students may use them to complete many common types of assessments.\nText and media outputs from artificial intelligence tools can be used to answer essay questions, write papers, develop creative projects, and reply to discussion board posts, simulating recall and understanding with little effort or engagement, which can be problematic, limiting, and unethical.\nMany students may be unaware that submitting AI-generated content in academic assignments without appropriate citation and acknowledgement constitutes plagiarism and violates OU\u2019s academic integrity code.\ntools are permitted, the rationale behind those decisions, and how students are expected to engage with them. Instructors should actively guide students in understanding the limitations, risks, and potential of AI technologies.\n2. Authentic Instructor-Student Interaction",
+   "position": 1
+  },
+  {
+   "url": "https://ou.edu/cfe/artificial-intelligence/AI-policies",
+   "title": "OU AI Policies",
+   "description": "A.I. Home\nA.I. Teaching & Research Guidance\nA.I. Campus Resources\nOU\u2019s AI policies are intended to support responsible, ethical, and transparent use of AI across teaching, research, and operations. Faculty are encouraged to familiarize themselves with these policies, particularly when incorporating AI into coursework or research workflows.\nOU A.I. Policy Quick Links\n\u00b7 AI Administrative and Operational Guidance for OU Staff and Employees\n\u00b7 AI Guidance for Students\n\u00b7 AI Governance Policies\n\u00b7 AI Teaching Guidance for OU Faculty and Instructors\n\u00b7 AI Research Guidance for Researchers\nAlso see the Chief AI Officer \u2019 s AI Roadmap .\nStudent at a desk typing on a laptop in a classroom.\nBack to top\nOU",
+   "position": 2
+  },
+  {
+   "url": "https://medicine.ouhsc.edu/current-learners/md-program-okc/student-handbook",
+   "title": "\n\tStudent Handbook | OU College of Medicine\n",
+   "description": "Student Handbook | OU College of Medicine\nThis handbook has been prepared to provide MD students with quick access to important policies and information.\n > \nStudent Handbook | OU College of Medicine\nHSC Student Handbook Student Rights and Responsibilities Code and Procedures To view all College of Medicine policies, click here.",
+   "position": 3
+  },
+  {
+   "url": "https://medicine.ouhsc.edu/faculty/policies-and-procedures",
+   "title": "OU College of Medicine > Faculty > Policies and Procedures",
+   "description": " > \nOU College of Medicine > Faculty > Policies and Procedures\nPolicies and Procedures. College of Medicine Policy and Procedures Site \u00b7 Student Handbook; OUHSC Student Professional Behavior Policy\n > \nOU College of Medicine > Faculty > Policies and Procedures\nAnnual CME Event ... Policies and Procedures. College of Medicine Policy and Procedures Site \u00b7 Student Handbook \u00b7 OUHSC Student Professional Behavior Policy",
+   "position": 4
+  },
+  {
+   "url": "https://www.okbu.edu/programs/physician-associate-studies-ms/documents/pa-student-handbook.pdf",
+   "title": "STUDENT HANDBOOK",
+   "description": "28 ARTIFICIAL INTELLIGENCE (AI) POLICY....................................................................................................................................................................",
+   "position": 5
+  },
+  {
+   "url": "https://medicine.ouhsc.edu/current-learners/policies-and-procedures",
+   "title": "\n\tOU College of Medicine > Current Learners > Policies and Procedures\n",
+   "description": "OU College of Medicine > Current Learners > Policies and ...\nPolicies and Procedures. College of Medicine Policy and Procedures Site \u00b7 Student Handbook \u00b7 OUHSC Student Professional Behavior Policy.",
+   "position": 6
+  }
+ ],
+ "ouhsc": [
+  {
+   "url": "https://libguides.ouhsc.edu/ai",
+   "title": "Artificial Intelligence and Generative AI  - Artificial Intelligence  - LibGuides at University of Oklahoma Health Sciences Center",
+   "description": "* Artificial Intelligence and Generative AI\n* AI Tools\n* Considerations in Using AI Tools\n* AI and Publisher Policies\n* Manual of Citation for AI-Generated Content\n* AI in Medicine\n* AI Application Guidance for Students, Faculty, & Researchers\nAI and Gen AI Definitions\nWhat is Artificial Intelligence (AI)?\nSource: Oxford English Dictionary\n* Analyze and interpret existing data, make recommendations and decisions, solve complex problems, etc.\nWhat is Generative AI (Gen AI)?\n* A specific subset of AI\n* \"Generative AI refers to deep-learning models that can generate high-quality text, images, and other content based on the data they were trained on\" ( IBM )\n* Produce original content rather than analyzing or categorizing data\n* \"GenAI is trained using data collected from webpages, social media conversations and other online media.\nIt generates its content by statistically analysing the distributions of words, pixels or other elements in the data that it has ingested and identifying and repeating common patterns (for example, which words typically follow which other words).\" Source: United Nations Educational, Scientific and Cultural Organization (UNESCO). (2023).\nGuidance for generative AI in education and research.\n* Additional Information (video): AI, Machine Learning, Deep Learning and Generative AI Explained (10:00)\nPrompt Engineering\nWhat is a prompt?\n* A natural language text that requests the generative AI to perform a specific task\nWhat is Prompt Engineering?\n* The process where you guide generative AI solutions to generate desired outputs\n  Prompting Process\nAI in a Minute (video, 1:00)",
+   "position": 1
+  },
+  {
+   "url": "https://library.ouhsc.edu/News/details/endnote-2025-free-for-ou-health-campus-faculty-residentsfellows-students-and-staff",
+   "title": "\n\tEndNote 2025 \u2013 Free for OU Health Campus faculty,...\n",
+   "description": "* Key Takeaway: This generative AI-powered tool extracts key insights and takeaways from individual papers, summarizing the main points in seconds.\n* Find a Journal: This enhanced machine learning tool, available directly in the Cite While You Write plugin, helps you find the best journal match for your paper during the writing process.",
+   "position": 2
+  },
+  {
+   "url": "https://inside.ouhsc.edu/news/ou-enters-next-phase-of-ai-innovation",
+   "title": "OU Enters Next Phase of AI Innovation - InsideHSC News",
+   "description": "AI powers OU\u2019s next-generation weather research, including pioneering all-digital polarimetric phased array radar .",
+   "position": 3
+  }
+ ],
+ "kumc": [
+  {
+   "url": "https://www.kumc.edu/artificial-intelligence-resource-center/ai-resources.html",
+   "title": "AI Resources - KUMC",
+   "description": "Additionally, Databricks users can interact with popular generative AI foundation models or use Mosaic AI to improve those models for specific use cases.\nREQUEST ACCESS\nGuidance\nGuidelines for Using Generative Artificial Intelligence \u2013 Provides faculty, staff, students and affiliates with clear directives on the ethical and responsible use of generative artificial intelligence (GenAI) tools within the University of Kansas.\nKU Center for Teaching Excellence AI Resources \u2013 Provides guidance on many topics related to AI, including using Generative AI as a tutor, effective prompting, academic integrity, frequently asked questions and more.\nResearch Informatics has internal resources available to KUMC researchers, staff and students via the myKUMC intranet.\nRetaliation is also prohibited by university policy.",
+   "position": 1
+  },
+  {
+   "url": "https://guides.library.kumc.edu/artificial-intelligence/risks-and-mitigations",
+   "title": "AI Risks and Mitigations - Artificial Intelligence (AI) - KU / KUMC / K-State - Research Guides at University of Kansas Medical Center",
+   "description": "Policies and best practices around what does or doesn't count as plagiarism can be vague, unclear, or inconsistent, and may require a user to proactively investigate if their usage of generative AI is appropriate from one situation to the next.\n* Be aware of institutional, program, and classroom policies on both what is and isn't considered plagiarism and how to appropriately cite or document the use of AI generated content\n* Be aware of journal or publisher policies regarding the usage and crediting of AI generated content\n* Consult with instructors, policy owners, journal editors, and knowledge stakeholders regarding confusion or clarification on what is and isn't considered plagiarism\n* Document, credit, and report the usage of AI generated content in an honest and transparent manner\nPlagiarism Policies and Guidance\nData Privacy Policies and Guidelines\n* Kansas State Data Privacy Policy This link opens in a new window\n* University of Kansas Privacy Policies and Guidelines This link opens in a new window\nPrivacy Laws\nScholarly and academic publishers have expressed concern that authors may inadvertently or intentionally misuse AI models and tools to falsely represent their work, and subsequently many have updated their author guidelines and policies regarding the usage of AI.\nUsers should continually reeducate themselves on the state of harms generative AI technologies can cause, and advocate in their workplaces, communities, and governments for sustainable policies, regulations, and limits on generative AI usage.",
+   "position": 2
+  },
+  {
+   "url": "https://guides.library.kumc.edu/ai/tools",
+   "title": "Artificial Intelligence (AI) and Academia: AI Tools",
+   "description": " > \nArtificial Intelligence (AI) and Academia: AI Tools - Research Guides\nGenerative AI like ChatGPT is not an encyclopedia or a source for factual information. Its knowledge is limited to its training data, which might be outdated or\n > \nArtificial Intelligence (AI) and Academia: AI Tools\nMay 27, 2026 \u2014 Generative AI generates images, music, speech, code, video or text, while it interprets and manipulates pre-existing data. Generative AI is\n > \nArtificial Intelligence (AI) and Academia: AI Tools\nGenerative AI generates images, music, speech, code, video or text, while it interprets and manipulates pre-existing data.\n > \nArtificial Intelligence (AI) and Academia: AI Tools - Research Guides\nGenerative AI generates images, music, speech, code, video or text, while it interprets and manipulates pre-existing data. Generative AI is not a new\n > \nArtificial Intelligence (AI) and Academia: AI Tools\nApr 13, 2026 \u2014 Generative AI like ChatGPT is not an encyclopedia or a source for factual information. Its knowledge is limited to its training data, which",
+   "position": 3
+  },
+  {
+   "url": "https://guides.library.kumc.edu/copyright/artificial-intelligence-copyright",
+   "title": "Artifical Intelligence (AI) and Copyright - Copyright Information - Research Guides at University of Kansas Medical Center",
+   "description": "* Large Language Models (LLMs) - \"Computational models notable for its ability to achieve general-purpose language generation and other natural language processing tasks such as classification.\"\nCurrently a large number of different and openly available generative artificial intelligence (AI) tools exist that generate various kinds of information (text, audio, images, or video) when prompted by a user.\nThese tools and various models rely on large datasets to statistically analyze patterns in the data, predict connections between those patterns, and generate output based on the predictions. Typically, larger datasets are sourced from copying (or scrapping) copyrighted content on the open web without permission from the contents' copyright holders.\nBecause the legality of neither this scrapping nor the copyrightable status of AI produced content been determined yet by a court of law, A.R. Dykes Library recommends the following for KUMC scholars intending to publish:\n* Any AI tools used to support a project intended for publication should be stated within the project's methods section\n* If possible, the record and produced content of from an AI tool should be linked to as a normal citation or included as a supplementary file\n* Authors should consult with a publisher and on the publisher's Author Guidelines page(s) about policies related to the usage of AI tools. Some publishers explicitly prohibit its usage.\n* AI tools in general should not be used to create the final content in a published work\n* The reuse of any copyrighted materials (such as journal articles available via a Dykes Library database or subscription) to train any generative AI model may be prohibited by a material's copyright license or copyright holder. Permission for reuse should be sought if training is not explicitly allowed by a model's license or copyright status.\nCourse/Syllabus Copyright and AI Overview\nThe use of AI generated content in a course setting by an instructor (ex. designing and assignment or a syllabus) should follow the same process as any content used on the open web. KUMC course instructors should also consult the KU Center for Teaching Excellence AI Resources page for more information on All University guidance.\nAny AI policies related to student work should be stated as a best practice in a course syllabus.\n* Guidelines for Using Generative Artificial Intelligence (GenAl) - KUMC PolicyStat This link opens in a new window\n* Building Al policies into your syllabus - KU Center for Teaching Excellence This link opens in a new window\n* KU Center for Teaching Excellence (CTE) Al Resources This link opens in a new window",
+   "position": 4
+  },
+  {
+   "url": "https://guides.library.kumc.edu/artificial-intelligence/ai-basics",
+   "title": "AI Basics - Artificial Intelligence (AI) - KU / KUMC / K-State - Research Guides at University of Kansas Medical Center",
+   "description": "Systematic error in an AI system that has been designed, intentionally or not, in a way that may generate unfair decisions. Bias can be present both in the AI system and in the data used to train and test it. AI bias can emerge in an AI system as a result of cultural expectations; technical limitations; or unanticipated deployment contexts.\nThe representation of data in a new form, often a vector space. Similar data points have more similar embeddings. (From a16z)\nGenerative AI\nA branch of AI focused on creating models that can generate new and original content, such as images, music, or text, based on patterns and examples from existing data. (From a16z)\nGenerative Modeling\nA large-scale AI language model developed by OpenAI that generates human-like text. (From a16z)\nHallucination\nResponsible AI\nAn AI system that aligns development and behavior to goals and values. This includes developing and fielding AI technology in a manner that is consistent with democratic values. (From NIST)\nRetrieval Augmented Generation\n* Vetting: We have not vetted these tools. Many of them are known to make mistakes, so please use them with caution.\n* Accounts: The majority of these tools require that you create an account to use them. Before doing so, we recommend that you read their terms of use and privacy policy to learn how the data you share with them could be used.\nWe also suggest reviewing your institutional password policy to ensure that no login credentials are inappropriately used by a third party.\nIt works through two main modes: Find papers, which returns a ranked set of relevant papers with AI-generated context, and Generate a report, which uses retrieval-augmented generation to produce a structured, multi-section literature summary grounded in cited sources.\nmore... less...\n* Consensus This link opens in a new window\nHow Generative Artificial Intelligence (GenAI) Works\nThere is a great deal to know about how AI works. Below are some short, engaging videos, and brief documents to get you started.\nBasic",
+   "position": 5
+  },
+  {
+   "url": "https://guides.library.kumc.edu/ai",
+   "title": "Getting Started - Artificial Intelligence (AI) and Academia - Research Guides at University of Kansas Medical Center",
+   "description": "GAI (generative artificial intelligence): a type of artificial intelligence technology that broadly describes machine learning systems capable of generating text, images, code or other types of content, often in response to a prompt entered by a user (Hughes, 2023).\nGPT ( generative pre-trained transformer): A digital model that allows computer software to create natural-language text, generate computer code, and interact in a human-like way. A means of extrapolating new results from previous training. The most recent version, GPT-4, draws on nearly all text available on the internet (Ward, 2023).\nThey string words together that mimic the patterns it has analyzed. \u201cLarge\u201d refers to billions of words drawn from books and other digital texts (Ward, 2023).\nHughes, O. (2023, August 7). Generative AI defined: How it works, benefits, and dangers . Artificial Intelligence. https://www.techrepublic.com/article/what-is-generative-ai/\nWard, D. (2023).",
+   "position": 6
+  }
+ ],
+ "ku-som-pol": [
+  {
+   "url": "https://www.kumc.edu/artificial-intelligence-resource-center/ai-steering-committee.html",
+   "title": "AI Steering Committee - KUMC",
+   "description": "The AI Steering Committee at KU Medical Center aims to provide strategic guidance, governance and support for the use of artificial intelligence technologies in academics, university administration and research at the University of Kansas Medical Center.\nThe committee's main responsibility is to ensure that KU Medical Center becomes a national leader in developing AI technologies and educating students about their potential to transform various aspects of our lives while emphasizing and supporting their use responsibly and ethically.\nThe committee consists of diverse stakeholders and is responsible for evaluating the alignment of AI initiatives with the university's strategic plan, proposing appropriate resources, advising educators and administrators, supporting researchers, creating relevant policies and fulfilling other necessary tasks.\nView the Guidelines for Using Generative Artificial Intelligence\nThe KU Medical Center AI Steering Committee is led by Jeffrey Thompson, Ph.D. as the chair.\nJeffrey Thompson portrait Jeffrey Thompson\n**Anil Chauhan ** Vice-Chair of Artificial Intelligence, Informatics and Innovation and Professor, Department of Radiology, KU School of Medicine\n**Hannes Devos ** Associate Professor, Department of Physical Therapy, Rehabilitation Science and Athletic Training, KU School of Health Professions\n**Sushant Govindan, M.D., M.Sc. ** Vice Chair for Veterans Affairs, Department of Internal Medicine, KU School of Medicine\n**Christoper Griffith ** University Privacy Officer, Office of Integrity and Compliance\n**Chris Harper ** Senior Vice President and Chief Information Office-Kansas City \u2014 Observer\nJinxiang Hu Associate Professor, Department of Biostatistics and Data Science, KU School of Medicine\n**Tony Jenkins ** Assistant Director of IT Initiatives, The University of Kansas Health System IT Applications \u2014 Observer\nEmily Law Vice Chair for Research and Professor, Department of Pediatrics, KU School of Medicine\n**Meredith Martin ** Project Coordinator, KU Medical Center Research Administration \u2013 Secretary\n**Cliff Michaels ** Executive Director, Center for Technology Commercialization , KU and KU Medical Center\n**Jeremy Pennington ** Associate Vice Chancellor and Chief Information Security Officer\nDenton Shanks Associate Professor, Department of Family Medicine and Community Health, KU School of Medicine\n**Jennifer Staley ** Senior Director Research Systems Operations , KU Medical Center Research Administration\n**Kyle Stephens ** Director, Human Research Protection Program , KU Medical Center Research Administration\nJeffrey Thompson Chair of the AI Steering Committee Associate Vice Chancellor for Research Data and Analytics Chief Research Informatics Officer Associate Professor, Department of Biostatistics and Data Science, KU School of Medicine\nArtificial Intelligence Resource Center",
+   "position": 1
+  },
+  {
+   "url": "https://www.medicine.ku.edu/school-of-medicine/about/policies-and-procedures.html",
+   "title": "KU School of Medicine Policies and Procedures",
+   "description": "Skip to main content.\nAbout\nKU School of Medicine Policies and Procedures\nFind the policies and procedures regarding academics, learning activities, assessments and expectations, operations, along with related policies for the University of Kansas and The University of Kansas Health System.\nAcademics:\nFormal Processes and Actions:\n* Process for Actions Affecting Medical Student Status Policy, KU School of Medicine\n* Academic and Professionalism Committee (APC) Member Recusal for Conflict of Interest Policy, KU School of Medicine\n* Requirements for Promotion and Graduation with Granting of the M.D. Degree Policy, KU School of Medicine\n* Process for Grade or Evaluation Review, KU School of Medicine\n* Requesting Campus Assignment Changes Policy, KU School of Medicine\n* Attendance, Excused Absences, Withdrawals and Leaves Policy, KU School of Medicine\nRecords:\n* Confidentiality of Student Academic Files Policy, KU School of Medicine\n* Policy for Review and Challenge of Educational Record and Option to Request Alternative MSPE Letter Writer, KU School of Medicine\nLearning Activities, Assessments and Expectations:\n* Technical Standards, KU School of Medicine\n* Pre-clerkship Student Hours in the ACE Curriculum Policy, KU School of Medicine\n* Phase II Student Work Duty Hours Policy, KU School of Medicine\n* Timely Formative Feedback Policy, KU School of Medicine\n* Timeliness of Grades Policy, KU School of Medicine\n* Policy for the Provision of Written Narrative Assessment to Medical Students, KU School of Medicine\nLearning Environment and Professionalism:\n* Expectations for the Teacher-Learner Relationship, the Positive Learning Environment and Attributes of Professionalism Policy, KU School of Medicine\n* Student Mistreatment Prevention Policy, KU School of Medicine\n* Conflicts of Interest in the Learning Environment Policy, KU School of Medicine\n* Clinical Supervision of Medical Students Policy, KU School of Medicine\nUniversity of Kansas Medical Center Policies\n* Communicable Disease and Infection Control Policy\n* Enrollment/Dropping/Withdrawing Policy\n* International Educational and Professional Travel Policy, KUMC\n* Relationships Policy, KUMC\n* Immunization Requirements for Medical Students (Category A)\n* KUMC Student Flu Vaccination Policy\n* University of Kansas Policy on Weapons, Including Firearms - Effective July 1, 2017\n* Mobile Communication and Information Devices Policy\nKU School of Medicine\nUniversity of Kansas Medical Center School of Medicine 3901 Rainbow Boulevard Kansas City, KS 66160 913-588-5000\n* facebook\n* instagram\n* X (formerly Twitter)\n* KU Medical Center",
+   "position": 2
+  },
+  {
+   "url": "https://ai.ku.edu/students",
+   "title": "Students - Artificial Intelligence - The University of Kansas",
+   "description": "As Generative Artificial Intelligence (AI) continues to evolve, its integration into the academic environment at the University of Kansas (KU) offers new opportunities for student engagement and learning. KU supports the thoughtful use of AI to enhance educational experiences, support student research, and assist with routine academic tasks.\nThis approach reflects the university\u2019s values of collaboration, equity, excellence, integrity, and respect, and emphasizes ethical and responsible use of AI tools.\nOverview\nHowever, these systems do not understand content in the way people do; they generate outputs by predicting patterns based on their training data.\nCautions for Using Generative AI\nClick to expand\nA primary concern is relying on generative AI to replace your own thinking and effort rather than using it as a supplemental tool. AI should support your academic work, not do the work for you. Improper use of generative AI may result in plagiarism or other forms of academic misconduct.\nGenerative AI tools can also fabricate information, a phenomenon often referred to as \u201cAI hallucinations.\u201d This may include made up sources, incorrect facts, fictional people, or flawed problem solving. Because AI tools often present information in a confident tone, it is essential to review outputs critically.\nIf AI use is permitted, treat AI outputs as a starting point for revision, analysis, and further research. Submitting unedited or unexamined AI generated content as your own work may constitute academic misconduct. You are responsible for accuracy, clarity, structure, and overall quality, just as you are for work completed without AI assistance.\nBecause generative AI can produce incorrect information or unreliable code, review any AI assisted work carefully, and cite AI use when required by your instructor.\nGenerative AI and Academic Integrity\nThe University of Kansas does not currently have a university wide policy specific to the use of generative artificial intelligence in teaching and learning. Existing expectations for academic integrity continue to apply when AI tools are used.\nThe University Senate Rules and Regulations define academic misconduct by a student to include, but not be limited to, plagiarism, falsification of research results, misrepresentation of the source of academic work, violations of ethical research standards, or otherwise acting dishonestly in research.\nView the full definition of academic misconduct in the University Senate Rules and Regulations .\nThe KU Code of Ethical Conduct further emphasizes accountability, ethical decision making, originality of work, and appropriate attribution of ideas drawn from others\u2019 intellectual contributions.\nYour instructors should communicate course specific policies regarding generative AI use. Students are responsible for understanding and following those expectations and for completing coursework honestly. When expectations are unclea",
+   "position": 3
+  },
+  {
+   "url": "https://cte.ku.edu/creating-department-policy-ai-use",
+   "title": "Creating a department policy on AI use | Center for Teaching Excellence",
+   "description": "Guidelines from the university\u2019s AI Task Force provide important considerations on appropriate use of generative AI. By design, they leave many decisions to faculty, departments, and schools. Each discipline has different goals and expectations, and faculty have widely divergent views on the ethics and use of generative AI tools.\n1. What type of policy they want to pursue. This often comes down to one of three approaches.\n* Uniform policy. A uniform approach would provide consistency across courses and provide clarity to students. Reaching agreement could be difficult, though, and an overly strict policy could restrict instructor and student experimentation.\n* Flexible guidelines .\nThese could build on the AI Task Force guidelines and address additional elements related to teaching and learning. Or they could simply stipulate that each class must have an AI policy and that each instructor should discuss appropriate use of generative AI.\nThis would provide less clarity for students but would make consensus among faculty easier.\n* No policy . The department or school would point students, faculty, and staff to the guidelines from the AI Task Force.\nRegardless of a department\u2019s approach, every course should have clear guidelines on AI use and instructors should have open and frequent conversations with students about the ethical use of generative AI tools.\nAny guidelines or policy should include approaches to handling misuse of AI. AI detectors are unreliable and do not provide proof of student misconduct. How then will instructors determine what has been generated by AI and what has been created by students? What is proof of AI use?\nOnce a committee and department leaders have agreed on some of those foundational issues, they should work on some additional areas:\nIntegrate AI literacy. This is essential for helping students interact with generative AI ethically and effectively.\nAny AI-related guidelines or policy must be flexible enough to give faculty and students room to experiment but clear enough to establish some boundaries. That will be crucial as AI tools evolve in the coming years.\nDepartments should ground any policy or guidelines in share principles. Here's an example.\nThe suggestions in this document are grounded in KU\u2019s values and strategic plan, and in the work of KU faculty members. These include a commitment to integrity, respect, innovation, stewardship, and excellence.\nThey are aligned with KU\u2019s mission to educate leaders and make important discoveries. They are also grounded in the idea of KU as an exceptional learning community that values belonging, and in principles articulated by KU faculty members who have done work in generative AI.\n* Courses and curricula should be driven by pedagogical approaches that emphasize curiosity, discovery, and applied learning.\n* Human interaction is a core component of a KU education.\n* Inquiry and experimentation are core activities ",
+   "position": 4
+  },
+  {
+   "url": "https://www.bmj.com/content/390/bmj.r1418.full.pdf",
+   "title": "Should medical students be encouraged to use generative ...",
+   "description": "Should medical students be encouraged to use generative ...\nJul 23, 2025 \u2014 A 2024 study found that 69% of medical students used chatbots for educational purposes, and 80% intended to continue doing so in clinical practice,1 showing a.\n > \nShould medical students be encouraged to use generative ...\nJul 23, 2025 \u2014 We agree that artificial intelligence should be formally taught about in the medical curriculum, but argue it shouldn't be promoted. 1 the bmj | BMJ 2025;390:",
+   "position": 5
+  },
+  {
+   "url": "https://www.aamc.org/media/89636/download",
+   "title": "Executive Summary: Generative AI in Academic Medicine\u2014 2024 AAMC Medical School IT & SnippIT Survey Insights",
+   "description": "Executive Summary: Generative AI in Academic Medicine\u2014\n2024 AAMC Medical School IT & SnippIT Survey Insights\nPrepared by the GIR Steering Committee, December 2025\n1\nOverview\n1. Maturing Governance and Policy Frameworks:\na. A significant 69% of medical schools report having formal AI policies or guidelines for education, reflecting a proactive stance on the responsible integration of AI. Clinical missions follow at 51%, indicating an ongoing development curve in patient-facing areas.\na. Nearly half (48%) of medical schools have a five-year strategic plan for AI integration. These plans aim to embed AI capabilities responsibly across all operations, preserve data integrity, and address health disparities through an equity-focused approach.\n3. Widespread Tool Adoption with a Clear Leader:\na. Over 50% of schools provide AI tools for administration, education, and research, with Microsoft Copilot being the most frequently adopted and supported tool across all missions. Other commonly used platforms include OpenAI (ChatGPT/GPT-4) and Zoom AI Companion.\nb. Specialized tools are also gaining traction, such as Epic AI Tools, Nuance DAX Copilot for clinical documentation, and various research-focused AI platforms.\nc. 78% of medical schools offer genAI user training (workshops, resources, introductory sessions); 74% cover ethical use, and 56% provide prompt engineering guidance.\n4. Growing Adoption across Missions\na. Administration: AI supports recruitment, meeting transcription, document preparation, legal workflows, policy compliance, and event planning.\nb. Education: AI assists with curriculum design, exam authoring, clinical simulations, tutoring, providing feedback on student documentation, and enhancing accessibility.\nExecutive Summary: Generative AI in Academic Medicine\u2014\n2024 AAMC Medical School IT & SnippIT Survey Insights\nPrepared by the GIR Steering Committee, December 2025\n2\nKey Imperatives\n\u2022 Invest in Dedicated AI Leadership and Expertise : Many schools are establishing roles like Associate Dean of AI in Medicine or Director of Clinical AI. Administrators should ensure that these roles are supported by appropriate qualifications (e.g., an MS in AI, an MD, or a PhD in relevant fields) to drive strategic initiatives.\n\u2022 Champion Workforce AI Literacy and Training : A substantial majority of schools (78%) offer introductory AI training, including ethical use (74%) and prompt engineering (56%). Sustained investment in these programs is vital to prepare faculty, staff, and students for the evolving demands of an AI-augmented environment.\n\u2022 Address Core Concerns Proactively : Administrators must actively manage top concerns, including data privacy and security, the accuracy of AI outputs, potential bias, and regulatory compliance. Clear communication channels (email, website, workshops) for AI policies are essential.\nConclusion Generative AI presents unprecedented opportunities and challenge",
+   "position": 6
+  }
+ ],
+ "ucdavis-gme": [
+  {
+   "url": "https://health.ucdavis.edu/graduate-medical-education/current-residents-fellows/gme-policies",
+   "title": "Policies | Graduate Medical Education | UC Davis School of Medicine",
+   "description": "* Visiting Residents\n* California Medical Board Licensing Requirements\n* Housing Notices\n* Why UC Davis\n* Living in Sacramento\n* Current Residents and Fellows chevron_right\nchevron_left Back\nCurrent Residents and Fellows arrow_forward Elevate your medical journey.\n* Policies\n* Resident Committee\n* Additional Resources\n* Report a Concern\n* MedHub\nPolicies | Graduate Medical Education | UC Davis School of Medicine\n1. UC Davis Health\n2. School of Medicine\n3. Graduate Medical Education\n4. Current Residents and Fellows\n5. Policies\nPolicies\nThese policies ensure the quality and safety of graduate medical education for residents, fellows, and the patients they care for.\n* Resident Medical Staff Policy and Procedure Manual (PDF) is also available on the Human Resources Residency Program webpage\n* UC Davis Housestaff Leaves and Accruals FAQ (PDF)\n* 2022 - 2025 Collective Bargaining Agreement\n* 2025 - 2026 UC Davis Housestaff Compensation Plan (PDF)\n* UC Davis Health Policies and Procedures (UCD login required)\nThe following policies supersede the policies in the July 2014 Resident Medical Staff Policy Manual.\n* Academic Appointments & Compensation Policy (PDF)\n* Clinical and Educational Work Hours (PDF)\n* Education and Work Environment (PDF)\n* Eligibility and Selection Policy for ACGME-Accredited Training Programs (PDF)\n* GME Leave Coverage Policy (PDF)\n* GME New Hire Orientation Policy (PDF)\n* GME Record Retention Policy (PDF)",
+   "position": 1
+  },
+  {
+   "url": "https://health.ucdavis.edu/news/headlines/pilot-program-in-emergency-medicine-department-trains-residents-to-use-ai-tool/2026/03",
+   "title": "Pilot program in emergency medicine department trains residents to use AI tool",
+   "description": "1. UC Davis Health\n2. News\n3. Headlines\n4. Pilot program in emergency medicine department trains residents ...\n  Health and Technology March 11, 2026\nPilot program in emergency medicine department trains residents to use AI tool\nBy Liam Connolly\nAdvanced technology for note-taking helps ease doctor workload and improves patient experience\n(SACRAMENTO)\nUC Davis Health is leveraging artificial intelligence (AI) to enhance patient care and reduce the workload of experienced physicians. And now it\u2019s taking a step further by preparing the next generation of health care providers to harness the advanced technology in a way that only an academic medical center can.\nThe Department of Emergency Medicine at UC Davis Medical Center is implementing a pilot program to teach its residents to use note-taking technology that faculty physicians have already implemented in their clinics.\nThe pilot program will provide residents with training to apply generative AI tools during patient encounters, review those notes, and understand the opportunities and inherent risks of using the technology.\n\u201cWe take great pride in preparing our residents for real-world practice,\u201d shared Aman Parikh , professor of emergency medicine, who oversees the pilot program. \u201cOur goal is to help them grow into confident, skilled attending physicians \u2014 and integrating tools like AI scribes is an essential part of that journey.\u201d\nAman Parikh\n\u201cWe take great pride in preparing our residents for real-world practice. Our goal is to help them grow into confident, skilled attending physicians \u2014 and integrating tools like AI scribes is an essential part of that journey.\u201d \u2014 Aman Parikh\nWhat is AI scribe technology?\nSafe and responsible use of AI\nThe growth of AI has created significant benefits but also some challenges for health care systems to support responsible adoption of the technology.\nUC Davis Health has been using AI for many meaningful tasks, aside from note taking.\n\u201cOur AI governance committee provides critical oversight to ensure that every pilot is thoughtfully designed and that decisions around expansion are guided by rigorous analysis of effectiveness, safety and health equity,\u201d explained Jason Yeates Adams , professor of medicine and chair of the Health Analytics Core .\nThe pilot program in emergency medicine \u2014 the first UC Davis residents to train on AI scribe \u2014 was approved and vetted by the oversight committee.\n\u201cMany training programs haven\u2019t yet adopted this technology for residents, which highlights that we\u2019re at the forefront of AI integration,\u201d Adams said.\nA leader in training future health care providers\nThe health system hosts more than 850 full-time residents and fellows across 75 programs accredited by the Accreditation Council for Graduate Medical Education .\n\u201cAs the only academic medical center in the Sacramento region, we have a responsibility to continually evolve and prepare our residents for the future of medicine,\u201d Parikh said.",
+   "position": 2
+  },
+  {
+   "url": "https://health.ucdavis.edu/welcome/news/headlines/pilot-program-in-emergency-medicine-department-trains-residents-to-use-ai-tool/2026/03",
+   "title": "Pilot program in emergency medicine department trains residents to use AI tool",
+   "description": "Pilot program in emergency medicine department trains residents to use AI tool\n1. UC Davis Health\n2. News\n3. Pilot program in emergency medicine department trains residents ...\n  Health and Technology March 11, 2026\nPilot program in emergency medicine department trains residents to use AI tool\nBy Liam Connolly\n(SACRAMENTO)\nUC Davis Health is leveraging artificial intelligence (AI) to enhance patient care and reduce the workload of experienced physicians. And now it\u2019s taking a step further by preparing the next generation of health care providers to harness the advanced technology in a way that only an academic medical center can.\nThe Department of Emergency Medicine at UC Davis Medical Center is implementing a pilot program to teach its residents to use note-taking technology that faculty physicians have already implemented in their clinics.\nThe pilot program will provide residents with training to apply generative AI tools during patient encounters, review those notes, and understand the opportunities and inherent risks of using the technology.\n\u201cWe take great pride in preparing our residents for real-world practice,\u201d shared Aman Parikh , professor of emergency medicine, who oversees the pilot program. \u201cOur goal is to help them grow into confident, skilled attending physicians \u2014 and integrating tools like AI scribes is an essential part of that journey.\u201d\nAman Parikh\n\u201cWe take great pride in preparing our residents for real-world practice. Our goal is to help them grow into confident, skilled attending physicians \u2014 and integrating tools like AI scribes is an essential part of that journey.\u201d \u2014 Aman Parikh\nWhat is AI scribe technology?\nFollowing a patient encounter recorded by the software, AI organizes the conversation into a medical note \u2014 in this case, an emergency department provider note. This includes the patient\u2019s medical history, physical exams and medical decision making.\nAfter a physician reviews, edits, and approves the notes, they are uploaded directly into the patient\u2019s medical record.\n\u201cWith AI scribe, doctors can focus more on their patient and truly listen, without having to rush to the computer to jot down notes before they forget important details,\u201d explained Parikh.\nSafe and responsible use of AI\nThe growth of AI has created significant benefits but also some challenges for health care systems to support responsible adoption of the technology.\nUC Davis Health has been using AI for many meaningful tasks, aside from note taking.\nTheir goal is to develop a streamlined and innovative approach that ensures health AI is implemented responsibly, ethically and effectively \u2014 always with the best interests of patients and the community in mind.\nThe pilot program in emergency medicine \u2014 the first UC Davis residents to train on AI scribe \u2014 was approved and vetted by the oversight committee.\n\u201cMany training programs haven\u2019t yet adopted this technology for residents, which highlights that we\u2019re at the forefront of AI integration,\u201d Adams said.",
+   "position": 3
+  },
+  {
+   "url": "https://health.ucdavis.edu/compliance/about-us/our-team",
+   "title": "",
+   "description": "## Avan Lo Compliance Data Manager [alo@health.ucdavis.edu](mailto:alo@health.ucdavis.edu) [916-734-4373\nAngela Haney. Project Policy Analyst aahaney@health.ucdavis.edu.\nQueta Hazen General Compliance Program Manager [erico@health.ucdavis.edu](mailto:erico@health.ucdavis.edu) [916-734-2132](tel:1-916-734-2132) Avan Lo Compliance Data Manager [alo@health.ucdavis.edu](mailto:alo@health.ucdavis.edu) [916-734-4373\nAvan Lo Compliance Data Manager [alo@health.ucdavis.edu](mailto:alo@health.ucdavis.edu) [916-734-4373](tel:1-916-734-4373)\nGeneral Compliance Program Manager erico@health.ucdavis.edu \u00b7 916-734-2132 \u00b7 Angela Haney. Project Policy Analyst aahaney@health.ucdavis.edu \u00b7 Avan",
+   "position": 4
+  },
+  {
+   "url": "https://health.ucdavis.edu/chpr/news/topic/artificial-intelligence",
+   "title": "Browse Topic: Artificial Intelligence (AI) | Center for Healthcare Policy and Research | UC Davis Health",
+   "description": "Search All UC Davis Health Search Search enhanced by Google\nUC Davis Health Center for Healthcare Policy and Research\nShow menu\nmenu Menu\n* Research\n* Policy and Practice\n* Education chevron_right\nchevron_left Back\nBrowse Topic: Artificial Intelligence (AI) | Center for Healthcare Policy and Research | UC Davis Health\nBrowse Topic\nArtificial Intelligence (AI)\n* A scientist in a lab coat interacts with a glowing blue digital data stream, representing advanced technology and scientific discovery.\n  May 08, 2026\nWhy human review is key to the success of AI in health care\nProfessor Courtney Lyles discusses ways to detect and prevent bias in AI models and how UC Davis Health is building fairer and more reliable AI systems to serve patients and physicians.\nRead More\n* A large group of healthcare professionals wearing scrubs and badges pose outdoors, with trees and buildings in the background.\n  April 30, 2026\nVascular surgery resident receives grant to develop AI model to assess surgical technical skills\nVascular surgery resident Keenan Gibson has received a grant to develop an AI model that objectively assesses surgical skills, expanding equitable training globally.\nRead More\n* Doctor wearing a stethoscope holds a tablet projecting the human large intestine on the screen.\n  April 08, 2026\nHow UC Davis Health is using AI to improve the quality of colonoscopies\nGastroenterologists are using AI to improve the quality of colonoscopy procedures, track doctor performance more clearly and reduce patients\u2019 risk of developing colorectal cancer.\nRead More\n* AI health care concept with a doctor holding a stethoscope, digital icons and futuristic technology background.\n  March 11, 2026\nPilot program in emergency medicine department trains residents to use AI tool\nThe Department of Emergency Medicine at UC Davis Medical Center is implementing a pilot program to teach its residents to use note-taking technology that faculty physicians have already implemented in their clinics.\nRead More\nAn interdisciplinary team is using AI to better predict who is at risk for progression of AFib and who will benefit most from specific treatments.\nRead More\nCenter for Healthcare Policy and Research\nMake a gift\nEmail chpr@health.ucdavis.edu\nQuick Links\nPrevention Policy and Practice Group\nCA Quits\nWork with CHPR",
+   "position": 5
+  },
+  {
+   "url": "https://health.ucdavis.edu/welcome/news/topic/artificial-intelligence",
+   "title": "Browse Topic: Artificial Intelligence (AI) | Welcome | UC Davis Health",
+   "description": "* Residency Programs and Fellowships\n* Clinical Studies\n* Career Opportunities\n* Professional Development\n* Clinical News\n* Schools & Programs chevron_right\nchevron_left Back\nSchools & Programs arrow_forward UC Davis schools and education programs offer the highest quality training, skills and values to lead change and improve health for all.\nVascular surgery resident receives grant to develop AI model to assess surgical technical skills\nVascular surgery resident Keenan Gibson has received a grant to develop an AI model that objectively assesses surgical skills, expanding equitable training globally.\nRead More\nPilot program in emergency medicine department trains residents to use AI tool\nThe Department of Emergency Medicine at UC Davis Medical Center is implementing a pilot program to teach its residents to use note-taking technology that faculty physicians have already implemented in their clinics.\nRead More",
+   "position": 6
+  }
+ ],
+ "banner2": [
+  {
+   "title": "Policy | College of Medicine - Tucson",
+   "url": "https://medicine.arizona.edu/resource-type/policy",
+   "description": "This policy outlines principles and guidelines for the appropriate use of artificial intelligence (AI) tools, including but not limited to generative AI systems, machine learning platforms, and image recognition software, by medical students.",
+   "position": 1
+  },
+  {
+   "title": "Artificial Intelligence (AI) Use by Students Policy",
+   "url": "https://phoenixmed.arizona.edu/policy/ai-use-by-student-policy",
+   "description": "Aug 11, 2026 \u00b7 It is the policy of the University of Arizona College of Medicine - Phoenix that students understand and adhere to established principles and guidelines for the appropriate use of artificial intelligence (AI) tools during their education.",
+   "position": 2
+  },
+  {
+   "title": "AI Guidelines & Principles | Artificial Intelligence",
+   "url": "https://responsibleai.arizona.edu/ai-arizona/ai-guidelines-principles",
+   "description": "Review Arizona\u2019s guidelines for responsible, secure, and academically honest AI use. Find policies, syllabus language, and support.",
+   "position": 3
+  },
+  {
+   "title": "Policy on Student Use of AI | College of Medicine - Tucson",
+   "url": "https://medicine.arizona.edu/internal-resources/form/policy-student-use-ai",
+   "description": "Jul 27, 2026 \u00b7 This policy outlines principles and guidelines for the appropriate use of artificial intelligence (AI) tools, including but not limited to generative AI systems, machine learning platforms, and image recognition software, by medical students.",
+   "position": 4
+  },
+  {
+   "title": "Home | Artificial Intelligence",
+   "url": "https://responsibleai.arizona.edu/",
+   "description": "Our guidelines help students, faculty and staff understand what responsible AI use looks like \u2014 in the classroom, in the lab and in everyday work. View AI Guidelines & Principles. 11 a.m. \u2013 1 p.m., Today.",
+   "position": 5
+  },
+  {
+   "title": "Artificial Intelligence and Health | Research and Partnerships",
+   "url": "https://research.arizona.edu/strategic-initiative/ai-health",
+   "description": "Govern AI responsibly: Build algorithmic impact assessments, interpretability tools, and stakeholder-informed governance frameworks \u2014 co-developed with Tribal and state partners \u2014 into every funded project to keep AI in health care safe, transparent, and equitable.",
+   "position": 6
+  }
+ ],
+ "unmc-wiki": [
+  {
+   "title": "UNMC AI Use Guidelines - University of Nebraska Medical Center",
+   "url": "https://wiki.unmc.edu/index.php/UNMC_AI_Use_Guidelines",
+   "description": "Sep 10, 2026 \u00b7 These guidelines seek to balance the new possibilities offered by generative AI and other AI-enabled tools with awareness of their limitations and the need for rigorous attention to accuracy, intellectual property, security, privacy, and ethical issues.",
+   "position": 1
+  },
+  {
+   "title": "Utilizing Generative AI - University of Nebraska Medical Center",
+   "url": "https://wiki.unmc.edu/index.php?title=Utilizing_Generative_AI&redirect=no",
+   "description": "From University of Nebraska Medical Center Redirect page Redirect to: UNMC AI Use Guidelines",
+   "position": 2
+  },
+  {
+   "title": "Task force report outlines future for AI use at UNMC",
+   "url": "https://www.unmc.edu/newsroom/2024/05/28/task-force-report-outlines-future-for-ai-use-at-unmc/",
+   "description": "May 28, 2024 \u00b7 The UNMC AI Task Force Report outlines ways to best take advantage of the AI transformation \u2013 using generative AI\u2019s potential for innovation, shaping policies to guide its use and bringing together UNMC professionals already involved in the field.",
+   "position": 3
+  },
+  {
+   "title": "Generative AI - University of Nebraska Medical Center",
+   "url": "https://wiki.unmc.edu/index.php/Generative_AI",
+   "description": "Generative AI From University of Nebraska Medical Center",
+   "position": 4
+  },
+  {
+   "title": "\"UNMC AI Task Force Report\" by Emily Glenn, Rachel Lookadoo ...",
+   "url": "https://digitalcommons.unmc.edu/unmc_reports/1/",
+   "description": "What must we know, do and plan for regarding generative artificial intelligence in the domains of enhancing education, research, clinical care, business functions and in combating misinformation/disinformation?",
+   "position": 5
+  },
+  {
+   "title": "Home - AI & GenAI Resources - Research Guides at University ...",
+   "url": "https://unmc.libguides.com/AIresources",
+   "description": "Aug 19, 2026 \u00b7 These videos introduce artificial intelligence and generative AI: how they work, how they're used, and their benefits and limitations. The following terms are adapted, with permission, from MIT Sloan Teaching & Learning Technologies. The full glossary can be found by visiting their site.",
+   "position": 6
+  }
+ ]
+}

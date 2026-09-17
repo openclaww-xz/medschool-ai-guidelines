@@ -1,129 +1,162 @@
-US Medical School & Health System AI Guidelines — Descriptive Analysis
-================
-Run 20
-2026-09-17
-
 ## Setup
 
-All figures are derived exclusively from `analysis/clauses.csv` (161
-documents, 13 columns), read with `utils::read.csv`. Blank cells count
+All figures are derived exclusively from `analysis/clauses.csv`
+(documents × 13 columns), read with `utils::read.csv`. Blank cells count
 as absent. No other data source is consulted; no numbers are imputed.
 
-``` r
-library(tidyverse)
-library(ggsci)
-library(lubridate)
-theme_set(theme_minimal(base_size = 12) +
-          theme(plot.title.position = "plot",
-                plot.caption.position = "plot",
-                legend.position = "bottom"))
-```
+Note (run 24): figures 6–7 aggregate by named institution; `org` strings
+that belong to the same university (e.g. “Harvard Medical School IT” and
+“Harvard University”) are grouped via the match patterns defined in the
+Figure 6 chunk.
 
-``` r
-# path robust to whether knitr's root is analysis/ or the repo root
-csv_path <- if (file.exists("clauses.csv")) "clauses.csv" else "analysis/clauses.csv"
-clauses <- utils::read.csv(csv_path,
-                           stringsAsFactors = FALSE, na.strings = c("NA"))
-n_docs <- nrow(clauses)
+    library(tidyverse)
+    library(ggsci)
+    library(lubridate)
+    theme_set(theme_minimal(base_size = 12) +
+              theme(plot.title.position = "plot",
+                    plot.caption.position = "plot",
+                    legend.position = "bottom"))
 
-# ---- derivations (all from CSV cells; blank == absent) ----
+    # path robust to whether knitr's root is analysis/ or the repo root
+    csv_path <- if (file.exists("clauses.csv")) "clauses.csv" else "analysis/clauses.csv"
+    clauses <- utils::read.csv(csv_path,
+                               stringsAsFactors = FALSE, na.strings = c("NA"))
+    n_docs <- nrow(clauses)
 
-# year from effective_date; extract first 4-digit year token, keep only 202x
-clauses <- clauses %>%
-  mutate(
-    year_chr   = str_extract(trimws(as.character(effective_date)), "\\d{4}"),
-    year       = suppressWarnings(as.integer(year_chr)),
-    year       = if_else(!is.na(year) & year >= 2020 & year <= 2026, year, NA_integer_),
-    # formal policy vs guidance: formal policy & handbook are prescriptive;
-    # guidance & curricular are advisory
-    doc_group  = case_when(
-      doc_type %in% c("formal policy", "handbook section") ~ "formal policy / handbook",
-      doc_type %in% c("guidance", "curricular")           ~ "guidance / curricular",
-      TRUE                                                 ~ NA_character_
-    ),
-    sector     = case_when(
-      str_detect(applies_to, regex("clinician|resident|fellow|VUMC|health-system|CME", ignore_case = TRUE)) &
-        !str_detect(applies_to, regex("student|faculty|trainee|PA |instructor", ignore_case = TRUE)) ~ "Health system / GME-clinical",
-      str_detect(applies_to, regex("student|trainee|learner|curriculum", ignore_case = TRUE)) |
-        doc_type %in% c("curricular") ~ "UME (learners)",
-      !is.na(applies_to) & trimws(applies_to) != "" ~ "Mixed / other",
-      TRUE ~ NA_character_
-    ),
-    has_banned    = trimws(as.character(banned_uses))       != "",
-    has_tool      = trimws(as.character(secure_tools_named)) != "",
-    has_phi       = trimws(as.character(phi_rule))          != "",
-    has_disclosure= trimws(as.character(disclosure_rule))   != "",
-    has_enforce   = trimws(as.character(enforcement))       != "",
-    has_assess    = trimws(as.character(assessment_rule))   != "",
-    aamc_yes      = str_detect(tolower(as.character(aamc_alignment)), "^yes"),
-    phi_hipaa     = has_phi & str_detect(phi_rule, regex("hipaa|phi", ignore_case = TRUE)),
-    phi_baa       = has_phi & str_detect(phi_rule, regex("business associate|\\bbaa\\b", ignore_case = TRUE)),
-    phi_prohibit  = has_phi & str_detect(phi_rule, regex("never|not be (entered|input|exposed|used)|may not|prohibit|do not post|violation", ignore_case = TRUE)),
-    phi_deid      = has_phi & str_detect(phi_rule, regex("de-?identif|sanitiz", ignore_case = TRUE)),
-    phi_approv    = has_phi & str_detect(phi_rule, regex("approved|enterprise|hipaa compliant|hipAA certified|contract|sensitive data|approved for", ignore_case = TRUE))
-  )
-```
+    # ---- derivations (all from CSV cells; blank == absent) ----
+
+    # year from effective_date; extract first 4-digit year token, keep only 202x
+    clauses <- clauses %>%
+      mutate(
+        year_chr   = str_extract(trimws(as.character(effective_date)), "\\d{4}"),
+        year       = suppressWarnings(as.integer(year_chr)),
+        year       = if_else(!is.na(year) & year >= 2020 & year <= 2026, year, NA_integer_),
+        # formal policy vs guidance: formal policy & handbook are prescriptive;
+        # guidance & curricular are advisory
+        doc_group  = case_when(
+          doc_type %in% c("formal policy", "handbook section") ~ "formal policy / handbook",
+          doc_type %in% c("guidance", "curricular")           ~ "guidance / curricular",
+          TRUE                                                 ~ NA_character_
+        ),
+        sector     = case_when(
+          str_detect(applies_to, regex("clinician|resident|fellow|VUMC|health-system|CME", ignore_case = TRUE)) &
+            !str_detect(applies_to, regex("student|faculty|trainee|PA |instructor", ignore_case = TRUE)) ~ "Health system / GME-clinical",
+          str_detect(applies_to, regex("student|trainee|learner|curriculum", ignore_case = TRUE)) |
+            doc_type %in% c("curricular") ~ "UME (learners)",
+          !is.na(applies_to) & trimws(applies_to) != "" ~ "Mixed / other",
+          TRUE ~ NA_character_
+        ),
+        has_banned    = trimws(as.character(banned_uses))       != "",
+        has_tool      = trimws(as.character(secure_tools_named)) != "",
+        has_phi       = trimws(as.character(phi_rule))          != "",
+        has_disclosure= trimws(as.character(disclosure_rule))   != "",
+        has_enforce   = trimws(as.character(enforcement))       != "",
+        has_assess    = trimws(as.character(assessment_rule))   != "",
+        aamc_yes      = str_detect(tolower(as.character(aamc_alignment)), "^yes"),
+        phi_hipaa     = has_phi & str_detect(phi_rule, regex("hipaa|phi", ignore_case = TRUE)),
+        phi_baa       = has_phi & str_detect(phi_rule, regex("business associate|\\bbaa\\b", ignore_case = TRUE)),
+        phi_prohibit  = has_phi & str_detect(phi_rule, regex("never|not be (entered|input|exposed|used)|may not|prohibit|do not post|violation", ignore_case = TRUE)),
+        phi_deid      = has_phi & str_detect(phi_rule, regex("de-?identif|sanitiz", ignore_case = TRUE)),
+        phi_approv    = has_phi & str_detect(phi_rule, regex("approved|enterprise|hipaa compliant|hipAA certified|contract|sensitive data|approved for", ignore_case = TRUE))
+      )
 
 Dataset: **161** documents, 136 distinct organizations.
 
-``` r
-clauses %>% count(doc_type, doc_group) %>% knitr::kable()
-```
+    clauses %>% count(doc_type, doc_group) %>% knitr::kable()
 
-| doc_type         | doc_group                |   n |
-|:-----------------|:-------------------------|----:|
-| curricular       | guidance / curricular    |   5 |
-| formal policy    | formal policy / handbook |  37 |
-| guidance         | guidance / curricular    | 113 |
-| handbook section | formal policy / handbook |   6 |
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">doc_type</th>
+<th style="text-align: left;">doc_group</th>
+<th style="text-align: right;">n</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">curricular</td>
+<td style="text-align: left;">guidance / curricular</td>
+<td style="text-align: right;">5</td>
+</tr>
+<tr>
+<td style="text-align: left;">formal policy</td>
+<td style="text-align: left;">formal policy / handbook</td>
+<td style="text-align: right;">37</td>
+</tr>
+<tr>
+<td style="text-align: left;">guidance</td>
+<td style="text-align: left;">guidance / curricular</td>
+<td style="text-align: right;">113</td>
+</tr>
+<tr>
+<td style="text-align: left;">handbook section</td>
+<td style="text-align: left;">formal policy / handbook</td>
+<td style="text-align: right;">6</td>
+</tr>
+</tbody>
+</table>
 
-``` r
-clauses %>% count(sector) %>% knitr::kable()
-```
+    clauses %>% count(sector) %>% knitr::kable()
 
-| sector                       |   n |
-|:-----------------------------|----:|
-| Health system / GME-clinical |  26 |
-| Mixed / other                |   8 |
-| UME (learners)               | 119 |
-| NA                           |   8 |
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">sector</th>
+<th style="text-align: right;">n</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Health system / GME-clinical</td>
+<td style="text-align: right;">26</td>
+</tr>
+<tr>
+<td style="text-align: left;">Mixed / other</td>
+<td style="text-align: right;">8</td>
+</tr>
+<tr>
+<td style="text-align: left;">UME (learners)</td>
+<td style="text-align: right;">119</td>
+</tr>
+<tr>
+<td style="text-align: left;">NA</td>
+<td style="text-align: right;">8</td>
+</tr>
+</tbody>
+</table>
 
 ## Figure 1 — Adoption timeline by year and document type
 
-``` r
-f1 <- clauses %>%
-  filter(!is.na(year)) %>%
-  count(year, doc_group) %>%
-  ggplot(aes(x = factor(year), y = n, fill = doc_group)) +
-  geom_col(position = position_dodge(preserve = "single"), width = 0.75) +
-  geom_text(aes(label = n),
-            position = position_dodge(width = 0.75), vjust = -0.35, size = 3.2) +
-  scale_fill_nejm(name = "Document type") +
-  labs(
-    title = "AI guideline adoption timeline by year and document type",
-    subtitle = sprintf("%d of %d documents with a parseable effective date (blank = no date recorded)",
-                       sum(!is.na(clauses$year)), n_docs),
-    x = "Effective year", y = "Number of documents",
-    caption = "Source: analysis/clauses.csv; year = first 4-digit token of effective_date"
-  )
-f1
-```
+    f1 <- clauses %>%
+      filter(!is.na(year)) %>%
+      count(year, doc_group) %>%
+      ggplot(aes(x = factor(year), y = n, fill = doc_group)) +
+      geom_col(position = position_dodge(preserve = "single"), width = 0.75) +
+      geom_text(aes(label = n),
+                position = position_dodge(width = 0.75), vjust = -0.35, size = 3.2) +
+      scale_fill_nejm(name = "Document type") +
+      labs(
+        title = "AI guideline adoption timeline by year and document type",
+        subtitle = sprintf("%d of %d documents with a parseable effective date (blank = no date recorded)",
+                           sum(!is.na(clauses$year)), n_docs),
+        x = "Effective year", y = "Number of documents",
+        caption = "Source: analysis/clauses.csv; year = first 4-digit token of effective_date"
+      )
+    f1
 
 <img src="figs/fig1-adoption-timeline-1.png" alt="" width="864" />
 
-``` r
-# Sensitivity view: undated documents shown as "no date", by doc group
-clauses %>%
-  mutate(dated = if_else(is.na(year), "no date in CSV", "dated")) %>%
-  count(dated, doc_group) %>%
-  ggplot(aes(x = dated, y = n, fill = doc_group)) +
-  geom_col(position = position_dodge(preserve = "single"), width = 0.6) +
-  geom_text(aes(label = n), position = position_dodge(width = 0.6), vjust = -0.3) +
-  scale_fill_nejm(name = "Document type") +
-  labs(title = "Dated vs undated documents by type",
-       x = NULL, y = "Number of documents",
-       caption = "Source: analysis/clauses.csv")
-```
+    # Sensitivity view: undated documents shown as "no date", by doc group
+    clauses %>%
+      mutate(dated = if_else(is.na(year), "no date in CSV", "dated")) %>%
+      count(dated, doc_group) %>%
+      ggplot(aes(x = dated, y = n, fill = doc_group)) +
+      geom_col(position = position_dodge(preserve = "single"), width = 0.6) +
+      geom_text(aes(label = n), position = position_dodge(width = 0.6), vjust = -0.3) +
+      scale_fill_nejm(name = "Document type") +
+      labs(title = "Dated vs undated documents by type",
+           x = NULL, y = "Number of documents",
+           caption = "Source: analysis/clauses.csv")
 
 <img src="figs/fig1-alt-all-1.png" alt="" width="864" />
 
@@ -133,194 +166,467 @@ Themes are keyword patterns applied to the `banned_uses` free text; a
 document counts toward a theme if any keyword matches (blank cells never
 match).
 
-``` r
-theme_patterns <- c(
-  "PHI / patient data into AI"  = "phi\\b|patient|hipaa|identifiable",
-  "Graded work / exams"         = "exam|graded|grade |assessment|quiz|proctored|assignment",
-  "Plagiarism / passing off AI work as own" = "plagiar|one's own|as own|original|misrepresent",
-  "Clinical documentation"      = "note|documentation|h&p|progress note|ehr",
-  "Unapproved / public tools"   = "unapproved|non-approved|not approved|unapproved|public tool|public or non",
-  "Confidential / institutional data" = "confidential|institutional data|university data|sensitive information|student records"
-)
-has_any <- function(x, pattern) !is.na(x) & str_detect(x, regex(pattern, ignore_case = TRUE))
+    theme_patterns <- c(
+      "PHI / patient data into AI"  = "phi\\b|patient|hipaa|identifiable",
+      "Graded work / exams"         = "exam|graded|grade |assessment|quiz|proctored|assignment",
+      "Plagiarism / passing off AI work as own" = "plagiar|one's own|as own|original|misrepresent",
+      "Clinical documentation"      = "note|documentation|h&p|progress note|ehr",
+      "Unapproved / public tools"   = "unapproved|non-approved|not approved|unapproved|public tool|public or non",
+      "Confidential / institutional data" = "confidential|institutional data|university data|sensitive information|student records"
+    )
+    has_any <- function(x, pattern) !is.na(x) & str_detect(x, regex(pattern, ignore_case = TRUE))
 
-theme_long <- imap_dfr(theme_patterns, function(p, nm) {
-  clauses %>% transmute(org, sector, hit = has_any(banned_uses, p)) %>%
-    mutate(theme = nm)
-})
-theme_summary <- theme_long %>%
-  group_by(theme) %>%
-  summarise(overall = sum(hit), .groups = "drop") %>%
-  mutate(pct = sprintf("%d%%", round(100 * overall / n_docs))) %>%
-  arrange(desc(overall))
-theme_summary %>% knitr::kable()
-```
+    theme_long <- imap_dfr(theme_patterns, function(p, nm) {
+      clauses %>% transmute(org, sector, hit = has_any(banned_uses, p)) %>%
+        mutate(theme = nm)
+    })
+    theme_summary <- theme_long %>%
+      group_by(theme) %>%
+      summarise(overall = sum(hit), .groups = "drop") %>%
+      mutate(pct = sprintf("%d%%", round(100 * overall / n_docs))) %>%
+      arrange(desc(overall))
+    theme_summary %>% knitr::kable()
 
-| theme                                   | overall | pct |
-|:----------------------------------------|--------:|:----|
-| PHI / patient data into AI              |      29 | 18% |
-| Graded work / exams                     |      26 | 16% |
-| Confidential / institutional data       |      25 | 16% |
-| Unapproved / public tools               |      17 | 11% |
-| Clinical documentation                  |      12 | 7%  |
-| Plagiarism / passing off AI work as own |       9 | 6%  |
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">theme</th>
+<th style="text-align: right;">overall</th>
+<th style="text-align: left;">pct</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">PHI / patient data into AI</td>
+<td style="text-align: right;">29</td>
+<td style="text-align: left;">18%</td>
+</tr>
+<tr>
+<td style="text-align: left;">Graded work / exams</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: left;">16%</td>
+</tr>
+<tr>
+<td style="text-align: left;">Confidential / institutional data</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: left;">16%</td>
+</tr>
+<tr>
+<td style="text-align: left;">Unapproved / public tools</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: left;">11%</td>
+</tr>
+<tr>
+<td style="text-align: left;">Clinical documentation</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: left;">7%</td>
+</tr>
+<tr>
+<td style="text-align: left;">Plagiarism / passing off AI work as
+own</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: left;">6%</td>
+</tr>
+</tbody>
+</table>
 
-``` r
-f2a <- theme_summary %>%
-  mutate(theme = fct_reorder(theme, overall)) %>%
-  ggplot(aes(x = overall, y = theme)) +
-  geom_col(aes(fill = theme), show.legend = FALSE, width = 0.7) +
-  geom_text(aes(label = paste0(overall, " (", pct, ")")), hjust = -0.15, size = 3.2) +
-  scale_fill_nejm() +
-  expand_limits(x = max(theme_summary$overall) * 1.25) +
-  labs(
-    title = "Banned-use themes across all documents",
-    subtitle = sprintf("Documents with any banned_uses text: %d of %d; theme = keyword match in banned_uses",
-                       sum(clauses$has_banned), n_docs),
-    x = "Number of documents whose banned_uses text matches theme",
-    y = NULL,
-    caption = "Source: analysis/clauses.csv (keyword patterns, see Rmd)"
-  )
-f2a
-```
+    f2a <- theme_summary %>%
+      mutate(theme = fct_reorder(theme, overall)) %>%
+      ggplot(aes(x = overall, y = theme)) +
+      geom_col(aes(fill = theme), show.legend = FALSE, width = 0.7) +
+      geom_text(aes(label = paste0(overall, " (", pct, ")")), hjust = -0.15, size = 3.2) +
+      scale_fill_nejm() +
+      expand_limits(x = max(theme_summary$overall) * 1.25) +
+      labs(
+        title = "Banned-use themes across all documents",
+        subtitle = sprintf("Documents with any banned_uses text: %d of %d; theme = keyword match in banned_uses",
+                           sum(clauses$has_banned), n_docs),
+        x = "Number of documents whose banned_uses text matches theme",
+        y = NULL,
+        caption = "Source: analysis/clauses.csv (keyword patterns, see Rmd)"
+      )
+    f2a
 
 <img src="figs/fig2a-overall-1.png" alt="" width="864" />
 
-``` r
-split_summary <- theme_long %>%
-  filter(!is.na(sector)) %>%
-  group_by(theme, sector) %>%
-  summarise(n_hit = sum(hit), n_tot = n(), .groups = "drop_last") %>%
-  mutate(pct = 100 * n_hit / n_tot)
+    split_summary <- theme_long %>%
+      filter(!is.na(sector)) %>%
+      group_by(theme, sector) %>%
+      summarise(n_hit = sum(hit), n_tot = n(), .groups = "drop_last") %>%
+      mutate(pct = 100 * n_hit / n_tot)
 
-f2b <- split_summary %>%
-  mutate(theme = factor(theme, levels = theme_summary$theme)) %>%
-  ggplot(aes(x = pct, y = theme, fill = sector)) +
-  geom_col(position = position_dodge(preserve = "single"), width = 0.7) +
-  geom_text(aes(label = paste0(n_hit, "/", n_tot)),
-            position = position_dodge(width = 0.7), hjust = -0.15, size = 3) +
-  scale_fill_nejm(name = "Sector") +
-  expand_limits(x = 105) +
-  labs(
-    title = "Banned-use themes: UME vs health system / GME-clinical",
-    subtitle = "Percent of documents in each sector matching the theme (labels: hits/total)",
-    x = "% of sector documents", y = NULL,
-    caption = "Source: analysis/clauses.csv; sector derived from applies_to & doc_type"
-  )
-f2b
-```
+    f2b <- split_summary %>%
+      mutate(theme = factor(theme, levels = theme_summary$theme)) %>%
+      ggplot(aes(x = pct, y = theme, fill = sector)) +
+      geom_col(position = position_dodge(preserve = "single"), width = 0.7) +
+      geom_text(aes(label = paste0(n_hit, "/", n_tot)),
+                position = position_dodge(width = 0.7), hjust = -0.15, size = 3) +
+      scale_fill_nejm(name = "Sector") +
+      expand_limits(x = 105) +
+      labs(
+        title = "Banned-use themes: UME vs health system / GME-clinical",
+        subtitle = "Percent of documents in each sector matching the theme (labels: hits/total)",
+        x = "% of sector documents", y = NULL,
+        caption = "Source: analysis/clauses.csv; sector derived from applies_to & doc_type"
+      )
+    f2b
 
 <img src="figs/fig2b-split-1.png" alt="" width="864" />
 
 ## Figure 3 — PHI clause presence and language clusters
 
-``` r
-phi_tbl <- tibble(
-  cluster = c("any PHI clause", "mentions HIPAA/PHI", "prohibitive language",
-              "approved/secure-tool carve-out", "BAA required", "de-identification language"),
-  n = c(sum(clauses$has_phi), sum(clauses$phi_hipaa), sum(clauses$phi_prohibit),
-        sum(clauses$phi_approv), sum(clauses$phi_baa), sum(clauses$phi_deid))
-) %>%
-  mutate(pct = round(100 * n / n_docs, 1),
-         cluster = fct_reorder(cluster, n))
+    phi_tbl <- tibble(
+      cluster = c("any PHI clause", "mentions HIPAA/PHI", "prohibitive language",
+                  "approved/secure-tool carve-out", "BAA required", "de-identification language"),
+      n = c(sum(clauses$has_phi), sum(clauses$phi_hipaa), sum(clauses$phi_prohibit),
+            sum(clauses$phi_approv), sum(clauses$phi_baa), sum(clauses$phi_deid))
+    ) %>%
+      mutate(pct = round(100 * n / n_docs, 1),
+             cluster = fct_reorder(cluster, n))
 
-f3 <- phi_tbl %>%
-  ggplot(aes(x = n, y = cluster)) +
-  geom_col(aes(fill = cluster), show.legend = FALSE, width = 0.7) +
-  geom_text(aes(label = paste0(n, " (", pct, "%)")), hjust = -0.15, size = 3.2) +
-  scale_fill_nejm() +
-  expand_limits(x = max(phi_tbl$n) * 1.25) +
-  labs(
-    title = "PHI clause presence and language clusters",
-    subtitle = "Clusters are keyword groups within phi_rule text (blank phi_rule = no clause)",
-    x = "Number of documents", y = NULL,
-    caption = "Source: analysis/clauses.csv; keyword clusters, see Rmd"
-  )
-f3
-```
+    f3 <- phi_tbl %>%
+      ggplot(aes(x = n, y = cluster)) +
+      geom_col(aes(fill = cluster), show.legend = FALSE, width = 0.7) +
+      geom_text(aes(label = paste0(n, " (", pct, "%)")), hjust = -0.15, size = 3.2) +
+      scale_fill_nejm() +
+      expand_limits(x = max(phi_tbl$n) * 1.25) +
+      labs(
+        title = "PHI clause presence and language clusters",
+        subtitle = "Clusters are keyword groups within phi_rule text (blank phi_rule = no clause)",
+        x = "Number of documents", y = NULL,
+        caption = "Source: analysis/clauses.csv; keyword clusters, see Rmd"
+      )
+    f3
 
 <img src="figs/fig3-phi-1.png" alt="" width="864" />
 
 ## Figure 4 — Named secure tools
 
-``` r
-tool_patterns <- c(
-  "ChatGPT"        = "\\bchatgpt|gpt-5|gpt-4|openai",
-  "Microsoft Copilot" = "copilot",
-  "Claude"         = "claude|anthropic",
-  "Gemini"         = "gemini",
-  "Grammarly"      = "grammarly",
-  "NotebookLM"     = "notebooklm",
-  "Azure OpenAI"   = "azure",
-  "Zoom AI"        = "zoom ai",
-  "Abridge"        = "abridge",
-  "institutional custom tool" = "dartmouthchat|terrier gpt|aichat|sc ai|scai|gpt\\s*\\("  
-)
-tool_long <- imap_dfr(tool_patterns, function(p, nm) {
-  tibble(tool = nm,
-         hit = sum(has_any(clauses$secure_tools_named, p)))
-})
-f4 <- tool_long %>%
-  mutate(tool = fct_reorder(tool, hit)) %>%
-  ggplot(aes(x = hit, y = tool)) +
-  geom_col(aes(fill = tool), show.legend = FALSE, width = 0.7) +
-  geom_text(aes(label = hit), hjust = -0.2, size = 3.4) +
-  scale_fill_nejm() +
-  expand_limits(x = max(tool_long$hit) * 1.15) +
-  labs(
-    title = "Named secure tools in AI guideline documents",
-    subtitle = sprintf("Documents naming any tool in secure_tools_named: %d of %d",
-                       sum(clauses$has_tool), n_docs),
-    x = "Number of documents naming the tool", y = NULL,
-    caption = "Source: analysis/clauses.csv (keyword match, case-insensitive)"
-  )
-f4
-```
+    tool_patterns <- c(
+      "ChatGPT"        = "\\bchatgpt|gpt-5|gpt-4|openai",
+      "Microsoft Copilot" = "copilot",
+      "Claude"         = "claude|anthropic",
+      "Gemini"         = "gemini",
+      "Grammarly"      = "grammarly",
+      "NotebookLM"     = "notebooklm",
+      "Azure OpenAI"   = "azure",
+      "Zoom AI"        = "zoom ai",
+      "Abridge"        = "abridge",
+      "institutional custom tool" = "dartmouthchat|terrier gpt|aichat|sc ai|scai|gpt\\s*\\("  
+    )
+    tool_long <- imap_dfr(tool_patterns, function(p, nm) {
+      tibble(tool = nm,
+             hit = sum(has_any(clauses$secure_tools_named, p)))
+    })
+    f4 <- tool_long %>%
+      mutate(tool = fct_reorder(tool, hit)) %>%
+      ggplot(aes(x = hit, y = tool)) +
+      geom_col(aes(fill = tool), show.legend = FALSE, width = 0.7) +
+      geom_text(aes(label = hit), hjust = -0.2, size = 3.4) +
+      scale_fill_nejm() +
+      expand_limits(x = max(tool_long$hit) * 1.15) +
+      labs(
+        title = "Named secure tools in AI guideline documents",
+        subtitle = sprintf("Documents naming any tool in secure_tools_named: %d of %d",
+                           sum(clauses$has_tool), n_docs),
+        x = "Number of documents naming the tool", y = NULL,
+        caption = "Source: analysis/clauses.csv (keyword match, case-insensitive)"
+      )
+    f4
 
 <img src="figs/fig4-tools-1.png" alt="" width="864" />
 
 ## Figure 5 — Disclosure / enforcement / AAMC alignment, UME vs HS
 
-``` r
-rate_rows <- function(df) {
-  tibble(
-    metric = c("Disclosure rule", "Enforcement mechanism", "Assessment rule",
-               "PHI clause", "AAMC alignment (yes)"),
-    n = c(sum(df$has_disclosure), sum(df$has_enforce), sum(df$has_assess),
-          sum(df$has_phi), sum(df$aamc_yes)),
-    N = nrow(df)
-  ) %>% mutate(pct = round(100 * n / N, 1))
-}
-rates <- bind_rows(
-  rate_rows(clauses %>% filter(sector == "UME (learners)"))      %>% mutate(group = "UME (learners)"),
-  rate_rows(clauses %>% filter(sector == "Health system / GME-clinical")) %>% mutate(group = "Health system / GME-clinical"),
-  rate_rows(clauses)                                             %>% mutate(group = "All documents")
-) %>%
-  mutate(metric = factor(metric, levels = c("Disclosure rule", "Enforcement mechanism",
-                                            "Assessment rule", "PHI clause", "AAMC alignment (yes)")))
+    rate_rows <- function(df) {
+      tibble(
+        metric = c("Disclosure rule", "Enforcement mechanism", "Assessment rule",
+                   "PHI clause", "AAMC alignment (yes)"),
+        n = c(sum(df$has_disclosure), sum(df$has_enforce), sum(df$has_assess),
+              sum(df$has_phi), sum(df$aamc_yes)),
+        N = nrow(df)
+      ) %>% mutate(pct = round(100 * n / N, 1))
+    }
+    rates <- bind_rows(
+      rate_rows(clauses %>% filter(sector == "UME (learners)"))      %>% mutate(group = "UME (learners)"),
+      rate_rows(clauses %>% filter(sector == "Health system / GME-clinical")) %>% mutate(group = "Health system / GME-clinical"),
+      rate_rows(clauses)                                             %>% mutate(group = "All documents")
+    ) %>%
+      mutate(metric = factor(metric, levels = c("Disclosure rule", "Enforcement mechanism",
+                                                "Assessment rule", "PHI clause", "AAMC alignment (yes)")))
 
-f5 <- rates %>%
-  ggplot(aes(x = metric, y = pct, fill = group)) +
-  geom_col(position = position_dodge(preserve = "single"), width = 0.75) +
-  geom_text(aes(label = paste0(n, "/", N)),
-            position = position_dodge(width = 0.75), vjust = -0.4, size = 3, angle = 0) +
-  scale_fill_nejm(name = "Group") +
-  expand_limits(y = 105) +
-  labs(
-    title = "Disclosure, enforcement, assessment, PHI & AAMC alignment rates",
-    subtitle = "UME (learners) vs health system / GME-clinical documents; labels = hits / total docs",
-    x = NULL, y = "% of documents (blank cell = absent)",
-    caption = "Source: analysis/clauses.csv"
-  ) +
-  theme(axis.text.x = element_text(angle = 15, hjust = 1))
-f5
-```
+    f5 <- rates %>%
+      ggplot(aes(x = metric, y = pct, fill = group)) +
+      geom_col(position = position_dodge(preserve = "single"), width = 0.75) +
+      geom_text(aes(label = paste0(n, "/", N)),
+                position = position_dodge(width = 0.75), vjust = -0.4, size = 3, angle = 0) +
+      scale_fill_nejm(name = "Group") +
+      expand_limits(y = 105) +
+      labs(
+        title = "Disclosure, enforcement, assessment, PHI & AAMC alignment rates",
+        subtitle = "UME (learners) vs health system / GME-clinical documents; labels = hits / total docs",
+        x = NULL, y = "% of documents (blank cell = absent)",
+        caption = "Source: analysis/clauses.csv"
+      ) +
+      theme(axis.text.x = element_text(angle = 15, hjust = 1))
+    f5
 
 <img src="figs/fig5-rates-1.png" alt="" width="864" />
 
-``` r
-sessionInfo()
-```
+## Figure 6 — Source coverage by named institution (top 30)
+
+`org` strings are grouped to a parent institution via case-insensitive
+match patterns (applied in order, first match wins; unmatched orgs keep
+their raw name). Bars show the number of source documents per
+institution, top 30.
+
+    # match patterns: named institution -> regex on org (case-insensitive)
+    school_patterns <- c(
+      "Harvard"            = "^harvard",
+      "Johns Hopkins"      = "johns hopkins",
+      "Penn"               = "university of pennsylvania|perelman",
+      "Columbia"           = "^columbia",
+      "Stanford"           = "stanford",
+      "UCSF"               = "^ucsf",
+      "UCLA"               = "ucla",
+      "WashU"              = "washington university",
+      "Cornell"            = "cornell",
+      "Michigan"           = "university of michigan|michigan medicine",
+      "Michigan State"     = "michigan state",
+      "Yale"               = "^yale",
+      "Duke"               = "^duke",
+      "Pitt"               = "university of pittsburgh|^upmc",
+      "NYU"                = "^nyu",
+      "Northwestern"       = "northwestern",
+      "UChicago"           = "university of chicago",
+      "Baylor"             = "baylor",
+      "Emory"              = "emory",
+      "Mayo"               = "mayo",
+      "Case Western"       = "case western",
+      "Icahn/Mount Sinai"  = "mount sinai",
+      "UTHealth Houston"   = "uthealth|mcgovern"
+    )
+
+    map_school <- function(org) {
+      for (nm in names(school_patterns)) {
+        if (str_detect(tolower(org), school_patterns[[nm]])) return(nm)
+      }
+      org
+    }
+    school_counts <- clauses %>%
+      mutate(institution = map_chr(as.character(org), map_school)) %>%
+      count(institution, sort = TRUE) %>%
+      slice_head(n = 30)
+
+    f6 <- school_counts %>%
+      mutate(institution = fct_reorder(institution, n)) %>%
+      ggplot(aes(x = n, y = institution)) +
+      geom_col(aes(fill = n), show.legend = FALSE, width = 0.7) +
+      geom_text(aes(label = n), hjust = -0.15, size = 3.1) +
+      scale_fill_gradient(low = "#B6C7E4", high = "#1B4079") +
+      expand_limits(x = max(school_counts$n) * 1.12) +
+      labs(
+        title = "Source coverage by named institution (top 30)",
+        subtitle = sprintf("%d source documents across %d distinct org strings, grouped into named institutions",
+                           n_docs, n_distinct(clauses$org)),
+        x = "Number of source documents", y = NULL,
+        caption = "Source: analysis/clauses.csv; org strings grouped by match patterns (see Rmd)"
+      )
+    f6
+
+<img src="figs/fig6-plot-1.png" alt="" width="864" />
+
+## Figure 7 — Formal-policy adoption among top-20 research schools
+
+Hardcoded top-20 list (USNews research-primary-care ranking basis, run
+24 spec): Harvard, JHU, Penn, Columbia, Stanford, UCSF, UCLA, WashU,
+Cornell, Michigan, Yale, Duke, Pitt, NYU, Northwestern, UChicago,
+Baylor, Emory, Mayo, Case. Each school is matched against org names with
+the same patterns as Figure 6 and classified as **formal policy** if any
+matched document is `doc_type == "formal policy"` (or “handbook
+section”), else **guidance only**; schools with zero matched documents
+are shown as **not covered**.
+
+    top20 <- c("Harvard", "Johns Hopkins", "Penn", "Columbia", "Stanford", "UCSF",
+               "UCLA", "WashU", "Cornell", "Michigan", "Yale", "Duke", "Pitt",
+               "NYU", "Northwestern", "UChicago", "Baylor", "Emory", "Mayo",
+               "Case Western")
+    # reuse Figure 6 patterns for the schools in the top-20 list
+    stopifnot(all(top20 %in% names(school_patterns)))
+
+    top20_status <- map_dfr(top20, function(s) {
+      pat <- school_patterns[[s]]
+      docs <- clauses %>% filter(str_detect(tolower(as.character(org)), pat))
+      tibble(
+        school = s,
+        n_docs = nrow(docs),
+        n_formal = sum(docs$doc_type %in% c("formal policy", "handbook section")),
+        status = case_when(
+          nrow(docs) == 0 ~ "not covered in corpus",
+          nrow(docs) > 0 & n_formal > 0 ~ "formal policy (incl. handbook)",
+          TRUE ~ "guidance only"
+        )
+      )
+    })
+
+    f7 <- top20_status %>%
+      mutate(school = factor(school, levels = rev(top20)),
+             status = factor(status, levels = c("formal policy (incl. handbook)",
+                                                "guidance only",
+                                                "not covered in corpus"))) %>%
+      ggplot(aes(x = n_docs, y = school, fill = status)) +
+      geom_col(width = 0.7) +
+      geom_text(aes(label = paste0(n_docs, " doc", if_else(n_docs == 1, "", "s"),
+                                   if_else(n_formal > 0, paste0(" (", n_formal, " formal)"), ""))),
+                hjust = -0.12, size = 3) +
+      scale_fill_nejm(name = "Status") +
+      expand_limits(x = max(top20_status$n_docs) * 1.35) +
+      labs(
+        title = "Formal-policy adoption among top-20 research medical schools",
+        subtitle = "Bar = source documents matched in corpus; label shows formal-policy/handbook count",
+        x = "Source documents in corpus", y = NULL,
+        caption = "Source: analysis/clauses.csv; hardcoded top-20 list (run 24 spec), org matched by Figure-6 patterns"
+      )
+    f7
+
+<img src="figs/fig7-top20-1.png" alt="" width="864" />
+
+    top20_status %>% knitr::kable()
+
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">school</th>
+<th style="text-align: right;">n_docs</th>
+<th style="text-align: right;">n_formal</th>
+<th style="text-align: left;">status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Harvard</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">formal policy (incl. handbook)</td>
+</tr>
+<tr>
+<td style="text-align: left;">Johns Hopkins</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: left;">guidance only</td>
+</tr>
+<tr>
+<td style="text-align: left;">Penn</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">formal policy (incl. handbook)</td>
+</tr>
+<tr>
+<td style="text-align: left;">Columbia</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: left;">formal policy (incl. handbook)</td>
+</tr>
+<tr>
+<td style="text-align: left;">Stanford</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">formal policy (incl. handbook)</td>
+</tr>
+<tr>
+<td style="text-align: left;">UCSF</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: left;">formal policy (incl. handbook)</td>
+</tr>
+<tr>
+<td style="text-align: left;">UCLA</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: left;">guidance only</td>
+</tr>
+<tr>
+<td style="text-align: left;">WashU</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: left;">guidance only</td>
+</tr>
+<tr>
+<td style="text-align: left;">Cornell</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: left;">guidance only</td>
+</tr>
+<tr>
+<td style="text-align: left;">Michigan</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: left;">guidance only</td>
+</tr>
+<tr>
+<td style="text-align: left;">Yale</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: left;">guidance only</td>
+</tr>
+<tr>
+<td style="text-align: left;">Duke</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: left;">guidance only</td>
+</tr>
+<tr>
+<td style="text-align: left;">Pitt</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">formal policy (incl. handbook)</td>
+</tr>
+<tr>
+<td style="text-align: left;">NYU</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: left;">guidance only</td>
+</tr>
+<tr>
+<td style="text-align: left;">Northwestern</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">formal policy (incl. handbook)</td>
+</tr>
+<tr>
+<td style="text-align: left;">UChicago</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: left;">formal policy (incl. handbook)</td>
+</tr>
+<tr>
+<td style="text-align: left;">Baylor</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: left;">formal policy (incl. handbook)</td>
+</tr>
+<tr>
+<td style="text-align: left;">Emory</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: left;">guidance only</td>
+</tr>
+<tr>
+<td style="text-align: left;">Mayo</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">formal policy (incl. handbook)</td>
+</tr>
+<tr>
+<td style="text-align: left;">Case Western</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">formal policy (incl. handbook)</td>
+</tr>
+</tbody>
+</table>
+
+    sessionInfo()
 
     ## R version 4.6.0 (2026-04-24)
     ## Platform: aarch64-apple-darwin25.4.0

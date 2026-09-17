@@ -1,6 +1,6 @@
 ---
 title: "US Medical School & Health System AI Guidelines — Descriptive Analysis"
-author: "Run 20"
+author: "Run 24 (R analysis v2)"
 date: "`r Sys.Date()`"
 output:
   html_document:
@@ -19,9 +19,13 @@ knitr::opts_chunk$set(
 
 ## Setup
 
-All figures are derived exclusively from `analysis/clauses.csv` (161 documents,
-13 columns), read with `utils::read.csv`. Blank cells count as absent. No other
-data source is consulted; no numbers are imputed.
+All figures are derived exclusively from `analysis/clauses.csv`
+(documents × 13 columns), read with `utils::read.csv`. Blank cells count as
+absent. No other data source is consulted; no numbers are imputed.
+
+Note (run 24): figures 6–7 aggregate by named institution; `org` strings that
+belong to the same university (e.g. "Harvard Medical School IT" and "Harvard
+University") are grouped via the match patterns defined in the Figure 6 chunk.
 
 ```{r packages}
 library(tidyverse)
@@ -290,6 +294,126 @@ f5 <- rates %>%
   ) +
   theme(axis.text.x = element_text(angle = 15, hjust = 1))
 f5
+```
+
+## Figure 6 — Source coverage by named institution (top 30)
+
+`org` strings are grouped to a parent institution via case-insensitive match
+patterns (applied in order, first match wins; unmatched orgs keep their raw
+name). Bars show the number of source documents per institution, top 30.
+
+```{r fig6-schools, fig.height=8}
+# match patterns: named institution -> regex on org (case-insensitive)
+school_patterns <- c(
+  "Harvard"            = "^harvard",
+  "Johns Hopkins"      = "johns hopkins",
+  "Penn"               = "university of pennsylvania|perelman",
+  "Columbia"           = "^columbia",
+  "Stanford"           = "stanford",
+  "UCSF"               = "^ucsf",
+  "UCLA"               = "ucla",
+  "WashU"              = "washington university",
+  "Cornell"            = "cornell",
+  "Michigan"           = "university of michigan|michigan medicine",
+  "Michigan State"     = "michigan state",
+  "Yale"               = "^yale",
+  "Duke"               = "^duke",
+  "Pitt"               = "university of pittsburgh|^upmc",
+  "NYU"                = "^nyu",
+  "Northwestern"       = "northwestern",
+  "UChicago"           = "university of chicago",
+  "Baylor"             = "baylor",
+  "Emory"              = "emory",
+  "Mayo"               = "mayo",
+  "Case Western"       = "case western",
+  "Icahn/Mount Sinai"  = "mount sinai",
+  "UTHealth Houston"   = "uthealth|mcgovern"
+)
+```
+
+```{r fig6-plot, fig.height=8}
+map_school <- function(org) {
+  for (nm in names(school_patterns)) {
+    if (str_detect(tolower(org), school_patterns[[nm]])) return(nm)
+  }
+  org
+}
+school_counts <- clauses %>%
+  mutate(institution = map_chr(as.character(org), map_school)) %>%
+  count(institution, sort = TRUE) %>%
+  slice_head(n = 30)
+
+f6 <- school_counts %>%
+  mutate(institution = fct_reorder(institution, n)) %>%
+  ggplot(aes(x = n, y = institution)) +
+  geom_col(aes(fill = n), show.legend = FALSE, width = 0.7) +
+  geom_text(aes(label = n), hjust = -0.15, size = 3.1) +
+  scale_fill_gradient(low = "#B6C7E4", high = "#1B4079") +
+  expand_limits(x = max(school_counts$n) * 1.12) +
+  labs(
+    title = "Source coverage by named institution (top 30)",
+    subtitle = sprintf("%d source documents across %d distinct org strings, grouped into named institutions",
+                       n_docs, n_distinct(clauses$org)),
+    x = "Number of source documents", y = NULL,
+    caption = "Source: analysis/clauses.csv; org strings grouped by match patterns (see Rmd)"
+  )
+f6
+```
+
+## Figure 7 — Formal-policy adoption among top-20 research schools
+
+Hardcoded top-20 list (USNews research-primary-care ranking basis, run 24
+spec): Harvard, JHU, Penn, Columbia, Stanford, UCSF, UCLA, WashU, Cornell,
+Michigan, Yale, Duke, Pitt, NYU, Northwestern, UChicago, Baylor, Emory, Mayo,
+Case. Each school is matched against org names with the same patterns as
+Figure 6 and classified as **formal policy** if any matched document is
+`doc_type == "formal policy"` (or "handbook section"), else **guidance only**;
+schools with zero matched documents are shown as **not covered**.
+
+```{r fig7-top20, fig.height=7}
+top20 <- c("Harvard", "Johns Hopkins", "Penn", "Columbia", "Stanford", "UCSF",
+           "UCLA", "WashU", "Cornell", "Michigan", "Yale", "Duke", "Pitt",
+           "NYU", "Northwestern", "UChicago", "Baylor", "Emory", "Mayo",
+           "Case Western")
+# reuse Figure 6 patterns for the schools in the top-20 list
+stopifnot(all(top20 %in% names(school_patterns)))
+
+top20_status <- map_dfr(top20, function(s) {
+  pat <- school_patterns[[s]]
+  docs <- clauses %>% filter(str_detect(tolower(as.character(org)), pat))
+  tibble(
+    school = s,
+    n_docs = nrow(docs),
+    n_formal = sum(docs$doc_type %in% c("formal policy", "handbook section")),
+    status = case_when(
+      nrow(docs) == 0 ~ "not covered in corpus",
+      nrow(docs) > 0 & n_formal > 0 ~ "formal policy (incl. handbook)",
+      TRUE ~ "guidance only"
+    )
+  )
+})
+
+f7 <- top20_status %>%
+  mutate(school = factor(school, levels = rev(top20)),
+         status = factor(status, levels = c("formal policy (incl. handbook)",
+                                            "guidance only",
+                                            "not covered in corpus"))) %>%
+  ggplot(aes(x = n_docs, y = school, fill = status)) +
+  geom_col(width = 0.7) +
+  geom_text(aes(label = paste0(n_docs, " doc", if_else(n_docs == 1, "", "s"),
+                               if_else(n_formal > 0, paste0(" (", n_formal, " formal)"), ""))),
+            hjust = -0.12, size = 3) +
+  scale_fill_nejm(name = "Status") +
+  expand_limits(x = max(top20_status$n_docs) * 1.35) +
+  labs(
+    title = "Formal-policy adoption among top-20 research medical schools",
+    subtitle = "Bar = source documents matched in corpus; label shows formal-policy/handbook count",
+    x = "Source documents in corpus", y = NULL,
+    caption = "Source: analysis/clauses.csv; hardcoded top-20 list (run 24 spec), org matched by Figure-6 patterns"
+  )
+f7
+
+top20_status %>% knitr::kable()
 ```
 
 ```{r session-info}

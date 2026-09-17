@@ -1,9 +1,14 @@
 # Summary statistics — US med-school / health-system AI guidelines
 
-All numbers produced in R (tidyverse) from `analysis/clauses.csv` (161 rows ×
+All numbers produced in R (tidyverse) from `analysis/clauses.csv` (**161 rows** ×
 13 cols, `utils::read.csv`); blank cells counted as absent. Regenerate with
-`Rscript -e 'rmarkdown::render("figures.Rmd")'`. Figures: `figs/*.png`,
+`Rscript -e 'rmarkdown::render("figures.Rmd")'`. Figures: `figs/*.png` (9 PNGs:
+fig1, fig1-alt, fig2a, fig2b, fig3, fig4, fig5, fig6, fig7),
 Rmd: `figures.Rmd`.
+
+**Run 24 note:** the extended CSV from run 23 had not landed when this refresh
+ran (`origin/main` at `cec4ae3`, still 161 rows / 136 orgs); analysis proceeded
+on the existing 161-row file. Re-knit after run 23 lands to update N.
 
 ## Corpus
 
@@ -178,3 +183,42 @@ clauses %>% summarise(across(all_of(names(tools)),
 5. **AAMC principles almost never cited**: 1/161 documents.
 6. **ChatGPT is the most-named tool** (33% of docs), ahead of Copilot (21%),
    Claude (12%), Gemini (9%).
+
+## Institution coverage (Figure 6, run 24)
+
+Org strings grouped to named institutions by match patterns (see Rmd):
+161 docs → 99 institution groups; 76 docs (47%) map to the 23 named
+institutions. Top: Harvard 7, Johns Hopkins 6, Columbia 5, UCSF 5,
+Mount Sinai 4, Penn 4, Pitt 4, UChicago 4, UCLA 4, Yale 4.
+
+## Top-20 research schools: formal-policy adoption (Figure 7, run 24)
+
+Hardcoded top-20 list matched against org names; "formal" = at least one
+`doc_type` of formal policy or handbook section.
+
+| School | Docs | Formal | Status |
+|---|---|---|---|
+| Harvard | 7 | 1 | formal policy |
+| Johns Hopkins | 6 | 0 | guidance only |
+| Penn | 4 | 1 | formal policy |
+| Columbia | 5 | 2 | formal policy |
+| Stanford | 2 | 1 | formal policy |
+| UCSF | 5 | 3 | formal policy |
+| UCLA | 4 | 0 | guidance only |
+| WashU | 1 | 0 | guidance only |
+| Cornell | 3 | 0 | guidance only |
+| Michigan | 2 | 0 | guidance only |
+| Yale | 4 | 0 | guidance only |
+| Duke | 2 | 0 | guidance only |
+| Pitt | 4 | 1 | formal policy |
+| NYU | 1 | 0 | guidance only |
+| Northwestern | 3 | 1 | formal policy |
+| UChicago | 4 | 2 | formal policy |
+| Baylor | 3 | 2 | formal policy |
+| Emory | 2 | 0 | guidance only |
+| Mayo | 3 | 1 | formal policy |
+| Case Western | 2 | 1 | formal policy |
+
+**10 of 20** top research schools have at least one formal policy/handbook
+document in the corpus; the other 10 are covered by guidance only. All 20 have
+at least one source document (none "not covered").

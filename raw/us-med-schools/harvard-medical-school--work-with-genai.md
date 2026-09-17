@@ -5,7 +5,7 @@ publisher: "Harvard University"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "28f7109d61c491a91f35f865b5e8c279a52848533b9ff72a05ce5048436ba9cc"
 ---
 
 Generative AI offers numerous opportunities to enhance our administrative work. Harvard staff have embraced those opportunities through explorations and pilots across Units and Schools. The

@@ -5,7 +5,7 @@ publisher: "UCSF Institute for Global Health Sciences"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "cb489b46ed128aab28a372326073cecb6d87292245040675533dcb0ef98df77f"
 ---
 
 Principles of AI use

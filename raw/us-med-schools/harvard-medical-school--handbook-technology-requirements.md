@@ -5,7 +5,7 @@ publisher: "Harvard Medical School"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "631c948b87218ca60eb3df51e030e6e41cf404c1d278bdc01d0749c8ac4f43f5"
 ---
 
 7.07 Computers, Networks and Technology Requirements

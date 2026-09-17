@@ -5,7 +5,7 @@ publisher: "Columbia University Office of the Provost"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "77092828476585b49461229a818b3721971d2eff711fc4988c491097894414d4"
 ---
 
 Office of the Provost

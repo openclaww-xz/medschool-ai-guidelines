@@ -5,7 +5,7 @@ publisher: "Vagelos College of Physicians and Surgeons"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "2840b89e2229cc372fa853f60724e3a632813189ce4ea799d19aafa1dda3e387"
 ---
 
 AI at VP&S Initiative

@@ -5,7 +5,7 @@ publisher: "Johns Hopkins Medicine Matters"
 published_date: "2026-05-07"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "ec4419a4d85b0acc2a8e638f177935f8d34006ac26edab75b04ee299d9e9f73e"
 ---
 
 Generative AI: What Faculty Need to Know

@@ -5,7 +5,7 @@ publisher: "Harvard Medical School IT"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "fde11ab769f528fb60fc5992d31ae7d35876ba48ad590b93fc5ebaa268ce879e"
 ---
 
 Guidance and tools for secure, ethical use of AI at HMS

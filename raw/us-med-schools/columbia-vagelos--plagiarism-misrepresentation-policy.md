@@ -5,7 +5,7 @@ publisher: "Vagelos College of Physicians and Surgeons"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "4970e56828cf93faa1a35202c2047d2824c01a87f4f72ae8abf48fa366032e52"
 ---
 
 Plagiarism and Misrepresentation

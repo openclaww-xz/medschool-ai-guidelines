@@ -5,7 +5,7 @@ publisher: "UCSF Medical Education"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "8d34579d3135f3c5ea183dbdcd3225b1df76e34c9e00e2134a8e3305af59c8b6"
 ---
 
 Bridges Curriculum Generative Artificial Intelligence Usage Policy

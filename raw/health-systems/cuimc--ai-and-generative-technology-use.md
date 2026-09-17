@@ -5,7 +5,7 @@ publisher: "CUIMC Information Technology"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "7eca73d8d93f71edaf358bbb2e4fe8676349aee97b4f5ab44c6e242a15e6923c"
 ---
 
 AI and Generative Technology Use at CUIMC

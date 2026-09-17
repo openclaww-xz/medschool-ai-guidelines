@@ -5,7 +5,7 @@ publisher: "Almanac, University of Pennsylvania"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "be7e05c10b0698bc7c66f1391f2f9d81608f2fa2acf660cd7cd46d73bb747878"
 ---
 
 Penn embraces innovations like generative artificial intelligence (AI) models in teaching, learning, research, and the effective stewardship of Penn’s resources.  To this end, this document provides guidelines for members of the Penn community who are using, or interested in using, AI in pursuit of Penn’s mission.

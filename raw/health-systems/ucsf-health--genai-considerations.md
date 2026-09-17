@@ -5,7 +5,7 @@ publisher: "UCSF"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "575b1a50afa4dfcb00a7c83e72b801ec9609210d40549c935adc5e254f8fae23"
 ---
 
 Considerations for using Generative AI

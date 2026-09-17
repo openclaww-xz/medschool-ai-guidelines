@@ -5,7 +5,7 @@ publisher: "UCSF School of Pharmacy"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "af38dd815bb768405806b9d31a2681818c5dfbc568abe64bb86c7f3c355aff86"
 ---
 
 Policy on Use of Artificial Intelligence (AI) in Assessments and Deliverables

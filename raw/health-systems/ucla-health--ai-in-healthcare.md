@@ -5,7 +5,7 @@ publisher: "UCLA Health"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "50388fb591516aa634d5b73c272d2a3116e93bcf8acb3eacf245c089d84f58cf"
 ---
 
 AI in Healthcare

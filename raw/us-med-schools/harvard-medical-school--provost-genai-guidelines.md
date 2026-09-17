@@ -5,7 +5,7 @@ publisher: "Harvard University Office of the Provost"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "2dfc4c2cbab1cd20c2f1548a32cad3ec44f6cd8be5d4fbfe5eaaa7622389e1ad"
 ---
 
 Guidelines for Using ChatGPT and other Generative AI tools at Harvard

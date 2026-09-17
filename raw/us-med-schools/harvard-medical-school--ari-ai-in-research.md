@@ -5,7 +5,7 @@ publisher: "Harvard Medical School"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "270ad33930158d4d222e237660d7bcc34186da5ffbc76e60f31f76867753b1ae"
 ---
 
 Harvard Guidance on Use of AI in Research

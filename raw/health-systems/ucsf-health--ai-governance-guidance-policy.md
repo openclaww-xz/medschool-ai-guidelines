@@ -5,7 +5,7 @@ publisher: "UCSF"
 published_date: "unknown"
 accessed_date: "2026-09-17"
 license: "public web page"
-sha256: ""
+sha256: "f8588cf7e09322e92d3cb2a6a1c3a9a3f5ae3fe693b8a55f161d2e548865f1e5"
 ---
 
 Governance, Guidance and Policy

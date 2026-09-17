@@ -29,12 +29,27 @@ README.md             This file
 - Agent runs log to `agents/run-NN.md` with: subagent id, sources fetched, sha256, result.
 
 ## Method
-1. Seed list from initial web sweep (already collected: Stanford 3.33, Keck, Buffalo, HMS, AAMC, HopGPT, SGIM position statement, PMC surveys).
-2. Enumerate the full US MD school list (AAMC / US News research ranking as frame).
-3. Per-school web search: `<school> generative AI policy medical students handbook`.
-4. Save raw policy text (markdown extract) + PDF snapshot where offered; record metadata.
-4b. Health systems attached to each school (teaching hospital side).
-5. Analyze: coverage, banned/permitted/PHI clauses, assessment rules, secure-tool mandates, dates.
+1. Seed list from initial web sweep (Stanford, Keck, Buffalo, HMS, AAMC, HopGPT, SGIM, PMC surveys).
+2. Enumerated US MD-granting schools (AAMC / US News research ranking frame) in per-school batches
+   (runs 2–8, 12–13, 16–18), plus DO and HBCU schools (run 18).
+3. Per-school web search: `<school> generative AI policy medical students handbook`; absences
+   verified and recorded as data in per-run `no_policy_found` lists.
+4. Saved raw policy text (markdown extract) + PDF snapshot (`pdf/`, 63 files) where offered;
+   metadata (url, sha256, license) in `metadata/sources.json` for all 365 sources.
+5. Collected national frameworks (AAMC/AMA/LCME/NBME/ACP/FSMB/AMEE/WHO), health systems attached to
+   each school, peer-reviewed full texts (PMC), and international comparators (GMC, AFMC, AMC,
+   Singapore MOH AIHGle, Sydney/Karolinska/Toronto university policies) — runs 1–9, 14.
+6. Analyzed in R (`analysis/figures.Rmd`): 161-document clause matrix (`analysis/clauses.csv`)
+   covering banned/permitted uses, PHI, disclosure, assessment, secure tools, enforcement, AAMC
+   alignment; two independent audits (run-11, run-21; 198/202 OK, 98%).
+7. Synthesis: **[analysis/REPORT.md](analysis/REPORT.md)** — the flagship deliverable, with every
+   claim cited to a file path.
 
-## Budget
-50 agent runs, 5 concurrency. Reserve ≥10 runs for verification/audit pass.
+## Key outputs
+
+- **[analysis/REPORT.md](analysis/REPORT.md)** — flagship synthesis (landscape, policy typology,
+  PHI/assessment clause analysis, GME–UME gap, international contrast, adoption timeline,
+  AAMC-alignment paradox, drafting guidance).
+- [analysis/findings.md](analysis/findings.md) · [analysis/summary-stats.md](analysis/summary-stats.md) ·
+  [analysis/clauses.csv](analysis/clauses.csv) · figures in `analysis/figs/`.
+- [index.md](index.md) — master index of all 365 sources.

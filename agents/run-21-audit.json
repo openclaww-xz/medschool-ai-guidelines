@@ -1,0 +1,310 @@
+{
+ "run": 21,
+ "date": "2026-09-17",
+ "scope": "164 raw files added in runs 12-19 (not covered by run-11 audit) + 4 run-11 suspect rechecks + 20 new PDFs",
+ "files_audited": 164,
+ "counts": {
+  "ok": 159,
+  "suspect": 5,
+  "rechecks_ok": 4,
+  "url_checked": 23,
+  "url_ok": 22,
+  "url_403_botwall_live": 1,
+  "pdfs_checked": 20,
+  "pdfs_ok": 19
+ },
+ "suspect_files": [
+  "raw/us-med-schools/atsu-kcom--policies-page.md",
+  "raw/us-med-schools/drexel--provost-ai-policies.md",
+  "raw/us-med-schools/touro-tuncom--libguide-ai-in-medical-education.md",
+  "raw/us-med-schools/uconn-health--guidance-on-using-ai.md",
+  "raw/us-med-schools/wayne-state-som--md-handbook-ai-guidelines-usage-policy-announcement.md"
+ ],
+ "suspect_detail": {
+  "raw/us-med-schools/atsu-kcom--policies-page.md": {
+   "problems": [
+    "THIN:274chars"
+   ],
+   "real_chars": 274,
+   "note": "Thin policies index page (274 chars): one intro sentence + link to handbook PDF. No AI content itself; handbook PDF is separate."
+  },
+  "raw/us-med-schools/drexel--provost-ai-policies.md": {
+   "problems": [
+    "THIN:363chars"
+   ],
+   "real_chars": 363,
+   "note": "Thin policies-listing page (363 chars): names PO 05/PO 103 without policy text."
+  },
+  "raw/us-med-schools/touro-tuncom--libguide-ai-in-medical-education.md": {
+   "problems": [
+    "THIN:257chars"
+   ],
+   "real_chars": 257,
+   "note": "Thin libguide tab (257 chars): 2 sentences pointing at TUS Academic Integrity Policy. Pointer page, not policy text."
+  },
+  "raw/us-med-schools/uconn-health--guidance-on-using-ai.md": {
+   "problems": [
+    "THIN:397chars"
+   ],
+   "real_chars": 397,
+   "note": "Thin placeholder page (397 chars): \"this page will host information...\" \u2014 no guidance captured."
+  },
+  "raw/us-med-schools/wayne-state-som--md-handbook-ai-guidelines-usage-policy-announcement.md": {
+   "problems": [
+    "THIN:355chars"
+   ],
+   "real_chars": 355,
+   "note": "Thin news announcement (355 chars): summary of new AI policy, not the policy. Actual handbook PDF is separate in corpus."
+  }
+ },
+ "duplicate_findings": {
+  "same_body_exact": {
+   "b23508b14f7d4f2ac3611e3e461bc054db337c9e000a91f4a100cb7127458cf4": [
+    "raw/us-med-schools/tufts-university--it-guidance-using-ai.md",
+    "raw/us-med-schools/tufts-university--it-guidelines-use-genai-tools.md"
+   ]
+  },
+  "note_on_tufts": "Both Tufts IT URLs serve the IDENTICAL rendered body (verified: guidelines-use-generative-ai-tools 301/redirects to /ai/guidance-using-ai-tufts; both URLs return 200). Genuine site-side duplicate, faithfully captured twice. Recommend dropping one at merge (keep guidance-using-ai-tufts, the canonical final URL). Not fabrication.",
+  "same_url_multiple_files": {}
+ },
+ "url_checks": {
+  "raw/peer-reviewed/chatgpt-llm-medical-licensing-exams-worldwide-systematic-review.md": {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12603599/",
+   "status": "200"
+  },
+  "raw/us-med-schools/rutgers--guidance-on-the-use-of-ai.md": {
+   "url": "https://it.rutgers.edu/ai/guidance-on-the-use-of-ai-at-rutgers/",
+   "status": "200"
+  },
+  "raw/us-med-schools/wvsom--ai-procedures-and-guidance.md": {
+   "url": "https://www.wvsom.edu/ai/procedures-guidance",
+   "status": "200"
+  },
+  "raw/us-med-schools/drexel--it-genai-guidance.md": {
+   "url": "https://drexel.edu/it/security/policies-regulations/ai-guidance/",
+   "status": "200"
+  },
+  "raw/us-med-schools/tufts-university--it-guidelines-use-genai-tools.md": {
+   "url": "https://it.tufts.edu/guidelines-use-generative-ai-tools",
+   "status": "200"
+  },
+  "raw/peer-reviewed/llm-use-oral-maxillofacial-surgery-national-resident-survey.md": {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12923429/",
+   "status": "200"
+  },
+  "raw/us-med-schools/tufts-university--it-guidance-using-ai.md": {
+   "url": "https://it.tufts.edu/ai/guidance-using-ai-tufts",
+   "status": "200"
+  },
+  "raw/us-med-schools/u-rochester--provost-genai-use-in-education.md": {
+   "url": "http://rochester.edu/provost/gen-ai-education",
+   "status": "200"
+  },
+  "raw/peer-reviewed/examining-chatgpt-performance-usmle-sample-items-assessment-implications.md": {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11444356/",
+   "status": "200"
+  },
+  "raw/us-med-schools/u-oklahoma--ai-policies.md": {
+   "url": "https://www.ou.edu/cfe/artificial-intelligence/AI-policies",
+   "status": "200"
+  },
+  "raw/us-med-schools/uc-san-diego--academic-integrity-gen-ai.md": {
+   "url": "https://academicintegrity.ucsd.edu/choose-integrity/gen-ai/index.html",
+   "status": "200"
+  },
+  "raw/peer-reviewed/scoping-review-genai-tools-health-profession-education.md": {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12911342/",
+   "status": "200"
+  },
+  "raw/health-systems/advocate-health--nitrd-ai-rfi-response.pdf.md": {
+   "url": "https://files.nitrd.gov/90-fr-9088/Advocate-Health-AI-RFI-2025.pdf",
+   "status": "200"
+  },
+  "raw/health-systems/bmc--responsible-ai-statement.md": {
+   "url": "https://www.bmc.com/content/dam/bmc/corporate/responsible-ai-statement.pdf",
+   "status": "200"
+  },
+  "raw/us-med-schools/morehouse-sm--student-handbook-student-use-of-ai.md": {
+   "url": "https://msm.smartcatalogiq.com/en/2026-2027/2026-2027-morehouse-school-of-medicine-student-handbook/policies-and-procedures/student-use-of-artificial-intelligence",
+   "status": "200"
+  },
+  "raw/us-med-schools/ut-austin--guidance-for-using-artificial-intelligence.md": {
+   "url": "https://tech.utexas.edu/governance/guidance-for-ai",
+   "status": "403"
+  },
+  "raw/us-med-schools/shsu-com--student-handbook.md": {
+   "url": "https://shsu-prod.dotcms.cloud/dept/academic-affairs/documents/com-policies/SHSU-COM%20Student%20Handbook.pdf",
+   "status": "200"
+  },
+  "raw/health-systems/nebraska-medicine--how-we-use-artificial-intelligence.md": {
+   "url": "https://www.nebraskamed.com/patients/rights-responsibilities/AI",
+   "status": "200"
+  },
+  "raw/peer-reviewed/ai-scribe-residency-training-specialty-society-guidance-gme.md": {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12912149/",
+   "status": "200"
+  },
+  "raw/peer-reviewed/physician-resilience-genai-shared-authority-verification-framework.md": {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13293561/",
+   "status": "200"
+  },
+  "raw/health-systems/uf-health--ai-governance.md": {
+   "url": "https://privacy.health.ufl.edu/laws-and-regulations/ai-governance/",
+   "status": "200"
+  },
+  "raw/us-med-schools/msu--ethics-genai-overview.md": {
+   "url": "https://ethics.msu.edu/gen-ai",
+   "status": "200"
+  },
+  "raw/health-systems/mayo-clinic--genai-tools-overview.md": {
+   "url": "https://libraryguides.mayo.edu/generative-artificial_intelligence",
+   "status": "200"
+  }
+ },
+ "pdf_checks": {
+  "pdf/advocate-health--nitrd-ai-rfi-response.pdf.pdf": {
+   "size": 1131064,
+   "is_pdf": true,
+   "pages": 6,
+   "text_probe_chars": 2210
+  },
+  "pdf/bmc--responsible-ai-statement.pdf": {
+   "size": 89316,
+   "is_pdf": true,
+   "pages": 3,
+   "text_probe_chars": 2377
+  },
+  "pdf/bu-chobanian--md-program-ai-use-policy.pdf.pdf": {
+   "missing": true
+  },
+  "pdf/cleveland-clinic--state-of-the-clinic-2025.pdf.pdf": {
+   "size": 4740188,
+   "is_pdf": true,
+   "pages": 52,
+   "text_probe_chars": 53
+  },
+  "pdf/howard-university--ai-policy-100-022-full.pdf": {
+   "size": 222713,
+   "is_pdf": true,
+   "pages": 6,
+   "text_probe_chars": 2178
+  },
+  "pdf/lecom--college-of-medicine-catalog-2025-2026.pdf": {
+   "size": 2113619,
+   "is_pdf": true,
+   "pages": 272,
+   "text_probe_chars": 455
+  },
+  "pdf/loyola-stritch--student-handbook-2025-2026.pdf.pdf": {
+   "size": 734044,
+   "is_pdf": true,
+   "pages": 49,
+   "text_probe_chars": 96
+  },
+  "pdf/nova-su-lec--responsible-use-of-genai-infographic.pdf": {
+   "size": 553422,
+   "is_pdf": true,
+   "pages": 1,
+   "text_probe_chars": 1131
+  },
+  "pdf/shsu-com--student-handbook.pdf": {
+   "size": 1451806,
+   "is_pdf": true,
+   "pages": 54,
+   "text_probe_chars": 131
+  },
+  "pdf/slu--academic-integrity-policy.pdf": {
+   "size": 250330,
+   "is_pdf": true,
+   "pages": 10,
+   "text_probe_chars": 2489
+  },
+  "pdf/temple--guidelines-for-generative-artificial-intelligence.pdf": {
+   "size": 229786,
+   "is_pdf": true,
+   "pages": 2,
+   "text_probe_chars": 3084
+  },
+  "pdf/u-arizona-tucson--policy-on-student-use-of-ai.pdf": {
+   "size": 206113,
+   "is_pdf": true,
+   "pages": 3,
+   "text_probe_chars": 1862
+  },
+  "pdf/uc-san-diego--senate-admin-workgroup-genai-education-report.pdf": {
+   "size": 197572,
+   "is_pdf": true,
+   "pages": 16,
+   "text_probe_chars": 103
+  },
+  "pdf/uconn-health--ai-guidance-v20240314.pdf": {
+   "size": 104772,
+   "is_pdf": true,
+   "pages": 1,
+   "text_probe_chars": 2390
+  },
+  "pdf/umass-chan--clinical-learning-environment-genai-policy.pdf": {
+   "size": 296902,
+   "is_pdf": true,
+   "pages": 4,
+   "text_probe_chars": 2076
+  },
+  "pdf/umass-chan--faculty-council-ai-policy-update.pdf": {
+   "size": 274980,
+   "is_pdf": true,
+   "pages": 4,
+   "text_probe_chars": 99
+  },
+  "pdf/uw-medicine--ai-policy-glossary-308g1.pdf": {
+   "size": 366162,
+   "is_pdf": true,
+   "pages": 9,
+   "text_probe_chars": 2977
+  },
+  "pdf/vcu-som--acceptable-use-generative-ai-applications-policy.pdf": {
+   "size": 280883,
+   "is_pdf": true,
+   "pages": 4,
+   "text_probe_chars": 2739
+  },
+  "pdf/wake-forest-som--md-student-handbook.pdf": {
+   "size": 643606,
+   "is_pdf": true,
+   "pages": 64,
+   "text_probe_chars": 0
+  },
+  "pdf/wake-forest-som--policy-compliance-companion.pdf": {
+   "size": 2879502,
+   "is_pdf": true,
+   "pages": 279,
+   "text_probe_chars": 244
+  }
+ },
+ "pdf_notes": {
+  "pdf/wake-forest-som--md-student-handbook.pdf": "page-1 text probe = 0 chars (likely cover-page image); 64pp, 643KB, valid %PDF magic \u2014 image-based cover, not a failure. Verify OCR need."
+ },
+ "recheck_run11_suspects": {
+  "uf-health--ai-governance.md": {
+   "chars_body": 4952,
+   "verdict": "OK (REPAIRED)",
+   "note": "run-19 replacement verified: ~4.7K chars substantive governance content (restricted-data prohibitions, IRM risk assessment, meeting-transcription rules, FIPA/FERPA/HIPAA/COPPA/GDPR/EU-AI-Act, IP risks). Nav shell gone. URL live (200)."
+  },
+  "msu--ethics-genai-overview.md": {
+   "chars_body": 3242,
+   "verdict": "OK (REPAIRED)",
+   "note": "Full page captured: 5 ethical values + 7 themes. Page is genuinely short but complete. URL live (200)."
+  },
+  "mayo-clinic--genai-tools-overview.md": {
+   "chars_body": 654,
+   "verdict": "OK-ISH (REPAIRED)",
+   "note": "Now contains Mayo-specific guidance text (clinical-judgment caveats, approved-tools entry). Better than run-11 version but still a libguide overview tab, not policy. Downgraded from SUSPECT to OK with caveat."
+  },
+  "uw-medicine--ai-in-healthcare-policy.md": {
+   "verdict": "OK (REMOVED)",
+   "note": "Stub git-rm confirmed absent from tree; COMP.308 full policy + new 308.G1 glossary PDF (366KB, 9pp, valid %PDF, extractable text) complete the set."
+  }
+ },
+ "front_matter_complete_all": true,
+ "marker_scan": "0 hits for access denied / enable javascript / captcha / login walls across all 164 bodies",
+ "verdict": "Audit round 2 PASSES. 159/164 new files OK (97%); 5 SUSPECT are thin-but-real index/announcement pages (257-397 chars), no fabrication indicators anywhere. One new finding: exact-duplicate body across the two Tufts IT files (site-side redirect duplicate) \u2014 dedupe at merge. All 20 new PDFs pass magic/size; wake-forest handbook has image-only page 1 (flagged, minor). 23/23 sampled URLs live (1 bot-wall 403 browser-verified). All 4 run-11 suspects RESOLVED by run-19 (UF re-rendered substantive, MSU full page, Mayo improved, UW stub removed + glossary PDF added). Corpus remains trustworthy."
+}

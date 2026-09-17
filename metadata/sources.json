@@ -1,5 +1,15 @@
 [
  {
+  "source_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/bltd4b14b2b83db726f/health-professionals-cme-west-michigan-procedures-responsible-use-of-artificial-intelligence.pdf",
+  "title": "Responsible Use of Artificial Intelligence (AI) Procedure (CME West Michigan)",
+  "publisher": "Corewell Health (formerly Spectrum Health)",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "2fe5c98fbb87ff7a",
+  "file": "raw/health-systems/corewell-spectrum--cme-responsible-use-of-ai.md"
+ },
+ {
   "source_url": "https://www.it.cuimc.columbia.edu/ai-and-generative-technology-use-cuimc",
   "title": "AI and Generative Technology Use at CUIMC",
   "publisher": "CUIMC Information Technology",
@@ -8,6 +18,16 @@
   "license": "public web page",
   "sha256": "192df7fa047fce69",
   "file": "raw/health-systems/cuimc--ai-and-generative-technology-use.md"
+ },
+ {
+  "source_url": "https://www.dartmouth-health.org/articles/will-ai-scribe-improve-your-doctor-visit",
+  "title": "Will an AI Scribe Improve Your Doctor Visit? (Dartmouth Health ambient AI consent and documentation practices)",
+  "publisher": "Dartmouth Health",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "cb1ed4744ee47309",
+  "file": "raw/health-systems/dartmouth-hitchcock--ambient-ai-scribe-consent-practices.md"
  },
  {
   "source_url": "https://healthaigovernance.duke.edu/abcds-oversight/abcds-oversight-process",
@@ -50,6 +70,26 @@
   "file": "raw/health-systems/johns-hopkins-medicine--hopgpt-launch.md"
  },
  {
+  "source_url": "https://libraryguides.mayo.edu/AI",
+  "title": "Clinical Resources - Artificial Intelligence (Guide)",
+  "publisher": "Mayo Clinic Libraries",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "4ac3b688e0777202",
+  "file": "raw/health-systems/mayo-clinic--clinical-ai-resources-guide.md"
+ },
+ {
+  "source_url": "https://libraryguides.mayo.edu/generative-artificial_intelligence",
+  "title": "Artificial Intelligence (Generative) Resources: Overview (Mayo Clinic-approved GenAI tools)",
+  "publisher": "Mayo Clinic Libraries",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "414e6be4e1d8f727",
+  "file": "raw/health-systems/mayo-clinic--genai-tools-overview.md"
+ },
+ {
   "source_url": "https://michmed.service-now.com/kb?id=kb_article_view&sysparm_article=KB0023639",
   "title": "Using Artificial Intelligence (AI) Tools at MM (KB0023639)",
   "publisher": "Michigan Medicine Knowledge Portal",
@@ -60,6 +100,36 @@
   "file": "raw/health-systems/michigan-medicine--using-ai-tools-at-mm.md"
  },
  {
+  "source_url": "https://icahn.mssm.edu/about/artificial-intelligence/safety",
+  "title": "AI Governance and Safety",
+  "publisher": "Icahn School of Medicine at Mount Sinai",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "960057a5dadb0d9e",
+  "file": "raw/health-systems/mount-sinai--ai-governance-and-safety.md"
+ },
+ {
+  "source_url": "https://icahn.mssm.edu/files/MSHealth/Assets/HS/AI%20at%20Mount%20Sinai/AI-Idea-Intake-Form-Process.pdf",
+  "title": "DTP AI Idea Submission Process",
+  "publisher": "Mount Sinai Health System / Digital Technology Partners",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "f141ea39b6936f56",
+  "file": "raw/health-systems/mount-sinai--dtp-ai-idea-intake-process.md"
+ },
+ {
+  "source_url": "https://labs.icahn.mssm.edu/minervalab/wp-content/uploads/sites/342/2025/03/MSHS-AI-Implementation-and-Use-Policy.pdf",
+  "title": "Mount Sinai Health System Policy & Procedure: AI Implementation and Use Policy",
+  "publisher": "Mount Sinai Health System",
+  "published_date": "2025-02-01",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "27315310c90a1b81",
+  "file": "raw/health-systems/mount-sinai-health-system--ai-implementation-and-use-policy.md"
+ },
+ {
   "source_url": "https://med.cornell.libguides.com/ai/copilot",
   "title": "AI at NYP/WCM (Copilot LibGuide)",
   "publisher": "Weill Cornell Medicine / NewYork-Presbyterian",
@@ -68,6 +138,26 @@
   "license": "public web page / copyright",
   "sha256": "3c5d3f7807a373d5",
   "file": "raw/health-systems/nyp-weill-cornell--ai-at-nyp-wcm-copilot.md"
+ },
+ {
+  "source_url": "https://www.ohsu.edu/chief-research-information-officer/governance",
+  "title": "AI Governance (Chief Research Information Officer)",
+  "publisher": "OHSU",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "bebd299bb7c224d8",
+  "file": "raw/health-systems/ohsu-health--ai-governance.md"
+ },
+ {
+  "source_url": "https://ctsi.osu.edu/data-and-ai/ai-informatics-tools/generative-ai",
+  "title": "Generative AI guidance (incl. Wexner Medical Center policy compliance)",
+  "publisher": "Ohio State Center for Clinical and Translational Science Institute",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "bd7ba69ddf2db95a",
+  "file": "raw/health-systems/osu-wexner--ctsi-generative-ai-guidance.md"
  },
  {
   "source_url": "https://isc.upenn.edu/security/AI-guidance",
@@ -88,6 +178,16 @@
   "license": "public web page",
   "sha256": "b1ccd3a747aa62a1",
   "file": "raw/health-systems/penn-medicine--upenn-genai-guidance.md"
+ },
+ {
+  "source_url": "https://medchiefs.bsd.uchicago.edu/resources/clinical-ai-use-policy/",
+  "title": "Clinical AI Use Policy - UChicago Internal Medicine Residency Program (AI/Abridge)",
+  "publisher": "University of Chicago Medicine Internal Medicine Residency Program",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "e948c860b8ccf640",
+  "file": "raw/health-systems/uchicago-medicine--im-residency-clinical-ai-use-policy.md"
  },
  {
   "source_url": "https://www.uclahealth.org/health-ai/ucla-health-ai-council-haic",
@@ -140,6 +240,406 @@
   "file": "raw/health-systems/ucsf-health--genai-considerations.md"
  },
  {
+  "source_url": "https://privacy.health.ufl.edu/laws-and-regulations/ai-governance/",
+  "title": "AI Governance - Privacy",
+  "publisher": "University of Florida Health",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "f57d3c238a63f5b1",
+  "file": "raw/health-systems/uf-health--ai-governance.md"
+ },
+ {
+  "source_url": "https://ai.uiowa.edu/ai-clinical-settings",
+  "title": "AI in Clinical Settings",
+  "publisher": "The University of Iowa / UI Health Care",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "9b7e657f73b5cc4e",
+  "file": "raw/health-systems/ui-health-care--ai-in-clinical-settings.md"
+ },
+ {
+  "source_url": "https://uihc.org/digital-health-and-ai-based-tool-governance",
+  "title": "Digital Health and AI-based Tool Governance",
+  "publisher": "University of Iowa Health Care",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "0c289fd6ba3472e4",
+  "file": "raw/health-systems/ui-health-care--digital-health-ai-tool-governance.md"
+ },
+ {
+  "source_url": "https://www.upmc.com/media/news/021524-ccm-ai",
+  "title": "AI Oversight of Growing Interest to Health Care Executives",
+  "publisher": "UPMC Media Relations",
+  "published_date": "2024-02-15",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "c398557684f63475",
+  "file": "raw/health-systems/upmc--ai-oversight-survey.md"
+ },
+ {
+  "source_url": "https://inside.upmc.com/how-upmc-is-bringing-ai-into-patient-care/",
+  "title": "How UPMC Is Bringing AI into Patient Care",
+  "publisher": "UPMC (Inside Life Changing Medicine blog)",
+  "published_date": "2023-04-11",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "b902e615e2fb036e",
+  "file": "raw/health-systems/upmc--bringing-ai-into-patient-care.md"
+ },
+ {
+  "source_url": "https://www.uth.edu/councils/topical/itgc/ai-advisory/",
+  "title": "AI Advisory Subcommittee (UTHealth Houston AI Task Force)",
+  "publisher": "The University of Texas Health Science Center at Houston",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "e5df73bbb7ff212a",
+  "file": "raw/health-systems/uth-health--ai-advisory-subcommittee.md"
+ },
+ {
+  "source_url": "https://www.utsouthwestern.edu/ai/tools/",
+  "title": "Tools: AI (UT Southwestern enterprise GenAI tools)",
+  "publisher": "UT Southwestern Medical Center",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "b720f3cb98adabcf",
+  "file": "raw/health-systems/utsouthwestern--ai-tools.md"
+ },
+ {
+  "source_url": "https://sites.uw.edu/uwgme/ai/",
+  "title": "AI Guidelines for Residency and Fellowship Applications",
+  "publisher": "University of Washington Graduate Medical Education",
+  "published_date": "2025-12",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "04d24ee7c7f16bf1",
+  "file": "raw/health-systems/uw-gme--ai-guidelines-residency-fellowship-applications.md"
+ },
+ {
+  "source_url": "https://depts.washington.edu/comply/ai-in-healthcare/",
+  "title": "UW Medicine Use of Artificial Intelligence (AI)",
+  "publisher": "UW Medicine Compliance",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "8f4547352d3b91c9",
+  "file": "raw/health-systems/uw-medicine--ai-in-healthcare-policy.md"
+ },
+ {
+  "source_url": "https://depts.washington.edu/comply/docs/comp_308.pdf",
+  "title": "COMP.308 UW Medicine Use of AI",
+  "publisher": "UW Medicine Compliance",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "b72e987aa9e3ba78",
+  "file": "raw/health-systems/uw-medicine--comp308-use-of-ai.md"
+ },
+ {
+  "source_url": "https://news.vumc.org/2024/01/05/artificial-intelligence-advances-work-in-vumcs-clinical-and-research-settings/",
+  "title": "AI advances work in VUMC's clinical and research settings (DAX Copilot, aiChat governance)",
+  "publisher": "Vanderbilt University Medical Center",
+  "published_date": "2024-01-05",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "10c24092e5e7c00f",
+  "file": "raw/health-systems/vumc--clinical-research-ai-advances.md"
+ },
+ {
+  "source_url": "https://www.vumc.org/dbmi/GenerativeAI",
+  "title": "Generative AI at VUMC - tools, governance and permitted data use",
+  "publisher": "VUMC Department of Biomedical Informatics",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "707859db0cfd4f16",
+  "file": "raw/health-systems/vumc--dbmi-generative-ai-tools.md"
+ },
+ {
+  "source_url": "https://news.vumc.org/2023/06/27/vumc-statement-on-the-use-of-generative-ai/",
+  "title": "VUMC statement on the use of generative AI",
+  "publisher": "Vanderbilt University Medical Center",
+  "published_date": "2023-06-27",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "cbc47ed0b2e860f3",
+  "file": "raw/health-systems/vumc--statement-on-generative-ai.md"
+ },
+ {
+  "source_url": "https://www.afmc.ca/afmc-response-to-federal-ai-strategy/",
+  "title": "AFMC Response to Federal AI Strategy",
+  "publisher": "Association of Faculties of Medicine of Canada",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "f4c31213bd0d6bcc",
+  "file": "raw/international/afmc--response-to-federal-ai-strategy.md"
+ },
+ {
+  "source_url": "https://annual-report.amc.org.au/2018-19-highlights/what-impacts-will-artificial-intelligence-and-ethics-have-on-health-provision-and-education/index.html",
+  "title": "What impacts will artificial intelligence and ethics have on health provision and education?",
+  "publisher": "Australian Medical Council",
+  "published_date": "2019",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "fdc66ad4d4cc01f2",
+  "file": "raw/international/amc-australia--ai-ethics-impact-annual-report.md"
+ },
+ {
+  "source_url": "https://www.amsterdamumc.org/en/topic/artificial-intelligence-2",
+  "title": "Artificial Intelligence (topic overview)",
+  "publisher": "Amsterdam UMC",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "8117dd6983008b74",
+  "file": "raw/international/amsterdam-umc--ai-topic-overview.md"
+ },
+ {
+  "source_url": "https://www.amsterdamumc.org/en/research/institutes/amsterdam-public-health/news/how-can-you-use-chatgpt-and-ai-in-a-good-way",
+  "title": "How can you use ChatGPT and AI in a good way?",
+  "publisher": "Amsterdam UMC",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "303be3c70885833a",
+  "file": "raw/international/amsterdam-umc--chatgpt-and-ai-guidance-news.md"
+ },
+ {
+  "source_url": "https://www.councilofdeans.org.uk/wp-content/uploads/2026/01/Principles-for-the-use-of-Generative-AI-in-healthcare-education-.pdf",
+  "title": "Principles for the use of Generative AI in healthcare education",
+  "publisher": "Council of Deans of Health (UK)",
+  "published_date": "2026-01",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "e99c621b2c1d5be2",
+  "file": "raw/international/council-of-deans-health--principles-genai-healthcare-education.md"
+ },
+ {
+  "source_url": "https://www.gmc-uk.org/professional-standards/learning-materials/artificial-intelligence-and-innovative-technologies",
+  "title": "Artificial intelligence and innovative technologies (Q&A learning resource)",
+  "publisher": "General Medical Council (UK)",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "7d0a83360a8a1946",
+  "file": "raw/international/gmc--ai-and-innovative-technologies.md"
+ },
+ {
+  "source_url": "https://www.gmc-uk.org/cdn/documents/good-medical-practice-2024---english_pdf-102607294.pdf",
+  "title": "Good medical practice (2024)",
+  "publisher": "General Medical Council (UK)",
+  "published_date": "2024",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "7d170e229caf1274",
+  "file": "raw/international/gmc--good-medical-practice-2024.md"
+ },
+ {
+  "source_url": "https://digital-transformation.hee.nhs.uk/news/artificial-intelligence-and-digital-healthcare-technologies-capability-framework-published-today",
+  "title": "AI and Digital Healthcare Technologies Capability framework (news/overview)",
+  "publisher": "NHS Health Education England",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "1a23210540a55dc5",
+  "file": "raw/international/hee--ai-digital-healthcare-tech-capability-framework-news.md"
+ },
+ {
+  "source_url": "https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/ai-and-digital-healthcare-technologies/framework-structure",
+  "title": "AI and Digital Healthcare Technologies Capability Framework — framework structure",
+  "publisher": "NHS Health Education England",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "28c835bf5bfa6221",
+  "file": "raw/international/hee--ai-digital-healthcare-tech-capability-framework-structure.md"
+ },
+ {
+  "source_url": "https://digital-transformation.hee.nhs.uk/support-for-organisations/research-and-publications/dart-ed/horizon-scanning/ai-and-digital-healthcare-technologies",
+  "title": "AI and Digital Healthcare Technologies Capability Framework",
+  "publisher": "NHS Health Education England",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "9c168a6b993808ea",
+  "file": "raw/international/hee--ai-digital-healthcare-tech-capability-framework.md"
+ },
+ {
+  "source_url": "https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FE_Compendium_of_NMC_2024%2F10.%20Curriculum.pdf",
+  "title": "NMC Compendium 2024 — Curriculum (Foundation Course; AI mention in skill goals)",
+  "publisher": "National Medical Commission (India)",
+  "published_date": "2024",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "8ca76e1b9caf182e",
+  "file": "raw/international/india-nmc--compendium-2024-curriculum.md"
+ },
+ {
+  "source_url": "https://staff.ki.se/tools-and-support/ai-at-ki/generative-ai-and-education",
+  "title": "Generative AI and Education (staff guidance)",
+  "publisher": "Karolinska Institutet",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page (retrieved via Internet Archive; ki.se temporarily offline at access time)",
+  "sha256": "0cbae79be042f693",
+  "file": "raw/international/karolinska--generative-ai-and-education.md"
+ },
+ {
+  "source_url": "https://staff.ki.se/media/169551/download",
+  "title": "Guidelines for students on the use of generative AI (Programme Committee for Medical Programme)",
+  "publisher": "Karolinska Institutet",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page (retrieved via Internet Archive; ki.se temporarily offline at access time)",
+  "sha256": "55eb03f3335428c0",
+  "file": "raw/international/karolinska--student-guidelines-generative-ai.md"
+ },
+ {
+  "source_url": "https://www.medschools.ac.uk/wp-content/uploads/2025/05/data-science-in-the-medical-curriculum-1.pdf",
+  "title": "Data science in the medical curriculum: equipping medical students for the digital age",
+  "publisher": "Medical Schools Council / Health Data Research UK",
+  "published_date": "2025-05",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "484563fbd72347f1",
+  "file": "raw/international/medschools-council--data-science-in-medical-curriculum.md"
+ },
+ {
+  "source_url": "https://www.england.nhs.uk/long-read/artificial-intelligence-ai-and-machine-learning/",
+  "title": "Artificial intelligence (AI) and machine learning (NHS England long read)",
+  "publisher": "NHS England",
+  "published_date": "2023-06-14 (updated 2025-04-07)",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "dc32f469adf54a38",
+  "file": "raw/international/nhs-england--ai-and-machine-learning-long-read.md"
+ },
+ {
+  "source_url": "https://www.royalcollege.ca/content/dam/document/membership-and-advocacy/2020-task-force-report-on-ai-and-emerging-digital-technologies-e.pdf",
+  "title": "Task Force Report on Artificial Intelligence and Emerging Digital Technologies",
+  "publisher": "Royal College of Physicians and Surgeons of Canada",
+  "published_date": "2020",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "f35daf4459480592",
+  "file": "raw/international/royal-college-canada--task-force-report-ai-emerging-digital-technologies.md"
+ },
+ {
+  "source_url": "https://isomer-user-content.by.gov.sg/3/23fb5b36-56b4-4abb-9370-75c9ddcaf3ed/AIHGle+2.0.pdf",
+  "title": "Artificial Intelligence in Healthcare Guidelines (AIHGle 2.0)",
+  "publisher": "Singapore Ministry of Health",
+  "published_date": "2026",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "225d19b809f0cc1d",
+  "file": "raw/international/sg-moh--ai-in-healthcare-guidelines-aihgle-2-0.md"
+ },
+ {
+  "source_url": "https://www.unimelb.edu.au/ai/home/governance-and-ai-principles",
+  "title": "AI at Melbourne — AI governance and AI Principles",
+  "publisher": "University of Melbourne",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "b946b2bfb85d0e9d",
+  "file": "raw/international/u-melbourne--ai-governance-principles.md"
+ },
+ {
+  "source_url": "https://www.unimelb.edu.au/ai/home/students",
+  "title": "AI at Melbourne — For students (responsible use guidance)",
+  "publisher": "University of Melbourne",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "b3d52c86c4341ee8",
+  "file": "raw/international/u-melbourne--ai-students.md"
+ },
+ {
+  "source_url": "https://www.sydney.edu.au/news-opinion/news/2024/11/27/university-of-sydney-ai-assessment-policy.html",
+  "title": "University of Sydney's AI assessment policy: protecting integrity in the age of AI (two-lane approach)",
+  "publisher": "University of Sydney",
+  "published_date": "2024-11-27",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "4879a9e5e1c84b51",
+  "file": "raw/international/u-sydney--ai-assessment-policy-two-lane.md"
+ },
+ {
+  "source_url": "https://educational-innovation.sydney.edu.au/teaching@sydney/frequently-asked-questions-about-the-two-lane-approach-to-assessment-in-the-age-of-ai/",
+  "title": "FAQs about the two-lane approach to assessment in the age of AI",
+  "publisher": "University of Sydney (Educational Innovation)",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "b490608af717e953",
+  "file": "raw/international/u-sydney--two-lane-assessment-faq.md"
+ },
+ {
+  "source_url": "https://www.gcc-uk.org/assets/downloads/final-joint-reg-statement-ai-in-education.pdf",
+  "title": "Joint statement from statutory regulators of health and care professionals on AI in education",
+  "publisher": "UK health and care statutory regulators (joint)",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "5fa0046a37de3919",
+  "file": "raw/international/uk-joint-regulators--statement-ai-in-education.md"
+ },
+ {
+  "source_url": "https://ai.utoronto.ca/guidelines/",
+  "title": "Guidelines — Toward an AI-ready University",
+  "publisher": "University of Toronto",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "b8e8c8d5da1bf209",
+  "file": "raw/international/uoft--ai-ready-university-guidelines.md"
+ },
+ {
+  "source_url": "https://www.sgs.utoronto.ca/about/guidance-on-the-use-of-generative-artificial-intelligence/",
+  "title": "Guidance on the Appropriate Use of Generative Artificial Intelligence in Research and Academic Work",
+  "publisher": "University of Toronto School of Graduate Studies",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "a5b594159c00313c",
+  "file": "raw/international/uoft--sgs-guidance-generative-ai.md"
+ },
+ {
+  "source_url": "https://md.utoronto.ca/md-policies-guidelines",
+  "title": "MD Program Policies & Guidelines (index)",
+  "publisher": "University of Toronto Temerty Faculty of Medicine",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "b765b600f2e8b40a",
+  "file": "raw/international/uoft-temerty--md-program-policies-guidelines.md"
+ },
+ {
+  "source_url": "https://www.uva.nl/binaries/content/assets/uva/nl/over-de-uva/over-de-uva/beleid-en-financien/onderwijs/beleidskader_genai_eng_040625.pdf",
+  "title": "Policy framework and guidelines on generative AI in education (English)",
+  "publisher": "University of Amsterdam",
+  "published_date": "2025-06-04",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "62495cf750d3809f",
+  "file": "raw/international/uva--policy-framework-genai-in-education.md"
+ },
+ {
+  "source_url": "https://www.aafp.org/about/policies/ethical-ai",
+  "title": "Ethical Application of Artificial Intelligence in Family Medicine",
+  "publisher": "American Academy of Family Physicians",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "78908217ba4fa4e6",
+  "file": "raw/national-frameworks/aafp--ethical-application-ai-family-medicine.md"
+ },
+ {
   "source_url": "https://www.aamc.org/media/89636/download",
   "title": "Executive Summary: Generative AI in Academic Medicine - 2024 AAMC Medical School IT & SnippIT Survey Insights",
   "publisher": "AAMC Group on Information Resources (GIR)",
@@ -170,6 +670,86 @@
   "sha256": "bf2be8498e564b85"
  },
  {
+  "source_url": "https://www.aap.org/en/practice-management/health-information-technology/artificial-intelligence-in-pediatric-health-care/",
+  "title": "Artificial Intelligence in Pediatric Health Care (AAP AI resource hub)",
+  "publisher": "American Academy of Pediatrics",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "e3addc02dbc91855",
+  "file": "raw/national-frameworks/aap--ai-in-pediatric-health-care.md"
+ },
+ {
+  "source_url": "https://www.acc.org/-/media/Non-Clinical/Files-PDFs-Excel-MS-Word-etc/2025/03/ACC-AI-Action-Plan-RFI-Comments_March-15_final.pdf",
+  "title": "ACC Comments on the Development of an Artificial Intelligence Action Plan (RFI Response)",
+  "publisher": "American College of Cardiology",
+  "published_date": "2025-03-15",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "d8036c0933996bcd",
+  "file": "raw/national-frameworks/acc--ai-action-plan-rfi-comments-2025.md"
+ },
+ {
+  "source_url": "https://www.acgme.org/newsroom/blog/2024/acgme2024-session-summary-the-generative-ai-revolution-and-innovations-and-opportunities-in-medical-education/",
+  "title": "ACGME2024 Session Summary: The Generative AI Revolution and Innovations and Opportunities in Medical Education",
+  "publisher": "ACGME",
+  "published_date": "2024-03-25",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "faf20e352f775a79",
+  "file": "raw/national-frameworks/acgme--genai-revolution-acgme2024-session.md"
+ },
+ {
+  "source_url": "https://www.acgme.org/newsroom/blog/2026/03-march/acgme2026-session-summary-harnessing-ai-in-the-gme-office/",
+  "title": "ACGME2026 Session Summary: Harnessing AI in the GME Office",
+  "publisher": "ACGME",
+  "published_date": "2026-03-19",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "595d979dcd11b86a",
+  "file": "raw/national-frameworks/acgme--harnessing-ai-gme-office-acgme2026.md"
+ },
+ {
+  "source_url": "https://www.acpjournals.org/doi/10.7326/M24-0146",
+  "title": "Artificial Intelligence in the Provision of Health Care: An American College of Physicians Policy Position Paper",
+  "publisher": "American College of Physicians (Annals of Internal Medicine)",
+  "published_date": "2024-06-04",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "eb5662151adca1dd",
+  "file": "raw/national-frameworks/acp--ai-provision-of-health-care-position-paper-2024.md"
+ },
+ {
+  "source_url": "https://www.acpjournals.org/doi/10.7326/ANNALS-26-01792",
+  "title": "Ethics and Professionalism in Artificial Intelligence and Medical Practice: A Position Paper From the American College of Physicians",
+  "publisher": "American College of Physicians (Annals of Internal Medicine)",
+  "published_date": "2026-09-01",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "7339831b0895249b",
+  "file": "raw/national-frameworks/acp--ethics-professionalism-ai-position-paper-2026.md"
+ },
+ {
+  "source_url": "https://gravitas.acr.org/PPTS/DownloadPreviewDocument?DocId=217",
+  "title": "ACR-SIIM Practice Parameter for Imaging Artificial Intelligence (AI)",
+  "publisher": "American College of Radiology / SIIM",
+  "published_date": "2026-05",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "5fd79ad0fdf0000d",
+  "file": "raw/national-frameworks/acr-siim--practice-parameter-imaging-ai.md"
+ },
+ {
+  "source_url": "https://www.ama-assn.org/education/changemeded-initiative/advancing-ai-medical-education-through-ethics-evidence-and-equity",
+  "title": "Advancing AI in medical education through ethics, evidence and equity",
+  "publisher": "American Medical Association",
+  "published_date": "2023-09-21",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "c2d249ad7fed36aa",
+  "file": "raw/national-frameworks/ama--advancing-ai-medical-education-ethics-evidence-equity.md"
+ },
+ {
   "source_url": "https://www.ama-assn.org/press-center/ama-press-releases/ama-adopts-policy-advance-ai-literacy-medical-education",
   "title": "AMA adopts policy to advance AI literacy in medical education",
   "publisher": "American Medical Association",
@@ -190,6 +770,16 @@
   "sha256": "8f685d2b7c902943"
  },
  {
+  "source_url": "https://www.ama-assn.org/education/changemeded-initiative/ai-medical-education",
+  "title": "AI in medical education (AMA ChangeMedEd resource collection)",
+  "publisher": "American Medical Association",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "f8cf0017ad6429c0",
+  "file": "raw/national-frameworks/ama--changemeded-ai-medical-education-resources.md"
+ },
+ {
   "source_url": "https://www.ama-assn.org/system/files/cme-report-4-a19-annotated.pdf",
   "title": "Report 4 of the Council on Medical Education (A-19): Augmented Intelligence in Medical Education (Resolution 317-A-18)",
   "publisher": "American Medical Association",
@@ -198,6 +788,16 @@
   "license": "copyright, fair-use excerpt (PDF saved to pdf/ama--cme-report-4-a19-augmented-intelligence-medical-education.pdf)",
   "file": "raw/national-frameworks/ama--cme-report-4-a19-augmented-intelligence-medical-education.md",
   "sha256": "e8813d88a3580270"
+ },
+ {
+  "source_url": "https://www.ama-assn.org/system/files/ai-educator-guide.pdf",
+  "title": "The Medical Educator's Guide to Projects Leveraging Artificial Intelligence and Learning Analytics",
+  "publisher": "American Medical Association",
+  "published_date": "2025-03",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "ec3b80f697cfde55",
+  "file": "raw/national-frameworks/ama--medical-educators-guide-ai-learning-analytics.md"
  },
  {
   "source_url": "https://media.aofoundation.org/-/media/project/aocd/shared/facultyfocus/2024/ethical-use-of-artificial-intelligence-in-health-professions-education--amee-guide-no-158-pdf.pdf",
@@ -220,6 +820,26 @@
   "sha256": "cf31a296a40776ab"
  },
  {
+  "source_url": "https://www.fsmb.org/siteassets/advocacy/policies/incorporation-of-ai-into-practice.pdf",
+  "title": "Navigating the Responsible and Ethical Incorporation of Artificial Intelligence into Clinical Practice",
+  "publisher": "Federation of State Medical Boards",
+  "published_date": "2024-04",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "619cfe7bf5ac1694",
+  "file": "raw/national-frameworks/fsmb--navigating-responsible-ethical-ai-clinical-practice-report.md"
+ },
+ {
+  "source_url": "https://www.fsmb.org/advocacy/news-releases/fsmb-releases-recommendations-on-the-responsible-and-ethical-incorporation-of-ai-into-clinical-practice/",
+  "title": "FSMB Releases Recommendations on the Responsible and Ethical Incorporation of AI into Clinical Practice",
+  "publisher": "Federation of State Medical Boards",
+  "published_date": "2024-05-02",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "64bd1c3cf2355efe",
+  "file": "raw/national-frameworks/fsmb--recommendations-ethical-ai-clinical-practice.md"
+ },
+ {
   "source_url": "https://lcme.org/wp-content/uploads/2026/03/LCME_LSL_2025_10-8-25_FINAL.pdf",
   "title": "Strategic Re-visioning of the LCME Accreditation Standards (Learn Serve Lead 2025 session, Oct 8 2025)",
   "publisher": "Liaison Committee on Medical Education (LCME)",
@@ -228,6 +848,26 @@
   "license": "copyright, fair-use excerpt (PDF saved to pdf/lcme--strategic-re-visioning-standards-2025.pdf)",
   "file": "raw/national-frameworks/lcme--strategic-re-visioning-standards-2025.md",
   "sha256": "10b80a15d9ec1a2f"
+ },
+ {
+  "source_url": "https://macyfoundation.org/our-grantees/ai-in-med-ed",
+  "title": "Artificial Intelligence in Medical Education: A Grants Program to Advance Innovation in Medical Education",
+  "publisher": "Josiah Macy Jr. Foundation",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "9c381cbb7972839d",
+  "file": "raw/national-frameworks/macy-foundation--ai-in-med-ed-grants-program.md"
+ },
+ {
+  "source_url": "https://www.nbme.org/wp-content/uploads/2024/03/AI_in_Assessment_Executive_Summary-dd5.pdf",
+  "title": "AI in Assessment: Ethics, Innovation and Research - Executive Summary",
+  "publisher": "NBME",
+  "published_date": "2024-03",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "8ad4377d70ead3a0",
+  "file": "raw/national-frameworks/nbme--ai-in-assessment-executive-summary.md"
  },
  {
   "source_url": "https://www.usmle.org/usmle-program-discusses-chatgpt",
@@ -400,6 +1040,36 @@
   "sha256": "11ebbba5b4e456b6"
  },
  {
+  "source_url": "https://clinicianresources.bcm.edu/executive-summaries/navigating-the-ethical-frontiers-of-ai-in-healthcare/",
+  "title": "Navigating the Ethical Frontiers of AI in Healthcare (summary of BCM institutional generative AI guidelines)",
+  "publisher": "Baylor College of Medicine Clinician Resources",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "817dce4305b81261",
+  "file": "raw/us-med-schools/baylor-cm--ethical-frontiers-genai-institutional-guidelines.md"
+ },
+ {
+  "source_url": "https://www.bcm.edu/education/school-of-medicine/m-d-program/student-handbook",
+  "title": "Baylor College of Medicine M.D. Program Student Handbook",
+  "publisher": "Baylor College of Medicine",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "f9d061e3b87a1576",
+  "file": "raw/us-med-schools/baylor-cm--md-student-handbook.md"
+ },
+ {
+  "source_url": "https://cdn.bcm.edu/sites/default/files/2025-05/surgery-clerkship-course-overview-document.pdf",
+  "title": "BCM Surgery Core Clerkship Course Overview Document - AI Guidance for Educators and Learners",
+  "publisher": "Baylor College of Medicine",
+  "published_date": "2025-05",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "e02d98348c05eca3",
+  "file": "raw/us-med-schools/baylor-cm--surgery-clerkship-ai-guidance.pdf.md"
+ },
+ {
   "source_url": "https://medicine.buffalo.edu/offices/ome/current/policies/ai-policy.html",
   "title": "Generative Artificial Intelligence Use Policy for Medical Students in the Medical Curriculum",
   "publisher": "University at Buffalo Jacobs School of Medicine and Biomedical Sciences",
@@ -450,6 +1120,56 @@
   "file": "raw/us-med-schools/columbia-vagelos--university-genai-policy.md"
  },
  {
+  "source_url": "https://www.cuanschutz.edu/offices/iss/ai-hub/using-ai-responsibly",
+  "title": "Using AI Responsibly - AI Hub",
+  "publisher": "University of Colorado Anschutz",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "af2796fc85131857",
+  "file": "raw/us-med-schools/cu-anschutz--using-ai-responsibly.md"
+ },
+ {
+  "source_url": "https://medschool.cuanschutz.edu/education/current-students/support-for-students/policies-procedures-guidelines",
+  "title": "Policies, Procedures & Guidelines incl. Artificial Intelligence (AI) Guidelines of the MD Program",
+  "publisher": "University of Colorado School of Medicine",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "d9b27a72a75d00d4",
+  "file": "raw/us-med-schools/cu-som--md-program-ai-guidelines.md"
+ },
+ {
+  "source_url": "https://case.edu/provost/initiatives/innovation/ai-education/ai-policies",
+  "title": "AI Policies (AI in Education, Office of the Provost)",
+  "publisher": "Case Western Reserve University",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "7e3850bccf442eb3",
+  "file": "raw/us-med-schools/cwru--provost-ai-policies.md"
+ },
+ {
+  "source_url": "https://case.edu/medicine/curriculum/sites/default/files/2024-09/Policy%20on%20Generative%20AI%20%282%29%2024-25.pdf",
+  "title": "Policy on Use of Generative Artificial Intelligence Tools for Medical School Assignments",
+  "publisher": "Case Western Reserve University School of Medicine",
+  "published_date": "2023-08-03",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "16da2fe01ef65afb",
+  "file": "raw/us-med-schools/cwru-som--genai-tools-medical-school-assignments-policy.md"
+ },
+ {
+  "source_url": "https://lib.dmu.edu/ai",
+  "title": "Artificial Intelligence in Education: About Gen AI",
+  "publisher": "Des Moines University",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "3655a240f497fcd3",
+  "file": "raw/us-med-schools/dmu--library-genai-guide.md"
+ },
+ {
   "source_url": "https://ai.duke.edu/ai-resources/guidelines-policies-and-ai-tools/",
   "title": "Guidelines and Tools (AI at Duke)",
   "publisher": "Duke University",
@@ -468,6 +1188,56 @@
   "license": "public web page",
   "sha256": "0c0332a47551ec70",
   "file": "raw/us-med-schools/ecu-brody--responsible-use-of-ai.md"
+ },
+ {
+  "source_url": "https://responsibleai.emory.edu/guidelines/content-generation-and-proofing.html",
+  "title": "AI Content Generation & Proofing Guidelines",
+  "publisher": "Emory University",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "3e064c2439b9bc21",
+  "file": "raw/us-med-schools/emory--ai-content-generation-proofing.md"
+ },
+ {
+  "source_url": "https://responsibleai.emory.edu/",
+  "title": "Responsible AI Guidelines and Principles",
+  "publisher": "Emory University",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "012466890a95b38e",
+  "file": "raw/us-med-schools/emory--responsible-ai-guidelines-principles.md"
+ },
+ {
+  "source_url": "https://policies.dartmouth.edu/policy/guidelines-using-generative-artificial-intelligence-genai-coursework",
+  "title": "Guidelines on using Generative Artificial Intelligence (GenAI) for Coursework",
+  "publisher": "Dartmouth College",
+  "published_date": "2025-09-02",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "32104720f602240f",
+  "file": "raw/us-med-schools/geisel-dartmouth--college-genai-coursework-guidelines.md"
+ },
+ {
+  "source_url": "https://geiselmed.dartmouth.edu/gain/",
+  "title": "Geisel AI Network - GenAI policies and guidance hub",
+  "publisher": "Dartmouth Geisel School of Medicine",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "931a68d8274e92a2",
+  "file": "raw/us-med-schools/geisel-dartmouth--geisel-ai-network.md"
+ },
+ {
+  "source_url": "https://geiselmed.dartmouth.edu/students/pdf/policies/UME-CNTRL-0019.pdf",
+  "title": "Policy for the Use of Generative Artificial Intelligence (GenAI) in Educational Environments (UME-CNTRL-0019)",
+  "publisher": "Dartmouth Geisel School of Medicine",
+  "published_date": "2025-08-20",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "3c93820ee235b14e",
+  "file": "raw/us-med-schools/geisel-dartmouth--genai-educational-environments-policy.pdf.md"
  },
  {
   "source_url": "https://it.hms.harvard.edu/about/policies-and-guidelines/generative-ai",
@@ -520,16 +1290,6 @@
   "file": "raw/us-med-schools/harvard-medical-school--it-genai-guidelines.md"
  },
  {
-  "source_url": "https://provost.harvard.edu/guidelines-using-chatgpt-and-other-generative-ai-tools-harvard",
-  "title": "Guidelines for Using ChatGPT and other Generative AI Tools at Harvard",
-  "publisher": "Harvard University Office of the Provost",
-  "published_date": "unknown",
-  "accessed_date": "2026-09-17",
-  "license": "public web page",
-  "sha256": "7db3a09f8798f765",
-  "file": "raw/us-med-schools/harvard-medical-school--provost-genai-guidelines.md"
- },
- {
   "source_url": "https://www.harvard.edu/ai/work-resources/",
   "title": "Work with Generative AI (Harvard)",
   "publisher": "Harvard University",
@@ -548,6 +1308,16 @@
   "license": "public web page",
   "sha256": "9d4c15afdc2a805f",
   "file": "raw/us-med-schools/harvard-provost--chatgpt-genai-guidelines.md"
+ },
+ {
+  "source_url": "https://icahn.mssm.edu/files/ISMMS/Assets/Education/Student%20Life%20and%20Resources/AI-Policy.pdf",
+  "title": "Icahn School of Medicine at Mount Sinai Policy: Artificial Intelligence",
+  "publisher": "Icahn School of Medicine at Mount Sinai",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "45e5758701479460",
+  "file": "raw/us-med-schools/icahn-mssm--student-ai-policy.md"
  },
  {
   "source_url": "https://genai.jhu.edu/",
@@ -578,6 +1348,86 @@
   "license": "public web page",
   "sha256": "42359ae791019fd9",
   "file": "raw/us-med-schools/johns-hopkins-som--teaching-genai-guidelines.md"
+ },
+ {
+  "source_url": "https://college.mayo.edu/media/mccms/content-assets/academics/health-sciences-training/respiratory-care-program-minnesota/Respiratory-Care-Program-handbook-2026.pdf",
+  "title": "Respiratory Care Program Handbook 2026 (incl. Use of Generative Artificial Intelligence Platforms policy)",
+  "publisher": "Mayo Clinic College of Medicine and Science",
+  "published_date": "2026",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "75ccae6ac61a8132",
+  "file": "raw/us-med-schools/mayo-mccms--respiratory-care-handbook-genai-policy.md"
+ },
+ {
+  "source_url": "https://ethics.msu.edu/gen-ai",
+  "title": "Generative AI - MSU Ethics",
+  "publisher": "Michigan State University",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "d6c71a9a8d788636",
+  "file": "raw/us-med-schools/msu--ethics-genai-overview.md"
+ },
+ {
+  "source_url": "https://ethics.msu.edu/gen-ai/student",
+  "title": "Generative AI - Student Guidance",
+  "publisher": "Michigan State University",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "1a0f7796c212925c",
+  "file": "raw/us-med-schools/msu--ethics-genai-student.md"
+ },
+ {
+  "source_url": "https://www.musc.edu/content-hub/News/2026/09/11/building-trust-in-the-ai-era-musc-creates-acceptable-use-framework",
+  "title": "Building trust in the AI era: MUSC creates Acceptable Use Framework",
+  "publisher": "Medical University of South Carolina",
+  "published_date": "2026-09-11",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "52f08ff5a8acd2c7",
+  "file": "raw/us-med-schools/musc--acceptable-use-framework-announcement.md"
+ },
+ {
+  "source_url": "https://education.musc.edu/content-hub/News/2026/07/20/musc-ai-acceptable-use-framework",
+  "title": "MUSC AI Acceptable Use Framework",
+  "publisher": "Medical University of South Carolina",
+  "published_date": "2026-07-20",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "017d63630d683e50",
+  "file": "raw/us-med-schools/musc--ai-acceptable-use-framework-page.md"
+ },
+ {
+  "source_url": "https://www.marshall.edu/ctl/files/MUSC_AI-Acceptable-Use-Framework-for-Academic-Tasks_UpdatedJuly_2025_PublicSharing.pdf",
+  "title": "AI Acceptable Use Framework for Academic Tasks (public sharing copy)",
+  "publisher": "Medical University of South Carolina",
+  "published_date": "2025-07",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "a7df03741faa847b",
+  "file": "raw/us-med-schools/musc--ai-acceptable-use-framework.pdf-sourced.md"
+ },
+ {
+  "source_url": "https://education.musc.edu/content-hub/News/2024/10/11/musc-ai-initiatives",
+  "title": "MUSC AI in Education Initiatives",
+  "publisher": "Medical University of South Carolina",
+  "published_date": "2024-10-11",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "b0ad9b0cb328169d",
+  "file": "raw/us-med-schools/musc--ai-in-education-initiatives.md"
+ },
+ {
+  "source_url": "https://medicine.musc.edu/programs/doctor-medicine/student-life/policies-guidelines",
+  "title": "College of Medicine Policies, Procedures, & Guidelines",
+  "publisher": "MUSC College of Medicine",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "151f3948db55c3e9",
+  "file": "raw/us-med-schools/musc-com--policies-procedures-guidelines.md"
  },
  {
   "source_url": "https://www.it.northwestern.edu/about/policies/guidance-on-the-use-of-generative-ai.html",
@@ -620,6 +1470,86 @@
   "file": "raw/us-med-schools/nyu-grossman--education-genai-guidelines.md"
  },
  {
+  "source_url": "https://dmice.ohsu.edu/hersh/introcourse-generativeAI-policy.html",
+  "title": "Intro to Biomedical & Health Informatics - Generative AI Course Policy",
+  "publisher": "OHSU (W. Hersh)",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "0dcba4754910f65c",
+  "file": "raw/us-med-schools/ohsu--dmice-course-genai-policy.md"
+ },
+ {
+  "source_url": "https://libguides.ohsu.edu/aiforstudents",
+  "title": "Generative AI: A Student's Guide - Using Generative AI Responsibly",
+  "publisher": "OHSU Library",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "04c340a943b16a1f",
+  "file": "raw/us-med-schools/ohsu--libguides-genai-student-guide.md"
+ },
+ {
+  "source_url": "https://www.ohsu.edu/sites/default/files/2026-02/gme-48-ai-use-in-gme.pdf",
+  "title": "GME-48: AI Use in Graduate Medical Education (School of Medicine Policy)",
+  "publisher": "OHSU School of Medicine",
+  "published_date": "2026-02",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "78d09a48b3e4c881",
+  "file": "raw/us-med-schools/ohsu-som--gme-48-ai-use-in-gme.md"
+ },
+ {
+  "source_url": "https://www.ohsu.edu/sites/default/files/2026-06/pa-program-use-of-ai-policy.pdf",
+  "title": "Policy on Use of Generative Artificial Intelligence (PA Program)",
+  "publisher": "OHSU School of Medicine PA Program",
+  "published_date": "2026-06",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "c6af131a6251be06",
+  "file": "raw/us-med-schools/ohsu-som--pa-program-use-of-genai-policy.md"
+ },
+ {
+  "source_url": "https://ai.osu.edu/resources-buckeyes/responsible-use",
+  "title": "Responsible Use - Artificial Intelligence at Ohio State (student GenAI use rules)",
+  "publisher": "The Ohio State University",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "f2271fea224a4bfa",
+  "file": "raw/us-med-schools/osu-com--ai-responsible-use.md"
+ },
+ {
+  "source_url": "https://medicine.osu.edu/student-resources/student-handbook",
+  "title": "Ohio State College of Medicine Medical Student Handbook",
+  "publisher": "Ohio State College of Medicine",
+  "published_date": "2025-06-18",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "a2822765aa8732c6",
+  "file": "raw/us-med-schools/osu-com--student-handbook.md"
+ },
+ {
+  "source_url": "https://catalog.pcom.edu/gsh/additional-policies/academic-integrity/",
+  "title": "Academic Integrity",
+  "publisher": "Philadelphia College of Osteopathic Medicine",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "44629edb5b052136",
+  "file": "raw/us-med-schools/pcom--academic-integrity-policy.md"
+ },
+ {
+  "source_url": "https://www.pcom.edu/campuses/georgia-campus/news-and-events/ga-pcom-news/how-ai-is-reshaping-osteopathic-medical-education.html",
+  "title": "How AI Is Reshaping Osteopathic Medical Education",
+  "publisher": "PCOM Georgia",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "c35dc603be93d990",
+  "file": "raw/us-med-schools/pcom-georgia--ai-reshaping-osteo-med-ed.md"
+ },
+ {
   "source_url": "https://www.med.upenn.edu/oe/ai-psom/",
   "title": "AI @ PSOM",
   "publisher": "Perelman School of Medicine Office of Organization Effectiveness",
@@ -640,6 +1570,26 @@
   "file": "raw/us-med-schools/perelman-som--ume-genai-policy.md"
  },
  {
+  "source_url": "https://www.omed.pitt.edu/sites/default/files/policy_on_academic_integrity_2023_1.pdf",
+  "title": "UPSOM Policy on Academic Integrity (incl. generative AI provisions)",
+  "publisher": "University of Pittsburgh School of Medicine, Office of Medical Education",
+  "published_date": "2026-03-24",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "871711154733279f",
+  "file": "raw/us-med-schools/pitt-som--academic-integrity-policy-genai.pdf.md"
+ },
+ {
+  "source_url": "https://teaching.pitt.edu/wp-content/uploads/2024/04/Report-Ad-Hoc-Committee-on-GenAI-3-1-24.pdf",
+  "title": "Report of the Ad Hoc Committee on Generative AI: Considerations for Responsible Use and Recommendations",
+  "publisher": "University of Pittsburgh (Teaching Center)",
+  "published_date": "2024-03-01",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "873358ff81a72001",
+  "file": "raw/us-med-schools/pitt-som--adhoc-committee-genai-report.md"
+ },
+ {
   "source_url": "https://laneguides.stanford.edu/medical-education/AI-in-MedEd-Papers",
   "title": "AI in MedEd Papers (curated reference list)",
   "publisher": "Stanford School of Medicine, Lane Library",
@@ -658,6 +1608,66 @@
   "license": "public web page",
   "sha256": "66823dc44e4c5425",
   "file": "raw/us-med-schools/stanford-md--genai-policy-3-32.md"
+ },
+ {
+  "source_url": "https://www.uab.edu/ai/responsible-ai/ai-policies",
+  "title": "AI Policies and Expectations",
+  "publisher": "University of Alabama at Birmingham",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "e12ea6c93f844ec0",
+  "file": "raw/us-med-schools/uab--ai-policies-and-expectations.md"
+ },
+ {
+  "source_url": "https://www.uab.edu/ai/responsible-ai/ai-usage",
+  "title": "AI Usage",
+  "publisher": "University of Alabama at Birmingham",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "40c496a20aea5443",
+  "file": "raw/us-med-schools/uab--ai-usage.md"
+ },
+ {
+  "source_url": "https://www.uab.edu/ai/responsible-ai",
+  "title": "Responsible AI",
+  "publisher": "University of Alabama at Birmingham",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "b137c064ea9f2c42",
+  "file": "raw/us-med-schools/uab--responsible-ai.md"
+ },
+ {
+  "source_url": "https://pritzker.uchicago.edu/academics/academic-policies-procedures",
+  "title": "Pritzker Academic Policies & Procedures (GenAI policy reference)",
+  "publisher": "University of Chicago Pritzker School of Medicine",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "af757dab48d2b404",
+  "file": "raw/us-med-schools/uchicago-pritzker--academic-policies-procedures.md"
+ },
+ {
+  "source_url": "https://pritzker.uchicago.edu/ascend",
+  "title": "ASCEnD - AI policies on responsible AI use in medical education (Pritzker)",
+  "publisher": "University of Chicago Pritzker School of Medicine",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "9509d9fcb98b775e",
+  "file": "raw/us-med-schools/uchicago-pritzker--ascend-ai-education.md"
+ },
+ {
+  "source_url": "https://genai.uchicago.edu/about/generative-ai-guidance",
+  "title": "Generative AI Guidance - University of Chicago",
+  "publisher": "University of Chicago",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "df769d7156b48851",
+  "file": "raw/us-med-schools/uchicago-pritzker--university-genai-guidance.md"
  },
  {
   "source_url": "https://dts.ucla.edu/initiatives/ai/guiding-principles-responsible-use",
@@ -700,6 +1710,56 @@
   "file": "raw/us-med-schools/ucsf-som--pharmd-ai-assessments-policy.md"
  },
  {
+  "source_url": "https://policy.ufl.edu/policy/responsible-use-of-artificial-intelligence/",
+  "title": "Responsible Use of Artificial Intelligence",
+  "publisher": "University of Florida",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "14df8fa5d54f13b3",
+  "file": "raw/us-med-schools/uflorida--responsible-use-of-ai-regulation.md"
+ },
+ {
+  "source_url": "https://med.ufl.edu/artificial-intelligence/",
+  "title": "Artificial Intelligence - College of Medicine",
+  "publisher": "University of Florida College of Medicine",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "a0ce1de58e1f401a",
+  "file": "raw/us-med-schools/uflorida-com--college-of-medicine-ai.md"
+ },
+ {
+  "source_url": "https://osa.med.ufl.edu/policies-procedures/artificial-intelligence/",
+  "title": "Artificial Intelligence - Office of Student Affairs Policies",
+  "publisher": "University of Florida College of Medicine",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "b3186072f560dee0",
+  "file": "raw/us-med-schools/uflorida-com--osa-artificial-intelligence-policy.md"
+ },
+ {
+  "source_url": "https://ai.uiowa.edu/ai-guidance-students",
+  "title": "AI Guidance for Students",
+  "publisher": "The University of Iowa",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "98cea425e603e2d2",
+  "file": "raw/us-med-schools/uiowa--ai-guidance-for-students.md"
+ },
+ {
+  "source_url": "https://its.uiowa.edu/ai-guidelines-and-use-cases",
+  "title": "AI Guidelines and Use Cases",
+  "publisher": "University of Iowa Information Technology Services",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "2519e3ed158c8a07",
+  "file": "raw/us-med-schools/uiowa-its--ai-guidelines-and-use-cases.md"
+ },
+ {
   "source_url": "https://michmed.service-now.com/kb?id=kb_article_view&sysparm_article=KB0036135",
   "title": "Guideline: Acceptable AI Use at the University of Michigan Medical School (KB0036135)",
   "publisher": "Michigan Medicine Knowledge Portal",
@@ -710,6 +1770,56 @@
   "file": "raw/us-med-schools/umich-medical-school--acceptable-ai-use-guideline.md"
  },
  {
+  "source_url": "https://med.umn.edu/md-students/policies-governance/professionalism/intellectual-responsibility",
+  "title": "Medical School Statement of Intellectual Responsibility (AI addendum reference)",
+  "publisher": "University of Minnesota Medical School",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "f872e88479933a5b",
+  "file": "raw/us-med-schools/umn-medical-school--intellectual-responsibility-ai-addendum.md"
+ },
+ {
+  "source_url": "https://it.umn.edu/services-technologies/resources/artificial-intelligence-appropriate-use",
+  "title": "Artificial Intelligence: Appropriate Use of Generative AI Tools",
+  "publisher": "University of Minnesota IT",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "fee151bbf775c7de",
+  "file": "raw/us-med-schools/umn-medical-school--it-appropriate-use-genai-tools.md"
+ },
+ {
+  "source_url": "https://ai.unc.edu/research-generative-ai-usage-guidance/",
+  "title": "Research Generative AI Usage Guidance",
+  "publisher": "University of North Carolina at Chapel Hill",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "9001706e14e6cd96",
+  "file": "raw/us-med-schools/unc--research-genai-usage-guidance.md"
+ },
+ {
+  "source_url": "https://www.med.unc.edu/gmb/wp-content/uploads/sites/1391/2025/01/GMB-Student-Generative-AI-Usage-Guidance-July-2023.pdf",
+  "title": "GMB Student Generative AI Usage Guidance",
+  "publisher": "UNC School of Medicine (Genetics & Molecular Biology)",
+  "published_date": "2023-07",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "9ba7198bb7488e18",
+  "file": "raw/us-med-schools/unc-som--gmb-student-genai-usage-guidance.md"
+ },
+ {
+  "source_url": "https://www.med.unc.edu/md/policies/wp-content/uploads/sites/883/2026/07/OMSE-Artificial-Intelligence-Policy.pdf",
+  "title": "OMSE-SOM Artificial Intelligence Policy",
+  "publisher": "UNC School of Medicine",
+  "published_date": "2026-07",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "262cb3b50f6b833d",
+  "file": "raw/us-med-schools/unc-som--omse-artificial-intelligence-policy.md"
+ },
+ {
   "source_url": "https://keck.usc.edu/md-student-portal/medical-student-use-of-generative-artificial-intelligence-ai-tools-policy/",
   "title": "Medical Student Use of Generative Artificial Intelligence (AI) Tools Policy",
   "publisher": "Keck School of Medicine of USC",
@@ -718,6 +1828,126 @@
   "license": "public web page",
   "sha256": "5697046d47e02fdb",
   "file": "raw/us-med-schools/usc-keck--medical-student-genai-tools-policy.md"
+ },
+ {
+  "source_url": "https://www.utsouthwestern.edu/ai/",
+  "title": "Artificial Intelligence with Meaning",
+  "publisher": "UT Southwestern Medical Center",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "93edad5d3fdf2a38",
+  "file": "raw/us-med-schools/utsouthwestern--ai-with-meaning.md"
+ },
+ {
+  "source_url": "https://utsouthwestern.libguides.com/artificial-intelligence/ai-medical",
+  "title": "AI and Medical/Healthcare Education (Artificial Intelligence Guide)",
+  "publisher": "UT Southwestern Health Sciences Digital Library",
+  "published_date": "2026-09-04",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "30def0f02f5ae4d5",
+  "file": "raw/us-med-schools/utsouthwestern-libguides--ai-medical-healthcare-education.md"
+ },
+ {
+  "source_url": "https://ai.utah.edu/guidelines/",
+  "title": "Guidelines & Policies - Artificial Intelligence",
+  "publisher": "University of Utah",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "7623433cc51dfc97",
+  "file": "raw/us-med-schools/uutah--ai-guidelines-and-policies.md"
+ },
+ {
+  "source_url": "https://ai.utah.edu/guidelines/9.2026.ai.guidelines.pdf",
+  "title": "University of Utah Artificial Intelligence Use Guidelines (Sept 2026)",
+  "publisher": "University of Utah",
+  "published_date": "2026-09",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "56f0b6a65e84e3b7",
+  "file": "raw/us-med-schools/uutah--ai-use-guidelines-2026.md"
+ },
+ {
+  "source_url": "https://ai.utah.edu/guidelines/ai-use-guidelines.php",
+  "title": "Artificial intelligence use guidelines from an IT leadership perspective",
+  "publisher": "University of Utah",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "ad71ed020a3906af",
+  "file": "raw/us-med-schools/uutah--ai-use-guidelines-it-perspective.md"
+ },
+ {
+  "source_url": "https://medicine.utah.edu/student-tools/handbook",
+  "title": "Student Handbook (incl. AI tools clause)",
+  "publisher": "Spencer Fox Eccles School of Medicine, University of Utah",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "10f9b224f9564542",
+  "file": "raw/us-med-schools/uutah-som--student-handbook.md"
+ },
+ {
+  "source_url": "https://med.virginia.edu/policies/uva-school-of-medicine-som-md-program-policy-on-generative-ai/",
+  "title": "UVA School of Medicine (SOM) MD Program Policy on Generative AI",
+  "publisher": "University of Virginia School of Medicine",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "5a865dcc5aa01314",
+  "file": "raw/us-med-schools/uva-som--md-program-genai-policy.md"
+ },
+ {
+  "source_url": "https://it.uw.edu/guides/security-authentication/artificial-intelligence-guidelines/",
+  "title": "Generative Artificial Intelligence General Use Guidelines",
+  "publisher": "University of Washington IT",
+  "published_date": "2026-09-08",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "0c08dd268a6023c3",
+  "file": "raw/us-med-schools/uw--it-genai-general-use-guidelines.md"
+ },
+ {
+  "source_url": "https://sites.uw.edu/uwgme/2026/09/11/uw-medicine-ai-policy/",
+  "title": "UW Medicine AI Policy (GME announcement)",
+  "publisher": "UW Medicine Graduate Medical Education",
+  "published_date": "2026-09-11",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "cc98a97bb6ed0225",
+  "file": "raw/us-med-schools/uw-gme--uw-medicine-ai-policy-announcement.md"
+ },
+ {
+  "source_url": "https://it.wisc.edu/ai/generative-ai-uw-madison-use-policies/",
+  "title": "Generative AI @ UW-Madison: use & policies",
+  "publisher": "UW-Madison Information Technology",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "bc3e949dd01883f2",
+  "file": "raw/us-med-schools/uw-smph--uw-madison-genai-use-policies.md"
+ },
+ {
+  "source_url": "https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/439/2023/11/29200845/Academic-Affairs-Guidance-for-Artificial-Intelligence-Nov-29-2023.pdf",
+  "title": "Academic Affairs Guidance for Artificial Intelligence",
+  "publisher": "Vanderbilt University Academic Affairs",
+  "published_date": "2023-11-29",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "c49c2ed7aa93cee3",
+  "file": "raw/us-med-schools/vanderbilt-som--academic-affairs-ai-guidance.pdf.md"
+ },
+ {
+  "source_url": "https://www.vanderbilt.edu/generative-ai/students/",
+  "title": "Generative AI - Students guidance (applies to Vanderbilt medical students)",
+  "publisher": "Vanderbilt University",
+  "published_date": "unknown",
+  "accessed_date": "2026-09-17",
+  "license": "public web page",
+  "sha256": "8c5f8a12f60fe4fb",
+  "file": "raw/us-med-schools/vanderbilt-som--genai-students-guidance.md"
  },
  {
   "source_url": "https://education.med.wustl.edu/washu-addresses-ai-technology/",

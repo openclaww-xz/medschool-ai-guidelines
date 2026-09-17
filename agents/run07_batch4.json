@@ -1,0 +1,5 @@
+[
+  {"url": "https://www.bcm.edu/education/school-of-medicine/m-d-program/student-handbook", "title": "Baylor College of Medicine M.D. Program Student Handbook", "publisher": "Baylor College of Medicine", "pubdate": "unknown", "out": "raw/us-med-schools/baylor-cm--md-student-handbook.md"},
+  {"url": "https://sites.uw.edu/uwgme/2026/09/11/uw-medicine-ai-policy/", "title": "UW Medicine AI Policy announcement (GME)", "publisher": "UW Graduate Medical Education", "pubdate": "2026-09-11", "out": "raw/health-systems/uw-medicine--ai-policy-gme-announcement.md"},
+  {"url": "https://depts.washington.edu/comply/docs/comp_308.pdf", "title": "COMP.308 UW Medicine Use of AI", "publisher": "UW Medicine Compliance", "pubdate": "unknown", "out": "raw/health-systems/uw-medicine--comp308-use-of-ai.pdf.md"}
+]

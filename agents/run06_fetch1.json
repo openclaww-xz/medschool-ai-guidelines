@@ -1,0 +1,176 @@
+[
+ {
+  "url": "https://case.edu/medicine/curriculum/sites/default/files/2024-09/Policy%20on%20Generative%20AI%20%282%29%2024-25.pdf",
+  "path": "raw/us-med-schools/cwru-som--genai-tools-medical-school-assignments-policy.md",
+  "ok": true,
+  "len": 2440,
+  "sha256": "16da2fe01ef65afb7f0435ee8499c317d26933cd2de27d7a9af2a623faa739e0",
+  "pdf": "pdf/cwru-som--genai-tools-medical-school-assignments-policy.pdf"
+ },
+ {
+  "url": "https://case.edu/provost/initiatives/innovation/ai-education/ai-policies",
+  "path": "raw/us-med-schools/cwru--provost-ai-policies.md",
+  "ok": true,
+  "len": 3531,
+  "sha256": "7e3850bccf442eb3b5f21f4b9c474abc5c831c884801f6b26720ba0e1f7bdc8d",
+  "pdf": null
+ },
+ {
+  "url": "https://case.edu/ai/governance-policies",
+  "path": "raw/us-med-schools/cwru--ai-governance-policies.md",
+  "ok": true,
+  "len": 3531,
+  "sha256": "eeaa98f26f02de51c0135c383ba64bdca128a8447d1c9daba67857024612da41",
+  "pdf": null
+ },
+ {
+  "url": "https://libraryguides.mayo.edu/generative-artificial_intelligence",
+  "path": "raw/health-systems/mayo-clinic--genai-tools-overview.md",
+  "ok": true,
+  "len": 336,
+  "sha256": "414e6be4e1d8f72786421e433f499578925ef4a7cf99c60dd2613b95c1bf3fca",
+  "pdf": null
+ },
+ {
+  "url": "https://libraryguides.mayo.edu/AI",
+  "path": "raw/health-systems/mayo-clinic--clinical-ai-resources-guide.md",
+  "ok": true,
+  "len": 42090,
+  "sha256": "4ac3b688e07772025b8ca5f396017fda6c7f45d2c582c7f9621b4269eae7a4c7",
+  "pdf": null
+ },
+ {
+  "url": "https://www.utsouthwestern.edu/ai/",
+  "path": "raw/us-med-schools/utsouthwestern--ai-with-meaning.md",
+  "ok": true,
+  "len": 2772,
+  "sha256": "93edad5d3fdf2a38da97e6f525b7e2490b709b67bb765acfc76641d667abedb3",
+  "pdf": null
+ },
+ {
+  "url": "https://www.utsouthwestern.edu/ai/tools/",
+  "path": "raw/health-systems/utsouthwestern--ai-tools.md",
+  "ok": true,
+  "len": 3990,
+  "sha256": "b720f3cb98adabcf599a4831aa491ec55545028f628d1755a0ff93bfc2a9aa40",
+  "pdf": null
+ },
+ {
+  "url": "https://utsouthwestern.libguides.com/artificial-intelligence/ai-medical",
+  "path": "raw/us-med-schools/utsouthwestern-libguides--ai-medical-healthcare-education.md",
+  "ok": true,
+  "len": 720,
+  "sha256": "72651e5506bde3549b7c51ae33951d348200141108aa6c8190be5cac32ab7e90",
+  "pdf": null
+ },
+ {
+  "url": "https://icahn.mssm.edu/files/ISMMS/Assets/Education/Student%20Life%20and%20Resources/AI-Policy.pdf",
+  "path": "raw/us-med-schools/icahn-mssm--student-ai-policy.md",
+  "ok": false,
+  "reason": "HTTPError('403 Client Error: Forbidden for url: https://icahn.mssm.edu/files/ISMMS/Assets/Education/Student%20Life%20and%20Resources/AI-Policy.pdf')"
+ },
+ {
+  "url": "https://icahn.mssm.edu/about/artificial-intelligence/safety",
+  "path": "raw/health-systems/mount-sinai--ai-governance-and-safety.md",
+  "ok": false,
+  "reason": "HTTPError('403 Client Error: Forbidden for url: https://icahn.mssm.edu/about/artificial-intelligence/safety')"
+ },
+ {
+  "url": "https://labs.icahn.mssm.edu/minervalab/wp-content/uploads/sites/342/2025/03/MSHS-AI-Implementation-and-Use-Policy.pdf",
+  "path": "raw/health-systems/mount-sinai-health-system--ai-implementation-and-use-policy.md",
+  "ok": false,
+  "reason": "HTTPError('403 Client Error: Forbidden for url: https://labs.icahn.mssm.edu/minervalab/wp-content/uploads/sites/342/2025/03/MSHS-AI-Implementation-and-Use-Policy.pdf')"
+ },
+ {
+  "url": "https://icahn.mssm.edu/files/MSHealth/Assets/HS/AI%20at%20Mount%20Sinai/AI-Idea-Intake-Form-Process.pdf",
+  "path": "raw/health-systems/mount-sinai--dtp-ai-idea-intake-process.md",
+  "ok": false,
+  "reason": "HTTPError('403 Client Error: Forbidden for url: https://icahn.mssm.edu/files/MSHealth/Assets/HS/AI%20at%20Mount%20Sinai/AI-Idea-Intake-Form-Process.pdf')"
+ },
+ {
+  "url": "https://responsibleai.emory.edu/",
+  "path": "raw/us-med-schools/emory--responsible-ai-guidelines-principles.md",
+  "ok": true,
+  "len": 5122,
+  "sha256": "012466890a95b38eb7585e90ac8c1edc996dc50fa24530634958ccbca7ffe6c9",
+  "pdf": null
+ },
+ {
+  "url": "https://responsibleai.emory.edu/guidelines/content-generation-and-proofing.html",
+  "path": "raw/us-med-schools/emory--ai-content-generation-proofing.md",
+  "ok": true,
+  "len": 4834,
+  "sha256": "3e064c2439b9bc21f74f81fc01d78d4a24f89448b5e9e38bdcb60b08afc9cbcf",
+  "pdf": null
+ },
+ {
+  "url": "https://med.virginia.edu/policies/uva-school-of-medicine-som-md-program-policy-on-generative-ai/",
+  "path": "raw/us-med-schools/uva-som--md-program-genai-policy.md",
+  "ok": true,
+  "len": 7487,
+  "sha256": "5a865dcc5aa0131466cb488c8088f857959271bb40f9595cd0acf7635ce1c1d6",
+  "pdf": null
+ },
+ {
+  "url": "https://www.med.unc.edu/md/policies/wp-content/uploads/sites/883/2026/07/OMSE-Artificial-Intelligence-Policy.pdf",
+  "path": "raw/us-med-schools/unc-som--omse-artificial-intelligence-policy.md",
+  "ok": true,
+  "len": 8762,
+  "sha256": "262cb3b50f6b833de7d73ff9f55f1f79e595fc19a554d6b6f453568c36997462",
+  "pdf": "pdf/unc-som--omse-artificial-intelligence-policy.pdf"
+ },
+ {
+  "url": "https://www.med.unc.edu/gmb/wp-content/uploads/sites/1391/2025/01/GMB-Student-Generative-AI-Usage-Guidance-July-2023.pdf",
+  "path": "raw/us-med-schools/unc-som--gmb-student-genai-usage-guidance.md",
+  "ok": true,
+  "len": 11088,
+  "sha256": "9ba7198bb7488e181bb6b69b6b2adf98458cd3f3176cfeadc7de8fff96d8c30e",
+  "pdf": "pdf/unc-som--gmb-student-genai-usage-guidance.pdf"
+ },
+ {
+  "url": "https://ai.unc.edu/research-generative-ai-usage-guidance/",
+  "path": "raw/us-med-schools/unc--research-genai-usage-guidance.md",
+  "ok": true,
+  "len": 13785,
+  "sha256": "9001706e14e6cd96c847349063b82f820b5bda9b92111eba5b71af96d7948a04",
+  "pdf": null
+ },
+ {
+  "url": "https://sites.uw.edu/uwgme/ai/",
+  "path": "raw/us-med-schools/uw-gme--ai-guidelines-residency-fellowship-applications.md",
+  "ok": true,
+  "len": 14692,
+  "sha256": "d50be9893fa6ac8d8fbb894740b8dcb7d01af06635a146e6b62d9d24bb795a12",
+  "pdf": null
+ },
+ {
+  "url": "https://sites.uw.edu/uwgme/2026/09/11/uw-medicine-ai-policy/",
+  "path": "raw/us-med-schools/uw-gme--uw-medicine-ai-policy-announcement.md",
+  "ok": true,
+  "len": 5739,
+  "sha256": "cc98a97bb6ed0225a737ebaee62d4a0567780343050eae54a5072cad4e515747",
+  "pdf": null
+ },
+ {
+  "url": "https://depts.washington.edu/comply/docs/comp_308.pdf",
+  "path": "raw/health-systems/uw-medicine--comp308-use-of-ai.md",
+  "ok": true,
+  "len": 19553,
+  "sha256": "b72e987aa9e3ba786aad2cbd99331523cd53fae444cd062c6df13bbcda0d0a5a",
+  "pdf": "pdf/uw-medicine--comp308-use-of-ai.pdf"
+ },
+ {
+  "url": "https://depts.washington.edu/comply/ai-in-healthcare/",
+  "path": "raw/health-systems/uw-medicine--ai-in-healthcare-policy.md",
+  "ok": true,
+  "len": 406,
+  "sha256": "8f4547352d3b91c99c1e83637ad6c9457b438ec2b63074e843ae64ff8a926da2",
+  "pdf": null
+ },
+ {
+  "url": "https://www.uth.edu/councils/topical/itgc/ai-advisory/",
+  "path": "raw/health-systems/uth-health--ai-advisory-subcommittee.md",
+  "ok": false,
+  "reason": "HTTPError('403 Client Error: Forbidden for url: https://www.uth.edu/councils/topical/itgc/ai-advisory/')"
+ }
+]

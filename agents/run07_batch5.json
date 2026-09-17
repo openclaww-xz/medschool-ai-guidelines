@@ -1,0 +1,5 @@
+[
+  {"url": "https://www.umed.wisc.edu/", "title": "UW SMPH Office of Medical Education (AI policy probe)", "publisher": "UW School of Medicine and Public Health", "pubdate": "unknown", "out": "raw/us-med-schools/uw-smph--ome-probe.md"},
+  {"url": "https://www.medicine.osu.edu/student-resources/student-handbook", "title": "Ohio State College of Medicine Medical Student Handbook (AI policy probe)", "publisher": "Ohio State College of Medicine", "pubdate": "2025-06-18", "out": "raw/us-med-schools/osu-com--student-handbook.md"},
+  {"url": "https://news.vumc.org/2024/01/05/artificial-intelligence-advances-work-in-vumcs-clinical-and-research-settings/", "title": "AI advances work in VUMC's clinical and research settings (DAX Copilot, aiChat governance)", "publisher": "Vanderbilt University Medical Center", "pubdate": "2024-01-05", "out": "raw/health-systems/vumc--clinical-research-ai-advances.md"}
+]

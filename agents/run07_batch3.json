@@ -1,0 +1,6 @@
+[
+  {"url": "https://medchiefs.bsd.uchicago.edu/resources/clinical-ai-use-policy/", "title": "Clinical AI Use Policy - UChicago Internal Medicine Residency Program (AI/Abridge)", "publisher": "University of Chicago Medicine Internal Medicine Residency Program", "pubdate": "unknown", "out": "raw/health-systems/uchicago-medicine--im-residency-clinical-ai-use-policy.md"},
+  {"url": "https://news.vumc.org/2023/06/27/vumc-statement-on-the-use-of-generative-ai/", "title": "VUMC statement on the use of generative AI", "publisher": "Vanderbilt University Medical Center", "pubdate": "2023-06-27", "out": "raw/health-systems/vumc--statement-on-generative-ai.md"},
+  {"url": "https://www.vumc.org/dbmi/GenerativeAI", "title": "Generative AI at VUMC - tools, governance and permitted data use", "publisher": "VUMC Department of Biomedical Informatics", "pubdate": "unknown", "out": "raw/health-systems/vumc--dbmi-generative-ai-tools.md"},
+  {"url": "https://www.dartmouth-health.org/articles/will-ai-scribe-improve-your-doctor-visit", "title": "Will an AI Scribe Improve Your Doctor Visit? (Dartmouth Health ambient AI consent and documentation practices)", "publisher": "Dartmouth Health", "pubdate": "unknown", "out": "raw/health-systems/dartmouth-hitchcock--ambient-ai-scribe-consent-practices.md"}
+]

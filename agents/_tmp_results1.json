@@ -1,0 +1,146 @@
+[
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/johns-hopkins-medicine--genai-responsible-use-guidelines.md",
+  "len": 1128,
+  "sha256": "0ff8f8586bf3d3b931d5798515d52951e182f456e3018c5809d8d9dca5896337",
+  "pdf": null,
+  "url": "https://it.johnshopkins.edu/featured-articles/new-guidelines-for-responsible-use-of-generative-ai/"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/johns-hopkins-medicine--generative-ai-what-faculty-need-to-know.md",
+  "len": 2420,
+  "sha256": "ec4419a4d85b0acc2a8e638f177935f8d34006ac26edab75b04ee299d9e9f73e",
+  "pdf": null,
+  "url": "https://medicine-matters.blogs.hopkinsmedicine.org/2026/05/generative-ai-at-johns-hopkins-what-faculty-need-to-know/"
+ },
+ {
+  "ok": false,
+  "path": "raw/us-med-schools/johns-hopkins-som--teaching-genai-guidelines.md",
+  "reason": "HTTPError: 403 Client Error: Forbidden for url: https://teaching.jhu.edu/university-teaching-policies/generative-ai/guidelines/",
+  "url": "https://teaching.jhu.edu/university-teaching-policies/generative-ai/guidelines/"
+ },
+ {
+  "ok": false,
+  "path": "raw/us-med-schools/johns-hopkins-som--genai-hub.md",
+  "reason": "HTTPError: 403 Client Error: Forbidden for url: https://genai.jhu.edu/",
+  "url": "https://genai.jhu.edu/"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/perelman-som--ume-genai-policy.md",
+  "len": 14236,
+  "sha256": "75fd4c26b0cef19d6fd4ae86a3e0945031934b909ea93d9383020678a5b88f8c",
+  "pdf": "/Users/openclaw/git/medschool-ai-guidelines/pdf/perelman-som--ume-genai-policy.pdf",
+  "url": "https://www.med.upenn.edu/student/assets/user-content/documents/policies/ume-policy-for-use-of-genai.ume.ac.119.pdf"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/perelman-som--ume-genai-policy-page.md",
+  "len": 284,
+  "sha256": "363469902fa1a7bd40021674128e2e28af5f3a7e3799651d91a7c603c785d328",
+  "pdf": null,
+  "url": "https://www.med.upenn.edu/student/ume-policy-on-use-of-genai.html"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/penn-medicine--upenn-genai-guidance.md",
+  "len": 5402,
+  "sha256": "be7e05c10b0698bc7c66f1391f2f9d81608f2fa2acf660cd7cd46d73bb747878",
+  "pdf": null,
+  "url": "https://almanac.upenn.edu/articles/of-record-guidance-for-the-university-of-pennsylvania-community-on-use-of-generative-artificial-intelligence"
+ },
+ {
+  "ok": false,
+  "path": "raw/us-med-schools/columbia-vagelos--university-genai-policy.md",
+  "reason": "HTTPError: 403 Client Error: Forbidden for url: https://provost.columbia.edu/content/office-senior-vice-provost/ai-policy",
+  "url": "https://provost.columbia.edu/content/office-senior-vice-provost/ai-policy"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/cuimc--ai-and-generative-technology-use.md",
+  "len": 12646,
+  "sha256": "7eca73d8d93f71edaf358bbb2e4fe8676349aee97b4f5ab44c6e242a15e6923c",
+  "pdf": null,
+  "url": "https://www.it.cuimc.columbia.edu/ai-and-generative-technology-use-cuimc"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/columbia-vagelos--plagiarism-misrepresentation-policy.md",
+  "len": 2975,
+  "sha256": "4970e56828cf93faa1a35202c2047d2824c01a87f4f72ae8abf48fa366032e52",
+  "pdf": null,
+  "url": "https://www.vagelos.columbia.edu/education/student-resources/honor-code-and-policies/vp-s-student-policies/plagiarism-and-misrepresentation"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/columbia-vagelos--ai-vps-initiative.md",
+  "len": 3237,
+  "sha256": "1d3fca10daaf2d4c96e727e9184eb03040dddf8bfe477dd3ee84d94bf8573aa0",
+  "pdf": null,
+  "url": "https://www.vagelos.columbia.edu/departments-centers/ai-vp-s-initiative"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/ucsf-som--bridges-curriculum-genai-usage-policy.md",
+  "len": 3621,
+  "sha256": "8d34579d3135f3c5ea183dbdcd3225b1df76e34c9e00e2134a8e3305af59c8b6",
+  "pdf": null,
+  "url": "https://meded.ucsf.edu/policies-procedures/bridges-curriculum-generative-artificial-intelligence-usage-policy"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/ucsf-health--ai-governance-guidance-policy.md",
+  "len": 868,
+  "sha256": "f8588cf7e09322e92d3cb2a6a1c3a9a3f5ae3fe693b8a55f161d2e548865f1e5",
+  "pdf": null,
+  "url": "https://ai.ucsf.edu/governance-guidance-and-policy"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/ucsf-health--approved-ai-tools-directory.md",
+  "len": 514,
+  "sha256": "c2f960a76d8674bd97626b6bd277d31811dd41413b8f7a0980d749acbcee4ea0",
+  "pdf": null,
+  "url": "https://ai.ucsf.edu/ucsf-approved-ai-tools-directory-and-guidelines"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/ucla-dgsom--genai-applications-policy.md",
+  "len": 2733,
+  "sha256": "a08af0925f6155f8385f88e9ab9d0a6d6c53e82b61d1f208e4f325d880dff32b",
+  "pdf": null,
+  "url": "https://cch.ucla.edu/25-416-generative/"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/health-systems/ucla-health--ai-council.md",
+  "len": 4476,
+  "sha256": "2bb35b06bd1825980a6f699db4aa208d8270fd6334b70b1debb6f33ba80bc4f9",
+  "pdf": null,
+  "url": "https://www.uclahealth.org/health-ai/ucla-health-ai-council-haic"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/ucla-dgsom--responsible-use-principles.md",
+  "len": 5173,
+  "sha256": "8d77ee86339247b294d198f0d9914857ad58b9c7ea9d8c418f50d3b53d634bfc",
+  "pdf": null,
+  "url": "https://dts.ucla.edu/initiatives/ai/guiding-principles-responsible-use"
+ },
+ {
+  "ok": false,
+  "path": "raw/us-med-schools/harvard-medical-school--provost-genai-guidelines.md",
+  "reason": "HTTPError: 403 Client Error: Forbidden for url: https://provost.harvard.edu/guidelines-using-chatgpt-and-other-generative-ai-tools-harvard",
+  "url": "https://provost.harvard.edu/guidelines-using-chatgpt-and-other-generative-ai-tools-harvard"
+ },
+ {
+  "ok": true,
+  "path": "/Users/openclaw/git/medschool-ai-guidelines/raw/us-med-schools/harvard-medical-school--ari-ai-in-research.md",
+  "len": 2489,
+  "sha256": "270ad33930158d4d222e237660d7bcc34186da5ffbc76e60f31f76867753b1ae",
+  "pdf": null,
+  "url": "https://ari.hms.harvard.edu/ai-research"
+ }
+]
